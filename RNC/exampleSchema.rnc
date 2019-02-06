@@ -8,24 +8,33 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = ulysses 
 
 #Accounting for the fact that dialogue may exist outside of the paragraph. 
-ulysses = element ulysses{(paragraph | said)+}
-
+ulysses = element ulysses{(section | chapter | paragraph | said)+}
+section = element section{sectionName, empty}
+sectionName = attribute sectionName{"The Telemachiad" | "The Wanderings of Ulysses" | "The Homecoming"}
+chapter = element chapter{chapterName, empty}
+chapterName = attribute chapterName{text}
 #The paragraph contains information about various references, including literary allusions and locations.
 #There are probably other types of references that we could include, and so this is an element that could be revised.
 #Also looking at the people operating in a paragraph, who is saying things, and what they have said. 
-paragraph = element paragraph{mixed{location | litAllus | person | event | speaker | said | reference | vocab}+}
+paragraph = element paragraph{n, mixed{location | allusion | person | event | speaker | said | reference | vocab}+}
 
+#We want to link each reference (allusion, person, event, etc.) to the paragraph in which it occurs. 
+#We do that with n. 
+n = attribute n{xsd:integer}
 #Add lat and long attributes later.
-location = element location{mixed{address}}
-address = element address{text}
-litAllus = element litAllus{mixed{to}}
+location = element location{n, locRef, (place | mixed{address})}
+place = attribute place{text}
+locRef = attribute locRef{xsd:integer}
+address = element address{mixed{street}}
+street = element street{text}
+allusion = element allusion{n, locRef, to, text}
 to = attribute to {text}
-person = element person{mixed{name}}
-name = attribute name{text}
-event = element event{mixed{date | location}}
+person = element person{n, locRef, mixed{persName}}
+persName = attribute persName{text}
+event = element event{n, locRef, mixed{date | location}}
 date = attribute date{xsd:date}
-speaker = element speaker{name}
-said = element said{(speaker | name)+}
-reference = element reference{mixed{meaning}}
+speaker = element speaker{mixed{persName}}
+said = element said{mixed{persName}}
+reference = element reference{n, locRef, mixed{meaning}}
 meaning = attribute meaning{text}
 vocab = element vocab{mixed{meaning}}
