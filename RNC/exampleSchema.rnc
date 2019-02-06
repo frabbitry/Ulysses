@@ -1,0 +1,31 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+#This is a super, super basic schema that definitely can be added to and revised. More will be coming after more
+#information about mapping procedures is obtained. Also looking into TEI standards to look at TEI elements 
+#we could borrow from. 
+
+#Root element
+start = ulysses 
+
+#Accounting for the fact that dialogue may exist outside of the paragraph. 
+ulysses = element ulysses{(paragraph | said)+}
+
+#The paragraph contains information about various references, including literary allusions and locations.
+#There are probably other types of references that we could include, and so this is an element that could be revised.
+#Also looking at the people operating in a paragraph, who is saying things, and what they have said. 
+paragraph = element paragraph{mixed{location | litAllus | person | event | speaker | said | reference | vocab}+}
+
+#Add lat and long attributes later.
+location = element location{mixed{address}}
+address = element address{text}
+litAllus = element litAllus{mixed{to}}
+to = attribute to {text}
+person = element person{mixed{name}}
+name = attribute name{text}
+event = element event{mixed{date | location}}
+date = attribute date{xsd:date}
+speaker = element speaker{name}
+said = element said{(speaker | name)+}
+reference = element reference{mixed{meaning}}
+meaning = attribute meaning{text}
+vocab = element vocab{mixed{meaning}}
