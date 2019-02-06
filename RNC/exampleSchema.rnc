@@ -22,8 +22,7 @@ paragraph = element paragraph{n, mixed{location | allusion | person | event | sp
 #We do that with n. 
 n = attribute n{xsd:integer}
 #Add lat and long attributes later.
-location = element location{n, locRef, (place | mixed{address})}
-place = attribute place{text}
+location = element location{n, locRef, mixed{address}}
 locRef = attribute locRef{xsd:integer}
 address = element address{mixed{street}}
 street = element street{text}

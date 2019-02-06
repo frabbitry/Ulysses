@@ -14,11 +14,11 @@
 <said persName = "Stephen">—Very good. Where?</said>
 
 <paragraph n = "1">The boy’s blank face asked the blank window.
-<location n = "1" locRef = "1" place = "Dalkey, Dublin Bay"/>
-<allusion n = "1" locRef = "1">Fabled by the daughters of memory</allusion>. And yet it was in some way if not as
-memory fabled it. A phrase, then, of impatience, thud of Blake’s wings
-of excess. I hear the ruin of all space, shattered glass and toppling
-masonry, and time one livid final flame. What’s left us then?</paragraph>
+<location n = "1" locRef = "1"><address><street>Dalkey, Dublin Bay</street></address></location>
+<allusion n = "1" locRef = "1" to = "William Blake">Fabled by the daughters of memory</allusion>. And yet it was in some way if not as
+memory fabled it. A phrase, then, of impatience, thud of <allusion n = "1" locRef="1" to = "William Blake">Blake’s wings
+of excess.</allusion> <allusion n = "1" locRef="1" to = "William Blake">I hear the ruin of all space, shattered glass and toppling
+masonry, and time one livid final flame.</allusion> What’s left us then?</paragraph>
 
 <!--—I forget the place, sir. 279 B. C.
 
