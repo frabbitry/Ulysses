@@ -1,110 +1,109 @@
-﻿<?xml-model href="../../RNC/exampleSchema.rnc" type="application/relax-ng-compact-syntax"?>
+﻿
+<?xml-model href="../GitHub/Fiona-Repo/exampleSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <ulysses>
 <section sectionName = "The Telemachiad"/>
      <chapter chapterName="Nestor"/>
 
-<said persName = "Stephen">—You, Cochrane, what city sent for him?</said>
+<!--<said persName = "Stephen"><said>—You, Cochrane, what city sent for him?</said></said>
 
-<said persName = "class">—Tarentum, sir.</said>
+<said persName = "class"><said>—Tarentum, sir.</said></said>
 
-<said persName = "Stephen">—Very good. Well?</said>
+<said persName = "Stephen"><said>—Very good. Well?</said></said>
 
-<said persName = "class">—There was a battle, sir.</said>
+<said persName = "class"><said>—There was a battle, sir.</said></said>
 
-<said persName = "Stephen">—Very good. Where?</said>
+<said persName = "Stephen"><said>—Very good. Where?</said></said>
 
-<paragraph n = "1"><speaker persName = "Stephen">The boy’s blank face asked the blank window.
-<location n = "1" locRef = "1"><address><street>Dalkey, Dublin Bay</street></address></location>
-<allusion n = "1" locRef = "1" to = "William Blake">Fabled by the daughters of memory</allusion>. And yet it was in some way if not as
-memory fabled it. A phrase, then, of impatience, thud of <allusion n = "1" locRef="1" to = "William Blake">Blake’s wings
-of excess.</allusion> <allusion n = "1" locRef="1" to = "William Blake">I hear the ruin of all space, shattered glass and toppling
-masonry, and time one livid final flame.</allusion> What’s left us then?</speaker></paragraph>
+<paragraph ><speaker persName = "Stephen">The boy’s blank face asked the blank window.
+<location  locRef = "1"><address><street>Dalkey, Dublin Bay</street></address></location>
+<allusion  locRef = "1" to = "William Blake">Fabled by the daughters of memory</allusion>. And yet it was in some way if not as
+memory fabled it. A phrase, then, of impatience, thud of <allusion  locRef="1" to = "William Blake">Blake’s wings
+of excess.</allusion> <allusion  locRef="1" to = "William Blake">I hear the ruin of all space, shattered glass and toppling
+masonry, and time one livid final flame.</allusion> What’s left us then?</speaker></paragraph>-->
 
-<!--—I forget the place, sir. 279 B. C.
+<said persName = "class">—I forget the place, sir. 279 B. C.</said>
 
-—Asculum, Stephen said, glancing at the name and date in the
-gorescarred book.
+<said persName = "Stephen">—Asculum, Stephen said, glancing at the name and date in the
+gorescarred book.</said>
 
-—Yes, sir. And he said: _Another victory like that and we are done
-for._
+<said persName = "class">—Yes, sir. And he said: <allusion  locRef = "1" to = "Pyrrhus">_Another victory like that and we are done
+for.</allusion>_</said>
 
-That phrase the world had remembered. A dull ease of the mind. From a
+<paragraph ><speaker persName = "Stephen">That phrase the world had remembered. A dull ease of the mind. From a
 hill above a corpsestrewn plain a general speaking to his officers,
-leaned upon his spear. Any general to any officers. They lend ear.
+leaned upon his spear. Any general to any officers. They lend ear.</speaker></paragraph>
 
-—You, Armstrong, Stephen said. What was the end of Pyrrhus?
+<said persName = "Stephen">—You, Armstrong, Stephen said. What was the end of Pyrrhus?</said>
 
-—End of Pyrrhus, sir?
+<said persName = "Armstrong"><allusion  locRef = "1" to = "Pyrrhus">—End of Pyrrhus, sir?</allusion></said>
 
-—I know, sir. Ask me, sir, Comyn said.
+<said persName = "Comyn">—I know, sir. Ask me, sir, <reference  locRef="1" meaning = "ScottishFamily">Comyn</reference> said.</said>
 
-—Wait. You, Armstrong. Do you know anything about Pyrrhus?
+<said persName = "Stephen">—Wait. You, Armstrong. Do you know anything about Pyrrhus?</said>
 
-A bag of figrolls lay snugly in Armstrong’s satchel. He curled them
+<paragraph>A bag of figrolls lay snugly in Armstrong’s satchel. He curled them
 between his palms at whiles and swallowed them softly. Crumbs adhered
 to the tissue of his lips. A sweetened boy’s breath. Welloff people,
-proud that their eldest son was in the navy. Vico Road, Dalkey.
+proud that their eldest son was in the navy. <reference  locRef="1" meaning = "ItalianPhilosopher">Vico Road, Dalkey.</reference></paragraph>
 
-—Pyrrhus, sir? Pyrrhus, a pier.
+<said persName = "Armstrong">—Pyrrhus, sir? Pyrrhus, a pier.</said>
 
-All laughed. Mirthless high malicious laughter. Armstrong looked round
+<paragraph>All laughed. Mirthless high malicious laughter. Armstrong looked round
 at his classmates, silly glee in profile. In a moment they will laugh
-more loudly, aware of my lack of rule and of the fees their papas pay.
+more loudly, aware of my lack of rule and of the fees their papas pay.</paragraph>
 
-—Tell me now, Stephen said, poking the boy’s shoulder with the book,
-what is a pier.
+<said persName = "Stephen">—Tell me now, Stephen said, poking the boy’s shoulder with the book,hat is a pier.</said>
 
-—A pier, sir, Armstrong said. A thing out in the water. A kind of a
-bridge. Kingstown pier, sir.
+<said persName = "Armstrong">—A pier, sir, Armstrong said. A thing out in the water. A kind of aridge. <location locRef = "2"><address><street>Kingstown pier</street></address></location>, sir.</said>
 
-Some laughed again: mirthless but with meaning. Two in the back bench
+<paragraph>Some laughed again: mirthless but with meaning. Two in the back bench
 whispered. Yes. They knew: had never learned nor ever been innocent.
 All. With envy he watched their faces: Edith, Ethel, Gerty, Lily. Their
 likes: their breaths, too, sweetened with tea and jam, their bracelets
-tittering in the struggle.
+tittering in the struggle.</paragraph>
 
-—Kingstown pier, Stephen said. Yes, a disappointed bridge.
+<said persName = "Stephen">—Kingstown pier, Stephen said. Yes, a disappointed bridge.</said>
 
-The words troubled their gaze.
+<paragraph>The words troubled their gaze.</paragraph>
 
-—How, sir? Comyn asked. A bridge is across a river.
+<said persName = "Comyn">—How, sir? Comyn asked. A bridge is across a river.</said>
 
-For Haines’s chapbook. No-one here to hear. Tonight deftly amid wild
+<paragraph>For Haines’s chapbook. No-one here to hear. Tonight deftly amid wild
 drink and talk, to pierce the polished mail of his mind. What then? A
 jester at the court of his master, indulged and disesteemed, winning a
 clement master’s praise. Why had they chosen all that part? Not wholly
 for the smooth caress. For them too history was a tale like any other
-too often heard, their land a pawnshop.
+too often heard, their land a pawnshop.</paragraph>
 
-Had Pyrrhus not fallen by a beldam’s hand in Argos or Julius Caesar not
+<paragraph>Had Pyrrhus not fallen by a beldam’s hand in Argos or <reference locRef = "2" meaning = "RomanHistory">Julius Caesar</reference> not
 been knifed to death. They are not to be thought away. Time has branded
 them and fettered they are lodged in the room of the infinite
 possibilities they have ousted. But can those have been possible seeing
 that they never were? Or was that only possible which came to pass?
-Weave, weaver of the wind.
+Weave, weaver of the wind.</paragraph>
 
-—Tell us a story, sir.
+<said persName = "class">—Tell us a story, sir.</said>
 
-—O, do, sir. A ghoststory.
+<said persName = "class">—O, do, sir. A ghoststory.</said>
 
-—Where do you begin in this? Stephen asked, opening another book.
+<said persName = "Stephen">—Where do you begin in this? Stephen asked, opening another book.</said>
 
-—_Weep no more,_ Comyn said.
+<said persName = "Comyn">—_Weep no more,_ Comyn said.</said>
 
-—Go on then, Talbot.
+<said persName = "Stephen">—Go on then, Talbot.</said>
 
-—And the story, sir?
+<said persName = "class">—And the story, sir?</said>
 
-—After, Stephen said. Go on, Talbot.
+<said persName = "Stephen">—After, Stephen said. Go on, Talbot.</said>
 
-A swarthy boy opened a book and propped it nimbly under the breastwork
-of his satchel. He recited jerks of verse with odd glances at the text:
+<paragraph>A swarthy boy opened a book and propped it nimbly under the breastwork
+of his satchel. He recited jerks of verse with odd glances at the text:</paragraph>
 
-_—Weep no more, woful shepherds, weep no more
+<paragraph>_<said persName = "Talbot">—Weep no more, woful shepherds, weep no more
 For Lycidas, your sorrow, is not dead,
-Sunk though he be beneath the watery floor..._
+Sunk though he be beneath the watery floor..._</said>
 
-It must be a movement then, an actuality of the possible as possible.
+<paragraph>It must be a movement then, an actuality of the possible as possible.
 Aristotle’s phrase formed itself within the gabbled verses and floated
 out into the studious silence of the library of Saint Genevieve where
 he had read, sheltered from the sin of Paris, night by night. By his
@@ -114,19 +113,19 @@ feelers: and in my mind’s darkness a sloth of the underworld,
 reluctant, shy of brightness, shifting her dragon scaly folds. Thought
 is the thought of thought. Tranquil brightness. The soul is in a manner
 all that is: the soul is the form of forms. Tranquility sudden, vast,
-candescent: form of forms.
+candescent: form of forms.</paragraph>
 
-Talbot repeated:
+<paragraph>Talbot repeated:</paragraph>
 
-_—Through the dear might of Him that walked the waves,
+<said persName = "Talbot">—Through the dear might of Him that walked the waves,
 
-Through the dear might..._
+Through the dear might..._</said>
 
-—Turn over, Stephen said quietly. I don’t see anything.
+<said persName = "Stephen">—Turn over, Stephen said quietly. I don’t see anything.</said>
 
-—What, sir? Talbot asked simply, bending forward.
+<said persName = "Talbot">—What, sir? Talbot asked simply, bending forward.</said>
 
-His hand turned the page over. He leaned back and went on again, having
+<paragraph>His hand turned the page over. He leaned back and went on again, having
 just remembered. Of him that walked the waves. Here also over these
 craven hearts his shadow lies and on the scoffer’s heart and lips and
 on mine. It lies upon their eager faces who offered him a coin of the
@@ -135,29 +134,29 @@ from dark eyes, a riddling sentence to be woven and woven on the
 church’s looms. Ay.
 
      Riddle me, riddle me, randy ro.
-     My father gave me seeds to sow.
+     My father gave me seeds to sow.</paragraph>
 
-Talbot slid his closed book into his satchel.
+<paragraph>Talbot slid his closed book into his satchel.</paragraph>
 
-—Have I heard all? Stephen asked.
+<said persName = "Stephen">—Have I heard all? Stephen asked.</said>
 
-—Yes, sir. Hockey at ten, sir.
+<said persName = "Talbot">—Yes, sir. Hockey at ten, sir.</said>
 
-—Half day, sir. Thursday.
+<said persName = "class">—Half day, sir. Thursday.</said>
 
-—Who can answer a riddle? Stephen asked.
+<said persName = "Stephen">—Who can answer a riddle? Stephen asked.</said>
 
-They bundled their books away, pencils clacking, pages rustling.
+<paragraph>They bundled their books away, pencils clacking, pages rustling.
 Crowding together they strapped and buckled their satchels, all
-gabbling gaily:
+gabbling gaily:</paragraph>
 
-—A riddle, sir? Ask me, sir.
+<said persName = "class">—A riddle, sir? Ask me, sir.</said>
 
-—O, ask me, sir.
+<said persName = "class">—O, ask me, sir.</said>
 
-—A hard one, sir.
+<said persName = "class">—A hard one, sir.</said>
 
-—This is the riddle, Stephen said:
+<said persName = "Stephen">—This is the riddle, Stephen said:
 
      The cock crew,
      The sky was blue:
@@ -166,57 +165,55 @@ gabbling gaily:
      ’Tis time for this poor soul
      To go to heaven.
 
-What is that?
+What is that?</said>
 
-—What, sir?
+<said persName = "class">—What, sir?</said>
 
-—Again, sir. We didn’t hear.
+<said persName = "class">—Again, sir. We didn’t hear.</said>
 
-Their eyes grew bigger as the lines were repeated. After a silence
-Cochrane said:
+<paragraph>Their eyes grew bigger as the lines were repeated. After a silence
+Cochrane said:</paragraph>
 
-—What is it, sir? We give it up.
+<said persName = "Cochrane">—What is it, sir? We give it up.</said>
 
-Stephen, his throat itching, answered:
+<paragraph>Stephen, his throat itching, answered:</paragraph>
 
-—The fox burying his grandmother under a hollybush.
+<said persName = "Stephen">—The fox burying his grandmother under a hollybush.</said>
 
-He stood up and gave a shout of nervous laughter to which their cries
-echoed dismay.
+<paragraph>He stood up and gave a shout of nervous laughter to which their cries
+echoed dismay.</paragraph>
 
-A stick struck the door and a voice in the corridor called:
+<paragraph>A stick struck the door and a voice in the corridor called:</paragraph>
 
-—Hockey!
+<said persName = "class">—Hockey!</said>
 
-They broke asunder, sidling out of their benches, leaping them. Quickly
+<paragraph>They broke asunder, sidling out of their benches, leaping them. Quickly
 they were gone and from the lumberroom came the rattle of sticks and
-clamour of their boots and tongues.
+clamour of their boots and tongues.</paragraph>
 
-Sargent who alone had lingered came forward slowly, showing an open
+<paragraph>Sargent who alone had lingered came forward slowly, showing an open
 copybook. His tangled hair and scraggy neck gave witness of unreadiness
 and through his misty glasses weak eyes looked up pleading. On his
 cheek, dull and bloodless, a soft stain of ink lay, dateshaped, recent
-and damp as a snail’s bed.
+and damp as a snail’s bed.</paragraph>
 
-He held out his copybook. The word _Sums_ was written on the headline.
+<paragraph>He held out his copybook. The word _Sums_ was written on the headline.
 Beneath were sloping figures and at the foot a crooked signature with
-blind loops and a blot. Cyril Sargent: his name and seal.
+blind loops and a blot. Cyril Sargent: his name and seal.</paragraph>
 
-—Mr Deasy told me to write them out all again, he said, and show them
-to you, sir.
+<said>—Mr Deasy told me to write them out all again, he said, and show themo you, sir.</said>
 
-Stephen touched the edges of the book. Futility.
+<paragraph>Stephen touched the edges of the book. Futility.</paragraph>
 
-—Do you understand how to do them now? he asked.
+<said>—Do you understand how to do them now? he asked.</said>
 
-—Numbers eleven to fifteen, Sargent answered. Mr Deasy said I was to
-copy them off the board, sir.
+<said>—Numbers eleven to fifteen, Sargent answered. Mr Deasy said I was toopy them off the board, sir.</said>
 
-—Can you do them yourself? Stephen asked.
+<said>—Can you do them yourself? Stephen asked.</said>
 
-—No, sir.
+<said>—No, sir.</said>
 
-Ugly and futile: lean neck and tangled hair and a stain of ink, a
+<paragraph>Ugly and futile: lean neck and tangled hair and a stain of ink, a
 snail’s bed. Yet someone had loved him, borne him in her arms and in
 her heart. But for her the race of the world would have trampled him
 underfoot, a squashed boneless snail. She had loved his weak watery
@@ -227,314 +224,297 @@ the fire, an odour of rosewood and wetted ashes. She had saved him from
 being trampled underfoot and had gone, scarcely having been. A poor
 soul gone to heaven: and on a heath beneath winking stars a fox, red
 reek of rapine in his fur, with merciless bright eyes scraped in the
-earth, listened, scraped up the earth, listened, scraped and scraped.
+earth, listened, scraped up the earth, listened, scraped and scraped.</paragraph>
 
-Sitting at his side Stephen solved out the problem. He proves by
+<paragraph>Sitting at his side Stephen solved out the problem. He proves by
 algebra that Shakespeare’s ghost is Hamlet’s grandfather. Sargent
 peered askance through his slanted glasses. Hockeysticks rattled in the
-lumberroom: the hollow knock of a ball and calls from the field.
+lumberroom: the hollow knock of a ball and calls from the field.</paragraph>
 
-Across the page the symbols moved in grave morrice, in the mummery of
+<paragraph>Across the page the symbols moved in grave morrice, in the mummery of
 their letters, wearing quaint caps of squares and cubes. Give hands,
 traverse, bow to partner: so: imps of fancy of the Moors. Gone too from
 the world, Averroes and Moses Maimonides, dark men in mien and
 movement, flashing in their mocking mirrors the obscure soul of the
 world, a darkness shining in brightness which brightness could not
-comprehend.
+comprehend.</paragraph>
 
-—Do you understand now? Can you work the second for yourself?
+<said>—Do you understand now? Can you work the second for yourself?</said>
 
-—Yes, sir.
+<said>—Yes, sir.</said>
 
-In long shaky strokes Sargent copied the data. Waiting always for a
+<paragraph>In long shaky strokes Sargent copied the data. Waiting always for a
 word of help his hand moved faithfully the unsteady symbols, a faint
 hue of shame flickering behind his dull skin. _Amor matris:_ subjective
 and objective genitive. With her weak blood and wheysour milk she had
-fed him and hid from sight of others his swaddling bands.
+fed him and hid from sight of others his swaddling bands.</paragraph>
 
-Like him was I, these sloping shoulders, this gracelessness. My
+<paragraph>Like him was I, these sloping shoulders, this gracelessness. My
 childhood bends beside me. Too far for me to lay a hand there once or
 lightly. Mine is far and his secret as our eyes. Secrets, silent, stony
 sit in the dark palaces of both our hearts: secrets weary of their
-tyranny: tyrants, willing to be dethroned.
+tyranny: tyrants, willing to be dethroned.</paragraph>
 
-The sum was done.
+<paragraph>The sum was done.</paragraph>
 
-—It is very simple, Stephen said as he stood up.
+<said>—It is very simple, Stephen said as he stood up.</said>
 
-—Yes, sir. Thanks, Sargent answered.
+<said>—Yes, sir. Thanks, Sargent answered.</said>
 
-He dried the page with a sheet of thin blottingpaper and carried his
-copybook back to his bench.
+<paragraph>He dried the page with a sheet of thin blottingpaper and carried his
+copybook back to his bench.</paragraph>
 
-—You had better get your stick and go out to the others, Stephen said
-as he followed towards the door the boy’s graceless form.
+<said>—You had better get your stick and go out to the others, Stephen saids he followed towards the door the boy’s graceless form.</said>
 
-—Yes, sir.
+<said>—Yes, sir.</said>
 
-In the corridor his name was heard, called from the playfield.
+<paragraph>In the corridor his name was heard, called from the playfield.</paragraph>
 
-—Sargent!
+<said>—Sargent!</said>
 
-—Run on, Stephen said. Mr Deasy is calling you.
+<said>—Run on, Stephen said. Mr Deasy is calling you.</said>
 
-He stood in the porch and watched the laggard hurry towards the scrappy
+<paragraph>He stood in the porch and watched the laggard hurry towards the scrappy
 field where sharp voices were in strife. They were sorted in teams and
 Mr Deasy came away stepping over wisps of grass with gaitered feet.
 When he had reached the schoolhouse voices again contending called to
-him. He turned his angry white moustache.
+him. He turned his angry white moustache.</paragraph>
 
-—What is it now? he cried continually without listening.
+<said>—What is it now? he cried continually without listening.</said>
 
-—Cochrane and Halliday are on the same side, sir, Stephen said.
+<said>—Cochrane and Halliday are on the same side, sir, Stephen said.</said>
 
-—Will you wait in my study for a moment, Mr Deasy said, till I restore
-order here.
+<said>—Will you wait in my study for a moment, Mr Deasy said, till I restorerder here.</said>
 
-And as he stepped fussily back across the field his old man’s voice
-cried sternly:
+<paragraph>And as he stepped fussily back across the field his old man’s voice
+cried sternly:</paragraph>
 
-—What is the matter? What is it now?
+<said>—What is the matter? What is it now?</said>
 
-Their sharp voices cried about him on all sides: their many forms
+<paragraph>Their sharp voices cried about him on all sides: their many forms
 closed round him, the garish sunshine bleaching the honey of his
-illdyed head.
+illdyed head.</paragraph>
 
-Stale smoky air hung in the study with the smell of drab abraded
+<paragraph>Stale smoky air hung in the study with the smell of drab abraded
 leather of its chairs. As on the first day he bargained with me here.
 As it was in the beginning, is now. On the sideboard the tray of Stuart
 coins, base treasure of a bog: and ever shall be. And snug in their
 spooncase of purple plush, faded, the twelve apostles having preached
-to all the gentiles: world without end.
+to all the gentiles: world without end.</paragraph>
 
-A hasty step over the stone porch and in the corridor. Blowing out his
-rare moustache Mr Deasy halted at the table.
+<paragraph>A hasty step over the stone porch and in the corridor. Blowing out his
+rare moustache Mr Deasy halted at the table.</paragraph>
 
-—First, our little financial settlement, he said.
+<said>—First, our little financial settlement, he said.</said>
 
-He brought out of his coat a pocketbook bound by a leather thong. It
+<paragraph>He brought out of his coat a pocketbook bound by a leather thong. It
 slapped open and he took from it two notes, one of joined halves, and
-laid them carefully on the table.
+laid them carefully on the table.</paragraph>
 
-—Two, he said, strapping and stowing his pocketbook away.
+<said>—Two, he said, strapping and stowing his pocketbook away.</said>
 
-And now his strongroom for the gold. Stephen’s embarrassed hand moved
+<paragraph>And now his strongroom for the gold. Stephen’s embarrassed hand moved
 over the shells heaped in the cold stone mortar: whelks and money
 cowries and leopard shells: and this, whorled as an emir’s turban, and
 this, the scallop of saint James. An old pilgrim’s hoard, dead
-treasure, hollow shells.
+treasure, hollow shells.</paragraph>
 
-A sovereign fell, bright and new, on the soft pile of the tablecloth.
+<paragraph>A sovereign fell, bright and new, on the soft pile of the tablecloth.</paragraph>
 
-—Three, Mr Deasy said, turning his little savingsbox about in his hand.
-These are handy things to have. See. This is for sovereigns. This is
-for shillings. Sixpences, halfcrowns. And here crowns. See.
+<said>—Three, Mr Deasy said, turning his little savingsbox about in his hand.hese are handy things to have. See. This is for sovereigns. This is
+for shillings. Sixpences, halfcrowns. And here crowns. See.</said>
 
-He shot from it two crowns and two shillings.
+<paragraph>He shot from it two crowns and two shillings.</paragraph>
 
-—Three twelve, he said. I think you’ll find that’s right.
+<said>—Three twelve, he said. I think you’ll find that’s right.</said>
 
-—Thank you, sir, Stephen said, gathering the money together with shy
-haste and putting it all in a pocket of his trousers.
+<said>—Thank you, sir, Stephen said, gathering the money together with shyaste and putting it all in a pocket of his trousers.</said>
 
-—No thanks at all, Mr Deasy said. You have earned it.
+<said>—No thanks at all, Mr Deasy said. You have earned it.</said>
 
-Stephen’s hand, free again, went back to the hollow shells. Symbols too
+<paragraph>Stephen’s hand, free again, went back to the hollow shells. Symbols too
 of beauty and of power. A lump in my pocket: symbols soiled by greed
-and misery.
+and misery.</paragraph>
 
-—Don’t carry it like that, Mr Deasy said. You’ll pull it out somewhere
-and lose it. You just buy one of these machines. You’ll find them very
-handy.
+<said>—Don’t carry it like that, Mr Deasy said. You’ll pull it out somewherend lose it. You just buy one of these machines. You’ll find them very
+handy.</said>
 
-Answer something.
+<paragraph>Answer something.</paragraph>
 
-—Mine would be often empty, Stephen said.
+<said>—Mine would be often empty, Stephen said.</said>
 
-The same room and hour, the same wisdom: and I the same. Three times
+<paragraph>The same room and hour, the same wisdom: and I the same. Three times
 now. Three nooses round me here. Well? I can break them in this instant
-if I will.
+if I will.</paragraph>
 
-—Because you don’t save, Mr Deasy said, pointing his finger. You don’t
-know yet what money is. Money is power. When you have lived as long as
+<said>—Because you don’t save, Mr Deasy said, pointing his finger. You don’tnow yet what money is. Money is power. When you have lived as long as
 I have. I know, I know. If youth but knew. But what does Shakespeare
-say? _Put but money in thy purse._
+say? _Put but money in thy purse._</said>
 
-—Iago, Stephen murmured.
+<said>—Iago, Stephen murmured.</said>
 
-He lifted his gaze from the idle shells to the old man’s stare.
+<paragraph>He lifted his gaze from the idle shells to the old man’s stare.</paragraph>
 
-—He knew what money was, Mr Deasy said. He made money. A poet, yes, but
-an Englishman too. Do you know what is the pride of the English? Do you
+<said>—He knew what money was, Mr Deasy said. He made money. A poet, yes, butn Englishman too. Do you know what is the pride of the English? Do you
 know what is the proudest word you will ever hear from an Englishman’s
-mouth?
+mouth?</said>
 
-The seas’ ruler. His seacold eyes looked on the empty bay: it seems
-history is to blame: on me and on my words, unhating.
+<paragraph>The seas’ ruler. His seacold eyes looked on the empty bay: it seems
+history is to blame: on me and on my words, unhating.</paragraph>
 
-—That on his empire, Stephen said, the sun never sets.
+<said>—That on his empire, Stephen said, the sun never sets.</said>
 
-—Ba! Mr Deasy cried. That’s not English. A French Celt said that. He
-tapped his savingsbox against his thumbnail.
+<said>—Ba! Mr Deasy cried. That’s not English. A French Celt said that. Heapped his savingsbox against his thumbnail.</said>
 
-—I will tell you, he said solemnly, what is his proudest boast. _I paid
-my way._
+<said>—I will tell you, he said solemnly, what is his proudest boast. _I paidy way._</said>
 
-Good man, good man.
+<paragraph>Good man, good man.</paragraph>
 
-_—I paid my way. I never borrowed a shilling in my life._ Can you feel
-that? _I owe nothing._ Can you?
+<paragraph>_<said>—I paid my way. I never borrowed a shilling in my life._ Can you feel
+that? _I owe nothing._ Can you?</said>
 
-Mulligan, nine pounds, three pairs of socks, one pair brogues, ties.
+<paragraph>Mulligan, nine pounds, three pairs of socks, one pair brogues, ties.
 Curran, ten guineas. McCann, one guinea. Fred Ryan, two shillings.
 Temple, two lunches. Russell, one guinea, Cousins, ten shillings, Bob
 Reynolds, half a guinea, Koehler, three guineas, Mrs MacKernan, five
-weeks’ board. The lump I have is useless.
+weeks’ board. The lump I have is useless.</paragraph>
 
-—For the moment, no, Stephen answered.
+<said>—For the moment, no, Stephen answered.</said>
 
-Mr Deasy laughed with rich delight, putting back his savingsbox.
+<paragraph>Mr Deasy laughed with rich delight, putting back his savingsbox.</paragraph>
 
-—I knew you couldn’t, he said joyously. But one day you must feel it.
-We are a generous people but we must also be just.
+<said>—I knew you couldn’t, he said joyously. But one day you must feel it.e are a generous people but we must also be just.</said>
 
-—I fear those big words, Stephen said, which make us so unhappy.
+<said>—I fear those big words, Stephen said, which make us so unhappy.</said>
 
-Mr Deasy stared sternly for some moments over the mantelpiece at the
+<paragraph>Mr Deasy stared sternly for some moments over the mantelpiece at the
 shapely bulk of a man in tartan fillibegs: Albert Edward, prince of
-Wales.
+Wales.</paragraph>
 
-—You think me an old fogey and an old tory, his thoughtful voice said.
-I saw three generations since O’Connell’s time. I remember the famine
+<said>—You think me an old fogey and an old tory, his thoughtful voice said. saw three generations since O’Connell’s time. I remember the famine
 in ’46. Do you know that the orange lodges agitated for repeal of the
 union twenty years before O’Connell did or before the prelates of your
-communion denounced him as a demagogue? You fenians forget some things.
+communion denounced him as a demagogue? You fenians forget some things.</said>
 
-Glorious, pious and immortal memory. The lodge of Diamond in Armagh the
+<paragraph>Glorious, pious and immortal memory. The lodge of Diamond in Armagh the
 splendid behung with corpses of papishes. Hoarse, masked and armed, the
 planters’ covenant. The black north and true blue bible. Croppies lie
-down.
+down.</paragraph>
 
-Stephen sketched a brief gesture.
+<paragraph>Stephen sketched a brief gesture.</paragraph>
 
-—I have rebel blood in me too, Mr Deasy said. On the spindle side. But
+<said>—I have rebel blood in me too, Mr Deasy said. On the spindle side. But
 I am descended from sir John Blackwood who voted for the union. We are
-all Irish, all kings’ sons.
+all Irish, all kings’ sons.</said>
 
-—Alas, Stephen said.
+<said>—Alas, Stephen said.</said>
 
-—_Per vias rectas_, Mr Deasy said firmly, was his motto. He voted for
+<said>—_Per vias rectas_, Mr Deasy said firmly, was his motto. He voted for
 it and put on his topboots to ride to Dublin from the Ards of Down to
-do so.
+do so.</said>
 
      Lal the ral the ra
-     The rocky road to Dublin.
+     The rocky road to Dublin.</paragraph>
 
-A gruff squire on horseback with shiny topboots. Soft day, sir John!
+<paragraph>A gruff squire on horseback with shiny topboots. Soft day, sir John!
 Soft day, your honour!... Day!... Day!... Two topboots jog dangling on
-to Dublin. Lal the ral the ra. Lal the ral the raddy.
+to Dublin. Lal the ral the ra. Lal the ral the raddy.</paragraph>
 
-—That reminds me, Mr Deasy said. You can do me a favour, Mr Dedalus,
+<said>—That reminds me, Mr Deasy said. You can do me a favour, Mr Dedalus,
 with some of your literary friends. I have a letter here for the press.
-Sit down a moment. I have just to copy the end.
+Sit down a moment. I have just to copy the end.</said>
 
-He went to the desk near the window, pulled in his chair twice and read
-off some words from the sheet on the drum of his typewriter.
+<paragraph>He went to the desk near the window, pulled in his chair twice and read
+off some words from the sheet on the drum of his typewriter.</paragraph>
 
-—Sit down. Excuse me, he said over his shoulder, _the dictates of
-common sense._ Just a moment.
+<said>—Sit down. Excuse me, he said over his shoulder, _the dictates ofommon sense._ Just a moment.</said>
 
-He peered from under his shaggy brows at the manuscript by his elbow
+<paragraph>He peered from under his shaggy brows at the manuscript by his elbow
 and, muttering, began to prod the stiff buttons of the keyboard slowly,
-sometimes blowing as he screwed up the drum to erase an error.
+sometimes blowing as he screwed up the drum to erase an error.</paragraph>
 
-Stephen seated himself noiselessly before the princely presence. Framed
+<paragraph>Stephen seated himself noiselessly before the princely presence. Framed
 around the walls images of vanished horses stood in homage, their meek
 heads poised in air: lord Hastings’ _Repulse_, the duke of
 Westminster’s _Shotover_, the duke of Beaufort’s _Ceylon_, _prix de
 Paris_, 1866. Elfin riders sat them, watchful of a sign. He saw their
 speeds, backing king’s colours, and shouted with the shouts of vanished
-crowds.
+crowds.</paragraph>
 
-—Full stop, Mr Deasy bade his keys. _But prompt ventilation of this
-allimportant question..._
+<said>—Full stop, Mr Deasy bade his keys. _But prompt ventilation of thisllimportant question..._</said>
 
-Where Cranly led me to get rich quick, hunting his winners among the
+<paragraph>Where Cranly led me to get rich quick, hunting his winners among the
 mudsplashed brakes, amid the bawls of bookies on their pitches and reek
 of the canteen, over the motley slush. Even money _Fair Rebel._ Ten to
 one the field. Dicers and thimbleriggers we hurried by after the hoofs,
 the vying caps and jackets and past the meatfaced woman, a butcher’s
-dame, nuzzling thirstily her clove of orange.
+dame, nuzzling thirstily her clove of orange.</paragraph>
 
-Shouts rang shrill from the boys’ playfield and a whirring whistle.
+<paragraph>Shouts rang shrill from the boys’ playfield and a whirring whistle.</paragraph>
 
-Again: a goal. I am among them, among their battling bodies in a
+<paragraph>Again: a goal. I am among them, among their battling bodies in a
 medley, the joust of life. You mean that knockkneed mother’s darling
 who seems to be slightly crawsick? Jousts. Time shocked rebounds, shock
 by shock. Jousts, slush and uproar of battles, the frozen deathspew of
-the slain, a shout of spearspikes baited with men’s bloodied guts.
+the slain, a shout of spearspikes baited with men’s bloodied guts.</paragraph>
 
-—Now then, Mr Deasy said, rising.
+<said>—Now then, Mr Deasy said, rising.</said>
 
-He came to the table, pinning together his sheets. Stephen stood up.
+<paragraph>He came to the table, pinning together his sheets. Stephen stood up.</paragraph>
 
-—I have put the matter into a nutshell, Mr Deasy said. It’s about the
-foot and mouth disease. Just look through it. There can be no two
-opinions on the matter.
+<said>—I have put the matter into a nutshell, Mr Deasy said. It’s about theoot and mouth disease. Just look through it. There can be no two
+opinions on the matter.</said>
 
-May I trespass on your valuable space. That doctrine of _laissez faire_
+<paragraph>May I trespass on your valuable space. That doctrine of _laissez faire_
 which so often in our history. Our cattle trade. The way of all our old
 industries. Liverpool ring which jockeyed the Galway harbour scheme.
 European conflagration. Grain supplies through the narrow waters of the
 channel. The pluterperfect imperturbability of the department of
 agriculture. Pardoned a classical allusion. Cassandra. By a woman who
-was no better than she should be. To come to the point at issue.
+was no better than she should be. To come to the point at issue.</paragraph>
 
-—I don’t mince words, do I? Mr Deasy asked as Stephen read on.
+<said>—I don’t mince words, do I? Mr Deasy asked as Stephen read on.</said>
 
-Foot and mouth disease. Known as Koch’s preparation. Serum and virus.
+<paragraph>Foot and mouth disease. Known as Koch’s preparation. Serum and virus.
 Percentage of salted horses. Rinderpest. Emperor’s horses at Mürzsteg,
 lower Austria. Veterinary surgeons. Mr Henry Blackwood Price. Courteous
 offer a fair trial. Dictates of common sense. Allimportant question. In
 every sense of the word take the bull by the horns. Thanking you for
-the hospitality of your columns.
+the hospitality of your columns.</paragraph>
 
-—I want that to be printed and read, Mr Deasy said. You will see at the
+<said>—I want that to be printed and read, Mr Deasy said. You will see at the
 next outbreak they will put an embargo on Irish cattle. And it can be
 cured. It is cured. My cousin, Blackwood Price, writes to me it is
 regularly treated and cured in Austria by cattledoctors there. They
 offer to come over here. I am trying to work up influence with the
 department. Now I’m going to try publicity. I am surrounded by
-difficulties, by... intrigues by... backstairs influence by...
+difficulties, by... intrigues by... backstairs influence by...</said>
 
-He raised his forefinger and beat the air oldly before his voice spoke.
+<paragraph>He raised his forefinger and beat the air oldly before his voice spoke.</paragraph>
 
-—Mark my words, Mr Dedalus, he said. England is in the hands of the
-jews. In all the highest places: her finance, her press. And they are
+<said>—Mark my words, Mr Dedalus, he said. England is in the hands of theews. In all the highest places: her finance, her press. And they are
 the signs of a nation’s decay. Wherever they gather they eat up the
 nation’s vital strength. I have seen it coming these years. As sure as
 we are standing here the jew merchants are already at their work of
-destruction. Old England is dying.
+destruction. Old England is dying.</said>
 
-He stepped swiftly off, his eyes coming to blue life as they passed a
-broad sunbeam. He faced about and back again.
+<paragraph>He stepped swiftly off, his eyes coming to blue life as they passed a
+broad sunbeam. He faced about and back again.</paragraph>
 
-—Dying, he said again, if not dead by now.
+<said>—Dying, he said again, if not dead by now.
 
      The harlot’s cry from street to street
-     Shall weave old England’s windingsheet.
+     Shall weave old England’s windingsheet.</said>
 
-His eyes open wide in vision stared sternly across the sunbeam in which
-he halted.
+<paragraph>His eyes open wide in vision stared sternly across the sunbeam in which
+he halted.</paragraph>
 
-—A merchant, Stephen said, is one who buys cheap and sells dear, jew or
-gentile, is he not?
+<said>—A merchant, Stephen said, is one who buys cheap and sells dear, jew orentile, is he not?</said>
 
-—They sinned against the light, Mr Deasy said gravely. And you can see
-the darkness in their eyes. And that is why they are wanderers on the
-earth to this day.
+<said>—They sinned against the light, Mr Deasy said gravely. And you can seehe darkness in their eyes. And that is why they are wanderers on the
+earth to this day.</said>
 
-On the steps of the Paris stock exchange the goldskinned men quoting
+<paragraph>On the steps of the Paris stock exchange the goldskinned men quoting
 prices on their gemmed fingers. Gabble of geese. They swarmed loud,
 uncouth about the temple, their heads thickplotting under maladroit
 silk hats. Not theirs: these clothes, this speech, these gestures.
@@ -543,129 +523,121 @@ unoffending, but knew the rancours massed about them and knew their
 zeal was vain. Vain patience to heap and hoard. Time surely would
 scatter all. A hoard heaped by the roadside: plundered and passing on.
 Their eyes knew their years of wandering and, patient, knew the
-dishonours of their flesh.
+dishonours of their flesh.</paragraph>
 
-—Who has not? Stephen said.
+<said>—Who has not? Stephen said.</said>
 
-—What do you mean? Mr Deasy asked.
+<said>—What do you mean? Mr Deasy asked.</said>
 
-He came forward a pace and stood by the table. His underjaw fell
+<paragraph>He came forward a pace and stood by the table. His underjaw fell
 sideways open uncertainly. Is this old wisdom? He waits to hear from
-me.
+me.</paragraph>
 
-—History, Stephen said, is a nightmare from which I am trying to awake.
+<said>—History, Stephen said, is a nightmare from which I am trying to awake.</said>
 
-From the playfield the boys raised a shout. A whirring whistle: goal.
-What if that nightmare gave you a back kick?
+<paragraph>From the playfield the boys raised a shout. A whirring whistle: goal.
+What if that nightmare gave you a back kick?</paragraph>
 
-—The ways of the Creator are not our ways, Mr Deasy said. All human
-history moves towards one great goal, the manifestation of God.
+<said>—The ways of the Creator are not our ways, Mr Deasy said. All human
+history moves towards one great goal, the manifestation of God.</said>
 
-Stephen jerked his thumb towards the window, saying:
+<paragraph>Stephen jerked his thumb towards the window, saying:</paragraph>
 
-—That is God.
+<said>—That is God.</said>
 
-Hooray! Ay! Whrrwhee!
+<paragraph>Hooray! Ay! Whrrwhee!</paragraph>
 
-—What? Mr Deasy asked.
+<said>—What? Mr Deasy asked.</said>
 
-—A shout in the street, Stephen answered, shrugging his shoulders.
+<said>—A shout in the street, Stephen answered, shrugging his shoulders.</said>
 
-Mr Deasy looked down and held for awhile the wings of his nose tweaked
-between his fingers. Looking up again he set them free.
+<paragraph>Mr Deasy looked down and held for awhile the wings of his nose tweaked
+between his fingers. Looking up again he set them free.</paragraph>
 
-—I am happier than you are, he said. We have committed many errors and
+<said>—I am happier than you are, he said. We have committed many errors and
 many sins. A woman brought sin into the world. For a woman who was no
 better than she should be, Helen, the runaway wife of Menelaus, ten
 years the Greeks made war on Troy. A faithless wife first brought the
 strangers to our shore here, MacMurrough’s wife and her leman,
 O’Rourke, prince of Breffni. A woman too brought Parnell low. Many
 errors, many failures but not the one sin. I am a struggler now at the
-end of my days. But I will fight for the right till the end.
+end of my days. But I will fight for the right till the end.</said>
 
      For Ulster will fight
-     And Ulster will be right.
+     And Ulster will be right.</paragraph>
 
-Stephen raised the sheets in his hand.
+<paragraph>Stephen raised the sheets in his hand.</paragraph>
 
-—Well, sir, he began.
+<said>—Well, sir, he began.</said>
 
-—I foresee, Mr Deasy said, that you will not remain here very long at
-this work. You were not born to be a teacher, I think. Perhaps I am
-wrong.
+<said>—I foresee, Mr Deasy said, that you will not remain here very long athis work. You were not born to be a teacher, I think. Perhaps I am
+wrong.</said>
 
-—A learner rather, Stephen said.
+<said>—A learner rather, Stephen said.</said>
 
-And here what will you learn more?
+<paragraph>And here what will you learn more?</paragraph>
 
-Mr Deasy shook his head.
+<paragraph>Mr Deasy shook his head.</paragraph>
 
-—Who knows? he said. To learn one must be humble. But life is the great
-teacher.
+<said>—Who knows? he said. To learn one must be humble. But life is the greateacher.</said>
 
-Stephen rustled the sheets again.
+<paragraph>Stephen rustled the sheets again.</paragraph>
 
-—As regards these, he began.
+<said>—As regards these, he began.</said>
 
-—Yes, Mr Deasy said. You have two copies there. If you can have them
-published at once.
+<said>—Yes, Mr Deasy said. You have two copies there. If you can have themublished at once.</said>
 
-_ Telegraph. Irish Homestead._
+<paragraph>_ Telegraph. Irish Homestead._</paragraph>
 
-—I will try, Stephen said, and let you know tomorrow. I know two
-editors slightly.
+<said>—I will try, Stephen said, and let you know tomorrow. I know twoditors slightly.</said>
 
-—That will do, Mr Deasy said briskly. I wrote last night to Mr Field,
+<said>—That will do, Mr Deasy said briskly. I wrote last night to Mr Field,
 M.P. There is a meeting of the cattletraders’ association today at the
 City Arms hotel. I asked him to lay my letter before the meeting. You
-see if you can get it into your two papers. What are they?
+see if you can get it into your two papers. What are they?</said>
 
-_—The Evening Telegraph..._
+<said>—The Evening Telegraph..._</said>
 
-—That will do, Mr Deasy said. There is no time to lose. Now I have to
-answer that letter from my cousin.
+<said>—That will do, Mr Deasy said. There is no time to lose. Now I have tonswer that letter from my cousin.</said>
 
-—Good morning, sir, Stephen said, putting the sheets in his pocket.
-Thank you.
+<said>—Good morning, sir, Stephen said, putting the sheets in his pocket.hank you.</said>
 
-—Not at all, Mr Deasy said as he searched the papers on his desk. I
-like to break a lance with you, old as I am.
+<said>—Not at all, Mr Deasy said as he searched the papers on his desk. Iike to break a lance with you, old as I am.</said>
 
-—Good morning, sir, Stephen said again, bowing to his bent back.
+<said>—Good morning, sir, Stephen said again, bowing to his bent back.</said>
 
-He went out by the open porch and down the gravel path under the trees,
+<paragraph>He went out by the open porch and down the gravel path under the trees,
 hearing the cries of voices and crack of sticks from the playfield. The
 lions couchant on the pillars as he passed out through the gate:
 toothless terrors. Still I will help him in his fight. Mulligan will
-dub me a new name: the bullockbefriending bard.
+dub me a new name: the bullockbefriending bard.</paragraph>
 
-—Mr Dedalus!
+<said>—Mr Dedalus!</said>
 
-Running after me. No more letters, I hope.
+<paragraph>Running after me. No more letters, I hope.</paragraph>
 
-—Just one moment.
+<said>—Just one moment.</said>
 
-—Yes, sir, Stephen said, turning back at the gate.
+<said>—Yes, sir, Stephen said, turning back at the gate.</said>
 
-Mr Deasy halted, breathing hard and swallowing his breath.
+<paragraph>Mr Deasy halted, breathing hard and swallowing his breath.</paragraph>
 
-—I just wanted to say, he said. Ireland, they say, has the honour of
-being the only country which never persecuted the jews. Do you know
-that? No. And do you know why?
+<said>—I just wanted to say, he said. Ireland, they say, has the honour ofeing the only country which never persecuted the jews. Do you know
+that? No. And do you know why?</said>
 
-He frowned sternly on the bright air.
+<paragraph>He frowned sternly on the bright air.</paragraph>
 
-—Why, sir? Stephen asked, beginning to smile.
+<said>—Why, sir? Stephen asked, beginning to smile.</said>
 
-—Because she never let them in, Mr Deasy said solemnly.
+<said>—Because she never let them in, Mr Deasy said solemnly.</said>
 
-A coughball of laughter leaped from his throat dragging after it a
+<paragraph>A coughball of laughter leaped from his throat dragging after it a
 rattling chain of phlegm. He turned back quickly, coughing, laughing,
-his lifted arms waving to the air.
+his lifted arms waving to the air.</paragraph>
 
-—She never let them in, he cried again through his laughter as he
-stamped on gaitered feet over the gravel of the path. That’s why.
+<said>—She never let them in, he cried again through his laughter as he
+stamped on gaitered feet over the gravel of the path. That’s why.</said>
 
-On his wise shoulders through the checkerwork of leaves the sun flung
-spangles, dancing coins.-->
+<paragraph>On his wise shoulders through the checkerwork of leaves the sun flung
+     spangles, dancing coins.</paragraph>
 </ulysses>
