@@ -1,0 +1,22 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+#Root element
+start = ulysses 
+ulysses = element ulysses{section, chapter, location+}
+section = element section{sectionName, empty}
+sectionName = attribute sectionName{"The Telemachiad" | "The Wanderings of Ulysses" | "The Homecoming"}
+chapter = element chapter{chapterName, empty}
+chapterName = attribute chapterName{text}
+p = element p{mixed{(location | allusion | person | said | reference)*}+}
+
+location = element location{name, lat, lon, (p | said)+}
+lat = attribute lat {xsd:float}
+lon = attribute lon{xsd:float}
+name = attribute name{text}
+
+allusion = element allusion{(persName | to), mixed{(allusion | reference)*}} 
+to = attribute to {text}
+person = element person{mixed{persName}}
+persName = attribute persName{text}
+said = element said{persName, mixed{(location | allusion | person | said | reference)*}}
+reference = element reference{to, mixed{(allusion|reference)*}}
