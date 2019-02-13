@@ -1,0 +1,29 @@
+h1 {
+    text-align:center;
+    line-height:1.5;
+    font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+    color:#FEFFEC;
+}
+
+p {
+    text-align:center;
+    font-size:100%;
+    line-height:1.5;
+    font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    text-align:center;
+    display:block;
+    font-size:100%;
+    line-height:1.5;
+    font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+}
+.center{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+body{
+    background-color:#4BA486;
+}
