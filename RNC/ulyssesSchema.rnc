@@ -9,7 +9,7 @@ chapter = element chapter{chapterName, empty}
 chapterName = attribute chapterName{text}
 p = element p{mixed{(location | allusion | person | said | reference)*}+}
 
-location = element location{name, lat, lon, mixed{p* | said*}}
+location = element location{name, lat, lon, mixed{p* | said* | reference* | allusion* | person*}}
 lat = attribute lat {xsd:float}
 lon = attribute lon{xsd:float}
 name = attribute name{text}
