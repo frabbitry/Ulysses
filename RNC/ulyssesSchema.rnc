@@ -14,9 +14,9 @@ lat = attribute lat {xsd:float}
 lon = attribute lon{xsd:float}
 name = attribute name{text}
 
-allusion = element allusion{(persName | to), mixed{(allusion | reference)*}} 
+allusion = element allusion{(who | to), mixed{(allusion | reference)*}} 
 to = attribute to {text}
-person = element person{mixed{persName}}
-persName = attribute persName{text}
-said = element said{persName, mixed{(location | allusion | person | said | reference)*}}
+person = element person{mixed{who}}
+who = attribute persName{text}
+said = element said{who, mixed{(location | allusion | person | said | reference)*}}
 reference = element reference{to, mixed{(allusion|reference)*}}
