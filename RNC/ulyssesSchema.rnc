@@ -17,6 +17,6 @@ name = attribute name{text}
 allusion = element allusion{(who | to), mixed{(allusion | reference)*}} 
 to = attribute to {text}
 person = element person{mixed{who}}
-who = attribute persName{text}
+who = attribute who{text}
 said = element said{who, mixed{(location | allusion | person | said | reference)*}}
 reference = element reference{to, mixed{(allusion|reference)*}}

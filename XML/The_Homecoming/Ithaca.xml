@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <?xml-model href="../../RNC/ulyssesSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<ulysess>
+<ulysses>
     <section sectionName="The Homecoming"/>
     <chapter chapterName="Ithaca"/>
-    <location name="" lat="" lon="">
+    <location name="7 Eccles Street" lat="53.9593817" lon="-1.0814175">
 <p>[ 17 ]</p>
 
 
@@ -844,7 +845,7 @@ knew that he knew that he was not.
 parentages?
 
 </p>
-<p>Bloom, only born male transubstantial heir of Rudolf Virag
+<p><person persName="Bloom">Bloom</person>, only born male transubstantial heir of Rudolf Virag
 (subsequently Rudolph Bloom) of Szombathely, Vienna, Budapest, Milan,
 London and Dublin and of Ellen Higgins, second daughter of Julius
 Higgins (born Karoly) and Fanny Higgins (born Hegarty). Stephen, eldest
@@ -852,14 +853,14 @@ surviving male consubstantial heir of Simon Dedalus of Cork and Dublin
 and of Mary, daughter of Richard and Christina Goulding (born Grier).
 
 </p>
-<p>Had Bloom and Stephen been baptised, and where and by whom, cleric or
+<p>Had <person persName="Leopold_Bloom">Bloom</person> and <person persName="Stephen_Dedalus">Stephen</person> been baptised, and where and by whom, cleric or
 layman?
 
 </p>
-<p>Bloom (three times), by the reverend Mr Gilmer Johnston M. A., alone,
-in the protestant church of Saint Nicholas Without, Coombe, by James
-O’Connor, Philip Gilligan and James Fitzpatrick, together, under a pump
-in the village of Swords, and by the reverend Charles Malone C. C., in
+<p><person persName="Leopold_Bloom">Bloom</person> (three times), by the reverend <person persName="Gilmer_Johnston">Mr Gilmer Johnston</person> M. A., alone,
+in the protestant church of Saint Nicholas Without, Coombe, by <person persName="James_O'Conner">James
+O’Connor</person>, <person persName="Philip_Gilligan">Philip Gilligan</person> and <person persName="James_Fitzpatrick">James Fitzpatrick</person>, together, under a pump
+in the village of Swords, and by the reverend <person persName="Charles_Malone">Charles Malone</person> C. C., in
 the church of the Three Patrons, Rathgar. Stephen (once) by the
 reverend Charles Malone C. C., alone, in the church of the Three
 Patrons, Rathgar.
@@ -868,15 +869,15 @@ Patrons, Rathgar.
 <p>Did they find their educational careers similar?
 
 </p>
-<p>Substituting Stephen for Bloom Stoom would have passed successively
+<p>Substituting <person persName="Stephen_Dedalus">Stephen</person> for <person persName="Leopold_Bloom">Bloom</person> Stoom would have passed successively
 through a dame’s school and the high school. Substituting Bloom for
-Stephen Blephen would have passed successively through the preparatory,
+<person persName="Stephen_Dedalus">Stephen</person> Blephen would have passed successively through the preparatory,
 junior, middle and senior grades of the intermediate and through the
 matriculation, first arts, second arts and arts degree courses of the
 royal university.
 
 </p>
-<p>Why did Bloom refrain from stating that he had frequented the
+<p>Why did <person persName="Leopold_Bloom">Bloom</person> refrain from stating that he had frequented the
 university of life?
 
 </p>
@@ -891,7 +892,7 @@ him.
 <p>The scientific. The artistic.
 
 </p>
-<p>What proofs did Bloom adduce to prove that his tendency was towards
+<p>What proofs did <person persName="Leopold_Bloom">Bloom</person> adduce to prove that his tendency was towards
 applied, rather than towards pure, science?
 
 </p>
@@ -909,7 +910,7 @@ kindergarten?
 </p>
 <p>Yes, rendering obsolete popguns, elastic airbladders, games of hazard,
 catapults. They comprised astronomical kaleidoscopes exhibiting the
-twelve constellations of the zodiac from Aries to Pisces, miniature
+twelve constellations of the zodiac from <allusion to="Zodiac">Aries</allusion> to <allusion to="Zodiac">Pisces</allusion>, miniature
 mechanical orreries, arithmetical gelatine lozenges, geometrical to
 correspond with zoological biscuits, globemap playing balls,
 historically costumed dolls.
@@ -918,7 +919,7 @@ historically costumed dolls.
 <p>What also stimulated him in his cogitations?
 
 </p>
-<p>The financial success achieved by Ephraim Marks and Charles A. James,
+<p>The financial success achieved by <person persName="Ephraim_Marks">Ephraim Marks</person> and <person persName="Charles_James">Charles A. James</person>,
 the former by his 1d bazaar at 42 George’s street, south, the latter at
 his 6 1/2d shop and world’s fancy fair and waxwork exhibition at 30
 Henry street, admission 2d, children 1d: and the infinite possibilities
@@ -978,7 +979,7 @@ by a beast of burden, in which two smartly dressed girls were to be
 seated engaged in writing.
 
 </p>
-<p>What suggested scene was then constructed by Stephen?
+<p>What suggested scene was then constructed by <person persName="Stephen_Douglas">Stephen</person>?
 
 </p>
 <p>Solitary hotel in mountain pass. Autumn. Twilight. Fire lit. In dark
@@ -993,14 +994,14 @@ Solitary.
 <p>What?
 
 </p>
-<p>In sloping, upright and backhands: Queen’s Hotel, Queen’s Hotel,
+<p>In sloping, upright and backhands: <location name="Queen's Hotel" lat="" lon="">Queen’s Hotel</location>, Queen’s Hotel,
 Queen’s Hotel. Queen’s Ho...
 
 </p>
-<p>What suggested scene was then reconstructed by Bloom?
+<p>What suggested scene was then reconstructed by <person persName="Leopold_Bloom">Bloom</person>?
 
 </p>
-<p>The Queen’s Hotel, Ennis, county Clare, where Rudolph Bloom (Rudolf
+<p>The Queen’s Hotel, Ennis, county Clare, where <person persName="Rudolph_Bloom">Rudolph Bloom</person> (Rudolf
 Virag) died on the evening of the 27 June 1886, at some hour unstated,
 in consequence of an overdose of monkshood (aconite) selfadministered
 in the form of a neuralgic liniment composed of 2 parts of aconite
@@ -1030,8 +1031,8 @@ relieved.
 
 </p>
 <p>Did he see only a second coincidence in the second scene narrated to
-him, described by the narrator as _A Pisgah Sight of Palestine_ or _The
-Parable of the Plums_?
+him, described by the narrator as <allusion to="Thomas Fuller">_A Pisgah Sight of Palestine_</allusion> or _<allusion to="parable">The
+Parable of the Plums</allusion>_?
 
 </p>
 <p>It, with the preceding scene and with others unnarrated but existent by
@@ -1086,7 +1087,7 @@ in favour of the lastmentioned (ninth) solution?
 with signs and hieroglyphics which she stated were Greek and Irish and
 Hebrew characters. She had interrogated constantly at varying intervals
 as to the correct method of writing the capital initial of the name of
-a city in Canada, Quebec. She understood little of political
+a city in <location>Canada</location>, <location>Quebec</location>. She understood little of political
 complications, internal, or balance of power, external. In calculating
 the addenda of bills she frequently had recourse to digital aid. After
 completion of laconic epistolary compositions she abandoned the
@@ -1143,15 +1144,15 @@ hat with rain, she carried umbrella with new hat.
 postexilic eminence did he adduce?
 
 </p>
-<p>Three seekers of the pure truth, Moses of Egypt, Moses Maimonides,
-author of _More Nebukim_ (Guide of the Perplexed) and Moses Mendelssohn
+<p>Three seekers of the pure truth, <allusion to="Old Testament">Moses of Egypt</allusion>, <allusion to="Sephardic Jewish philosopher">Moses Maimonides</allusion>,
+author of <allusion to="book">_More Nebukim_</allusion> (Guide of the Perplexed) and <allusion to="German Jewish philosopher">Moses Mendelssohn</allusion>
 of such eminence that from Moses (of Egypt) to Moses (Mendelssohn)
 there arose none like Moses (Maimonides).
 
 </p>
-<p>What statement was made, under correction, by Bloom concerning a fourth
-seeker of pure truth, by name Aristotle, mentioned, with permission, by
-Stephen?
+<p>What statement was made, under correction, by <person persName="Leopold_Bloom">Bloom</person> concerning a fourth
+seeker of pure truth, by name <allusion to="Greek philosophy">Aristotle</allusion>, mentioned, with permission, by
+<person persName="Stephen_Deglaus">Stephen</person>?
 
 </p>
 <p>That the seeker mentioned had been a pupil of a rabbinical philosopher,
@@ -1162,8 +1163,8 @@ name uncertain.
 selected or rejected race mentioned?
 
 </p>
-<p>Felix Bartholdy Mendelssohn (composer), Baruch Spinoza (philosopher),
-Mendoza (pugilist), Ferdinand Lassalle (reformer, duellist).
+<p><allusion to="composer">Felix Bartholdy Mendelssohn</allusion> (composer), <allusion to="philosopher">Baruch Spinoza</allusion> (philosopher),
+<allusion to="pugilist">Mendoza</allusion> (pugilist), <allusion to="duellist">Ferdinand Lassalle</allusion> (reformer, duellist).
 
 </p>
 <p>What fragments of verse from the ancient Hebrew and ancient Irish
@@ -1171,11 +1172,11 @@ languages were cited with modulations of voice and translation of texts
 by guest to host and by host to guest?
 
 </p>
-<p>By Stephen: _suil, suil, suil arun, suil go siocair agus suil go cuin_
+<p>By <person persName="Stephen_Douglas">Stephen</person>: <said persName="Stephen Douglas">_suil, suil, suil arun, suil go siocair agus suil go cuin_</said>
 (walk, walk, walk your way, walk in safety, walk with care).
 
 </p>
-<p>By Bloom: _Kifeloch, harimon rakatejch m’baad l’zamatejch_ (thy temple
+<p>By <person persName="Leopold Bloom">Bloom</person>: <said persName="Leopold Bloom">_Kifeloch, harimon rakatejch m’baad l’zamatejch_</said> (thy temple
 amid thy hair is as a slice of pomegranate).
 
 </p>
@@ -1184,10 +1185,10 @@ made in substantiation of the oral comparison?
 
 </p>
 <p>By juxtaposition. On the penultimate blank page of a book of inferior
-literary style, entituled _Sweets of Sin_ (produced by Bloom and so
+literary style, entituled _Sweets of Sin_ (produced by <person persName="Leopold Bloom">Bloom</person> and so
 manipulated that its front cover came in contact with the surface of
-the table) with a pencil (supplied by Stephen) Stephen wrote the Irish
-characters for gee, eh, dee, em, simple and modified, and Bloom in turn
+the table) with a pencil (supplied by <person persName="Stephen Douglas">Stephen</person>) <person persName="Stephen Douglas">Stephen</person> wrote the Irish
+characters for gee, eh, dee, em, simple and modified, and <person persName="Leopold Bloom">Bloom</person> in turn
 wrote the Hebrew characters ghimel, aleph, daleth and (in the absence
 of mem) a substituted qoph, explaining their arithmetical values as
 ordinal and cardinal numbers, videlicet 3, 1, 4, and 100.
@@ -1212,7 +1213,7 @@ seminary instituted by Fenius Farsaigh, descendant of Noah, progenitor
 of Israel, and ascendant of Heber and Heremon, progenitors of Ireland:
 their archaeological, genealogical, hagiographical, exegetical,
 homiletic, toponomastic, historical and religious literatures
-comprising the works of rabbis and culdees, Torah, Talmud (Mischna and
+comprising the works of rabbis and culdees, <allusion to="Judaism">Torah</allusion>, <allusion to="Judaism">Talmud</allusion> (Mischna and
 Ghemara), Massor, Pentateuch, Book of the Dun Cow, Book of Ballymote,
 Garland of Howth, Book of Kells: their dispersal, persecution, survival
 and revival: the isolation of their synagogical and ecclesiastical
@@ -1222,7 +1223,7 @@ jewish dress acts: the restoration in Chanah David of Zion and the
 possibility of Irish political autonomy or devolution.
 
 </p>
-<p>What anthem did Bloom chant partially in anticipation of that multiple,
+<p>What anthem did <person persName="Leopold Bloom">Bloom</person> chant partially in anticipation of that multiple,
 ethnically irreducible consummation?
 
 </p>
@@ -1257,30 +1258,30 @@ modern stenography and telegraphic code in the cuneiform inscriptions
 <p>Doubly, by appending his signature in Irish and Roman characters.
 
 </p>
-<p>What was Stephen’s auditive sensation?
+<p>What was <person persName="Stephen Douglas">Stephen</person>’s auditive sensation?
 
 </p>
 <p>He heard in a profound ancient male unfamiliar melody the accumulation
 of the past.
 
 </p>
-<p>What was Bloom’s visual sensation?
+<p>What was <person persName="Leopold Bloom">Bloom</person>’s visual sensation?
 
 </p>
 <p>He saw in a quick young male familiar form the predestination of a
 future.
 
 </p>
-<p>What were Stephen’s and Bloom’s quasisimultaneous volitional
+<p>What were <person persName="Stephen Douglas">Stephen</person>’s and <person persName="Leopold Bloom">Bloom</person>’s quasisimultaneous volitional
 quasisensations of concealed identities?
 
 </p>
-<p>Visually, Stephen’s: The traditional figure of hypostasis, depicted by
-Johannes Damascenus, Lentulus Romanus and Epiphanius Monachus as
+<p>Visually, <person persName="Stephen Douglas">Stephen</person>’s: The traditional figure of hypostasis, depicted by
+<allusion to="Syrian Monk">Johannes Damascenus</allusion>, Lentulus Romanus and <allusion to="monk">Epiphanius Monachus</allusion> as
 leucodermic, sesquipedalian with winedark hair.
 
 </p>
-<p>Auditively, Bloom’s: The traditional accent of the ecstasy of
+<p>Auditively, <person persName="Leopold Bloom">Bloom</person>’s: The traditional accent of the ecstasy of
 catastrophe.
 
 </p>
@@ -1293,7 +1294,7 @@ reverend John Conmee S. J., the reverend T. Salmon, D. D., provost of
 Trinity college, Dr Alexander J. Dowie. At the bar, English or Irish:
 exemplars, Seymour Bushe, K. C., Rufus Isaacs, K. C. On the stage,
 modern or Shakespearean: exemplars, Charles Wyndham, high comedian,
-Osmond Tearle († 1901), exponent of Shakespeare.
+Osmond Tearle († 1901), exponent of <allusion persName="William Shakespare">Shakespeare</allusion>.
 
 </p>
 <p>Did the host encourage his guest to chant in a modulated voice a
@@ -1363,7 +1364,7 @@ the unbroken kitchen window.
 daughter, all dressed in green.
 
 </p>
-<p>Condense Stephen’s commentary.
+<p>Condense <person persName="Stephen Douglas">Stephen</person>’s commentary.
 
 </p>
 <p>One of all, the least of all, is the victim predestined. Once by
@@ -1415,7 +1416,7 @@ sleeping.
 of his family?
 
 </p>
-<p>Twice, in Holles street and in Ontario terrace, his daughter Millicent
+<p>Twice, in Holles street and in Ontario terrace, his daughter <person persName="Millicent">Millicent</person>
 (Milly) at the ages of 6 and 8 years had uttered in sleep an
 exclamation of terror and had replied to the interrogations of two
 figures in night attire with a vacant mute expression.
@@ -1425,7 +1426,7 @@ figures in night attire with a vacant mute expression.
 
 </p>
 <p>15 June 1889. A querulous newborn female infant crying to cause and
-lessen congestion. A child renamed Padney Socks she shook with shocks
+lessen congestion. A child renamed <person persName="Padney Socks">Padney Socks</person> she shook with shocks
 her moneybox: counted his three free moneypenny buttons, one, tloo,
 tlee: a doll, a boy, a sailor she cast away: blond, born of two dark,
 she had blond ancestry, remote, a violation, Herr Hauptmann Hainau,
@@ -1447,7 +1448,7 @@ intervals to more distant intervals to its most distant intervals.
 <p>She relegated her hoop and skippingrope to a recess. On the duke’s
 lawn, entreated by an English visitor, she declined to permit him to
 make and take away her photographic image (objection not stated). On
-the South Circular road in the company of Elsa Potter, followed by an
+the South Circular road in the company of <person persName="Elsa Potter">Elsa Potter</person>, followed by an
 individual of sinister aspect, she went half way down Stamer street and
 turned abruptly back (reason of change not stated). On the vigil of the
 15th anniversary of her birth she wrote a letter from Mullingar, county
@@ -1531,8 +1532,8 @@ immediate desire to possess without gradual acquisition a fraction of
 his science, the moiety, the quarter, a thousandth part.
 
 </p>
-<p>What proposal did Bloom, diambulist, father of Milly, somnambulist,
-make to Stephen, noctambulist?
+<p>What proposal did <person persName="Leopold Bloom">Bloom</person>, diambulist, father of Milly, somnambulist,
+make to <person persName="Stephen Degalus">Stephen</person>, noctambulist?
 
 </p>
 <p>To pass in repose the hours intervening between Thursday (proper) and
@@ -1565,7 +1566,7 @@ through daughter.
 return a monosyllabic negative answer?
 
 </p>
-<p>If he had known the late Mrs Emily Sinico, accidentally killed at
+<p>If he had known the late Mrs<person persName="Emily Sinico"> Emily Sinico</person>, accidentally killed at
 Sydney Parade railway station, 14 October 1903.
 
 </p>
@@ -1574,8 +1575,8 @@ host?
 
 </p>
 <p>A statement explanatory of his absence on the occasion of the interment
-of Mrs Mary Dedalus (born Goulding), 26 June 1903, vigil of the
-anniversary of the decease of Rudolph Bloom (born Virag).
+of Mrs<person persName="Mary Dedalus"> Mary Dedalus</person> (born Goulding), 26 June 1903, vigil of the
+anniversary of the decease of <person persName="Rudolph Bloom">Rudolph Bloom</person> (born Virag).
 
 </p>
 <p>Was the proposal of asylum accepted?
@@ -1614,26 +1615,26 @@ resident in different places).
 selfexcluding propositions?
 
 </p>
-<p>The irreparability of the past: once at a performance of Albert
-Hengler’s circus in the Rotunda, Rutland square, Dublin, an intuitive
+<p>The irreparability of the past: once at a performance of <person persName="Albert Hengler">Albert
+Hengler</person>’s circus in the Rotunda, Rutland square, Dublin, an intuitive
 particoloured clown in quest of paternity had penetrated from the ring
-to a place in the auditorium where Bloom, solitary, was seated and had
+to a place in the auditorium where <person persName="Leopold Bloom">Bloom</person>, solitary, was seated and had
 publicly declared to an exhilarated audience that he (Bloom) was his
 (the clown’s) papa. The imprevidibility of the future: once in the
-summer of 1898 he (Bloom) had marked a florin (2/-) with three notches
+summer of 1898 he (<person persName="Bloom">Bloom</person>) had marked a florin (2/-) with three notches
 on the milled edge and tendered it in payment of an account due to and
 received by J. and T. Davy, family grocers, 1 Charlemont Mall, Grand
 Canal, for circulation on the waters of civic finance, for possible,
 circuitous or direct, return.
 
 </p>
-<p>Was the clown Bloom’s son?
+<p>Was the clown <person persName="Bloom">Bloom</person>’s son?
 
 </p>
 <p>No.
 
 </p>
-<p>Had Bloom’s coin returned?
+<p>Had <person persName="Bloom">Bloom</person>’s coin returned?
 
 </p>
 <p>Never.
@@ -1674,7 +1675,7 @@ more acceptable phenomena in the place of the less acceptable phenomena
 to be removed.
 
 </p>
-<p>Did Stephen participate in his dejection?
+<p>Did <person persName="Stephen Degalus">Stephen </person>participate in his dejection?
 
 </p>
 <p>He affirmed his significance as a conscious rational animal proceeding
@@ -1683,7 +1684,7 @@ reagent between a micro and a macrocosm ineluctably constructed upon
 the incertitude of the void.
 
 </p>
-<p>Was this affirmation apprehended by Bloom?
+<p>Was this affirmation apprehended by <person persName="Leopold Bloom">Bloom</person>?
 
 </p>
 <p>Not verbally. Substantially.
@@ -1702,9 +1703,9 @@ effected?
 
 </p>
 <p>Lighted Candle in Stick borne by
-BLOOM
+<person persName="Leopold Bloom">BLOOM</person>
 Diaconal Hat on Ashplant borne by
-STEPHEN
+<person persName="Stephen Degalus">STEPHEN</person>
 
 </p>
 <p>With what intonation _secreto_ of what commemorative psalm?
@@ -1717,7 +1718,7 @@ populo barbaro_.
 <p>What did each do at the door of egress?
 
 </p>
-<p>Bloom set the candlestick on the floor. Stephen put the hat on his
+<p><person persName="Leopold Bloom">Bloom</person> set the candlestick on the floor. Stephen put the hat on his
 head.
 
 </p>
@@ -1735,7 +1736,7 @@ the rere of the house into the penumbra of the garden?
 <p>The heaventree of stars hung with humid nightblue fruit.
 
 </p>
-<p>With what meditations did Bloom accompany his demonstration to his
+<p>With what meditations did <person persName="Leopold Bloom">Bloom</person> accompany his demonstration to his
 companion of various constellations?
 
 </p>
@@ -1744,12 +1745,12 @@ incipient lunation, approaching perigee: of the infinite lattiginous
 scintillating uncondensed milky way, discernible by daylight by an
 observer placed at the lower end of a cylindrical vertical shaft 5000
 ft deep sunk from the surface towards the centre of the earth: of
-Sirius (alpha in Canis Maior) 10 lightyears (57,000,000,000,000 miles)
+<allusion to="star constellation">Sirius</allusion> (alpha in <allusion to="star constellation">Canis Maior</allusion>) 10 lightyears (57,000,000,000,000 miles)
 distant and in volume 900 times the dimension of our planet: of
-Arcturus: of the precession of equinoxes: of Orion with belt and
+Arcturus: of the precession of equinoxes: of <allusion to="Greek Mythology">Orion</allusion> with belt and
 sextuple sun theta and nebula in which 100 of our solar systems could
 be contained: of moribund and of nascent new stars such as Nova in
-1901: of our system plunging towards the constellation of Hercules: of
+1901: of our system plunging towards the constellation of <allusion to="Greek Mythology">Hercules</allusion>: of
 the parallax or parallactic drift of socalled fixed stars, in reality
 evermoving wanderers from immeasurably remote eons to infinitely remote
 futures in comparison with which the years, threescore and ten, of
@@ -1805,8 +1806,8 @@ approximated from nasal hemorrhage, impeded respiration and vertigo,
 when proposing this problem for solution, he had conjectured as a
 working hypothesis which could not be proved impossible that a more
 adaptable and differently anatomically constructed race of beings might
-subsist otherwise under Martian, Mercurial, Veneral, Jovian, Saturnian,
-Neptunian or Uranian sufficient and equivalent conditions, though an
+subsist otherwise under <reference to="Mars">Martian</reference>, <reference to="Mercy">Mercurial</reference>, <reference to="Venus">Veneral</reference>, <reference to="Jupiter">Jovian</reference>, <reference to="Saturn">Saturnian</reference>,
+<reference to="Neptune">Neptunian</reference> or <reference to="Uranus">Uranian</reference> sufficient and equivalent conditions, though an
 apogean humanity of beings created in varying forms with finite
 differences resulting similar to the whole and to one another would
 probably there as here remain inalterably and inalienably attached to
@@ -1826,31 +1827,31 @@ vanities, to vanities of vanities and to all that is vanity.
 yellow, crimson, vermilion, cinnabar): their degrees of brilliancy:
 their magnitudes revealed up to and including the 7th: their positions:
 the waggoner’s star: Walsingham way: the chariot of David: the annular
-cinctures of Saturn: the condensation of spiral nebulae into suns: the
+cinctures of <reference to="planet Saturn">Saturn</reference>: the condensation of spiral nebulae into suns: the
 interdependent gyrations of double suns: the independent synchronous
-discoveries of Galileo, Simon Marius, Piazzi, Le Verrier, Herschel,
+discoveries of <allusion to="scientist">Galileo</allusion>, <allusion to="German astronomer">Simon Marius</allusion>, <allusion to="Italian Mathematician">Piazzi</allusion>, <allusion to="French astronomer">Le Verrier</allusion>, Herschel,
 Galle: the systematisations attempted by Bode and Kepler of cubes of
 distances and squares of times of revolution: the almost infinite
 compressibility of hirsute comets and their vast elliptical egressive
 and reentrant orbits from perihelion to aphelion: the sidereal origin
-of meteoric stones: the Libyan floods on Mars about the period of the
+of meteoric stones: the Libyan floods on <reference to="planet">Mars</reference> about the period of the
 birth of the younger astroscopist: the annual recurrence of meteoric
-showers about the period of the feast of S. Lawrence (martyr, 10
+showers about the period of the feast of<allusion to="Catholic saint"> S. Lawrence</allusion> (martyr, 10
 August): the monthly recurrence known as the new moon with the old moon
 in her arms: the posited influence of celestial on human bodies: the
 appearance of a star (1st magnitude) of exceeding brilliancy dominating
 by night and day (a new luminous sun generated by the collision and
 amalgamation in incandescence of two nonluminous exsuns) about the
-period of the birth of William Shakespeare over delta in the recumbent
+period of the birth of <allusion to="writer playwright">William Shakespeare</allusion> over delta in the recumbent
 neversetting constellation of Cassiopeia and of a star (2nd magnitude)
 of similar origin but of lesser brilliancy which had appeared in and
 disappeared from the constellation of the Corona Septentrionalis about
-the period of the birth of Leopold Bloom and of other stars of
+the period of the birth of <person persName="Leopold Bloom">Leopold Bloom</person> and of other stars of
 (presumably) similar origin which had (effectively or presumably)
-appeared in and disappeared from the constellation of Andromeda about
-the period of the birth of Stephen Dedalus, and in and from the
-constellation of Auriga some years after the birth and death of Rudolph
-Bloom, junior, and in and from other constellations some years before
+appeared in and disappeared from the constellation of <allusion to="star constellation">Andromeda</allusion> about
+the period of the birth of <person persName="Stephen Dedalus">Stephen Dedalus</person>, and in and from the
+constellation of <allusion to="star constellation">Auriga</allusion> some years after the birth and death of <person persName="Rudolph Bloom">Rudolph
+Bloom</person>, junior, and in and from other constellations some years before
 or after the birth or death of other persons: the attendant phenomena
 of eclipses, solar and lunar, from immersion to emersion, abatement of
 wind, transit of shadow, taciturnity of winged creatures, emergence of
@@ -1916,12 +1917,12 @@ gaze?
 </p>
 <p>In the second storey (rere) of his (Bloom’s) house the light of a
 paraffin oil lamp with oblique shade projected on a screen of roller
-blind supplied by Frank O’Hara, window blind, curtain pole and
+blind supplied by <person persName="Frank O'Hara">Frank O’Hara</person>, window blind, curtain pole and
 revolving shutter manufacturer, 16 Aungier street.
 
 </p>
 <p>How did he elucidate the mystery of an invisible attractive person, his
-wife Marion (Molly) Bloom, denoted by a visible splendid sign, a lamp?
+wife <person persName="Marion Bloom">Marion (Molly) Bloom</person>, denoted by a visible splendid sign, a lamp?
 
 </p>
 <p>With indirect and direct verbal allusions or affirmations: with subdued
@@ -1939,10 +1940,10 @@ flesh of theirhisnothis fellowfaces.
 <p>Were they indefinitely inactive?
 
 </p>
-<p>At Stephen’s suggestion, at Bloom’s instigation both, first Stephen,
-then Bloom, in penumbra urinated, their sides contiguous, their organs
+<p>At <person persName="Stephen Dedalus">Stephen</person>’s suggestion, at <person persName="Leopold Bloom">Bloom</person>’s instigation both, first<person persName="Stephen Dedalus"> Stephen</person>,
+then <person persName="Leopold Bloom">Bloom</person>, in penumbra urinated, their sides contiguous, their organs
 of micturition reciprocally rendered invisible by manual
-circumposition, their gazes, first Bloom’s, then Stephen’s, elevated to
+circumposition, their gazes, first <person persName="Leopold Bloom">Bloom</person>’s, then <person persName="Stephen Dedalus">Stephen</person>’s, elevated to
 the projected luminous and semiluminous shadow.
 
 </p>
@@ -1950,11 +1951,11 @@ the projected luminous and semiluminous shadow.
 
 </p>
 <p>The trajectories of their, first sequent, then simultaneous, urinations
-were dissimilar: Bloom’s longer, less irruent, in the incomplete form
+were dissimilar: <person persName="Leopold Bloom">Bloom</person>’s longer, less irruent, in the incomplete form
 of the bifurcated penultimate alphabetical letter, who in his ultimate
 year at High School (1880) had been capable of attaining the point of
 greatest altitude against the whole concurrent strength of the
-institution, 210 scholars: Stephen’s higher, more sibilant, who in the
+institution, 210 scholars: <person persName="Stephen Dedalus">Stephen</person>’s higher, more sibilant, who in the
 ultimate hours of the previous day had augmented by diuretic
 consumption an insistent vesical pressure.
 
@@ -1963,11 +1964,11 @@ consumption an insistent vesical pressure.
 invisible audible collateral organ of the other?
 
 </p>
-<p>To Bloom: the problems of irritability, tumescence, rigidity,
+<p>To <person persName="Leopold Bloom">Bloom</person>: the problems of irritability, tumescence, rigidity,
 reactivity, dimension, sanitariness, pilosity.
 
 </p>
-<p>To Stephen: the problem of the sacerdotal integrity of Jesus
+<p>To <person persName="Stephen Dedalus">Stephen</person>: the problem of the sacerdotal integrity of Jesus
 circumcised (1 January, holiday of obligation to hear mass and abstain
 from unnecessary servile work) and the problem as to whether the divine
 prepuce, the carnal bridal ring of the holy Roman catholic apostolic
@@ -1981,7 +1982,7 @@ excrescences as hair and toenails.
 </p>
 <p>A star precipitated with great apparent velocity across the firmament
 from Vega in the Lyre above the zenith beyond the stargroup of the
-Tress of Berenice towards the zodiacal sign of Leo.
+Tress of Berenice towards the zodiacal sign of <allusion to="Zodiac">Leo</allusion>.
 
 </p>
 <p>How did the centripetal remainer afford egress to the centrifugal
@@ -2008,20 +2009,20 @@ their (respectively) centrifugal and centripetal hands?
 
 </p>
 <p>The sound of the peal of the hour of the night by the chime of the
-bells in the church of Saint George.
+bells in the church of <allusion to="Catholic saint">Saint George</allusion>.
 
 </p>
 <p>What echoes of that sound were by both and each heard?
 
 </p>
-<p>By Stephen:
+<p>By <person persName="Stephen Dedalus">Stephen</person>:
 
 </p>
 <p>     Liliata rutilantium. Turma circumdet.
      Iubilantium te virginum. Chorus excipiat.
 
 </p>
-<p>By Bloom:
+<p>By <person persName="Leopold Bloom">Bloom</person>:
 
 </p>
 <p>     Heigho, heigho,
@@ -2033,20 +2034,20 @@ at the bidding of that peal had travelled from Sandymount in the south
 to Glasnevin in the north?
 
 </p>
-<p>Martin Cunningham (in bed), Jack Power (in bed), Simon Dedalus (in
-bed), Ned Lambert (in bed), Tom Kernan (in bed), Joe Hynes (in bed),
-John Henry Menton (in bed), Bernard Corrigan (in bed), Patsy Dignam (in
-bed), Paddy Dignam (in the grave).
+<p><person persName="Martin Cunningham">Martin Cunningham</person> (in bed), <person persName="Jack Power">Jack Power</person> (in bed), <person persName="Simon Dedalus">Simon Dedalus</person> (in
+bed), <person persName="Ned Lambert">Ned Lambert</person> (in bed), <person persName="Tom Kernan">Tom Kernan</person> (in bed), <person persName="Joe Hynes">Joe Hynes</person> (in bed),
+<person persName="Jogn Menton">John Henry Menton</person> (in bed), <person persName="Bernard Corrigan">Bernard Corrigan</person> (in bed), <person persName="Patsy Dignam">Patsy Dignam</person> (in
+bed), <person persName="Paddy Dignam">Paddy Dignam</person> (in the grave).
 
 </p>
-<p>Alone, what did Bloom hear?
+<p>Alone, what did <person persName="Leopold Bloom">Bloom</person> hear?
 
 </p>
 <p>The double reverberation of retreating feet on the heavenborn earth,
 the double vibration of a jew’s harp in the resonant lane.
 
 </p>
-<p>Alone, what did Bloom feel?
+<p>Alone, what did <person persName="Leopold Bloom">Bloom</person> feel?
 
 </p>
 <p>The cold of interstellar space, thousands of degrees below freezing
@@ -2058,11 +2059,11 @@ incipient intimations of proximate dawn.
 him?
 
 </p>
-<p>Of companions now in various manners in different places defunct: Percy
-Apjohn (killed in action, Modder River), Philip Gilligan (phthisis,
-Jervis Street hospital), Matthew F. Kane (accidental drowning, Dublin
-Bay), Philip Moisel (pyemia, Heytesbury street), Michael Hart
-(phthisis, Mater Misericordiae hospital), Patrick Dignam (apoplexy,
+<p>Of companions now in various manners in different places defunct: <person persName="Percy Apjohn">Percy
+Apjohn</person> (killed in action, Modder River), <person persName="Philip Gilligan">Philip Gilligan</person> (phthisis,
+Jervis Street hospital), <person persName="Matthew Kane">Matthew F. Kane</person> (accidental drowning, Dublin
+Bay), <person persName="Philip Moisel">Philip Moisel</person> (pyemia, Heytesbury street), <person persName="Michael Hart">Michael Hart</person>
+(phthisis, Mater Misericordiae hospital), <person persName="Patrick Dignam">Patrick Dignam</person> (apoplexy,
 Sandymount).
 
 </p>
@@ -2077,7 +2078,7 @@ apparition of a new solar disk.
 
 </p>
 <p>Once, in 1887, after a protracted performance of charades in the house
-of Luke Doyle, Kimmage, he had awaited with patience the apparition of
+of <person persName="Luke Doyle">Luke Doyle</person>, Kimmage, he had awaited with patience the apparition of
 the diurnal phenomenon, seated on a wall, his gaze turned in the
 direction of Mizrach, the east.
 
@@ -2152,21 +2153,21 @@ circumstantial evidence, of testimonial supermanence.
 supporting a pair of long yellow ladies’ gloves and an emerald ashtray
 containing four consumed matches, a partly consumed cigarette and two
 discoloured ends of cigarettes, its musicrest supporting the music in
-the key of G natural for voice and piano of _Love’s Old Sweet Song_
-(words by G. Clifton Bingham, composed by J. L. Molloy, sung by Madam
+the key of G natural for voice and piano of <reference to="song">_Love’s Old Sweet Song_</reference>
+(words by <person persName="Graham Clifton Bingham">G. Clifton Bingham</person>, composed by J. L. Molloy, sung by Madam
 Antoinette Sterling) open at the last page with the final indications
 _ad libitum, forte_, pedal, _animato_, sustained pedal, _ritirando_,
 close.
 
 </p>
-<p>With what sensations did Bloom contemplate in rotation these objects?
+<p>With what sensations did <person persName="Leopold Bloom">Bloom</person> contemplate in rotation these objects?
 
 </p>
 <p>With strain, elevating a candlestick: with pain, feeling on his right
 temple a contused tumescence: with attention, focussing his gaze on a
 large dull passive and a slender bright active: with solicitation,
 bending and downturning the upturned rugfringe: with amusement,
-remembering Dr Malachi Mulligan’s scheme of colour containing the
+remembering <person persName="Malachi Mulligan">Dr Malachi Mulligan</person>’s scheme of colour containing the
 gradation of green: with pleasure, repeating the words and antecedent
 act and perceiving through various channels of internal sensibility the
 consequent and concomitant tepid pleasant diffusion of gradual
@@ -2200,22 +2201,22 @@ mantelpiece?
 
 </p>
 <p>A timepiece of striated Connemara marble, stopped at the hour of 4.46
-a.m. on the 21 March 1896, matrimonial gift of Matthew Dillon: a dwarf
+a.m. on the 21 March 1896, matrimonial gift of <person persName="Matthew Dillon">Matthew Dillon</person>: a dwarf
 tree of glacial arborescence under a transparent bellshade, matrimonial
-gift of Luke and Caroline Doyle: an embalmed owl, matrimonial gift of
-Alderman John Hooper.
+gift of <person persName="Luke Doyle">Luke</person> and <person persName="Caroline Doyle">Caroline Doyle</person>: an embalmed owl, matrimonial gift of
+<person persName="John Hooper">Alderman John Hooper</person>.
 
 </p>
 <p>What interchanges of looks took place between these three objects and
-Bloom?
+<person persName="Leopold Bloom">Bloom</person>?
 
 </p>
 <p>In the mirror of the giltbordered pierglass the undecorated back of the
 dwarf tree regarded the upright back of the embalmed owl. Before the
-mirror the matrimonial gift of Alderman John Hooper with a clear
+mirror the matrimonial gift of <person persName="John Hooper">Alderman John Hooper</person> with a clear
 melancholy wise bright motionless compassionate gaze regarded Bloom
 while Bloom with obscure tranquil profound motionless compassionated
-gaze regarded the matrimonial gift of Luke and Caroline Doyle.
+gaze regarded the matrimonial gift of <person persName="Luke Doyle">Luke</person> and <person persName="Caroline Doyle">Caroline Doyle</person>.
 
 </p>
 <p>What composite asymmetrical image in the mirror then attracted his
@@ -2251,97 +2252,97 @@ on the two bookshelves opposite.
 <p>Catalogue these books.
 
 </p>
-<p>_Thom’s Dublin Post Office Directory_, 1886.
+<p><reference to="book">_Thom’s Dublin Post Office Directory_</reference>, 1886.
 
 </p>
-<p>Denis Florence M’Carthy’s _Poetical Works_ (copper beechleaf bookmark
+<p><reference to="book">Denis Florence M’Carthy’s _Poetical Works_</reference> (copper beechleaf bookmark
 at p. 5).
 
 </p>
-<p>Shakespeare’s _Works_ (dark crimson morocco, goldtooled).
+<p><reference to="book">Shakespeare’s _Works_</reference> (dark crimson morocco, goldtooled).
 
 </p>
-<p>_The Useful Ready Reckoner_ (brown cloth).
+<p><reference to="book">_The Useful Ready Reckoner_</reference> (brown cloth).
 
 </p>
-<p>_The Secret History of the Court of Charles II_ (red cloth, tooled
+<p><reference to="book">_The Secret History of the Court of Charles II_</reference> (red cloth, tooled
 binding).
 
 </p>
-<p>_The Child’s Guide_ (blue cloth).
+<p><reference to="book">_The Child’s Guide_</reference> (blue cloth).
 
 </p>
-<p>_The Beauties of Killarney_ (wrappers).
+<p><reference to="book">_The Beauties of Killarney_</reference> (wrappers).
 
 </p>
-<p>_When We Were Boys_ by William O’Brien M. P. (green cloth, slightly
+<p><reference to="book">_When We Were Boys_</reference> by <person persName="William O'Brien">William O’Brien</person> M. P. (green cloth, slightly
 faded, envelope bookmark at p. 217).
 
 </p>
-<p>_Thoughts from Spinoza_ (maroon leather).
+<p><reference to="book">_Thoughts from Spinoza_</reference> (maroon leather).
 
 </p>
-<p>_The Story of the Heavens_ by Sir Robert Ball (blue cloth).
+<p><reference to="book">_The Story of the Heavens_</reference> by Sir <person persName="Robert Ball">Robert Ball</person> (blue cloth).
 
 </p>
-<p>Ellis’s _Three Trips to Madagascar_ (brown cloth, title obliterated).
+<p>Ellis’s <reference to="book">_Three Trips to Madagascar_</reference> (brown cloth, title obliterated).
 
 </p>
-<p>_The Stark-Munro Letters_ by A. Conan Doyle, property of the City of
+<p><reference to="book">_The Stark-Munro Letters_ </reference>by <person persName="Arthur Conan Doyle">A. Conan Doyle</person>, property of the City of
 Dublin Public Library, 106 Capel street, lent 21 May (Whitsun Eve)
 1904, due 4 June 1904, 13 days overdue (black cloth binding, bearing
 white letternumber ticket).
 
 </p>
-<p>_Voyages in China_ by “Viator” (recovered with brown paper, red ink
+<p><reference to="book">_Voyages in China_</reference> by “Viator” (recovered with brown paper, red ink
 title).
 
 </p>
-<p>_Philosophy of the Talmud_ (sewn pamphlet).
+<p><reference to="book">_Philosophy of the Talmud_</reference> (sewn pamphlet).
 
 </p>
-<p>Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations,
+<p>Lockhart’s <reference to="book">_Life of Napoleon_</reference> (cover wanting, marginal annotations,
 minimising victories, aggrandising defeats of the protagonist).
 
 </p>
-<p>_Soll und Haben_ by Gustav Freytag (black boards, Gothic characters,
+<p><reference to="book">_Soll und Haben_</reference> by <person persName="Gustav Freytag">Gustav Freytag</person> (black boards, Gothic characters,
 cigarette coupon bookmark at p. 24).
 
 </p>
-<p>Hozier’s _History of the Russo-Turkish War_ (brown cloth, 2 volumes,
+<p>Hozier’s <reference to="book">_History of the Russo-Turkish War_</reference> (brown cloth, 2 volumes,
 with gummed label, Garrison Library, Governor’s Parade, Gibraltar, on
 verso of cover).
 
 </p>
-<p>_Laurence Bloomfield in Ireland_ by William Allingham (second edition,
+<p><reference to="book">_Laurence Bloomfield in Ireland_</reference> by <person persName="William Allingham">William Allingham</person> (second edition,
 green cloth, gilt trefoil design, previous owner’s name on recto of
 flyleaf erased).
 
 </p>
-<p>_A Handbook of Astronomy_ (cover, brown leather, detached, 5 plates,
+<p><reference to="book">_A Handbook of Astronomy_</reference> (cover, brown leather, detached, 5 plates,
 antique letterpress long primer, author’s footnotes nonpareil, marginal
 clues brevier, captions small pica).
 
 </p>
-<p>_The Hidden Life of Christ_ (black boards).
+<p><reference to="book">_The Hidden Life of Christ_</reference> (black boards).
 
 </p>
-<p>_In the Track of the Sun_ (yellow cloth, titlepage missing, recurrent
+<p><reference to="book">_In the Track of the Sun_</reference> (yellow cloth, titlepage missing, recurrent
 title intestation).
 
 </p>
-<p>_Physical Strength and How to Obtain It_ by Eugen Sandow (red cloth).
+<p><reference to="book">_Physical Strength and How to Obtain It_</reference> by <person persName="Eugen Sandow">Eugen Sandow</person> (red cloth).
 
 </p>
-<p>_Short but yet Plain Elements of Geometry_ written in French by F.
-Ignat. Pardies and rendered into Engliſh by John Harris D. D. London,
+<p><reference to="book">_Short but yet Plain Elements of Geometry_ </reference>written in French by F.
+Ignat. Pardies and rendered into Engliſh by <person persName="John Harris">John Harris</person> D. D. London,
 printed for R. Knaplock at the Biſhop’s Head, MDCCXI, with dedicatory
-epiſtle to his worthy friend Charles Cox, eſquire, Member of Parliament
+epiſtle to his worthy friend <person persName="Charles Cox">Charles Cox</person>, eſquire, Member of Parliament
 for the burgh of Southwark and having ink calligraphed statement on the
-flyleaf certifying that the book was the property of Michael Gallagher,
+flyleaf certifying that the book was the property of <person persName="Michael Gallagher">Michael Gallagher</person>,
 dated this 10th day of May 1822 and requeſting the perſon who should
 find it, if the book should be loſt or go aſtray, to reſtore it to
-Michael Gallagher, carpenter, Dufery Gate, Enniſcorthy, county Wicklow,
+<person persName="Michael Gallagher">Michael Gallagher</person>, carpenter, Dufery Gate, Enniſcorthy, county Wicklow,
 the fineſt place in the world.
 
 </p>
@@ -2359,7 +2360,7 @@ behind, beneath or between the pages of a book.
 <p>Which volume was the largest in bulk?
 
 </p>
-<p>Hozier’s _History of the Russo-Turkish War._
+<p>Hozier’s <reference to="book">_History of the Russo-Turkish War._</reference>
 
 </p>
 <p>What among other data did the second volume of the work in question
@@ -2367,7 +2368,7 @@ contain?
 
 </p>
 <p>The name of a decisive battle (forgotten), frequently remembered by a
-decisive officer, major Brian Cooper Tweedy (remembered).
+decisive officer, major <person persName="Brian Tweedy">Brian Cooper Tweedy </person>(remembered).
 
 </p>
 <p>Why, firstly and secondly, did he not consult the work in question?
@@ -2383,7 +2384,7 @@ the military engagement, Plevna.
 
 </p>
 <p>The candour, nudity, pose, tranquility, youth, grace, sex, counsel of a
-statue erect in the centre of the table, an image of Narcissus
+statue erect in the centre of the table, an image of <allusion to="Greek Mythology">Narcissus</allusion>
 purchased by auction from P. A. Wren, 9 Bachelor’s Walk.
 
 </p>
@@ -2423,7 +2424,7 @@ prurition, various points and surfaces of his partly exposed, wholly
 abluted skin. He inserted his left hand into the left lower pocket of
 his waistcoat and extracted and replaced a silver coin (1 shilling),
 placed there (presumably) on the occasion (17 October 1903) of the
-interment of Mrs Emily Sinico, Sydney Parade.
+interment of Mrs <person persName="Emily Sinico">Emily Sinico</person>, <person persName="Sydney Parade">Sydney Parade</person>.
 
 </p>
 <p>Compile the budget for 16 June 1904.
@@ -2558,8 +2559,8 @@ with tropical palms, equipped in the best botanical manner, a rockery
 with waterspray, a beehive arranged on humane principles, oval
 flowerbeds in rectangular grassplots set with eccentric ellipses of
 scarlet and chrome tulips, blue scillas, crocuses, polyanthus, sweet
-William, sweet pea, lily of the valley (bulbs obtainable from sir James
-W. Mackey (Limited) wholesale and retail seed and bulb merchants and
+William, sweet pea, lily of the valley (bulbs obtainable from sir <person persName="James Mackey">James
+W. Mackey</person> (Limited) wholesale and retail seed and bulb merchants and
 nurserymen, agents for chemical manures, 23 Sackville street, upper),
 an orchard, kitchen garden and vinery, protected against illegal
 trespassers by glasstopped mural enclosures, a lumbershed with padlock
@@ -2686,23 +2687,23 @@ connubiality.
 <p>Prove that he had loved rectitude from his earliest youth.
 
 </p>
-<p>To Master Percy Apjohn at High School in 1880 he had divulged his
+<p>To Master <person persName="Percy Apjohn">Percy Apjohn</person> at High School in 1880 he had divulged his
 disbelief in the tenets of the Irish (protestant) church (to which his
-father Rudolf Virag (later Rudolph Bloom) had been converted from the
+father <person persName="Rudolf Virag">Rudolf Virag</person> (later <person persName="Rudolph Bloom">Rudolph Bloom</person>) had been converted from the
 Israelitic faith and communion in 1865 by the Society for promoting
 Christianity among the jews) subsequently abjured by him in favour of
 Roman catholicism at the epoch of and with a view to his matrimony in
-1888. To Daniel Magrane and Francis Wade in 1882 during a juvenile
+1888. To <person persName="Daniel Magrane">Daniel Magrane </person>and <person persName="Francis Wade">Francis Wade </person>in 1882 during a juvenile
 friendship (terminated by the premature emigration of the former) he
 had advocated during nocturnal perambulations the political theory of
 colonial (e.g. Canadian) expansion and the evolutionary theories of
-Charles Darwin, expounded in _The Descent of Man_ and _The Origin of
-Species_. In 1885 he had publicly expressed his adherence to the
-collective and national economic programme advocated by James Fintan
-Lalor, John Fisher Murray, John Mitchel, J. F. X. O’Brien and others,
-the agrarian policy of Michael Davitt, the constitutional agitation of
-Charles Stewart Parnell (M. P. for Cork City), the programme of peace,
-retrenchment and reform of William Ewart Gladstone (M. P. for
+<reference to="Charles Darwin">Charles Darwin</reference>, expounded in <reference to="book">_The Descent of Man_</reference> and <reference to="book">_The Origin of
+Species_</reference>. In 1885 he had publicly expressed his adherence to the
+collective and national economic programme advocated by <person persName="James Lalor">James Fintan
+Lalor</person>, <person persName="John Murray">John Fisher Murray</person>, <person persName="John Mitchell">John Mitchel</person>, J. F. X. O’Brien and others,
+the agrarian policy of <person persName="Michael Davitt">Michael Davitt</person>, the constitutional agitation of
+<reference to="M.P. Charles Parnell">Charles Stewart Parnell</reference> (M. P. for Cork City), the programme of peace,
+retrenchment and reform of <reference to="M.P. Willaim Gladstone">William Ewart Gladstone</reference> (M. P. for
 Midlothian, N. B.) and, in support of his political convictions, had
 climbed up into a secure position amid the ramifications of a tree on
 Northumberland road to see the entrance (2 February 1888) into the
@@ -2877,11 +2878,11 @@ of casual vision and congruous with the velocity of modern life.
 <p>What did the first drawer unlocked contain?
 
 </p>
-<p>A Vere Foster’s handwriting copybook, property of Milly (Millicent)
-Bloom, certain pages of which bore diagram drawings, marked _Papli_,
+<p>A Vere Foster’s handwriting copybook, property of <person persName="Millicent Bloom">Milly (Millicent)
+Bloom</person>, certain pages of which bore diagram drawings, marked _Papli_,
 which showed a large globular head with 5 hairs erect, 2 eyes in
 profile, the trunk full front with 3 large buttons, 1 triangular foot:
-2 fading photographs of queen Alexandra of England and of Maud
+2 fading photographs of <reference to="British Monarchy">queen Alexandra of England</reference> and of Maud
 Branscombe, actress and professional beauty: a Yuletide card, bearing
 on it a pictorial representation of a parasitic plant, the legend
 _Mizpah_, the date Xmas 1892, the name of the senders: from Mr + Mrs M.
@@ -2891,21 +2892,21 @@ obtained from the stores department of Messrs Hely’s, Ltd., 89, 90, and
 91 Dame street: a box containing the remainder of a gross of gilt “J”
 pennibs, obtained from same department of same firm: an old sandglass
 which rolled containing sand which rolled: a sealed prophecy (never
-unsealed) written by Leopold Bloom in 1886 concerning the consequences
+unsealed) written by <person persName="Leopold Bloom">Leopold Bloom</person> in 1886 concerning the consequences
 of the passing into law of William Ewart Gladstone’s Home Rule bill of
 1886 (never passed into law): a bazaar ticket, No 2004, of S. Kevin’s
 Charity Fair, price 6d, 100 prizes: an infantile epistle, dated, small
 em monday, reading: capital pee Papli comma capital aitch How are you
 note of interrogation capital eye I am very well full stop new
 paragraph signature with flourishes capital em Milly no stop: a cameo
-brooch, property of Ellen Bloom (born Higgins), deceased: a cameo
-scarfpin, property of Rudolph Bloom (born Virag), deceased: 3
+brooch, property of <person persName="Ellen Bloom">Ellen Bloom</person> (born Higgins), deceased: a cameo
+scarfpin, property of <person persName="Rudolph Bloom">Rudolph Bloom</person> (born Virag), deceased: 3
 typewritten letters, addressee, Henry Flower, c/o. P. O. Westland Row,
-addresser, Martha Clifford, c/o. P. O. Dolphin’s Barn: the
+addresser, <person persName="Martha Clifford">Martha Clifford</person>, c/o. P. O. Dolphin’s Barn: the
 transliterated name and address of the addresser of the 3 letters in
 reversed alphabetic boustrophedonic punctated quadrilinear cryptogram
 (vowels suppressed) N. IGS./WI. UU. OX/W. OKS. MH/Y. IM: a press
-cutting from an English weekly periodical _Modern Society_, subject
+cutting from an English weekly periodical <reference to="periodical">_Modern Society_</reference>, subject
 corporal chastisement in girls’ schools: a pink ribbon which had
 festooned an Easter egg in the year 1899: two partly uncoiled rubber
 preservatives with reserve pockets, purchased by post from Box 32, P.
@@ -2919,8 +2920,8 @@ position) b) anal violation by male religious (fully clothed, eyes
 abject) of female religious (partly clothed, eyes direct), purchased by
 post from Box 32, P. O., Charing Cross, London, W. C.: a press cutting
 of recipe for renovation of old tan boots: a 1d adhesive stamp,
-lavender, of the reign of Queen Victoria: a chart of the measurements
-of Leopold Bloom compiled before, during and after 2 months’
+lavender, of the reign of <allusion persName="Alexandrina Victoria">Queen Victoria</allusion>: a chart of the measurements
+of <person persName="Leopold Bloom">Leopold Bloom</person> compiled before, during and after 2 months’
 consecutive use of Sandow-Whiteley’s pulley exerciser (men’s 15/-,
 athlete’s 20/-) viz. chest 28 in and 29 1/2 in, biceps 9 in and 10 in,
 forearm 8 1/2 in and 9 in, thigh 10 in and 12 in, calf 11 in and 12 in:
@@ -2961,8 +2962,8 @@ during the South African campaign! What a relief it would have been!
 <p>What object did Bloom add to this collection of objects?
 
 </p>
-<p>A 4th typewritten letter received by Henry Flower (let H. F. be L. B.)
-from Martha Clifford (find M. C.).
+<p>A 4th typewritten letter received by <person persName="Henry Flower">Henry Flower</person> (let H. F. be L. B.)
+from <person persName="Martha Clifford">Martha Clifford</person> (find M. C.).
 
 </p>
 <p>What pleasant reflection accompanied this action?
@@ -2970,8 +2971,8 @@ from Martha Clifford (find M. C.).
 </p>
 <p>The reflection that, apart from the letter in question, his magnetic
 face, form and address had been favourably received during the course
-of the preceding day by a wife (Mrs Josephine Breen, born Josie
-Powell), a nurse, Miss Callan (Christian name unknown), a maid,
+of the preceding day by a wife (Mrs <person persName="Josephine Breen">Josephine Breen</person>, born <person persName="Josie Powell">Josie
+Powell</person>), a nurse, Miss Callan (Christian name unknown), a maid,
 Gertrude (Gerty, family name unknown).
 
 </p>
@@ -2987,9 +2988,9 @@ mercenary, variously instructed, a lady by origin.
 <p>What did the 2nd drawer contain?
 
 </p>
-<p>Documents: the birth certificate of Leopold Paula Bloom: an endowment
+<p>Documents: the birth certificate of <person persName="Leopold Bloom">Leopold Paula Bloom</person>: an endowment
 assurance policy of £ 500 in the Scottish Widows’ Assurance Society,
-intestated Millicent (Milly) Bloom, coming into force at 25 years as
+intestated <person persName="Millicent Bloom">Millicent (Milly) Bloom</person>, coming into force at 25 years as
 with profit policy of £ 430, £ 462-10-0 and £ 500 at 60 years or death,
 65 years or death and death, respectively, or with profit policy
 (paidup) of £ 299-10-0 together with cash payment of £ 133-10-0, at
@@ -3006,23 +3007,23 @@ by deedpoll.
 <p>Quote the textual terms of this notice.
 
 </p>
-<p>I, Rudolph Virag, now resident at no 52 Clanbrassil street, Dublin,
+<p>I, <person persName="Rudolph Virag">Rudolph Virag</person>, now resident at no 52 Clanbrassil street, Dublin,
 formerly of Szombathely in the kingdom of Hungary, hereby give notice
 that I have assumed and intend henceforth upon all occasions and at all
-times to be known by the name of Rudolph Bloom.
+times to be known by the name of <person persName="Rudolph Bloom">Rudolph Bloom</person>.
 
 </p>
-<p>What other objects relative to Rudolph Bloom (born Virag) were in the
+<p>What other objects relative to <person persName="Rudolph Bloom">Rudolph Bloom</person> (born Virag) were in the
 2nd drawer?
 
 </p>
-<p>An indistinct daguerreotype of Rudolf Virag and his father Leopold
-Virag executed in the year 1852 in the portrait atelier of their
+<p>An indistinct daguerreotype of <person persName="Rudolph Bloom">Rudolf Virag</person> and his father <person persName="Leopold Virag">Leopold
+Virag</person> executed in the year 1852 in the portrait atelier of their
 (respectively) 1st and 2nd cousin, Stefan Virag of Szesfehervar,
 Hungary. An ancient haggadah book in which a pair of hornrimmed convex
 spectacles inserted marked the passage of thanksgiving in the ritual
 prayers for Pessach (Passover): a photocard of the Queen’s Hotel,
-Ennis, proprietor, Rudolph Bloom: an envelope addressed: _To My Dear
+Ennis, proprietor, <person persName="Rudolph Bloom">Rudolph Bloom</person>: an envelope addressed: _To My Dear
 Son Leopold_.
 
 </p>
@@ -3070,16 +3071,16 @@ ineffability of the tetragrammaton: the sanctity of the sabbath.
 other beliefs and practices now appeared.
 
 </p>
-<p>What first reminiscence had he of Rudolph Bloom (deceased)?
+<p>What first reminiscence had he of <person persName="Rudolph Bloom">Rudolph Bloom </person>(deceased)?
 
 </p>
-<p>Rudolph Bloom (deceased) narrated to his son Leopold Bloom (aged 6) a
+<p><person persName="Rudolph Bloom">Rudolph Bloom</person> (deceased) narrated to his son <person persName="Leopold Bloom">Leopold Bloom</person> (aged 6) a
 retrospective arrangement of migrations and settlements in and between
 Dublin, London, Florence, Milan, Vienna, Budapest, Szombathely with
-statements of satisfaction (his grandfather having seen Maria Theresia,
+statements of satisfaction (his grandfather having seen <reference to="Austrian Monarchy">Maria Theresia</reference>,
 empress of Austria, queen of Hungary), with commercial advice (having
 taken care of pence, the pounds having taken care of themselves).
-Leopold Bloom (aged 6) had accompanied these narrations by constant
+<person persName="Leopold Bloom">Leopold Bloom</person> (aged 6) had accompanied these narrations by constant
 consultation of a geographical map of Europe (political) and by
 suggestions for the establishment of affiliated business premises in
 the various centres mentioned.
@@ -3264,7 +3265,7 @@ space, passing from land to land, among peoples, amid events. Somewhere
 imperceptibly he would hear and somehow reluctantly, suncompelled, obey
 the summons of recall. Whence, disappearing from the constellation of
 the Northern Crown he would somehow reappear reborn above delta in the
-constellation of Cassiopeia and after incalculable eons of
+constellation of <allusion to="star constellation">Cassiopeia</allusion> and after incalculable eons of
 peregrination return an estranged avenger, a wreaker of justice on
 malefactors, a dark crusader, a sleeper awakened, with financial
 resources (by supposition) surpassing those of Rothschild or the silver
@@ -3287,7 +3288,7 @@ the night, rendering invisible: the uncertainty of thoroughfares,
 rendering perilous: the necessity for repose, obviating movement: the
 proximity of an occupied bed, obviating research: the anticipation of
 warmth (human) tempered with coolness (linen), obviating desire and
-rendering desirable: the statue of Narcissus, sound without echo,
+rendering desirable: the statue of <allusion to="Greek Mythology">Narcissus</allusion>, sound without echo,
 desired desire.
 
 </p>
@@ -3345,7 +3346,7 @@ years did Bloom now, having effected natural obscurity by the
 extinction of artificial light, silently suddenly comprehend?
 
 </p>
-<p>Where was Moses when the candle went out?
+<p>Where was <reference to="Moses of Egypt">Moses</reference> when the candle went out?
 
 </p>
 <p>What imperfections in a perfect day did Bloom, walking, charged with
@@ -3358,14 +3359,14 @@ a certain quantity of tea from Thomas Kernan (agent for Pulbrook,
 Robertson and Co, 5 Dame Street, Dublin, and 2 Mincing Lane, London E.
 C.): to certify the presence or absence of posterior rectal orifice in
 the case of Hellenic female divinities: to obtain admission (gratuitous
-or paid) to the performance of _Leah_ by Mrs Bandmann Palmer at the
+or paid) to the performance of <reference to="play">_Leah_</reference> by Mrs Bandmann Palmer at the
 Gaiety Theatre, 46, 47, 48, 49 South King street.
 
 </p>
 <p>What impression of an absent face did Bloom, arrested, silently recall?
 
 </p>
-<p>The face of her father, the late Major Brian Cooper Tweedy, Royal
+<p>The face of her father, the late Major <person persName="Brian Tweedy">Brian Cooper Tweedy</person>, Royal
 Dublin Fusiliers, of Gibraltar and Rehoboth, Dolphin’s Barn.
 
 </p>
@@ -3391,7 +3392,7 @@ curvilinear, a camisole of batiste with thin lace border, an accordion
 underskirt of blue silk moirette, all these objects being disposed
 irregularly on the top of a rectangular trunk, quadruple battened,
 having capped corners, with multicoloured labels, initialled on its
-fore side in white lettering B. C. T. (Brian Cooper Tweedy).
+fore side in white lettering B. C. T. (<person persName="Brian Tweedy">Brian Cooper Tweedy</person>).
 
 </p>
 <p>What impersonal objects were perceived?
@@ -3406,7 +3407,7 @@ soapdish and brushtray (on the washstand, together), pitcher and night
 article (on the floor, separate).
 
 </p>
-<p>Bloom’s acts?
+<p><person persName="Leopold Bloom">Bloom</person>’s acts?
 
 </p>
 <p>He deposited the articles of clothing on a chair, removed his remaining
@@ -3451,13 +3452,13 @@ alone in a series originating in and repeated to infinity.
 
 </p>
 <p>Assuming Mulvey to be the first term of his series, Penrose, Bartell
-d’Arcy, professor Goodwin, Julius Mastiansky, John Henry Menton, Father
+d’Arcy, professor Goodwin, <person persName="Julius Mastiansky">Julius Mastiansky</person>, <person persName="John Menton">John Henry Menton</person>, Father
 Bernard Corrigan, a farmer at the Royal Dublin Society’s Horse Show,
-Maggot O’Reilly, Matthew Dillon, Valentine Blake Dillon (Lord Mayor of
-Dublin), Christopher Callinan, Lenehan, an Italian organgrinder, an
-unknown gentleman in the Gaiety Theatre, Benjamin Dollard, Simon
-Dedalus, Andrew (Pisser) Burke, Joseph Cuffe, Wisdom Hely, Alderman
-John Hooper, Dr Francis Brady, Father Sebastian of Mount Argus, a
+<person persName="Maggot O'Reilly">Maggot O’Reilly</person>, <person persName="Matthew Dillon">Matthew Dillon</person>, <person persName="Valentine Dillon">Valentine Blake Dillon</person> (Lord Mayor of
+Dublin), <person persName="Christopher Callinan">Christopher Callinan</person>, Lenehan, an Italian organgrinder, an
+unknown gentleman in the Gaiety Theatre, <person persName="Benjamin Dollard">Benjamin Dollard</person>, <person persName="Simon Dedalus">Simon
+Dedalus</person>, <person persName="Andrew Burke">Andrew (Pisser) Burke</person>, <person persName="Joseph Cuffe">Joseph Cuffe</person>, Wisdom Hely, Alderman
+<person persName="John Hooper">John Hooper</person>, Dr <person persName="Francis Brady">Francis Brady</person>, Father Sebastian of Mount Argus, a
 bootblack at the General Post Office, Hugh E. (Blazes) Boylan and so
 each and so on to no last term.
 
@@ -3640,19 +3641,19 @@ catechetical interrogation.
 
 </p>
 <p>Negative: he omitted to mention the clandestine correspondence between
-Martha Clifford and Henry Flower, the public altercation at, in and in
+<person persName="Martha Clifford">Martha Clifford</person> and <person persName="Henry Flower">Henry Flower</person>, the public altercation at, in and in
 the vicinity of the licensed premises of Bernard Kiernan and Co,
 Limited, 8, 9 and 10 Little Britain street, the erotic provocation and
 response thereto caused by the exhibitionism of Gertrude (Gerty),
 surname unknown. Positive: he included mention of a performance by Mrs
-Bandmann Palmer of _Leah_ at the Gaiety Theatre, 46, 47, 48, 49 South
+Bandmann Palmer of <reference to="play">_Leah_</reference> at the Gaiety Theatre, 46, 47, 48, 49 South
 King street, an invitation to supper at Wynn’s (Murphy’s) Hotel, 35, 36
 and 37 Lower Abbey street, a volume of peccaminous pornographical
 tendency entituled _Sweets of Sin_, anonymous author a gentleman of
 fashion, a temporary concussion caused by a falsely calculated movement
 in the course of a postcenal gymnastic display, the victim (since
-completely recovered) being Stephen Dedalus, professor and author,
-eldest surviving son of Simon Dedalus, of no fixed occupation, an
+completely recovered) being <person persName="Stephen Dedalus">Stephen Dedalus</person>, professor and author,
+eldest surviving son of <person persName="Simon Dedalus">Simon Dedalus</person>, of no fixed occupation, an
 aeronautical feat executed by him (narrator) in the presence of a
 witness, the professor and author aforesaid, with promptitude of
 decision and gymnastic flexibility.
@@ -3667,7 +3668,7 @@ decision and gymnastic flexibility.
 <p>Which event or person emerged as the salient point of his narration?
 
 </p>
-<p>Stephen Dedalus, professor and author.
+<p><person persName="Stephen Dedalus">Stephen Dedalus</person>, professor and author.
 
 </p>
 <p>What limitations of activity and inhibitions of conjugal rights were
@@ -3751,7 +3752,7 @@ the childman weary, the manchild in the womb.
 <p>With?
 
 </p>
-<p>Sinbad the Sailor and Tinbad the Tailor and Jinbad the Jailer and
+<p><allusion to="Middle-Eastern literature">Sinbad the Sailor</allusion> and Tinbad the Tailor and Jinbad the Jailer and
 Whinbad the Whaler and Ninbad the Nailer and Finbad the Failer and
 Binbad the Bailer and Pinbad the Pailer and Minbad the Mailer and
 Hinbad the Hailer and Rinbad the Railer and Dinbad the Kailer and
@@ -3766,8 +3767,7 @@ auk’s egg in the night of the bed of all the auks of the rocs of
 Darkinbad the Brightdayler.
 
 </p>
-<p>Where?
+<p>Where?</p>
     </location>
-</ulysess>
+</ulysses>
 
-</p><p>
