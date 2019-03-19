@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs"
+    version="2.0">
+    <xsl:template match="/">
+        <html>
+            <head>
+                
+                <title>The Wanderings of Ulysses</title></head>
+            <body>
+                
+                <h1>Calypso</h1>
+                <xsl:apply-templates select="//body"/>
+                
+            </body>
+            
+        </html>
+    </xsl:template>
+    <xsl:template match="p">
+        <p>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    <xsl:template match="person[@type='LeopoldBloom']">
+        <span class="person">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="person[@type='MarianBloom']">
+        <span class="person">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="person[@type='Cat']">
+        <span class="person">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="said">
+        <span class="said">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+</xsl:stylesheet>
