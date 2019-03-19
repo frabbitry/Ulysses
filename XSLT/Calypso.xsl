@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
+    
     <xsl:template match="/">
         <html>
             <head>
@@ -11,35 +12,27 @@
             <body>
                 
                 <h1>Calypso</h1>
-                <xsl:apply-templates select="//body"/>
+                <xsl:apply-templates select="//ulysses"/>
                 
             </body>
             
         </html>
     </xsl:template>
-    <xsl:template match="p">
-        <p>
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
-    <xsl:template match="person[@type='LeopoldBloom']">
-        <span class="person">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    <xsl:template match="person[@type='MarianBloom']">
-        <span class="person">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    <xsl:template match="person[@type='Cat']">
-        <span class="person">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-    <xsl:template match="said">
-        <span class="said">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
+    
+
+<xsl:template match="p">
+    <p>
+        <xsl:apply-templates/>
+    </p>
+</xsl:template>
+<xsl:template match="person">
+    <span class="person">
+        <xsl:apply-templates/>
+    </span>
+</xsl:template>
+<xsl:template match="said">
+    <span class="said">
+        <xsl:apply-templates/>
+    </span>
+</xsl:template>
 </xsl:stylesheet>
