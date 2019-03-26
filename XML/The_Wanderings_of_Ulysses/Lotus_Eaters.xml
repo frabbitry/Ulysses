@@ -41,7 +41,7 @@ that. Those <reference to = "Ceylon">Cinghalese</reference> lobbing about in the
 not doing a hand’s turn all day. Sleep six months out of twelve. Too
 hot to quarrel. Influence of the climate. Lethargy. Flowers of
 idleness. The air feeds most. <reference to = "French">Azotes.</reference> Hothouse in Botanic gardens.
-<allusion persName = "Percy Shelley">Sensitive plants.</allusion> Waterlilies. Petals too tired to. Sleeping sickness
+<allusion who  = "Percy Shelley">Sensitive plants.</allusion> Waterlilies. Petals too tired to. Sleeping sickness
 in the air. Walk on roseleaves. Imagine trying to eat tripe and
 cowheel. Where was the chap I saw in that picture somewhere? Ah yes, in
 the <reference to = "death">dead sea</reference> floating on his back, reading a book with a parasol open.
@@ -66,7 +66,7 @@ In.</p></location>
 
 <location name = "49 Westland Row" lat = "53.34312" lon = "-6.25097">He handed the card through the brass grill.
 
-<said persName = " Leopold Bloom">—Are there any letters for me? he asked.</said>
+<said who  = " Leopold Bloom">—Are there any letters for me? he asked.</said>
 
 <p><reference to = "Royal Dublin Fusiliers">While the postmistress searched a pigeonhole he gazed at the recruiting
 poster with soldiers of all arms on parade: and held the tip of his
@@ -86,11 +86,11 @@ reviewing again the soldiers on parade. <reference to = "Royal Dublin Fusiliers"
 Castoff soldier. There: bearskin cap and hackle plume. No, he’s a
 grenadier. Pointed cuffs. There he is: royal Dublin fusiliers.
 Redcoats. Too showy. That must be why the women go after them. Uniform.
-Easier to enlist and drill. </reference><person persName = "Maud Gonne">Maud Gonne’s letter about taking them off
-O’Connell street at night: disgrace to our Irish capital.</person> <person persName = "Arthur Griffith">Griffith’s
+Easier to enlist and drill. </reference><person who  = "Maud Gonne">Maud Gonne’s letter about taking them off
+O’Connell street at night: disgrace to our Irish capital.</person> <person who  = "Arthur Griffith">Griffith’s
 paper</person> is on the same tack now: an army rotten with venereal disease:
 overseas or halfseasover empire. Half baked they look: hypnotised like.
-Eyes front. Mark time. Table: able. Bed: ed. <person persName = "Edward VII">The King’s own. Never see
+Eyes front. Mark time. Table: able. Bed: ed. <person who  = "Edward VII">The King’s own. Never see
 him dressed up as a fireman or a bobby. A mason, yes.</person></p>
 <p>
 He strolled out of the postoffice and turned to the right. Talk: as if
@@ -103,32 +103,32 @@ pinned on: photo perhaps. Hair? No.</p>
 <p>M’Coy. Get rid of him quickly. Take me out of my way. Hate company when
 you.</p>
 
-<said persName = "M'Coy">—Hello, Bloom. Where are you off to?</said>
+<said who  = "M'Coy">—Hello, Bloom. Where are you off to?</said>
 
-<said persName = "Leopold Bloom">—Hello, M’Coy. Nowhere in particular.</said>
+<said who  = "Leopold Bloom">—Hello, M’Coy. Nowhere in particular.</said>
 
-<said persName = "M'Coy">—How’s the body?</said>
+<said who  = "M'Coy">—How’s the body?</said>
 
-<said persName = "Leopold Bloom">—Fine. How are you?</said>
+<said who  = "Leopold Bloom">—Fine. How are you?</said>
 
-<said persName = "M'Coy">—Just keeping alive, M’Coy said.</said>
+<said who  = "M'Coy">—Just keeping alive, M’Coy said.</said>
 
 <p>His eyes on the black tie and clothes he asked with low respect:
 </p>
-<said persName = "M'Coy">—Is there any... no trouble I hope? I see you’re...</said>
+<said who  = "M'Coy">—Is there any... no trouble I hope? I see you’re...</said>
 
-<said persName = "Leopold Bloom">—O, no, Mr Bloom said. Poor Dignam, you know. The funeral is today.</said>
+<said who  = "Leopold Bloom">—O, no, Mr Bloom said. Poor Dignam, you know. The funeral is today.</said>
 
-<said persName = "M'Coy">—To be sure, poor fellow. So it is. What time?</said>
+<said who  = "M'Coy">—To be sure, poor fellow. So it is. What time?</said>
 
 <p>A photo it isn’t. A badge maybe.</p>
 
-<said persName = "Leopold Bloom">—E...eleven, Mr Bloom answered.
+<said who  = "Leopold Bloom">—E...eleven, Mr Bloom answered.
 </said>
-<said persName = "M'Coy">—I must try to get out there, M’Coy said. Eleven, is it? I only heard
+<said who  = "M'Coy">—I must try to get out there, M’Coy said. Eleven, is it? I only heard
 it last night. Who was telling me? Holohan. You know Hoppy?
 </said>
-<said persName = "Leopold Bloom">—I know.</said>
+<said who  = "Leopold Bloom">—I know.</said>
 
 <p>Mr Bloom gazed across the road at the outsider drawn up before the door
 of the Grosvenor. The porter hoisted the valise up on the well. She
@@ -138,10 +138,10 @@ collar, warm for a day like this, looks like blanketcloth. Careless
 stand of her with her hands in those patch pockets. Like that haughty
 creature at the polo match. Women all for caste till you touch the
 spot. Handsome is and handsome does. Reserved about to yield. The
-honourable Mrs and <allusion persName = "Shakespeare">Brutus is an honourable man.</allusion> Possess her once take
+honourable Mrs and <allusion who  = "Shakespeare">Brutus is an honourable man.</allusion> Possess her once take
 the starch out of her.</p>
 </location>
-<location name = "31 Westland Row" lat = "53.34322" lon = "-6.25082"><said persName = "M'Coy">—I was with Bob Doran, he’s on one of his periodical bends, and what do
+<location name = "31 Westland Row" lat = "53.34322" lon = "-6.25082"><said who  = "M'Coy">—I was with Bob Doran, he’s on one of his periodical bends, and what do
 you call him Bantam Lyons. Just down there in Conway’s we were.</said>
 
 <p>Doran Lyons in Conway’s. She raised a gloved hand to her hair. In came
@@ -151,24 +151,24 @@ braided drums. Clearly I can see today. Moisture about gives long sight
 perhaps. Talking of one thing or another. Lady’s hand. Which side will
 she get up?</p>
 
-<said persName = "M'Coy">—And he said: _Sad thing about our poor friend Paddy! What Paddy?_ I
+<said who  = "M'Coy">—And he said: _Sad thing about our poor friend Paddy! What Paddy?_ I
 said. _Poor little Paddy Dignam_, he said.</said>
 
 <p>Off to the country: Broadstone probably. High brown boots with laces
-dangling. Wellturned foot. What is he <allusion persName = "Robert M. Adams">foostering</allusion> over that change for?
+dangling. Wellturned foot. What is he <allusion who  = "Robert M. Adams">foostering</allusion> over that change for?
 Sees me looking. Eye out for other fellow always. Good fallback. <allusion to = "proverb">Two
 strings to her bow.
 </allusion></p>
-<said persName = "M'Coy">—_Why?_ I said. _What’s wrong with him?_ I said.</said>
+<said who  = "M'Coy">—_Why?_ I said. _What’s wrong with him?_ I said.</said>
 
 <p>Proud: rich: silk stockings.</p>
 
-<said persName = "Leopold Bloom">—Yes, Mr Bloom said.</said>
+<said who  = "Leopold Bloom">—Yes, Mr Bloom said.</said>
 
 <p>He moved a little to the side of M’Coy’s talking head. Getting up in a
 minute.</p>
 
-<said persName = "M'Coy">—_What’s wrong with him_? He said. _He’s dead_, he said. And, faith, he
+<said who  = "M'Coy">—_What’s wrong with him_? He said. _He’s dead_, he said. And, faith, he
 filled up. _Is it Paddy Dignam_? I said. I couldn’t believe it when I
 heard it. I was with him no later than Friday last or Thursday was it
 in the Arch. _Yes,_ he said. _He’s gone. He died on Monday, poor
@@ -178,22 +178,22 @@ fellow_.</said>
 <p>
 A heavy tramcar honking its gong slewed between.</p>
 
-<p>Lost it. Curse your noisy pugnose. Feels locked out of it. <allusion persName = "Thomas Moore">Paradise and
+<p>Lost it. Curse your noisy pugnose. Feels locked out of it. <allusion who  = "Thomas Moore">Paradise and
 the peri.</allusion> Always happening like that. The very moment. Girl in Eustace
 street hallway Monday was it settling her garter. Her friend covering
 the display of. _Esprit de corps_. Well, what are you gaping at?</p>
-<said persName = "Leopold Bloom">
+<said who  = "Leopold Bloom">
 —Yes, yes, Mr Bloom said after a dull sigh. Another gone.</said>
 
-<said persName = "M'Coy">—One of the best, M’Coy said.</said>
+<said who  = "M'Coy">—One of the best, M’Coy said.</said>
 
 <p>The tram passed. They drove off towards the Loop Line bridge, her rich
 gloved hand on the steel grip. Flicker, flicker: the laceflare of her
 hat in the sun: flicker, flick.</p>
 
-<said persName = "M'Coy">—Wife well, I suppose? M’Coy’s changed voice said.</said>
+<said who  = "M'Coy">—Wife well, I suppose? M’Coy’s changed voice said.</said>
 
-<said persName = "Leopold Bloom">—O, yes, Mr Bloom said. Tiptop, thanks.</said>
+<said who  = "Leopold Bloom">—O, yes, Mr Bloom said. Tiptop, thanks.</said>
 
 <p>He unrolled the newspaper baton idly and read idly:</p>
 
@@ -202,54 +202,54 @@ hat in the sun: flicker, flick.</p>
      Incomplete.
      With it an abode of bliss.</p>
 
-<said persName = "M'Coy">—My missus has just got an engagement. At least it’s not settled yet.</said>
+<said who  = "M'Coy">—My missus has just got an engagement. At least it’s not settled yet.</said>
 
 <p>Valise tack again. By the way no harm. I’m off that, thanks.</p>
 
 <p>Mr Bloom turned his largelidded eyes with unhasty friendliness.</p>
 
-<said persName = "Leopold Bloom">—My wife too, he said. She’s going to sing at a swagger affair in the
+<said who  = "Leopold Bloom">—My wife too, he said. She’s going to sing at a swagger affair in the
 Ulster Hall, Belfast, on the twentyfifth.</said>
 
-<said persName = "M'Coy">—That so? M’Coy said. Glad to hear that, old man. Who’s getting it up?</said>
+<said who  = "M'Coy">—That so? M’Coy said. Glad to hear that, old man. Who’s getting it up?</said>
 
 <p>Mrs Marion Bloom. Not up yet. Queen was in her bedroom eating bread
 and. No book. <reference to = "fortune telling">Blackened court cards laid along her thigh by sevens.
 Dark lady and fair man.</reference> Letter. Cat furry black ball. Torn strip of
 envelope.</p>
 
-<p>     <allusion persName = "Mozart">Love’s
+<p>     <allusion who  = "Mozart">Love’s
      Old
      Sweet
      Song
      Comes lo-ove’s old...</allusion></p>
 
-<said persName = "Leopold Bloom">—It’s a kind of a tour, don’t you see, Mr Bloom said thoughtfully.
+<said who  = "Leopold Bloom">—It’s a kind of a tour, don’t you see, Mr Bloom said thoughtfully.
 _Sweeeet song_. There’s a committee formed. Part shares and part
 profits.</said>
 
 <p>M’Coy nodded, picking at his moustache stubble.
 </p>
-<said persName = "M'Coy">—O, well, he said. That’s good news.</said>
+<said who  = "M'Coy">—O, well, he said. That’s good news.</said>
 
 <p>He moved to go.</p>
 
-<said persName = "M'Coy">—Well, glad to see you looking fit, he said. Meet you knocking around.</said>
+<said who  = "M'Coy">—Well, glad to see you looking fit, he said. Meet you knocking around.</said>
 
-<said persName = "Leopold Bloom">—Yes, Mr Bloom said.</said>
+<said who  = "Leopold Bloom">—Yes, Mr Bloom said.</said>
 
-<said persName = "M'Coy">—Tell you what, M’Coy said. You might put down my name at the funeral,
+<said who  = "M'Coy">—Tell you what, M’Coy said. You might put down my name at the funeral,
 will you? I’d like to go but I mightn’t be able, you see. There’s a
 drowning case at Sandycove may turn up and then the coroner and myself
 would have to go down if the body is found. You just shove in my name
 if I’m not there, will you?</said>
 
-<said persName = "Leopold BLoom">—I’ll do that, Mr Bloom said, moving to get off. That’ll be all right.</said>
+<said who  = "Leopold BLoom">—I’ll do that, Mr Bloom said, moving to get off. That’ll be all right.</said>
 
-<said persName = "M'Coy">—Right, M’Coy said brightly. Thanks, old man. I’d go if I possibly
+<said who  = "M'Coy">—Right, M’Coy said brightly. Thanks, old man. I’d go if I possibly
 could. Well, tolloll. Just C. P. M’Coy will do.</said>
 
-<said persName = "Leopold Bloom">—That will be done, Mr Bloom answered firmly.</said>
+<said who  = "Leopold Bloom">—That will be done, Mr Bloom answered firmly.</said>
 
 <p>Didn’t catch me napping that wheeze. The quick touch. Soft mark. I’d
 like my job. Valise I have a particular fancy for. Leather. Capped
@@ -270,13 +270,13 @@ herself be vaccinated again. Your wife and my wife.</p>
 
 <p>Mr Bloom stood at the corner, his eyes wandering over the multicoloured
 hoardings. <reference to = "Edward VII">Cantrell and Cochrane’s Ginger Ale (Aromatic). </reference>Clery’s
-Summer Sale. No, he’s going on straight. Hello. <allusion persName = "John Augustin Daly">_Leah_ tonight.</allusion><person persName = "Millicent Palmer"> Mrs
-Bandmann Palmer.</person> Like to see her again in that. <allusion persName = "Shakespeare">_Hamlet_ </allusion>she played
+Summer Sale. No, he’s going on straight. Hello. <allusion who  = "John Augustin Daly">_Leah_ tonight.</allusion><person who  = "Millicent Palmer"> Mrs
+Bandmann Palmer.</person> Like to see her again in that. <allusion who  = "Shakespeare">_Hamlet_ </allusion>she played
 last night. Male impersonator. Perhaps he was a woman. Why Ophelia
-committed suicide. Poor papa! How he used to talk of <person persName = "Kate Bateman">Kate Bateman</person> in
+committed suicide. Poor papa! How he used to talk of <person who  = "Kate Bateman">Kate Bateman</person> in
 that. Outside the Adelphi in London waited all the afternoon to get in.
-Year before I was born that was: sixtyfive. And <person persName = "Adelaide Ristori">Ristori</person> in Vienna. What
-is this the right name is? By Mosenthal it is. <allusion persName = "Salomon Hermann Mosenhal">Rachel, is it? </allusion>No. The
+Year before I was born that was: sixtyfive. And <person who  = "Adelaide Ristori">Ristori</person> in Vienna. What
+is this the right name is? By Mosenthal it is. <allusion who  = "Salomon Hermann Mosenhal">Rachel, is it? </allusion>No. The
 scene he was always talking about where the old blind Abraham
 recognises the voice and puts his fingers on his face.</p>
 
@@ -382,9 +382,9 @@ go to the trottingmatches. She listens with big dark soft eyes. Tell
 her: more and more: all. Then a sigh: silence. Long long long rest.</p><p>Going under the railway arch he took out the envelope, tore it swiftly
 in shreds and scattered them towards the road. The shreds fluttered
 away, sank in the dank air: a white flutter, then all sank.</p><p>Henry Flower. You could tear up a cheque for a hundred pounds in the
-same way. Simple bit of paper. <person persName = "Edward Cecil Guinness">Lord Iveagh</person> once cashed a sevenfigure
+same way. Simple bit of paper. <person who  = "Edward Cecil Guinness">Lord Iveagh</person> once cashed a sevenfigure
 cheque for a million in the bank of Ireland. Shows you the money to be
-made out of porter. Still the other brother <person persName = "Sir Arthur Guinness">lord Ardilaun</person> has to change
+made out of porter. Still the other brother <person who  = "Sir Arthur Guinness">lord Ardilaun</person> has to change
 his shirt four times a day, they say. Skin breeds lice or vermin. A
 million pounds, wait a moment. Twopence a pint, fourpence a quart,
 eightpence a gallon of porter, no, one and fourpence a gallon of
@@ -401,18 +401,18 @@ porch he doffed his hat, took the card from his pocket and tucked it
 again behind the leather headband. Damn it. I might have tried to work
 M’Coy for a pass to Mullingar.</p>
 
-<p>Same notice on the door. Sermon by the very reverend <person persName = "John Conmee S.J.">John Conmee S. J.</person>
-on saint <person persName = "Peter Claver">Peter Claver</person> S. J. and <reference to = "Jesuits">the African Mission</reference>. Prayers for the
-conversion of <person persName = "Wiliam Ewart Gladstone">Gladstone</person> they had too when he was almost unconscious.
-The protestants are the same. Convert <person persName = "Rev. William J. Walsh">Dr William J. Walsh D.D.</person> to the
+<p>Same notice on the door. Sermon by the very reverend <person who  = "John Conmee S.J.">John Conmee S. J.</person>
+on saint <person who  = "Peter Claver">Peter Claver</person> S. J. and <reference to = "Jesuits">the African Mission</reference>. Prayers for the
+conversion of <person who  = "Wiliam Ewart Gladstone">Gladstone</person> they had too when he was almost unconscious.
+The protestants are the same. Convert <person who  = "Rev. William J. Walsh">Dr William J. Walsh D.D.</person> to the
 true religion. <reference to = "Jesuits">Save China’s millions.</reference> Wonder how they explain it to the
-<allusion persName = "Bret Harte">heathen Chinee.</allusion> Prefer an ounce of opium. <reference to = "China">Celestials.</reference> Rank heresy for
+<allusion who  = "Bret Harte">heathen Chinee.</allusion> Prefer an ounce of opium. <reference to = "China">Celestials.</reference> Rank heresy for
 them. Buddha their god lying on his side in the museum. Taking it easy
-with hand under his cheek. <reference to = "China">Josssticks</reference> burning. Not like <allusion persName = "Pontius Pilate">Ecce Homo.</allusion>
-Crown of thorns and cross. Clever idea <person persName = "Saint Patrick">Saint Patrick </person>the shamrock.
+with hand under his cheek. <reference to = "China">Josssticks</reference> burning. Not like <allusion who  = "Pontius Pilate">Ecce Homo.</allusion>
+Crown of thorns and cross. Clever idea <person who  = "Saint Patrick">Saint Patrick </person>the shamrock.
 Chopsticks? Conmee: Martin Cunningham knows him: distinguishedlooking.
 Sorry I didn’t work him about <reference to = "Pope Pius X">getting Molly into the choir </reference>instead of
-that <person persName = "Rev. Charles Farrelley">Father Farley</person> who looked a fool but wasn’t. <reference to = "Jesuits">They’re taught that.</reference>
+that <person who  = "Rev. Charles Farrelley">Father Farley</person> who looked a fool but wasn’t. <reference to = "Jesuits">They’re taught that.</reference>
 He’s not going out in bluey specs with the sweat rolling off him to
 baptise blacks, is he? The glasses would take their fancy, flashing.
 Like to see them sitting round in a ring with blub lips, entranced,
@@ -451,7 +451,7 @@ sure of that. Not so lonely. In our confraternity. Then come out a bit
 spreeish. Let off steam. Thing is if you really believe in it. <reference to = "Christian pilgrimage">Lourdes
 cure, waters of oblivion,</reference> and the <reference to = "Catholicism">Knock apparition</reference>, statues bleeding.
 Old fellow asleep near that confessionbox. Hence those snores. Blind
-faith. <allusion persName = "Fanny Crosby">Safe in the arms of kingdom come.</allusion> Lulls all pain. Wake this time
+faith. <allusion who  = "Fanny Crosby">Safe in the arms of kingdom come.</allusion> Lulls all pain. Wake this time
 next year.
 </p>
 <p>He saw the priest stow the communion cup away, well in, and kneel an
@@ -465,9 +465,9 @@ suffered, it is. And the other one? Iron nails ran in.
 a veil and black bag. <allusion to = "Gilbert and Sullivan">Dusk and the light behind her.</allusion> She might be here
 with a ribbon round her neck and do the other thing all the same on the
 sly. Their character. That fellow that turned queen’s evidence on <reference to = "Fenians">the
-invincibles</reference> he used to receive the, <person persName = "James Carey">Carey</person> was his name, the communion
-every morning. This very church. Peter Carey, yes. No, <person persName = "Peter Claver">Peter Claver</person> I
-am thinking of. <person persName = "Denis Carey">Denis Carey.</person> And just imagine that. Wife and six
+invincibles</reference> he used to receive the, <person who  = "James Carey">Carey</person> was his name, the communion
+every morning. This very church. Peter Carey, yes. No, <person who  = "Peter Claver">Peter Claver</person> I
+am thinking of. <person who  = "Denis Carey">Denis Carey.</person> And just imagine that. Wife and six
 children at home. And plotting that murder all the time. Those
 crawthumpers, now that’s a good name for them, there’s always something
 shiftylooking about them. They’re not straight men of business either.
@@ -495,9 +495,9 @@ people looking up:</p>
 
 <p><allusion to = "Stabat Mater">_Quis est homo._</allusion></p>
 
-<p>Some of that old sacred music splendid. <allusion persName = "Giusseppe Saverio Raffaele">Mercadante: seven last words.</allusion>
-<allusion persName = "Mozart">Mozart’s twelfth mass: _Gloria_ </allusion>in that. Those old popes keen on music,
-on art and statues and pictures of all kinds. <allusion persName = "Giovanni Pierluigi da Palestrina">Palestrina</allusion> for example
+<p>Some of that old sacred music splendid. <allusion who  = "Giusseppe Saverio Raffaele">Mercadante: seven last words.</allusion>
+<allusion who  = "Mozart">Mozart’s twelfth mass: _Gloria_ </allusion>in that. Those old popes keen on music,
+on art and statues and pictures of all kinds. <allusion who  = "Giovanni Pierluigi da Palestrina">Palestrina</allusion> for example
 too. They had a gay old time while it lasted. Healthy too, <reference to = "Catholicism">chanting,
 regular hours,</reference> then brew liqueurs. <reference to = "Catholicism">Benedictine. Green Chartreuse.</reference>
 Still, <reference to = "Catholicism">having eunuchs in their choir</reference> that was coming it a bit thick.
@@ -515,7 +515,7 @@ altar, holding the thing out from him, and he and the massboy answered
 each other in Latin. Then the priest knelt down and began to read off a
 card:</reference>
 </p>
-<said persName = "John Conmee S.J.">—<reference to = "Catholicism">O God, our refuge and our strength...</reference></said>
+<said who  = "John Conmee S.J.">—<reference to = "Catholicism">O God, our refuge and our strength...</reference></said>
 
 <p>Mr Bloom put his face forward to catch the words. English. Throw them
 the bone. I remember slightly. <reference to = "Catholicism">How long since your last mass?</reference> <allusion to = "Rosenbach MS">Glorious
@@ -541,7 +541,7 @@ the church:</reference> they mapped out the whole theology of it.
 </p>
 <p>The priest prayed:</p>
 
-<said persName = "John Conmee S.J.">—<reference to = "Catholicism">Blessed Michael, archangel, defend us in the hour of conflict. Be our
+<said who  = "John Conmee S.J.">—<reference to = "Catholicism">Blessed Michael, archangel, defend us in the hour of conflict. Be our
 safeguard against the wickedness and snares of the devil (may God
 restrain him, we humbly pray!): and do thou, O prince of the heavenly
 host, by the power of God thrust Satan down to hell and with him those
@@ -562,7 +562,7 @@ before. Still like you better untidy. Good job it wasn’t farther south.
 He passed, discreetly buttoning, down the aisle and out through the
 main door into the light. He stood a moment unseeing by the cold black
 marble bowl while before him and behind two worshippers dipped furtive
-hands in the low tide of holy water. Trams: a car of <person persName = "William T.C. Prescott">Prescott’s</person>
+hands in the low tide of holy water. Trams: a car of <person who  = "William T.C. Prescott">Prescott’s</person>
 dyeworks: a widow in her weeds. Notice because I’m in mourning myself.
 He covered himself. How goes the time? Quarter past. Time enough yet.
 Better get that lotion made up. Where is this? Ah yes, the last time.</p></location>
@@ -592,26 +592,26 @@ draughts. Lovephiltres. <reference to = "medicine">Paragoric poppysyrup bad for 
 pores or the phlegm. Poisons the only cures. Remedy where you least
 expect it. Clever of nature.</p>
 
-<said persName = "chemist">—About a fortnight ago, sir?</said>
+<said who  = "chemist">—About a fortnight ago, sir?</said>
 
-<said persName = "Leopold Bloom">—Yes, Mr Bloom said.</said>
+<said who  = "Leopold Bloom">—Yes, Mr Bloom said.</said>
 
 <p>He waited by the counter, inhaling slowly the keen reek of drugs, the
 dusty dry smell of sponges and loofahs. Lot of time taken up telling
 your aches and pains.</p>
 
-<said persName = "Leopold Bloom">—Sweet almond oil and tincture of benzoin, Mr Bloom said, and then
+<said who  = "Leopold Bloom">—Sweet almond oil and tincture of benzoin, Mr Bloom said, and then
 orangeflower water...</said>
 
 <p>It certainly did make her skin so delicate white like wax.
 </p>
-<said persName = "Leopold BLoom">—And white wax also, he said.</said>
+<said who  = "Leopold BLoom">—And white wax also, he said.</said>
 
 <p>Brings out the darkness of her eyes. Looking at me, the sheet up to her
 eyes, Spanish, smelling herself, when I was fixing the links in my
 cuffs. Those homely recipes are often the best: <allusion to = "Dr. Chase's Recipes or, Information for Everybody">strawberries for the
 teeth: nettles and rainwater: oatmeal they say steeped in buttermilk.</allusion>
-Skinfood. <person persName = "Prince Leopold">One of the old queen’s sons, duke of Albany was it? had only
+Skinfood. <person who  = "Prince Leopold">One of the old queen’s sons, duke of Albany was it? had only
 one skin. Leopold, yes.</person> Three we have. Warts, bunions and pimples to
 make it worse. But you want a perfume too. What perfume does your?
 _Peau d’Espagne_. That orangeflower water is so fresh. Nice smell these
@@ -621,29 +621,29 @@ nice girl did it. Also I think I. Yes I. Do it in the bath. Curious
 longing I. Water to water. Combine business with pleasure. Pity no time
 for massage. Feel fresh then all the day. Funeral be rather glum.
 </p>
-<said persName = "chemist">—Yes, sir, the chemist said. That was two and nine. Have you brought a
+<said who  = "chemist">—Yes, sir, the chemist said. That was two and nine. Have you brought a
 bottle?</said>
 
-<said persName = "Leopold Bloom">—No, Mr Bloom said. Make it up, please. I’ll call later in the day and
+<said who  = "Leopold Bloom">—No, Mr Bloom said. Make it up, please. I’ll call later in the day and
 I’ll take one of these soaps. How much are they?</said>
 
-<said persName = "chemist">—Fourpence, sir.</said>
+<said who  = "chemist">—Fourpence, sir.</said>
 
 <p>Mr Bloom raised a cake to his nostrils. Sweet lemony wax.</p>
 
-<said persName = "Leopold Bloom">—I’ll take this one, he said. That makes three and a penny.</said>
+<said who  = "Leopold Bloom">—I’ll take this one, he said. That makes three and a penny.</said>
 
-<said persName = "chemist">—Yes, sir, the chemist said. You can pay all together, sir, when you
+<said who  = "chemist">—Yes, sir, the chemist said. You can pay all together, sir, when you
 come back.</said>
 
-<said persName = "Leopold Bloom">—Good, Mr Bloom said.</said>
+<said who  = "Leopold Bloom">—Good, Mr Bloom said.</said>
 
 <p>He strolled out of the shop, the newspaper baton under his armpit, the
 coolwrappered soap in his left hand.</p>
 
 <p>At his armpit Bantam Lyons’ voice and hand said:</p>
 
-<said persName = "Bantam Lyons">—Hello, Bloom. What’s the best news? Is that today’s? Show us a minute.</said>
+<said who  = "Bantam Lyons">—Hello, Bloom. What’s the best news? Is that today’s? Show us a minute.</said>
 
 <p>Shaved off his moustache again, by Jove! Long cold upper lip. To look
 younger. He does look balmy. Younger than I am.</p>
@@ -652,31 +652,31 @@ younger. He does look balmy. Younger than I am.</p>
 wash too. Take off the rough dirt. Good morning, have you used Pears’
 soap? Dandruff on his shoulders. Scalp wants oiling.</p>
 
-<said persName = "Bantam Lyons">—I want to see about that French horse that’s running today, Bantam
+<said who  = "Bantam Lyons">—I want to see about that French horse that’s running today, Bantam
 Lyons said. Where the bugger is it?</said>
 
 <p>He rustled the pleated pages, jerking his chin on his high collar.
 Barber’s itch. Tight collar he’ll lose his hair. Better leave him the
 paper and get shut of him.</p>
 
-<said persName = "Leopold Bloom">—You can keep it, Mr Bloom said.</said>
-<said persName = "Bantam Lyons">
+<said who  = "Leopold Bloom">—You can keep it, Mr Bloom said.</said>
+<said who  = "Bantam Lyons">
 —<reference to = "horse racing">Ascot. Gold cup.</reference> Wait, Bantam Lyons muttered. Half a mo. Maximum the
 second.</said>
 
-<said persName = "Leopold Bloom">—I was just going to throw it away, Mr Bloom said.</said>
+<said who  = "Leopold Bloom">—I was just going to throw it away, Mr Bloom said.</said>
 
 <p>Bantam Lyons raised his eyes suddenly and leered weakly.</p>
 
-<said persName = "Bantam Lyons">—What’s that? his sharp voice said.</said>
+<said who  = "Bantam Lyons">—What’s that? his sharp voice said.</said>
 
-<said persName = "Leopold Bloom">—I say you can keep it, Mr Bloom answered. I was going to throw it away
+<said who  = "Leopold Bloom">—I say you can keep it, Mr Bloom answered. I was going to throw it away
 that moment.</said>
 
 <p>Bantam Lyons doubted an instant, leering: then thrust the outspread
 sheets back on Mr Bloom’s arms.</p>
 
-<said persName = "Bantam Lyons">—I’ll risk it, he said. Here, thanks.</said>
+<said who  = "Bantam Lyons">—I’ll risk it, he said. Here, thanks.</said>
 
 <p>He sped off towards Conway’s corner. God speed scut.</p>
 
@@ -703,7 +703,7 @@ Sit around under sunshades. <reference to = "cricket">Over after over. </referen
 here. Duck for six wickets</reference>. Still Captain Culler broke a window in the
 Kildare street club with <reference to = "cricket">a slog to square leg.</reference> Donnybrook fair more in
 their line. <allusion to = "When McCarthy took the flute at Inniscorthy">And the skulls we were acracking when M’Carthy took the
-floor.</allusion> Heatwave. Won’t last. <allusion persName = "Edward Fitzball">Always passing, the stream of life, which
+floor.</allusion> Heatwave. Won’t last. <allusion who  = "Edward Fitzball">Always passing, the stream of life, which
 in the stream of life we trace is dearer than them all.</allusion>
 
 Enjoy a bath now: clean trough of water, cool enamel, the gentle tepid
