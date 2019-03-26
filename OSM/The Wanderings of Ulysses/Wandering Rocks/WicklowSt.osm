@@ -1,0 +1,3318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (18903 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.3422500" minlon="-6.2614700" maxlat="53.3431700" maxlon="-6.2587500"/>
+ <node id="9101663" visible="true" version="5" changeset="16732472" timestamp="2013-06-27T20:56:23Z" user="mackerski" uid="6367" lat="53.3415811" lon="-6.2602195"/>
+ <node id="9101664" visible="true" version="7" changeset="52985684" timestamp="2017-10-16T15:44:55Z" user="VictorIE" uid="2008037" lat="53.3425877" lon="-6.2596073"/>
+ <node id="26165233" visible="true" version="5" changeset="55304824" timestamp="2018-01-09T21:37:09Z" user="LateNightTone" uid="4003485" lat="53.3430552" lon="-6.2620339"/>
+ <node id="26165238" visible="true" version="3" changeset="55304824" timestamp="2018-01-09T21:37:09Z" user="LateNightTone" uid="4003485" lat="53.3430025" lon="-6.2611564"/>
+ <node id="26165241" visible="true" version="3" changeset="16732472" timestamp="2013-06-27T20:56:21Z" user="mackerski" uid="6367" lat="53.3428377" lon="-6.2606121"/>
+ <node id="32235615" visible="true" version="4" changeset="16732606" timestamp="2013-06-27T21:09:07Z" user="mackerski" uid="6367" lat="53.3419022" lon="-6.2614220"/>
+ <node id="32235616" visible="true" version="5" changeset="17024003" timestamp="2013-07-20T14:54:58Z" user="mackerski" uid="6367" lat="53.3409569" lon="-6.2623946"/>
+ <node id="32235927" visible="true" version="6" changeset="17029629" timestamp="2013-07-20T22:50:08Z" user="mackerski" uid="6367" lat="53.3420066" lon="-6.2599387"/>
+ <node id="32236612" visible="true" version="5" changeset="19200607" timestamp="2013-11-30T20:30:21Z" user="mackerski" uid="6367" lat="53.3420406" lon="-6.2613004"/>
+ <node id="32236629" visible="true" version="7" changeset="22440383" timestamp="2014-05-20T08:34:30Z" user="mackerski" uid="6367" lat="53.3417482" lon="-6.2601168"/>
+ <node id="132560521" visible="true" version="7" changeset="21021365" timestamp="2014-03-10T09:36:53Z" user="mackerski" uid="6367" lat="53.3427111" lon="-6.2595779"/>
+ <node id="132560529" visible="true" version="5" changeset="16732472" timestamp="2013-06-27T20:56:20Z" user="mackerski" uid="6367" lat="53.3426227" lon="-6.2589774"/>
+ <node id="494229911" visible="true" version="3" changeset="16732606" timestamp="2013-06-27T21:09:08Z" user="mackerski" uid="6367" lat="53.3417181" lon="-6.2616028"/>
+ <node id="494596954" visible="true" version="5" changeset="16889634" timestamp="2013-07-09T17:06:30Z" user="ManAboutCouch" uid="51337" lat="53.3424741" lon="-6.2622199"/>
+ <node id="494596955" visible="true" version="4" changeset="16889634" timestamp="2013-07-09T17:06:30Z" user="ManAboutCouch" uid="51337" lat="53.3422576" lon="-6.2612369"/>
+ <node id="494596957" visible="true" version="5" changeset="16889634" timestamp="2013-07-09T17:06:29Z" user="ManAboutCouch" uid="51337" lat="53.3421571" lon="-6.2624184"/>
+ <node id="633611975" visible="true" version="7" changeset="64731333" timestamp="2018-11-21T09:18:09Z" user="wavewings" uid="7877095" lat="53.3428568" lon="-6.2610270">
+  <tag k="addr:housenumber" v="33-34"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="description" v="Exclusive one to one haircuts"/>
+  <tag k="level" v="1"/>
+  <tag k="name" v="The Natural Cut"/>
+  <tag k="opening_hours" v="Mo-Sa 10:00-18:30; Su Off"/>
+  <tag k="phone" v="+353-1-679-7130"/>
+  <tag k="shop" v="hairdresser"/>
+  <tag k="website" v="http://www.thenaturalcut.ie/"/>
+ </node>
+ <node id="698655667" visible="true" version="7" changeset="45172697" timestamp="2017-01-14T21:36:07Z" user="cart0" uid="2941385" lat="53.3426214" lon="-6.2609577">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="email" v="info@connscameras.ie"/>
+  <tag k="name" v="Conn's Cameras"/>
+  <tag k="opening_hours" v="Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-18:00; Su Off"/>
+  <tag k="phone" v="+353-1-677-7179"/>
+  <tag k="shop" v="photo"/>
+  <tag k="website" v="http://www.connscameras.ie/"/>
+ </node>
+ <node id="1327270445" visible="true" version="8" changeset="68193068" timestamp="2019-03-16T00:20:17Z" user="VictorIE" uid="2008037" lat="53.3425462" lon="-6.2594975">
+  <tag k="addr:housename" v="Swan Training Institute"/>
+  <tag k="addr:housenumber" v="9-11"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="college"/>
+  <tag k="college" v="language"/>
+  <tag k="contact:facebook" v="https://www.facebook.com/pages/Swan-English-Language-Training/172493233627"/>
+  <tag k="contact:twitter" v="https://twitter.com/SwanDublin/"/>
+  <tag k="email" v="info@selt.ie"/>
+  <tag k="fax" v="+353-1-6775254"/>
+  <tag k="name" v="Swan Training Institute"/>
+  <tag k="phone" v="+353-1-6775252"/>
+  <tag k="website" v="http://selt.ie/"/>
+ </node>
+ <node id="1488943160" visible="true" version="6" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3432383" lon="-6.2593554"/>
+ <node id="1497227449" visible="true" version="5" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3451352" lon="-6.2590599"/>
+ <node id="2301549281" visible="true" version="3" changeset="45172722" timestamp="2017-01-14T21:36:49Z" user="cart0" uid="2941385" lat="53.3427599" lon="-6.2607776">
+  <tag k="amenity" v="bicycle_parking"/>
+  <tag k="bicycle_parking" v="stands"/>
+  <tag k="capacity" v="6"/>
+  <tag k="covered" v="no"/>
+ </node>
+ <node id="2376159069" visible="true" version="1" changeset="16849869" timestamp="2013-07-06T15:03:46Z" user="conorb" uid="25192" lat="53.3432115" lon="-6.2605602"/>
+ <node id="2376159071" visible="true" version="1" changeset="16849869" timestamp="2013-07-06T15:03:46Z" user="conorb" uid="25192" lat="53.3430625" lon="-6.2601206"/>
+ <node id="2376159072" visible="true" version="1" changeset="16849869" timestamp="2013-07-06T15:03:46Z" user="conorb" uid="25192" lat="53.3429094" lon="-6.2602101"/>
+ <node id="2376159073" visible="true" version="1" changeset="16849869" timestamp="2013-07-06T15:03:46Z" user="conorb" uid="25192" lat="53.3427981" lon="-6.2602752"/>
+ <node id="2376159077" visible="true" version="2" changeset="51279909" timestamp="2017-08-20T15:45:23Z" user="VictorIE" uid="2008037" lat="53.3427591" lon="-6.2602971"/>
+ <node id="2390587438" visible="true" version="1" changeset="17024003" timestamp="2013-07-20T14:54:56Z" user="mackerski" uid="6367" lat="53.3410162" lon="-6.2622982"/>
+ <node id="2391003151" visible="true" version="1" changeset="17029629" timestamp="2013-07-20T22:50:07Z" user="mackerski" uid="6367" lat="53.3420598" lon="-6.2596634"/>
+ <node id="2391003152" visible="true" version="1" changeset="17029629" timestamp="2013-07-20T22:50:07Z" user="mackerski" uid="6367" lat="53.3420706" lon="-6.2598022"/>
+ <node id="2558968986" visible="true" version="2" changeset="52131616" timestamp="2017-09-18T04:41:49Z" user="VictorIE" uid="2008037" lat="53.3419856" lon="-6.2598836"/>
+ <node id="2558968988" visible="true" version="1" changeset="19200802" timestamp="2013-11-30T20:40:44Z" user="mackerski" uid="6367" lat="53.3420198" lon="-6.2600256"/>
+ <node id="2576675535" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3423057" lon="-6.2606947"/>
+ <node id="2576675536" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3422632" lon="-6.2605391"/>
+ <node id="2576675537" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3419029" lon="-6.2608207"/>
+ <node id="2576675538" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3419566" lon="-6.2610380"/>
+ <node id="2576675539" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3422921" lon="-6.2607622"/>
+ <node id="2576675540" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3421880" lon="-6.2611348"/>
+ <node id="2576675541" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3420387" lon="-6.2612542"/>
+ <node id="2576675543" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3419715" lon="-6.2610188"/>
+ <node id="2576675545" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3423313" lon="-6.2607309"/>
+ <node id="2576675546" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3423964" lon="-6.2609589"/>
+ <node id="2576675548" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3422581" lon="-6.2610696"/>
+ <node id="2576675550" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3422634" lon="-6.2610882"/>
+ <node id="2576675551" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:49:00Z" user="mentor" uid="38588" lat="53.3421912" lon="-6.2611459"/>
+ <node id="2576675552" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3424526" lon="-6.2609072"/>
+ <node id="2576675553" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3423421" lon="-6.2604727"/>
+ <node id="2576675554" visible="true" version="1" changeset="19407842" timestamp="2013-12-12T08:03:15Z" user="Meenatuggart" uid="1114651" lat="53.3423229" lon="-6.2606766"/>
+ <node id="2577255191" visible="true" version="1" changeset="19417585" timestamp="2013-12-12T17:43:42Z" user="Meenatuggart" uid="1114651" lat="53.3426143" lon="-6.2607758"/>
+ <node id="2577255193" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3425638" lon="-6.2605875"/>
+ <node id="2577255195" visible="true" version="1" changeset="19417585" timestamp="2013-12-12T17:43:42Z" user="Meenatuggart" uid="1114651" lat="53.3424398" lon="-6.2606873"/>
+ <node id="2577255197" visible="true" version="1" changeset="19417585" timestamp="2013-12-12T17:43:42Z" user="Meenatuggart" uid="1114651" lat="53.3424590" lon="-6.2607624"/>
+ <node id="2577255199" visible="true" version="1" changeset="19417585" timestamp="2013-12-12T17:43:42Z" user="Meenatuggart" uid="1114651" lat="53.3424238" lon="-6.2607938"/>
+ <node id="2577331228" visible="true" version="1" changeset="19418745" timestamp="2013-12-12T18:59:15Z" user="Meenatuggart" uid="1114651" lat="53.3422852" lon="-6.2613620"/>
+ <node id="2577331229" visible="true" version="1" changeset="19418745" timestamp="2013-12-12T18:59:15Z" user="Meenatuggart" uid="1114651" lat="53.3424205" lon="-6.2612774"/>
+ <node id="2577331231" visible="true" version="1" changeset="19418745" timestamp="2013-12-12T18:59:15Z" user="Meenatuggart" uid="1114651" lat="53.3423861" lon="-6.2611312"/>
+ <node id="2577331233" visible="true" version="1" changeset="19418745" timestamp="2013-12-12T18:59:15Z" user="Meenatuggart" uid="1114651" lat="53.3419691" lon="-6.2616136"/>
+ <node id="2577331235" visible="true" version="1" changeset="19418745" timestamp="2013-12-12T18:59:15Z" user="Meenatuggart" uid="1114651" lat="53.3420442" lon="-6.2615590"/>
+ <node id="2577331237" visible="true" version="1" changeset="19418745" timestamp="2013-12-12T18:59:15Z" user="Meenatuggart" uid="1114651" lat="53.3420153" lon="-6.2614379"/>
+ <node id="2657364733" visible="true" version="1" changeset="20409371" timestamp="2014-02-06T10:44:37Z" user="madmap77" uid="1909867" lat="53.3433213" lon="-6.2598466"/>
+ <node id="2657364735" visible="true" version="1" changeset="20409371" timestamp="2014-02-06T10:44:37Z" user="madmap77" uid="1909867" lat="53.3432292" lon="-6.2599404"/>
+ <node id="2657364737" visible="true" version="1" changeset="20409371" timestamp="2014-02-06T10:44:37Z" user="madmap77" uid="1909867" lat="53.3432553" lon="-6.2596831"/>
+ <node id="2657364739" visible="true" version="2" changeset="20410592" timestamp="2014-02-06T12:07:34Z" user="madmap77" uid="1909867" lat="53.3431653" lon="-6.2597576"/>
+ <node id="2657364741" visible="true" version="1" changeset="20409371" timestamp="2014-02-06T10:44:37Z" user="madmap77" uid="1909867" lat="53.3431788" lon="-6.2599129"/>
+ <node id="2657371754" visible="true" version="1" changeset="20409488" timestamp="2014-02-06T10:52:19Z" user="madmap77" uid="1909867" lat="53.3432171" lon="-6.2595837"/>
+ <node id="2657371756" visible="true" version="1" changeset="20409488" timestamp="2014-02-06T10:52:19Z" user="madmap77" uid="1909867" lat="53.3431999" lon="-6.2595705"/>
+ <node id="2657371758" visible="true" version="2" changeset="20410592" timestamp="2014-02-06T12:07:34Z" user="madmap77" uid="1909867" lat="53.3431496" lon="-6.2595853"/>
+ <node id="2657440925" visible="true" version="1" changeset="20410380" timestamp="2014-02-06T11:52:23Z" user="madmap77" uid="1909867" lat="53.3426786" lon="-6.2596905"/>
+ <node id="2657440927" visible="true" version="1" changeset="20410380" timestamp="2014-02-06T11:52:23Z" user="madmap77" uid="1909867" lat="53.3426674" lon="-6.2597254"/>
+ <node id="2657444635" visible="true" version="3" changeset="20410791" timestamp="2014-02-06T12:23:22Z" user="madmap77" uid="1909867" lat="53.3428351" lon="-6.2596510"/>
+ <node id="2657444636" visible="true" version="3" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037" lat="53.3428820" lon="-6.2600159"/>
+ <node id="2657444637" visible="true" version="2" changeset="20410541" timestamp="2014-02-06T12:03:23Z" user="madmap77" uid="1909867" lat="53.3429530" lon="-6.2596382"/>
+ <node id="2657444638" visible="true" version="2" changeset="20410541" timestamp="2014-02-06T12:03:23Z" user="madmap77" uid="1909867" lat="53.3429729" lon="-6.2598274"/>
+ <node id="2657444639" visible="true" version="2" changeset="20410592" timestamp="2014-02-06T12:07:34Z" user="madmap77" uid="1909867" lat="53.3430774" lon="-6.2596038"/>
+ <node id="2657444640" visible="true" version="2" changeset="20410592" timestamp="2014-02-06T12:07:34Z" user="madmap77" uid="1909867" lat="53.3430857" lon="-6.2596941"/>
+ <node id="2657444642" visible="true" version="1" changeset="20410440" timestamp="2014-02-06T11:56:47Z" user="madmap77" uid="1909867" lat="53.3429986" lon="-6.2597174"/>
+ <node id="2657444643" visible="true" version="1" changeset="20410440" timestamp="2014-02-06T11:56:48Z" user="madmap77" uid="1909867" lat="53.3430114" lon="-6.2598126"/>
+ <node id="2657444644" visible="true" version="2" changeset="20410592" timestamp="2014-02-06T12:07:34Z" user="madmap77" uid="1909867" lat="53.3431284" lon="-6.2597670"/>
+ <node id="2657444645" visible="true" version="2" changeset="20410592" timestamp="2014-02-06T12:07:34Z" user="madmap77" uid="1909867" lat="53.3431209" lon="-6.2596850"/>
+ <node id="2657453843" visible="true" version="2" changeset="20410791" timestamp="2014-02-06T12:23:22Z" user="madmap77" uid="1909867" lat="53.3428510" lon="-6.2598282"/>
+ <node id="2657453844" visible="true" version="2" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037" lat="53.3430045" lon="-6.2601057"/>
+ <node id="2657467723" visible="true" version="1" changeset="20410791" timestamp="2014-02-06T12:23:22Z" user="madmap77" uid="1909867" lat="53.3427813" lon="-6.2598458"/>
+ <node id="2657473859" visible="true" version="1" changeset="20410921" timestamp="2014-02-06T12:31:48Z" user="madmap77" uid="1909867" lat="53.3428993" lon="-6.2601797"/>
+ <node id="2657473860" visible="true" version="1" changeset="20410921" timestamp="2014-02-06T12:31:48Z" user="madmap77" uid="1909867" lat="53.3428785" lon="-6.2600889"/>
+ <node id="2657473861" visible="true" version="1" changeset="20410921" timestamp="2014-02-06T12:31:48Z" user="madmap77" uid="1909867" lat="53.3427933" lon="-6.2602535"/>
+ <node id="2657473862" visible="true" version="1" changeset="20410921" timestamp="2014-02-06T12:31:48Z" user="madmap77" uid="1909867" lat="53.3428578" lon="-6.2601022"/>
+ <node id="2657473863" visible="true" version="1" changeset="20410921" timestamp="2014-02-06T12:31:48Z" user="madmap77" uid="1909867" lat="53.3428433" lon="-6.2600392"/>
+ <node id="2657473864" visible="true" version="1" changeset="20410921" timestamp="2014-02-06T12:31:48Z" user="madmap77" uid="1909867" lat="53.3427557" lon="-6.2600966"/>
+ <node id="2657473865" visible="true" version="2" changeset="20411075" timestamp="2014-02-06T12:41:37Z" user="madmap77" uid="1909867" lat="53.3429614" lon="-6.2604815"/>
+ <node id="2657473866" visible="true" version="2" changeset="20411075" timestamp="2014-02-06T12:41:37Z" user="madmap77" uid="1909867" lat="53.3428619" lon="-6.2605644"/>
+ <node id="2657478774" visible="true" version="2" changeset="20411178" timestamp="2014-02-06T12:47:47Z" user="madmap77" uid="1909867" lat="53.3429845" lon="-6.2605610"/>
+ <node id="2657478775" visible="true" version="2" changeset="20411178" timestamp="2014-02-06T12:47:47Z" user="madmap77" uid="1909867" lat="53.3428875" lon="-6.2606442"/>
+ <node id="2657482191" visible="true" version="1" changeset="20411178" timestamp="2014-02-06T12:47:47Z" user="madmap77" uid="1909867" lat="53.3430055" lon="-6.2606246"/>
+ <node id="2657482192" visible="true" version="1" changeset="20411178" timestamp="2014-02-06T12:47:47Z" user="madmap77" uid="1909867" lat="53.3429101" lon="-6.2607120"/>
+ <node id="2657482193" visible="true" version="1" changeset="20411178" timestamp="2014-02-06T12:47:47Z" user="madmap77" uid="1909867" lat="53.3430244" lon="-6.2606789"/>
+ <node id="2657482194" visible="true" version="1" changeset="20411178" timestamp="2014-02-06T12:47:47Z" user="madmap77" uid="1909867" lat="53.3429289" lon="-6.2607689"/>
+ <node id="2657482195" visible="true" version="2" changeset="20413797" timestamp="2014-02-06T15:27:08Z" user="madmap77" uid="1909867" lat="53.3430463" lon="-6.2607484"/>
+ <node id="2657482196" visible="true" version="2" changeset="20413797" timestamp="2014-02-06T15:27:08Z" user="madmap77" uid="1909867" lat="53.3429514" lon="-6.2608356"/>
+ <node id="2657682234" visible="true" version="1" changeset="20413797" timestamp="2014-02-06T15:27:07Z" user="madmap77" uid="1909867" lat="53.3429840" lon="-6.2609280"/>
+ <node id="2657682235" visible="true" version="1" changeset="20413797" timestamp="2014-02-06T15:27:07Z" user="madmap77" uid="1909867" lat="53.3430738" lon="-6.2608497"/>
+ <node id="2657682236" visible="true" version="2" changeset="20413974" timestamp="2014-02-06T15:37:52Z" user="madmap77" uid="1909867" lat="53.3430095" lon="-6.2610204"/>
+ <node id="2657682237" visible="true" version="2" changeset="20413974" timestamp="2014-02-06T15:37:52Z" user="madmap77" uid="1909867" lat="53.3431032" lon="-6.2609442"/>
+ <node id="2657697682" visible="true" version="1" changeset="20413974" timestamp="2014-02-06T15:37:52Z" user="madmap77" uid="1909867" lat="53.3431293" lon="-6.2609230"/>
+ <node id="2657697684" visible="true" version="1" changeset="20413974" timestamp="2014-02-06T15:37:52Z" user="madmap77" uid="1909867" lat="53.3431561" lon="-6.2610155"/>
+ <node id="2657697686" visible="true" version="2" changeset="20414070" timestamp="2014-02-06T15:45:34Z" user="madmap77" uid="1909867" lat="53.3430421" lon="-6.2611082"/>
+ <node id="2657704636" visible="true" version="3" changeset="20414284" timestamp="2014-02-06T15:57:32Z" user="madmap77" uid="1909867" lat="53.3430476" lon="-6.2611912"/>
+ <node id="2657704638" visible="true" version="2" changeset="51252618" timestamp="2017-08-19T10:37:58Z" user="SJ_IRL" uid="2234810" lat="53.3431541" lon="-6.2611010"/>
+ <node id="2657704640" visible="true" version="2" changeset="20414220" timestamp="2014-02-06T15:54:27Z" user="madmap77" uid="1909867" lat="53.3431509" lon="-6.2611787"/>
+ <node id="2657717691" visible="true" version="1" changeset="20414220" timestamp="2014-02-06T15:54:27Z" user="madmap77" uid="1909867" lat="53.3430523" lon="-6.2612797"/>
+ <node id="2657717692" visible="true" version="1" changeset="20414220" timestamp="2014-02-06T15:54:27Z" user="madmap77" uid="1909867" lat="53.3431547" lon="-6.2612673"/>
+ <node id="2657728750" visible="true" version="1" changeset="20414334" timestamp="2014-02-06T16:01:04Z" user="madmap77" uid="1909867" lat="53.3430556" lon="-6.2613709"/>
+ <node id="2657728752" visible="true" version="1" changeset="20414334" timestamp="2014-02-06T16:01:04Z" user="madmap77" uid="1909867" lat="53.3431069" lon="-6.2613628"/>
+ <node id="2657728764" visible="true" version="1" changeset="20414334" timestamp="2014-02-06T16:01:04Z" user="madmap77" uid="1909867" lat="53.3431085" lon="-6.2613883"/>
+ <node id="2657728766" visible="true" version="1" changeset="20414334" timestamp="2014-02-06T16:01:04Z" user="madmap77" uid="1909867" lat="53.3431605" lon="-6.2613816"/>
+ <node id="2657731799" visible="true" version="1" changeset="20414360" timestamp="2014-02-06T16:03:25Z" user="madmap77" uid="1909867" lat="53.3431725" lon="-6.2615707"/>
+ <node id="2657731800" visible="true" version="1" changeset="20414360" timestamp="2014-02-06T16:03:25Z" user="madmap77" uid="1909867" lat="53.3430668" lon="-6.2615828"/>
+ <node id="2679418032" visible="true" version="2" changeset="44814167" timestamp="2016-12-31T21:16:51Z" user="cart0" uid="2941385" lat="53.3424988" lon="-6.2610483">
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Yo! Sushi"/>
+  <tag k="opening_hours" v="Mo-We 12:00-21:00; Th-Sa 12:00-22:00; Su 13:00-21:00"/>
+  <tag k="phone" v="+353-1-672 8950"/>
+  <tag k="website" v="https://yosushi.com"/>
+ </node>
+ <node id="2704197619" visible="true" version="2" changeset="55304824" timestamp="2018-01-09T21:37:09Z" user="LateNightTone" uid="4003485" lat="53.3429854" lon="-6.2610733"/>
+ <node id="2710588585" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:50Z" user="mackerski" uid="6367" lat="53.3420185" lon="-6.2591790"/>
+ <node id="2710588588" visible="true" version="2" changeset="26083899" timestamp="2014-10-14T22:13:39Z" user="VictorIE" uid="2008037" lat="53.3420332" lon="-6.2591343"/>
+ <node id="2710588589" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:50Z" user="mackerski" uid="6367" lat="53.3421230" lon="-6.2597904"/>
+ <node id="2710588592" visible="true" version="2" changeset="26083899" timestamp="2014-10-14T22:13:39Z" user="VictorIE" uid="2008037" lat="53.3420188" lon="-6.2589372"/>
+ <node id="2710588597" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:50Z" user="mackerski" uid="6367" lat="53.3423506" lon="-6.2596231"/>
+ <node id="2710588598" visible="true" version="2" changeset="21508621" timestamp="2014-04-05T07:20:43Z" user="Meenatuggart" uid="1114651" lat="53.3423593" lon="-6.2596292"/>
+ <node id="2710588603" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3424026" lon="-6.2596757"/>
+ <node id="2710588607" visible="true" version="2" changeset="21508621" timestamp="2014-04-05T07:20:43Z" user="Meenatuggart" uid="1114651" lat="53.3424870" lon="-6.2595614"/>
+ <node id="2710588612" visible="true" version="2" changeset="21508621" timestamp="2014-04-05T07:20:43Z" user="Meenatuggart" uid="1114651" lat="53.3425320" lon="-6.2595441"/>
+ <node id="2710588613" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3425347" lon="-6.2595633"/>
+ <node id="2710588618" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3425579" lon="-6.2596853"/>
+ <node id="2710588621" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3425752" lon="-6.2595473"/>
+ <node id="2710588622" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3426128" lon="-6.2596923"/>
+ <node id="2710588626" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3427013" lon="-6.2595001"/>
+ <node id="2710588627" visible="true" version="2" changeset="21508670" timestamp="2014-04-05T07:25:18Z" user="Meenatuggart" uid="1114651" lat="53.3427884" lon="-6.2594478"/>
+ <node id="2710588636" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3430944" lon="-6.2591507"/>
+ <node id="2710588637" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3430955" lon="-6.2593499"/>
+ <node id="2710588638" visible="true" version="2" changeset="21508941" timestamp="2014-04-05T07:46:48Z" user="Meenatuggart" uid="1114651" lat="53.3430439" lon="-6.2593519"/>
+ <node id="2710588639" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3431155" lon="-6.2592959"/>
+ <node id="2710588641" visible="true" version="1" changeset="21021365" timestamp="2014-03-10T09:36:51Z" user="mackerski" uid="6367" lat="53.3432907" lon="-6.2595270"/>
+ <node id="2737344437" visible="true" version="1" changeset="21269651" timestamp="2014-03-23T18:02:19Z" user="Meenatuggart" uid="1114651" lat="53.3427119" lon="-6.2608436"/>
+ <node id="2737344438" visible="true" version="1" changeset="21269651" timestamp="2014-03-23T18:02:19Z" user="Meenatuggart" uid="1114651" lat="53.3426336" lon="-6.2609103"/>
+ <node id="2737344439" visible="true" version="1" changeset="21269651" timestamp="2014-03-23T18:02:19Z" user="Meenatuggart" uid="1114651" lat="53.3426675" lon="-6.2610359"/>
+ <node id="2737344440" visible="true" version="1" changeset="21269651" timestamp="2014-03-23T18:02:19Z" user="Meenatuggart" uid="1114651" lat="53.3426986" lon="-6.2610123"/>
+ <node id="2737344441" visible="true" version="1" changeset="21269651" timestamp="2014-03-23T18:02:19Z" user="Meenatuggart" uid="1114651" lat="53.3426856" lon="-6.2609642"/>
+ <node id="2737344442" visible="true" version="1" changeset="21269651" timestamp="2014-03-23T18:02:19Z" user="Meenatuggart" uid="1114651" lat="53.3427345" lon="-6.2609272"/>
+ <node id="2737355999" visible="true" version="1" changeset="21269810" timestamp="2014-03-23T18:08:56Z" user="Meenatuggart" uid="1114651" lat="53.3426024" lon="-6.2609384"/>
+ <node id="2737356000" visible="true" version="1" changeset="21269810" timestamp="2014-03-23T18:08:56Z" user="Meenatuggart" uid="1114651" lat="53.3426400" lon="-6.2610779"/>
+ <node id="2737356001" visible="true" version="1" changeset="21269810" timestamp="2014-03-23T18:08:56Z" user="Meenatuggart" uid="1114651" lat="53.3426720" lon="-6.2610538"/>
+ <node id="2741595592" visible="true" version="3" changeset="22373861" timestamp="2014-05-16T15:28:55Z" user="mackerski" uid="6367" lat="53.3429672" lon="-6.2584138"/>
+ <node id="2741595594" visible="true" version="3" changeset="22373861" timestamp="2014-05-16T15:28:55Z" user="mackerski" uid="6367" lat="53.3428648" lon="-6.2584669"/>
+ <node id="2748930983" visible="true" version="1" changeset="21357715" timestamp="2014-03-28T04:43:20Z" user="Meenatuggart" uid="1114651" lat="53.3420476" lon="-6.2595198"/>
+ <node id="2748930985" visible="true" version="1" changeset="21357715" timestamp="2014-03-28T04:43:20Z" user="Meenatuggart" uid="1114651" lat="53.3420383" lon="-6.2594110"/>
+ <node id="2748930987" visible="true" version="1" changeset="21357715" timestamp="2014-03-28T04:43:20Z" user="Meenatuggart" uid="1114651" lat="53.3420309" lon="-6.2593240"/>
+ <node id="2748930989" visible="true" version="1" changeset="21357715" timestamp="2014-03-28T04:43:20Z" user="Meenatuggart" uid="1114651" lat="53.3420236" lon="-6.2592393"/>
+ <node id="2748930992" visible="true" version="1" changeset="21357715" timestamp="2014-03-28T04:43:20Z" user="Meenatuggart" uid="1114651" lat="53.3420375" lon="-6.2591739"/>
+ <node id="2748930997" visible="true" version="2" changeset="26083899" timestamp="2014-10-14T22:13:39Z" user="VictorIE" uid="2008037" lat="53.3420249" lon="-6.2590471"/>
+ <node id="2766375317" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3426364" lon="-6.2600040"/>
+ <node id="2766375320" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3425731" lon="-6.2597197"/>
+ <node id="2766375322" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3425587" lon="-6.2597036"/>
+ <node id="2766375324" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3424923" lon="-6.2597465"/>
+ <node id="2766375326" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3425427" lon="-6.2599852"/>
+ <node id="2766375328" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3425539" lon="-6.2599798"/>
+ <node id="2766375330" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3425754" lon="-6.2600762"/>
+ <node id="2766375333" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3425988" lon="-6.2600590"/>
+ <node id="2766375335" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3426036" lon="-6.2600268"/>
+ <node id="2766375336" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3423105" lon="-6.2598658"/>
+ <node id="2766375338" visible="true" version="2" changeset="60233346" timestamp="2018-06-28T03:11:15Z" user="kartonage" uid="1497225" lat="53.3423871" lon="-6.2602174"/>
+ <node id="2766375349" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3421518" lon="-6.2602782"/>
+ <node id="2766375358" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3421398" lon="-6.2599769"/>
+ <node id="2766375360" visible="true" version="1" changeset="21489094" timestamp="2014-04-04T06:43:04Z" user="Meenatuggart" uid="1114651" lat="53.3421977" lon="-6.2602510"/>
+ <node id="2766381508" visible="true" version="1" changeset="21489152" timestamp="2014-04-04T06:49:45Z" user="Meenatuggart" uid="1114651" lat="53.3422154" lon="-6.2605642"/>
+ <node id="2766381509" visible="true" version="1" changeset="21489152" timestamp="2014-04-04T06:49:45Z" user="Meenatuggart" uid="1114651" lat="53.3424252" lon="-6.2603926"/>
+ <node id="2769048080" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3426491" lon="-6.2593214"/>
+ <node id="2769048081" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425643" lon="-6.2593483"/>
+ <node id="2769048082" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425538" lon="-6.2592665"/>
+ <node id="2769048084" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425122" lon="-6.2593697"/>
+ <node id="2769048085" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425178" lon="-6.2593680"/>
+ <node id="2769048086" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425392" lon="-6.2595414"/>
+ <node id="2769048087" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3426722" lon="-6.2594891"/>
+ <node id="2769048088" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425365" lon="-6.2595192"/>
+ <node id="2769048089" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3424806" lon="-6.2595409"/>
+ <node id="2769048090" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3424530" lon="-6.2593171"/>
+ <node id="2769048092" visible="true" version="2" changeset="26083899" timestamp="2014-10-14T22:13:39Z" user="VictorIE" uid="2008037" lat="53.3425018" lon="-6.2592839"/>
+ <node id="2769048093" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3425089" lon="-6.2593421"/>
+ <node id="2769048094" visible="true" version="2" changeset="51918719" timestamp="2017-09-10T19:55:44Z" user="VictorIE" uid="2008037" lat="53.3424587" lon="-6.2593625"/>
+ <node id="2769048095" visible="true" version="2" changeset="51918719" timestamp="2017-09-10T19:55:44Z" user="VictorIE" uid="2008037" lat="53.3422601" lon="-6.2589656"/>
+ <node id="2769048096" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3423171" lon="-6.2593803"/>
+ <node id="2769048097" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3423495" lon="-6.2596152"/>
+ <node id="2769048098" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3424157" lon="-6.2595866"/>
+ <node id="2769048099" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3424153" lon="-6.2595813"/>
+ <node id="2769048100" visible="true" version="1" changeset="21508621" timestamp="2014-04-05T07:20:42Z" user="Meenatuggart" uid="1114651" lat="53.3424822" lon="-6.2595538"/>
+ <node id="2769048101" visible="true" version="2" changeset="51918719" timestamp="2017-09-10T19:55:44Z" user="VictorIE" uid="2008037" lat="53.3424173" lon="-6.2593808"/>
+ <node id="2769050577" visible="true" version="1" changeset="21508670" timestamp="2014-04-05T07:25:18Z" user="Meenatuggart" uid="1114651" lat="53.3426964" lon="-6.2593117"/>
+ <node id="2769050578" visible="true" version="1" changeset="21508670" timestamp="2014-04-05T07:25:18Z" user="Meenatuggart" uid="1114651" lat="53.3427588" lon="-6.2592829"/>
+ <node id="2769050579" visible="true" version="1" changeset="21508670" timestamp="2014-04-05T07:25:18Z" user="Meenatuggart" uid="1114651" lat="53.3427240" lon="-6.2594733"/>
+ <node id="2769074119" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:46Z" user="Meenatuggart" uid="1114651" lat="53.3430839" lon="-6.2593365"/>
+ <node id="2769074120" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:46Z" user="Meenatuggart" uid="1114651" lat="53.3430979" lon="-6.2592983"/>
+ <node id="2769074121" visible="true" version="3" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430657" lon="-6.2590532"/>
+ <node id="2769074122" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430086" lon="-6.2590905"/>
+ <node id="2769074123" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3430922" lon="-6.2592541"/>
+ <node id="2769074124" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430337" lon="-6.2592761"/>
+ <node id="2769074125" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3429849" lon="-6.2593745"/>
+ <node id="2769074126" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3429625" lon="-6.2592117"/>
+ <node id="2769074127" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430220" lon="-6.2591887"/>
+ <node id="2769074128" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3429246" lon="-6.2593978"/>
+ <node id="2769074129" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3429022" lon="-6.2592350"/>
+ <node id="2769074130" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3428673" lon="-6.2594197"/>
+ <node id="2769074131" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3428457" lon="-6.2592581"/>
+ <node id="2769074132" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3428657" lon="-6.2592500"/>
+ <node id="2769074133" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3428685" lon="-6.2592688"/>
+ <node id="2769074134" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3429047" lon="-6.2592532"/>
+ <node id="2769074135" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3426506" lon="-6.2593322"/>
+ <node id="2769074136" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3427638" lon="-6.2593109"/>
+ <node id="2769074137" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651" lat="53.3428482" lon="-6.2592768"/>
+ <node id="2769220005" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3428427" lon="-6.2584772"/>
+ <node id="2769220006" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3428507" lon="-6.2585228"/>
+ <node id="2769220007" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429172" lon="-6.2584886"/>
+ <node id="2769220008" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429564" lon="-6.2587334"/>
+ <node id="2769220009" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429364" lon="-6.2587441"/>
+ <node id="2769220010" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429404" lon="-6.2587783"/>
+ <node id="2769220011" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3428996" lon="-6.2588145"/>
+ <node id="2769220012" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429124" lon="-6.2588970"/>
+ <node id="2769220013" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429452" lon="-6.2588769"/>
+ <node id="2769220015" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429384" lon="-6.2588433"/>
+ <node id="2769220016" visible="true" version="2" changeset="22373861" timestamp="2014-05-16T15:28:55Z" user="mackerski" uid="6367" lat="53.3430345" lon="-6.2587877"/>
+ <node id="2769220017" visible="true" version="2" changeset="21510764" timestamp="2014-04-05T10:02:10Z" user="Meenatuggart" uid="1114651" lat="53.3430705" lon="-6.2590501"/>
+ <node id="2769220018" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429928" lon="-6.2591008"/>
+ <node id="2769220019" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429782" lon="-6.2590252"/>
+ <node id="2769220020" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430554" lon="-6.2589769"/>
+ <node id="2769220022" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3430457" lon="-6.2588440"/>
+ <node id="2769220023" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3429504" lon="-6.2588990"/>
+ <node id="2769220024" visible="true" version="1" changeset="21510692" timestamp="2014-04-05T09:58:03Z" user="Meenatuggart" uid="1114651" lat="53.3430705" lon="-6.2589674"/>
+ <node id="2769224210" visible="true" version="1" changeset="21510764" timestamp="2014-04-05T10:02:09Z" user="Meenatuggart" uid="1114651" lat="53.3430837" lon="-6.2591885"/>
+ <node id="2769224211" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430250" lon="-6.2592110"/>
+ <node id="2769224212" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430745" lon="-6.2591191"/>
+ <node id="2769224213" visible="true" version="2" changeset="59663362" timestamp="2018-06-08T09:52:26Z" user="kartonage" uid="1497225" lat="53.3430156" lon="-6.2591418"/>
+ <node id="2784810004" visible="true" version="1" changeset="21641231" timestamp="2014-04-12T07:27:41Z" user="Meenatuggart" uid="1114651" lat="53.3424363" lon="-6.2620482"/>
+ <node id="2784810034" visible="true" version="1" changeset="21641231" timestamp="2014-04-12T07:27:41Z" user="Meenatuggart" uid="1114651" lat="53.3426149" lon="-6.2617150"/>
+ <node id="2784810035" visible="true" version="1" changeset="21641231" timestamp="2014-04-12T07:27:41Z" user="Meenatuggart" uid="1114651" lat="53.3426662" lon="-6.2616828"/>
+ <node id="2784810036" visible="true" version="1" changeset="21641231" timestamp="2014-04-12T07:27:41Z" user="Meenatuggart" uid="1114651" lat="53.3427358" lon="-6.2616372"/>
+ <node id="2784811226" visible="true" version="1" changeset="21641274" timestamp="2014-04-12T07:30:59Z" user="Meenatuggart" uid="1114651" lat="53.3426015" lon="-6.2616610"/>
+ <node id="2784811227" visible="true" version="1" changeset="21641274" timestamp="2014-04-12T07:30:59Z" user="Meenatuggart" uid="1114651" lat="53.3425821" lon="-6.2616734"/>
+ <node id="2784811228" visible="true" version="1" changeset="21641274" timestamp="2014-04-12T07:30:59Z" user="Meenatuggart" uid="1114651" lat="53.3425949" lon="-6.2617284"/>
+ <node id="2784811229" visible="true" version="1" changeset="21641274" timestamp="2014-04-12T07:30:59Z" user="Meenatuggart" uid="1114651" lat="53.3425603" lon="-6.2617509"/>
+ <node id="2787779427" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3427048" lon="-6.2598824"/>
+ <node id="2787779446" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429681" lon="-6.2615266"/>
+ <node id="2787779448" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428844" lon="-6.2615373"/>
+ <node id="2787779450" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429633" lon="-6.2614481"/>
+ <node id="2787779452" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428804" lon="-6.2614622"/>
+ <node id="2787779454" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429585" lon="-6.2613650"/>
+ <node id="2787779456" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428732" lon="-6.2613784"/>
+ <node id="2787779458" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429513" lon="-6.2612671"/>
+ <node id="2787779459" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428848" lon="-6.2612717"/>
+ <node id="2787779461" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428672" lon="-6.2613019"/>
+ <node id="2787779463" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429473" lon="-6.2611859"/>
+ <node id="2787779464" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429128" lon="-6.2612114"/>
+ <node id="2787779466" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428808" lon="-6.2612268"/>
+ <node id="2787779468" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428436" lon="-6.2612375"/>
+ <node id="2787779469" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428188" lon="-6.2612697"/>
+ <node id="2787779472" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428272" lon="-6.2613321"/>
+ <node id="2787779473" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428544" lon="-6.2613086"/>
+ <node id="2787779475" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429273" lon="-6.2611054"/>
+ <node id="2787779477" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428480" lon="-6.2611578"/>
+ <node id="2787779479" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428630" lon="-6.2612320"/>
+ <node id="2787779480" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3429108" lon="-6.2610424"/>
+ <node id="2787779482" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428280" lon="-6.2610974"/>
+ <node id="2787779484" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428356" lon="-6.2611276"/>
+ <node id="2787779486" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428532" lon="-6.2611162"/>
+ <node id="2787779488" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428613" lon="-6.2611489"/>
+ <node id="2787779490" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428892" lon="-6.2609566"/>
+ <node id="2787779492" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428076" lon="-6.2610203"/>
+ <node id="2787779494" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428660" lon="-6.2608835"/>
+ <node id="2787779495" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3427927" lon="-6.2609485"/>
+ <node id="2787779497" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3427987" lon="-6.2609687"/>
+ <node id="2787779499" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3427939" lon="-6.2609727"/>
+ <node id="2787779501" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428432" lon="-6.2608104"/>
+ <node id="2787779502" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3427683" lon="-6.2608795"/>
+ <node id="2787779505" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3428208" lon="-6.2607420"/>
+ <node id="2787779507" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:22Z" user="Meenatuggart" uid="1114651" lat="53.3427531" lon="-6.2608017"/>
+ <node id="2787779508" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:23Z" user="Meenatuggart" uid="1114651" lat="53.3427759" lon="-6.2608725"/>
+ <node id="2787779510" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:23Z" user="Meenatuggart" uid="1114651" lat="53.3427723" lon="-6.2608909"/>
+ <node id="2791896382" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3426605" lon="-6.2610625"/>
+ <node id="2791896383" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3426763" lon="-6.2611292"/>
+ <node id="2791896384" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3426426" lon="-6.2611520"/>
+ <node id="2791896385" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3426402" lon="-6.2611413"/>
+ <node id="2791896386" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3424993" lon="-6.2612311"/>
+ <node id="2791896387" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3425105" lon="-6.2612807"/>
+ <node id="2791896388" visible="true" version="1" changeset="21702425" timestamp="2014-04-15T05:40:34Z" user="Meenatuggart" uid="1114651" lat="53.3424337" lon="-6.2613304"/>
+ <node id="2800548559" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3427579" lon="-6.2605583"/>
+ <node id="2800548560" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3427723" lon="-6.2606173"/>
+ <node id="2800548561" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3427683" lon="-6.2606468"/>
+ <node id="2800548562" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3427043" lon="-6.2607005"/>
+ <node id="2800548563" visible="true" version="2" changeset="46526122" timestamp="2017-03-02T16:19:52Z" user="rorym 🏳️‍🌈" uid="23770" lat="53.3426823" lon="-6.2606172"/>
+ <node id="2800548564" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3424768" lon="-6.2601487"/>
+ <node id="2800548565" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3425185" lon="-6.2603196"/>
+ <node id="2800548566" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3425626" lon="-6.2602887"/>
+ <node id="2800548567" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3425914" lon="-6.2603652"/>
+ <node id="2800548568" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3426002" lon="-6.2603585"/>
+ <node id="2800548569" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3426683" lon="-6.2606280"/>
+ <node id="2800548570" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3424507" lon="-6.2606785"/>
+ <node id="2800548571" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3424104" lon="-6.2605328"/>
+ <node id="2800548572" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3423968" lon="-6.2605435"/>
+ <node id="2800548573" visible="true" version="1" changeset="21792491" timestamp="2014-04-19T08:29:16Z" user="Meenatuggart" uid="1114651" lat="53.3423694" lon="-6.2604382"/>
+ <node id="2826497092" visible="true" version="4" changeset="44340903" timestamp="2016-12-12T09:34:38Z" user="Kate Flynn" uid="4958285" lat="53.3431227" lon="-6.2596424">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="name" v="Cath Kidston"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="2826498546" visible="true" version="3" changeset="44813619" timestamp="2016-12-31T20:23:56Z" user="cart0" uid="2941385" lat="53.3429137" lon="-6.2605691">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Centra"/>
+  <tag k="opening_hours" v="Mo-Sa 07:00-22:00; Su 08:00-22:00"/>
+  <tag k="phone" v="+353-1-677-9124"/>
+  <tag k="shop" v="convenience"/>
+  <tag k="website" v="https://centra.ie/"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2826499652" visible="true" version="5" changeset="65245735" timestamp="2018-12-06T17:12:55Z" user="wavewings" uid="7877095" lat="53.3430170" lon="-6.2596544">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="brand" v="River Island"/>
+  <tag k="brand:wikidata" v="Q2670328"/>
+  <tag k="brand:wikipedia" v="en:River Island"/>
+  <tag k="name" v="River Island"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="toilets:wheelchair" v="no"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2826503844" visible="true" version="5" changeset="44340706" timestamp="2016-12-12T12:47:43Z" user="Sadhbh O'Mahony" uid="4958196" lat="53.3428617" lon="-6.2603947">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="clothes" v="fashion"/>
+  <tag k="name" v="Cos"/>
+  <tag k="opening_hours" v="Mo-We 10:00-20:00, Th 10:00-21:00, Fr-Sa 10:00-20:00, Su 11:00-19:00"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="website" v="http://www.cosstores.com/ie/"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2826505974" visible="true" version="2" changeset="44340706" timestamp="2016-12-12T12:45:54Z" user="Sadhbh O'Mahony" uid="4958196" lat="53.3429377" lon="-6.2606482">
+  <tag k="name" v="Camper"/>
+  <tag k="shop" v="shoes"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2826508118" visible="true" version="3" changeset="45172480" timestamp="2017-01-14T21:29:33Z" user="cart0" uid="2941385" lat="53.3429594" lon="-6.2607032">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Ecco"/>
+  <tag k="opening_hours" v="Mo-We 09:30-18:00; Th 09:30-20:00; Fr-Sa 09:30-19:00; Su 12:00-18:00"/>
+  <tag k="shop" v="shoes"/>
+  <tag k="website" v="http://ie.ecco.com/en-ie"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2826508119" visible="true" version="2" changeset="63985952" timestamp="2018-10-29T17:39:27Z" user="wavewings" uid="7877095" lat="53.3429850" lon="-6.2607675">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Lacoste"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="2837247843" visible="true" version="1" changeset="22141311" timestamp="2014-05-05T07:25:25Z" user="Meenatuggart" uid="1114651" lat="53.3425181" lon="-6.2604168"/>
+ <node id="2839080743" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3426153" lon="-6.2611571"/>
+ <node id="2839080746" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3428273" lon="-6.2615729"/>
+ <node id="2839080747" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3426409" lon="-6.2616987"/>
+ <node id="2839080750" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3427118" lon="-6.2610966"/>
+ <node id="2839080751" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3425768" lon="-6.2617402"/>
+ <node id="2839080756" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3426269" lon="-6.2612066"/>
+ <node id="2839080757" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3424701" lon="-6.2613068"/>
+ <node id="2839080758" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3423808" lon="-6.2617963"/>
+ <node id="2839080760" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3424844" lon="-6.2617350"/>
+ <node id="2839080762" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3424990" lon="-6.2617874"/>
+ <node id="2839080765" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3424066" lon="-6.2609844"/>
+ <node id="2839080766" visible="true" version="1" changeset="22161402" timestamp="2014-05-06T08:30:01Z" user="ManAboutCouch" uid="51337" lat="53.3422961" lon="-6.2614116"/>
+ <node id="2860079942" visible="true" version="2" changeset="63985952" timestamp="2018-10-29T17:39:26Z" user="wavewings" uid="7877095" lat="53.3430615" lon="-6.2610409">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="L'Occitane en Provence"/>
+  <tag k="shop" v="beauty"/>
+  <tag k="website" v="https://ie.loccitane.com/"/>
+ </node>
+ <node id="2860079943" visible="true" version="5" changeset="68056361" timestamp="2019-03-12T10:22:50Z" user="shiftee" uid="5589928" lat="53.3430755" lon="-6.2611520">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Nourish"/>
+  <tag k="opening_hours" v="Mo-We 09:00-19:00; Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 11:30-18:30"/>
+  <tag k="phone" v="+353-1-670-3223"/>
+  <tag k="shop" v="health_food"/>
+  <tag k="website" v="http://www.nourish.ie"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2860083350" visible="true" version="3" changeset="68056361" timestamp="2019-03-12T10:22:49Z" user="shiftee" uid="5589928" lat="53.3430875" lon="-6.2612418">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Le Petit Parisien"/>
+ </node>
+ <node id="2860087452" visible="true" version="2" changeset="68056361" timestamp="2019-03-12T10:22:49Z" user="shiftee" uid="5589928" lat="53.3430994" lon="-6.2613277">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="18-19"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="craft" v="tailor"/>
+  <tag k="name" v="Louis Copeland &amp; Sons"/>
+  <tag k="phone" v="+353 1 677 7038"/>
+  <tag k="website" v="https://www.louiscopeland.com"/>
+ </node>
+ <node id="3130278584" visible="true" version="1" changeset="26083899" timestamp="2014-10-14T22:13:39Z" user="VictorIE" uid="2008037" lat="53.3424521" lon="-6.2587879"/>
+ <node id="3130278585" visible="true" version="1" changeset="26083899" timestamp="2014-10-14T22:13:39Z" user="VictorIE" uid="2008037" lat="53.3425239" lon="-6.2592765"/>
+ <node id="3136144564" visible="true" version="2" changeset="33404217" timestamp="2015-08-17T22:19:40Z" user="mackerski" uid="6367" lat="53.3429982" lon="-6.2587544">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="name" v="Oasis"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="3136144565" visible="true" version="3" changeset="65245735" timestamp="2018-12-06T17:12:54Z" user="wavewings" uid="7877095" lat="53.3430767" lon="-6.2592881">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="brand" v="Bank of Ireland"/>
+  <tag k="brand:wikidata" v="Q806689"/>
+  <tag k="brand:wikipedia" v="en:Bank of Ireland"/>
+  <tag k="name" v="Bank of Ireland"/>
+ </node>
+ <node id="3206752748" visible="true" version="3" changeset="66690877" timestamp="2019-01-28T01:09:41Z" user="cart0" uid="2941385" lat="53.3446074" lon="-6.2595095">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="3281089745" visible="true" version="1" changeset="28049951" timestamp="2015-01-10T21:05:00Z" user="conorb" uid="25192" lat="53.3426404" lon="-6.2607540"/>
+ <node id="3281089746" visible="true" version="1" changeset="28049951" timestamp="2015-01-10T21:05:00Z" user="conorb" uid="25192" lat="53.3426509" lon="-6.2608712"/>
+ <node id="3281089747" visible="true" version="1" changeset="28049951" timestamp="2015-01-10T21:05:00Z" user="conorb" uid="25192" lat="53.3426952" lon="-6.2611119"/>
+ <node id="3443298657" visible="true" version="3" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3454306" lon="-6.2590312"/>
+ <node id="3451335164" visible="true" version="3" changeset="58629026" timestamp="2018-05-02T21:32:20Z" user="OOOOOandy" uid="2820584" lat="53.3467598" lon="-6.2590291"/>
+ <node id="3451335166" visible="true" version="2" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3450389" lon="-6.2591085"/>
+ <node id="3451879894" visible="true" version="1" changeset="30162488" timestamp="2015-04-12T12:41:28Z" user="OOOOOandy" uid="2820584" lat="53.3431789" lon="-6.2590985"/>
+ <node id="3451879907" visible="true" version="2" changeset="30162993" timestamp="2015-04-12T13:09:45Z" user="OOOOOandy" uid="2820584" lat="53.3448582" lon="-6.2592378"/>
+ <node id="3452011303" visible="true" version="6" changeset="64793951" timestamp="2018-11-22T20:51:41Z" user="cart0" uid="2941385" lat="53.3469467" lon="-6.2590630">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="3452011329" visible="true" version="3" changeset="58629026" timestamp="2018-05-02T21:32:20Z" user="OOOOOandy" uid="2820584" lat="53.3468797" lon="-6.2590446"/>
+ <node id="3452011330" visible="true" version="7" changeset="66691694" timestamp="2019-01-28T02:18:24Z" user="VictorIE" uid="2008037" lat="53.3463260" lon="-6.2590268">
+  <tag k="name" v="Westmoreland"/>
+  <tag k="name:en" v="Westmoreland"/>
+  <tag k="name:ga" v="Westmoreland"/>
+  <tag k="operator" v="Luas - Transdev Dublin Light Rail Limited"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="website" v="http://www.luascrosscity.ie/"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3452011331" visible="true" version="3" changeset="64627301" timestamp="2018-11-18T17:56:03Z" user="federico3" uid="450563" lat="53.3458436" lon="-6.2590253">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="3452011332" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3452143" lon="-6.2590423"/>
+ <node id="3452011333" visible="true" version="2" changeset="42220798" timestamp="2016-09-17T06:53:49Z" user="VictorIE" uid="2008037" lat="53.3453207" lon="-6.2590306">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="3452011334" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3449650" lon="-6.2591527"/>
+ <node id="3452011335" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3445017" lon="-6.2596069"/>
+ <node id="3452011337" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3440134" lon="-6.2592920"/>
+ <node id="3452011338" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3437406" lon="-6.2592633"/>
+ <node id="3452011339" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3445798" lon="-6.2595394"/>
+ <node id="3452011340" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3445347" lon="-6.2595826"/>
+ <node id="3452011341" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3444345" lon="-6.2596224"/>
+ <node id="3452011342" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3444648" lon="-6.2596202"/>
+ <node id="3452011343" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3444041" lon="-6.2596180"/>
+ <node id="3452011344" visible="true" version="2" changeset="55536140" timestamp="2018-01-17T23:52:31Z" user="VictorIE" uid="2008037" lat="53.3443223" lon="-6.2595717">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="3452011345" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3442724" lon="-6.2595299"/>
+ <node id="3452011347" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3439475" lon="-6.2592577"/>
+ <node id="3452011348" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3438303" lon="-6.2592479"/>
+ <node id="3452011349" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3439115" lon="-6.2592510"/>
+ <node id="3452011350" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3439852" lon="-6.2592738"/>
+ <node id="3452011351" visible="true" version="1" changeset="30164234" timestamp="2015-04-12T14:16:59Z" user="OOOOOandy" uid="2820584" lat="53.3442073" lon="-6.2594672"/>
+ <node id="3452020103" visible="true" version="2" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3434258" lon="-6.2593193"/>
+ <node id="3452020104" visible="true" version="2" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3433745" lon="-6.2593207"/>
+ <node id="3452020105" visible="true" version="2" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3433072" lon="-6.2593031"/>
+ <node id="3452020107" visible="true" version="2" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3431761" lon="-6.2591897"/>
+ <node id="3452020108" visible="true" version="2" changeset="51437068" timestamp="2017-08-25T14:56:53Z" user="dónal" uid="574926" lat="53.3431502" lon="-6.2591166"/>
+ <node id="3452020109" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3431201" lon="-6.2589639"/>
+ <node id="3452020110" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3429843" lon="-6.2582593"/>
+ <node id="3452020111" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3429605" lon="-6.2581289"/>
+ <node id="3452020112" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3429434" lon="-6.2580450"/>
+ <node id="3452020113" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3429315" lon="-6.2579875"/>
+ <node id="3452020114" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3429210" lon="-6.2579500"/>
+ <node id="3452020115" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3429078" lon="-6.2579146"/>
+ <node id="3452020116" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3428880" lon="-6.2578815"/>
+ <node id="3452020117" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3428603" lon="-6.2578484"/>
+ <node id="3452020118" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3428247" lon="-6.2578263"/>
+ <node id="3452020119" visible="true" version="5" changeset="66690877" timestamp="2019-01-28T01:10:04Z" user="cart0" uid="2941385" lat="53.3428204" lon="-6.2578209">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="3452020120" visible="true" version="1" changeset="30164419" timestamp="2015-04-12T14:27:29Z" user="OOOOOandy" uid="2820584" lat="53.3427521" lon="-6.2578197"/>
+ <node id="3452020123" visible="true" version="2" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3432780" lon="-6.2592902"/>
+ <node id="3452020124" visible="true" version="2" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037" lat="53.3431978" lon="-6.2592214"/>
+ <node id="3731538536" visible="true" version="1" changeset="33831026" timestamp="2015-09-06T11:49:28Z" user="cart0" uid="2941385" lat="53.3422605" lon="-6.2594612">
+  <tag k="access" v="permissive"/>
+  <tag k="amenity" v="toilets"/>
+  <tag k="fee" v="no"/>
+  <tag k="female" v="yes"/>
+  <tag k="level" v="3"/>
+  <tag k="male" v="yes"/>
+ </node>
+ <node id="3731538537" visible="true" version="2" changeset="63985952" timestamp="2018-10-29T17:39:27Z" user="wavewings" uid="7877095" lat="53.3424515" lon="-6.2598919">
+  <tag k="access" v="permissive"/>
+  <tag k="amenity" v="toilets"/>
+  <tag k="fee" v="no"/>
+  <tag k="female" v="yes"/>
+  <tag k="level" v="3"/>
+  <tag k="male" v="yes"/>
+ </node>
+ <node id="4100276892" visible="true" version="3" changeset="44813434" timestamp="2016-12-31T20:11:12Z" user="cart0" uid="2941385" lat="53.3429191" lon="-6.2611646">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="email" v="info@pairmobile.ie"/>
+  <tag k="name" v="Pair"/>
+  <tag k="opening_hours" v="Mo-Fr 09:30-19:00; Sa 10:00-19:00; Su 12:00-17:00"/>
+  <tag k="phone" v="017079926"/>
+  <tag k="shop" v="mobile_phone"/>
+  <tag k="website" v="www.pairmobile.ie"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="4348404523" visible="true" version="1" changeset="41427410" timestamp="2016-08-13T11:03:47Z" user="VictorIE" uid="2008037" lat="53.3425959" lon="-6.2614987"/>
+ <node id="4405330018" visible="true" version="1" changeset="42220798" timestamp="2016-09-17T06:53:49Z" user="VictorIE" uid="2008037" lat="53.3431864" lon="-6.2593788"/>
+ <node id="4405330019" visible="true" version="2" changeset="66690877" timestamp="2019-01-28T01:09:42Z" user="cart0" uid="2941385" lat="53.3443699" lon="-6.2596047">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="4405330020" visible="true" version="2" changeset="66690877" timestamp="2019-01-28T01:09:42Z" user="cart0" uid="2941385" lat="53.3449181" lon="-6.2591901">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="4405330021" visible="true" version="2" changeset="58629026" timestamp="2018-05-02T21:32:20Z" user="OOOOOandy" uid="2820584" lat="53.3468159" lon="-6.2590352">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="4622073590" visible="true" version="3" changeset="63985952" timestamp="2018-10-29T17:39:27Z" user="wavewings" uid="7877095" lat="53.3430706" lon="-6.2610975">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Secret book &amp; music shop"/>
+  <tag k="name:en" v="Secret book &amp; music shop"/>
+  <tag k="shop" v="books"/>
+ </node>
+ <node id="4711673731" visible="true" version="3" changeset="63985952" timestamp="2018-10-29T17:39:26Z" user="wavewings" uid="7877095" lat="53.3429113" lon="-6.2596427">
+  <tag k="amenity" v="atm"/>
+  <tag k="currency:EUR" v="yes"/>
+ </node>
+ <node id="4837054000" visible="true" version="1" changeset="48430924" timestamp="2017-05-05T15:54:37Z" user="Dafo43" uid="114051" lat="53.3427983" lon="-6.2608029">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="kebab"/>
+  <tag k="name" v="El Bahia"/>
+ </node>
+ <node id="5037881803" visible="true" version="1" changeset="51155144" timestamp="2017-08-16T00:13:55Z" user="VictorIE" uid="2008037" lat="53.3424285" lon="-6.2610934">
+  <tag k="amenity" v="parking_entrance"/>
+ </node>
+ <node id="5046488899" visible="true" version="1" changeset="51279909" timestamp="2017-08-20T15:45:23Z" user="VictorIE" uid="2008037" lat="53.3430441" lon="-6.2611188"/>
+ <node id="5046488900" visible="true" version="1" changeset="51279909" timestamp="2017-08-20T15:45:23Z" user="VictorIE" uid="2008037" lat="53.3431715" lon="-6.2610497"/>
+ <node id="5046488901" visible="true" version="1" changeset="51279909" timestamp="2017-08-20T15:45:23Z" user="VictorIE" uid="2008037" lat="53.3431728" lon="-6.2610753"/>
+ <node id="5095971455" visible="true" version="1" changeset="51918719" timestamp="2017-09-10T19:55:43Z" user="VictorIE" uid="2008037" lat="53.3422538" lon="-6.2588563"/>
+ <node id="5095971456" visible="true" version="1" changeset="51918719" timestamp="2017-09-10T19:55:43Z" user="VictorIE" uid="2008037" lat="53.3423909" lon="-6.2588010"/>
+ <node id="5095971457" visible="true" version="1" changeset="51918719" timestamp="2017-09-10T19:55:43Z" user="VictorIE" uid="2008037" lat="53.3423752" lon="-6.2590729"/>
+ <node id="5095971458" visible="true" version="1" changeset="51918719" timestamp="2017-09-10T19:55:43Z" user="VictorIE" uid="2008037" lat="53.3424214" lon="-6.2590546"/>
+ <node id="5101079536" visible="true" version="3" changeset="64793951" timestamp="2018-11-22T20:51:42Z" user="cart0" uid="2941385" lat="53.3470007" lon="-6.2590860">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="5198847222" visible="true" version="3" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037" lat="53.3428252" lon="-6.2603248">
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Wow Barbers"/>
+  <tag k="shop" v="hairdresser"/>
+ </node>
+ <node id="5345930962" visible="true" version="2" changeset="66690877" timestamp="2019-01-28T01:10:12Z" user="cart0" uid="2941385" lat="53.3432122" lon="-6.2592421">
+  <tag k="crossing:barrier" v="no"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="5345930963" visible="true" version="1" changeset="55536792" timestamp="2018-01-18T00:57:44Z" user="VictorIE" uid="2008037" lat="53.3432241" lon="-6.2592935">
+  <tag k="barrier" v="bollard"/>
+  <tag k="bicycle" v="dismount"/>
+  <tag k="foot" v="yes"/>
+  <tag k="motor_vehicle" v="no"/>
+ </node>
+ <node id="5345930983" visible="true" version="1" changeset="55536792" timestamp="2018-01-18T00:57:45Z" user="VictorIE" uid="2008037" lat="53.3433446" lon="-6.2593128">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="5591580788" visible="true" version="1" changeset="58603286" timestamp="2018-05-02T06:00:44Z" user="VictorIE" uid="2008037" lat="53.3426055" lon="-6.2578615"/>
+ <node id="5591654768" visible="true" version="1" changeset="58604419" timestamp="2018-05-02T06:48:52Z" user="VictorIE" uid="2008037" lat="53.3458964" lon="-6.2590255">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="5593299060" visible="true" version="1" changeset="58629026" timestamp="2018-05-02T21:32:19Z" user="OOOOOandy" uid="2820584" lat="53.3467105" lon="-6.2590265"/>
+ <node id="5593384414" visible="true" version="2" changeset="58660133" timestamp="2018-05-03T20:43:51Z" user="FvGordon" uid="161619" lat="53.3470421" lon="-6.2591108"/>
+ <node id="6046488094" visible="true" version="2" changeset="64756254" timestamp="2018-11-21T21:40:16Z" user="VictorIE" uid="2008037" lat="53.3431272" lon="-6.2591148">
+  <tag k="amenity" v="post_box"/>
+  <tag k="drive_through" v="no"/>
+  <tag k="operator" v="An Post"/>
+ </node>
+ <node id="6245890989" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3428252" lon="-6.2602899">
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Mary's"/>
+  <tag k="shop" v="clothes"/>
+ </node>
+ <node id="6245890990" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3429478" lon="-6.2601456"/>
+ <node id="6245890991" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3428234" lon="-6.2605114">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="6245890992" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3428702" lon="-6.2605221">
+  <tag k="addr:housename" v="Glendenning House"/>
+  <tag k="addr:housenumber" v="6-8"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="email" v="bookings@cooganbergin.com"/>
+  <tag k="name" v="Coogan Bergin Clinic &amp; College of Beauty Therapy"/>
+  <tag k="phone" v="+353-1-6794254"/>
+  <tag k="shop" v="beauty"/>
+  <tag k="website" v="http://www.cooganbergin.com/"/>
+ </node>
+ <node id="6245890993" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3428946" lon="-6.2606117">
+  <tag k="addr:housenumber" v="9a"/>
+  <tag k="addr:postcode" v="D02 N262"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="email" v="projects@wondr.io"/>
+  <tag k="name" v="Wondr"/>
+  <tag k="office" v="it"/>
+  <tag k="phone" v="+353-1-5594270"/>
+  <tag k="website" v="https://wondr.io/"/>
+ </node>
+ <node id="6245890994" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3429067" lon="-6.2606453">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="craft" v="photographer"/>
+  <tag k="email" v="studio10dublin@gmail.com"/>
+  <tag k="name" v="Studio 10"/>
+  <tag k="website" v="https://www.studio10dublin.ie/"/>
+ </node>
+ <node id="6245890995" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037" lat="53.3429251" lon="-6.2607123">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="contact:instagram" v="https://www.instagram.com/johnmichaeljewellers/"/>
+  <tag k="name" v="John Michael Design"/>
+  <tag k="phone:mobile" v="+353-87-7454714"/>
+  <tag k="shop" v="jewelry"/>
+  <tag k="website" v="http://johnmichael.ie/"/>
+ </node>
+ <node id="6332870727" visible="true" version="1" changeset="68056361" timestamp="2019-03-12T10:22:49Z" user="shiftee" uid="5589928" lat="53.3429327" lon="-6.2612355">
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="name" v="Loake"/>
+  <tag k="phone" v="+353 1 5588 937"/>
+  <tag k="shop" v="shoes"/>
+  <tag k="website" v="https://www.loake.co.uk/loake-store-dublin"/>
+ </node>
+ <way id="4919472" visible="true" version="6" changeset="21021365" timestamp="2014-03-10T09:36:52Z" user="mackerski" uid="6367">
+  <nd ref="26165241"/>
+  <nd ref="2376159077"/>
+  <nd ref="2710588622"/>
+  <nd ref="9101664"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Wicklow Street"/>
+  <tag k="name:ga" v="Sráid Cill Mhantáin"/>
+ </way>
+ <way id="4919478" visible="true" version="11" changeset="51279909" timestamp="2017-08-20T15:45:24Z" user="VictorIE" uid="2008037">
+  <nd ref="26165241"/>
+  <nd ref="2839080765"/>
+  <nd ref="32236612"/>
+  <nd ref="32235615"/>
+  <nd ref="494229911"/>
+  <nd ref="2390587438"/>
+  <nd ref="32235616"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lanes" v="1"/>
+  <tag k="layer" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Clarendon Street"/>
+  <tag k="name:ga" v="Sráid Clarendon"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="4919617" visible="true" version="10" changeset="66111386" timestamp="2019-01-07T22:30:22Z" user="VictorIE" uid="2008037">
+  <nd ref="26165233"/>
+  <nd ref="26165238"/>
+  <nd ref="2704197619"/>
+  <nd ref="26165241"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lanes" v="1"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Wicklow Street"/>
+  <tag k="name:en" v="Wicklow Street"/>
+  <tag k="name:ga" v="Sráid Cill Mhantáin"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="13988845" visible="true" version="12" changeset="52985684" timestamp="2017-10-16T15:44:55Z" user="VictorIE" uid="2008037">
+  <nd ref="9101664"/>
+  <nd ref="2710588603"/>
+  <nd ref="32235927"/>
+  <nd ref="32236629"/>
+  <nd ref="9101663"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="motorcar" v="no"/>
+  <tag k="name" v="Grafton Street"/>
+  <tag k="name:ga" v="Sráid Grafton"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="paving_stones"/>
+ </way>
+ <way id="40716172" visible="true" version="14" changeset="27567309" timestamp="2014-12-19T11:33:26Z" user="mackerski" uid="6367">
+  <nd ref="2577331233"/>
+  <nd ref="494596957"/>
+  <nd ref="494596954"/>
+  <nd ref="2784810004"/>
+  <nd ref="2839080758"/>
+  <nd ref="2839080766"/>
+  <nd ref="2577331228"/>
+  <nd ref="494596955"/>
+  <nd ref="2577331237"/>
+  <nd ref="2577331235"/>
+  <nd ref="2577331233"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:street" v="William Street South"/>
+  <tag k="building" v="retail"/>
+  <tag k="history" v="Retrieved from v4"/>
+  <tag k="name" v="Powerscourt Townhouse Centre"/>
+  <tag k="note" v="Dublin City Council, Record of Protected Structures (2010), no. 8596"/>
+ </way>
+ <way id="58548963" visible="true" version="3" changeset="21021365" timestamp="2014-03-10T09:36:52Z" user="mackerski" uid="6367">
+  <nd ref="132560521"/>
+  <nd ref="2710588626"/>
+  <nd ref="132560529"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Adam Court"/>
+  <tag k="name:ga" v="Cúirt Ádhaimh"/>
+ </way>
+ <way id="228970885" visible="true" version="5" changeset="54500011" timestamp="2017-12-10T01:07:36Z" user="VictorIE" uid="2008037">
+  <nd ref="2376159069"/>
+  <nd ref="2376159071"/>
+  <nd ref="2376159072"/>
+  <tag k="access" v="permissive"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Glendenning Lane"/>
+ </way>
+ <way id="228970886" visible="true" version="5" changeset="54500011" timestamp="2017-12-10T01:07:35Z" user="VictorIE" uid="2008037">
+  <nd ref="2376159072"/>
+  <nd ref="2376159073"/>
+  <tag k="access" v="permissive"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="layer" v="-1"/>
+  <tag k="name" v="Glendenning Lane"/>
+  <tag k="tunnel" v="building_passage"/>
+ </way>
+ <way id="228970887" visible="true" version="5" changeset="54500011" timestamp="2017-12-10T01:07:35Z" user="VictorIE" uid="2008037">
+  <nd ref="2376159073"/>
+  <nd ref="2376159077"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="name" v="Glendenning Lane"/>
+ </way>
+ <way id="251450821" visible="true" version="2" changeset="19444934" timestamp="2013-12-14T08:48:59Z" user="mentor" uid="38588">
+  <nd ref="2576675539"/>
+  <nd ref="2576675535"/>
+  <nd ref="2576675554"/>
+  <nd ref="2576675545"/>
+  <nd ref="2576675539"/>
+ </way>
+ <way id="251516631" visible="true" version="3" changeset="21792491" timestamp="2014-04-19T08:29:17Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2576675552"/>
+  <nd ref="2577255191"/>
+  <nd ref="2577255193"/>
+  <nd ref="2800548570"/>
+  <nd ref="2577255195"/>
+  <nd ref="2577255197"/>
+  <nd ref="2577255199"/>
+  <nd ref="2576675552"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="251523511" visible="true" version="3" changeset="21269143" timestamp="2014-03-23T17:36:57Z" user="Meenatuggart" uid="1114651">
+  <nd ref="494596955"/>
+  <nd ref="2577331228"/>
+  <nd ref="2577331229"/>
+  <nd ref="2577331231"/>
+  <nd ref="494596955"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="251731350" visible="true" version="1" changeset="19444934" timestamp="2013-12-14T08:48:52Z" user="mentor" uid="38588">
+  <nd ref="2576675546"/>
+  <nd ref="2576675548"/>
+  <nd ref="2576675550"/>
+  <nd ref="2576675551"/>
+  <nd ref="2576675540"/>
+  <nd ref="2576675541"/>
+  <nd ref="2576675543"/>
+  <nd ref="2576675538"/>
+  <nd ref="2576675537"/>
+  <nd ref="2576675536"/>
+  <nd ref="2576675553"/>
+  <nd ref="2577255199"/>
+  <nd ref="2576675552"/>
+  <nd ref="2576675546"/>
+ </way>
+ <way id="260260442" visible="true" version="4" changeset="58717245" timestamp="2018-05-05T21:59:57Z" user="VictorIE" uid="2008037">
+  <nd ref="2657364733"/>
+  <nd ref="2657364737"/>
+  <nd ref="2657364739"/>
+  <nd ref="2657364741"/>
+  <nd ref="2657364735"/>
+  <nd ref="2657364733"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="16-17"/>
+  <tag k="addr:street" v="Suffolk Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="260261079" visible="true" version="8" changeset="65245735" timestamp="2018-12-06T17:12:56Z" user="wavewings" uid="7877095">
+  <nd ref="2657364737"/>
+  <nd ref="2657371754"/>
+  <nd ref="2657371756"/>
+  <nd ref="2657371758"/>
+  <nd ref="2657364739"/>
+  <nd ref="2657364737"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="105-106"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="brand" v="Ulster Bank"/>
+  <tag k="brand:wikidata" v="Q2613366"/>
+  <tag k="brand:wikipedia" v="en:Ulster Bank"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="5"/>
+  <tag k="name" v="Ulster Bank"/>
+  <tag k="website" v="https://locator.ulsterbank.ie/Branch/985795-Grafton%20Street%20Mortgage%20Centre.html"/>
+ </way>
+ <way id="260269337" visible="true" version="12" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037">
+  <nd ref="2657444635"/>
+  <nd ref="2657440925"/>
+  <nd ref="2657440927"/>
+  <nd ref="2787779427"/>
+  <nd ref="2657467723"/>
+  <nd ref="2657453843"/>
+  <nd ref="2657444635"/>
+  <tag k="addr:housenumber" v="96-99"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="retail"/>
+  <tag k="building:levels" v="5"/>
+  <tag k="toilets:wheelchair" v="no"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="260269661" visible="true" version="11" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037">
+  <nd ref="2657444635"/>
+  <nd ref="4711673731"/>
+  <nd ref="2657444637"/>
+  <nd ref="2657444638"/>
+  <nd ref="2657453844"/>
+  <nd ref="6245890990"/>
+  <nd ref="2657473859"/>
+  <nd ref="2657473860"/>
+  <nd ref="2657473862"/>
+  <nd ref="2657473863"/>
+  <nd ref="2657444636"/>
+  <nd ref="2657453843"/>
+  <nd ref="2657444635"/>
+  <tag k="addr:housenumber" v="100-101"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+  <tag k="toilets:wheelchair" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="260269662" visible="true" version="4" changeset="22043817" timestamp="2014-04-30T13:50:22Z" user="madmap77" uid="1909867">
+  <nd ref="2657444637"/>
+  <nd ref="2657444639"/>
+  <nd ref="2657444640"/>
+  <nd ref="2657444642"/>
+  <nd ref="2657444643"/>
+  <nd ref="2657444638"/>
+  <nd ref="2657444637"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="102-103"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="260269663" visible="true" version="3" changeset="22043795" timestamp="2014-04-30T13:49:14Z" user="madmap77" uid="1909867">
+  <nd ref="2657444639"/>
+  <nd ref="2657371758"/>
+  <nd ref="2657364739"/>
+  <nd ref="2657444644"/>
+  <nd ref="2657444645"/>
+  <nd ref="2657444640"/>
+  <nd ref="2657444639"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="104"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="260272214" visible="true" version="3" changeset="21663795" timestamp="2014-04-13T12:04:24Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2657473859"/>
+  <nd ref="2657473860"/>
+  <nd ref="2657473862"/>
+  <nd ref="2657473863"/>
+  <nd ref="2657473864"/>
+  <nd ref="2657473861"/>
+  <nd ref="2657473859"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="4-5"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260272215" visible="true" version="4" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037">
+  <nd ref="2657473859"/>
+  <nd ref="2657473865"/>
+  <nd ref="2657473866"/>
+  <nd ref="2657473861"/>
+  <nd ref="2657473859"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="6-8"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="name" v="Glendenning House"/>
+ </way>
+ <way id="260272703" visible="true" version="2" changeset="22043883" timestamp="2014-04-30T13:53:34Z" user="madmap77" uid="1909867">
+  <nd ref="2657478774"/>
+  <nd ref="2657473865"/>
+  <nd ref="2657473866"/>
+  <nd ref="2657478775"/>
+  <nd ref="2657478774"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260273047" visible="true" version="2" changeset="22043888" timestamp="2014-04-30T13:54:01Z" user="madmap77" uid="1909867">
+  <nd ref="2657478775"/>
+  <nd ref="2657478774"/>
+  <nd ref="2657482191"/>
+  <nd ref="2657482192"/>
+  <nd ref="2657478775"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260273048" visible="true" version="2" changeset="22043904" timestamp="2014-04-30T13:54:50Z" user="madmap77" uid="1909867">
+  <nd ref="2657482191"/>
+  <nd ref="2657482193"/>
+  <nd ref="2657482194"/>
+  <nd ref="2657482192"/>
+  <nd ref="2657482191"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260273049" visible="true" version="3" changeset="22043904" timestamp="2014-04-30T13:54:50Z" user="madmap77" uid="1909867">
+  <nd ref="2657482193"/>
+  <nd ref="2657482195"/>
+  <nd ref="2657482196"/>
+  <nd ref="2657482194"/>
+  <nd ref="2657482193"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260292864" visible="true" version="2" changeset="20413848" timestamp="2014-02-06T15:30:30Z" user="madmap77" uid="1909867">
+  <nd ref="2657482196"/>
+  <nd ref="2657682234"/>
+  <nd ref="2657682235"/>
+  <nd ref="2657482195"/>
+  <nd ref="2657482196"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260292866" visible="true" version="3" changeset="20413979" timestamp="2014-02-06T15:38:22Z" user="madmap77" uid="1909867">
+  <nd ref="2657682234"/>
+  <nd ref="2657682236"/>
+  <nd ref="2657682237"/>
+  <nd ref="2657682235"/>
+  <nd ref="2657682234"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260298196" visible="true" version="4" changeset="22353504" timestamp="2014-05-15T14:29:50Z" user="madmap77" uid="1909867">
+  <nd ref="2657682236"/>
+  <nd ref="2657682237"/>
+  <nd ref="2657697682"/>
+  <nd ref="2657697684"/>
+  <nd ref="2657697686"/>
+  <nd ref="2657682236"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260299663" visible="true" version="11" changeset="51279909" timestamp="2017-08-20T15:45:23Z" user="VictorIE" uid="2008037">
+  <nd ref="2657704636"/>
+  <nd ref="5046488899"/>
+  <nd ref="2657704638"/>
+  <nd ref="2657704640"/>
+  <nd ref="2657704636"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260300574" visible="true" version="3" changeset="22353517" timestamp="2014-05-15T14:30:36Z" user="madmap77" uid="1909867">
+  <nd ref="2657704636"/>
+  <nd ref="2657717691"/>
+  <nd ref="2657717692"/>
+  <nd ref="2657704640"/>
+  <nd ref="2657704636"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260301162" visible="true" version="2" changeset="22353540" timestamp="2014-05-15T14:32:04Z" user="madmap77" uid="1909867">
+  <nd ref="2657717691"/>
+  <nd ref="2657728750"/>
+  <nd ref="2657728752"/>
+  <nd ref="2657728764"/>
+  <nd ref="2657728766"/>
+  <nd ref="2657717692"/>
+  <nd ref="2657717691"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="260302094" visible="true" version="3" changeset="22353573" timestamp="2014-05-15T14:34:09Z" user="madmap77" uid="1909867">
+  <nd ref="2657731799"/>
+  <nd ref="2657731800"/>
+  <nd ref="2657728750"/>
+  <nd ref="2657728752"/>
+  <nd ref="2657728764"/>
+  <nd ref="2657728766"/>
+  <nd ref="2657731799"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="19-20"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="265385821" visible="true" version="7" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037">
+  <nd ref="2710588641"/>
+  <nd ref="2710588622"/>
+  <nd ref="9101664"/>
+  <nd ref="2710588621"/>
+  <nd ref="2710588626"/>
+  <nd ref="2710588637"/>
+  <nd ref="2710588639"/>
+  <nd ref="2710588636"/>
+  <nd ref="3452020108"/>
+  <nd ref="3451879894"/>
+  <nd ref="5345930962"/>
+  <nd ref="5345930963"/>
+  <nd ref="1488943160"/>
+  <nd ref="2710588641"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="surface" v="paving_stones"/>
+ </way>
+ <way id="265385824" visible="true" version="2" changeset="21508621" timestamp="2014-04-05T07:20:43Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2710588589"/>
+  <nd ref="2558968986"/>
+  <nd ref="32235927"/>
+  <nd ref="2558968988"/>
+  <nd ref="2710588618"/>
+  <nd ref="2710588622"/>
+  <nd ref="9101664"/>
+  <nd ref="2710588621"/>
+  <nd ref="2710588613"/>
+  <nd ref="2710588612"/>
+  <nd ref="2710588607"/>
+  <nd ref="2710588598"/>
+  <nd ref="2710588589"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+ </way>
+ <way id="268400009" visible="true" version="2" changeset="21269768" timestamp="2014-03-23T18:07:01Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2737344437"/>
+  <nd ref="2737344438"/>
+  <nd ref="2737344439"/>
+  <nd ref="2737344440"/>
+  <nd ref="2737344441"/>
+  <nd ref="2737344442"/>
+  <nd ref="2737344437"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="building" v="commercial"/>
+  <tag k="name" v="Weldon of Dublin"/>
+  <tag k="website" v="http://www.weldons.ie"/>
+ </way>
+ <way id="268401785" visible="true" version="3" changeset="32433381" timestamp="2015-07-05T19:20:43Z" user="VictorIE" uid="2008037">
+  <nd ref="2737344438"/>
+  <nd ref="2737355999"/>
+  <nd ref="2737356000"/>
+  <nd ref="2791896382"/>
+  <nd ref="2737356001"/>
+  <nd ref="2737344438"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="271686281" visible="true" version="2" changeset="21489152" timestamp="2014-04-04T06:49:45Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2766375317"/>
+  <nd ref="2766375320"/>
+  <nd ref="2766375322"/>
+  <nd ref="2766375324"/>
+  <nd ref="2766375326"/>
+  <nd ref="2766375328"/>
+  <nd ref="2766375330"/>
+  <nd ref="2766375333"/>
+  <nd ref="2766375335"/>
+  <nd ref="2766375317"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="271686282" visible="true" version="3" changeset="21792491" timestamp="2014-04-19T08:29:17Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2766375324"/>
+  <nd ref="2766375336"/>
+  <nd ref="2766375338"/>
+  <nd ref="2800548564"/>
+  <nd ref="2766375330"/>
+  <nd ref="2766375328"/>
+  <nd ref="2766375326"/>
+  <nd ref="2766375324"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="91-94"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="271688069" visible="true" version="3" changeset="60233346" timestamp="2018-06-28T03:11:16Z" user="kartonage" uid="1497225">
+  <nd ref="2766375336"/>
+  <nd ref="2766375358"/>
+  <nd ref="2766375360"/>
+  <nd ref="2766375349"/>
+  <nd ref="2766381508"/>
+  <nd ref="2800548573"/>
+  <nd ref="2766381509"/>
+  <nd ref="2766375338"/>
+  <nd ref="2766375336"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="88-90"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="271690098" visible="true" version="6" changeset="65524330" timestamp="2018-12-16T14:57:36Z" user="Teester" uid="259792">
+  <nd ref="2766375358"/>
+  <nd ref="2766375360"/>
+  <nd ref="2766375349"/>
+  <nd ref="2766381508"/>
+  <nd ref="2800548573"/>
+  <nd ref="2766381509"/>
+  <nd ref="2766375338"/>
+  <nd ref="2800548564"/>
+  <nd ref="2766375330"/>
+  <nd ref="2766375333"/>
+  <nd ref="2766375335"/>
+  <nd ref="2766375317"/>
+  <nd ref="2766375320"/>
+  <nd ref="2766375322"/>
+  <nd ref="2766375358"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="88-95"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="name" v="Brown Thomas"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:contactless" v="yes"/>
+  <tag k="payment:credit_cards" v="yes"/>
+  <tag k="payment:debit_cards" v="yes"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="toilets:wheelchair" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="271970896" visible="true" version="4" changeset="59663362" timestamp="2018-06-08T09:52:32Z" user="kartonage" uid="1497225">
+  <nd ref="2769048097"/>
+  <nd ref="2710588597"/>
+  <nd ref="2391003152"/>
+  <nd ref="2391003151"/>
+  <nd ref="2748930983"/>
+  <nd ref="2748930985"/>
+  <nd ref="2748930987"/>
+  <nd ref="2748930989"/>
+  <nd ref="2710588585"/>
+  <nd ref="2748930992"/>
+  <nd ref="2710588588"/>
+  <nd ref="2748930997"/>
+  <nd ref="2710588592"/>
+  <nd ref="5095971455"/>
+  <nd ref="2769048095"/>
+  <nd ref="2769048096"/>
+  <nd ref="2769048097"/>
+ </way>
+ <way id="271970897" visible="true" version="12" changeset="65245735" timestamp="2018-12-06T17:12:58Z" user="wavewings" uid="7877095">
+  <nd ref="2769048080"/>
+  <nd ref="2769048081"/>
+  <nd ref="2769048082"/>
+  <nd ref="3130278585"/>
+  <nd ref="2769048092"/>
+  <nd ref="2769048093"/>
+  <nd ref="2769048084"/>
+  <nd ref="2769048085"/>
+  <nd ref="2769048088"/>
+  <nd ref="2769048086"/>
+  <nd ref="2769048087"/>
+  <nd ref="2769074135"/>
+  <nd ref="2769048080"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="9-11"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="McDonald's"/>
+  <tag k="brand:wikidata" v="Q38076"/>
+  <tag k="brand:wikipedia" v="en:McDonald's"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="name" v="McDonald's"/>
+  <tag k="takeaway" v="yes"/>
+  <tag k="toilets:wheelchair" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="271970898" visible="true" version="6" changeset="64848937" timestamp="2018-11-24T17:03:35Z" user="wavewings" uid="7877095">
+  <nd ref="2769048088"/>
+  <nd ref="2769048089"/>
+  <nd ref="2769048094"/>
+  <nd ref="2769048090"/>
+  <nd ref="5095971458"/>
+  <nd ref="5095971456"/>
+  <nd ref="3130278584"/>
+  <nd ref="3130278585"/>
+  <nd ref="2769048092"/>
+  <nd ref="2769048093"/>
+  <nd ref="2769048084"/>
+  <nd ref="2769048085"/>
+  <nd ref="2769048088"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="pharmacy"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Boots"/>
+  <tag k="opening_hours" v="Mo-We 08:00-20:00; Th 08:00-21:00; Fr 08:00-20:00; Sa 08:30-19:00; Su 11:00-19:00"/>
+  <tag k="phone" v="+353-1-677-3000"/>
+  <tag k="website" v="https://www.boots.ie/"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="271970899" visible="true" version="5" changeset="59663362" timestamp="2018-06-08T09:52:32Z" user="kartonage" uid="1497225">
+  <nd ref="2769048095"/>
+  <nd ref="2769048096"/>
+  <nd ref="2769048097"/>
+  <nd ref="2769048098"/>
+  <nd ref="2769048099"/>
+  <nd ref="2769048100"/>
+  <nd ref="2769048089"/>
+  <nd ref="2769048094"/>
+  <nd ref="2769048101"/>
+  <nd ref="5095971457"/>
+  <nd ref="5095971458"/>
+  <nd ref="5095971456"/>
+  <nd ref="5095971455"/>
+  <nd ref="2769048095"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="13-14"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="old_name" v="Grafton Arcade"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="toilets:wheelchair" v="no"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="271971145" visible="true" version="3" changeset="22374473" timestamp="2014-05-16T16:06:36Z" user="mackerski" uid="6367">
+  <nd ref="2769050577"/>
+  <nd ref="2769050578"/>
+  <nd ref="2769074136"/>
+  <nd ref="2710588627"/>
+  <nd ref="2769050579"/>
+  <nd ref="2769050577"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Office"/>
+  <tag k="shop" v="shoes"/>
+ </way>
+ <way id="271973514" visible="true" version="2" changeset="21510764" timestamp="2014-04-05T10:02:10Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2710588638"/>
+  <nd ref="2769074119"/>
+  <nd ref="2769074120"/>
+  <nd ref="2769074123"/>
+  <nd ref="2769224210"/>
+  <nd ref="2769224212"/>
+  <nd ref="2769074121"/>
+  <nd ref="2769074122"/>
+  <nd ref="2769224213"/>
+  <nd ref="2769074127"/>
+  <nd ref="2769224211"/>
+  <nd ref="2769074124"/>
+  <nd ref="2710588638"/>
+  <tag k="area" v="yes"/>
+ </way>
+ <way id="271973515" visible="true" version="1" changeset="21508941" timestamp="2014-04-05T07:46:47Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2769074123"/>
+  <nd ref="2769074124"/>
+  <nd ref="2710588638"/>
+  <nd ref="2769074119"/>
+  <nd ref="2769074120"/>
+  <nd ref="2769074123"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="271973518" visible="true" version="4" changeset="65245735" timestamp="2018-12-06T17:12:57Z" user="wavewings" uid="7877095">
+  <nd ref="2710588638"/>
+  <nd ref="2769074125"/>
+  <nd ref="2769074126"/>
+  <nd ref="2769074127"/>
+  <nd ref="2769224211"/>
+  <nd ref="2769074124"/>
+  <nd ref="2710588638"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="brand" v="Vodafone"/>
+  <tag k="brand:wikidata" v="Q122141"/>
+  <tag k="brand:wikipedia" v="en:Vodafone"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Vodafone"/>
+  <tag k="shop" v="mobile_phone"/>
+ </way>
+ <way id="271973520" visible="true" version="4" changeset="65245735" timestamp="2018-12-06T17:12:57Z" user="wavewings" uid="7877095">
+  <nd ref="2769074125"/>
+  <nd ref="2769074128"/>
+  <nd ref="2769074134"/>
+  <nd ref="2769074129"/>
+  <nd ref="2769074126"/>
+  <nd ref="2769074125"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="Burger King"/>
+  <tag k="brand:wikidata" v="Q177054"/>
+  <tag k="brand:wikipedia" v="en:Burger King"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="drive_through" v="no"/>
+  <tag k="email" v="info@whopper.ie"/>
+  <tag k="name" v="Burger King"/>
+  <tag k="opening_hours" v="Mo-Th 8:30-16:00; Fr 08:30-17:00; Sa 08:30-17:00; Su 10:00-16:30"/>
+  <tag k="phone" v="01-6797420"/>
+  <tag k="takeaway" v="yes"/>
+  <tag k="website" v="http://www.whopper.ie/"/>
+ </way>
+ <way id="271973523" visible="true" version="2" changeset="65245735" timestamp="2018-12-06T17:12:57Z" user="wavewings" uid="7877095">
+  <nd ref="2769074128"/>
+  <nd ref="2769074130"/>
+  <nd ref="2769074137"/>
+  <nd ref="2769074131"/>
+  <nd ref="2769074132"/>
+  <nd ref="2769074133"/>
+  <nd ref="2769074134"/>
+  <nd ref="2769074128"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="brand" v="Swarovski"/>
+  <tag k="brand:wikidata" v="Q611115"/>
+  <tag k="brand:wikipedia" v="en:Swarovski"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Swarovski"/>
+  <tag k="shop" v="jewelry"/>
+ </way>
+ <way id="271973525" visible="true" version="3" changeset="65245735" timestamp="2018-12-06T17:12:58Z" user="wavewings" uid="7877095">
+  <nd ref="2769050579"/>
+  <nd ref="2769048087"/>
+  <nd ref="2769074135"/>
+  <nd ref="2769050577"/>
+  <nd ref="2769050579"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Health Matters"/>
+  <tag k="shop" v="health_food"/>
+  <tag k="website" v="http://www.healthmatters.ie/"/>
+ </way>
+ <way id="271973527" visible="true" version="2" changeset="22374473" timestamp="2014-05-16T16:06:36Z" user="mackerski" uid="6367">
+  <nd ref="2769074130"/>
+  <nd ref="2710588627"/>
+  <nd ref="2769074136"/>
+  <nd ref="2769074137"/>
+  <nd ref="2769074130"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Bus Stop"/>
+  <tag k="shop" v="newsagent"/>
+ </way>
+ <way id="271989537" visible="true" version="2" changeset="22373861" timestamp="2014-05-16T15:28:55Z" user="mackerski" uid="6367">
+  <nd ref="2741595592"/>
+  <nd ref="2741595594"/>
+  <nd ref="2769220005"/>
+  <nd ref="2769220006"/>
+  <nd ref="2769220007"/>
+  <nd ref="2769220008"/>
+  <nd ref="2769220009"/>
+  <nd ref="2769220010"/>
+  <nd ref="2769220011"/>
+  <nd ref="2769220012"/>
+  <nd ref="2769220013"/>
+  <nd ref="2769220015"/>
+  <nd ref="2769220016"/>
+  <nd ref="2741595592"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="271989538" visible="true" version="4" changeset="65245735" timestamp="2018-12-06T17:12:57Z" user="wavewings" uid="7877095">
+  <nd ref="2769220017"/>
+  <nd ref="2769074121"/>
+  <nd ref="2769074122"/>
+  <nd ref="2769220018"/>
+  <nd ref="2769220019"/>
+  <nd ref="2769220020"/>
+  <nd ref="2769220017"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="Subway"/>
+  <tag k="brand:wikidata" v="Q244457"/>
+  <tag k="brand:wikipedia" v="en:Subway (restaurant)"/>
+  <tag k="building" v="yes"/>
+  <tag k="cuisine" v="sandwich"/>
+  <tag k="name" v="Subway"/>
+  <tag k="opening_hours" v="Mo-Fr 07:00-22:00; Fr-Sa 07:00-02:00; Su 09:00-21:00"/>
+  <tag k="phone" v="01 679 7797"/>
+  <tag k="ref" v="14405"/>
+  <tag k="takeaway" v="yes"/>
+ </way>
+ <way id="271989539" visible="true" version="2" changeset="22373861" timestamp="2014-05-16T15:28:54Z" user="mackerski" uid="6367">
+  <nd ref="2769220016"/>
+  <nd ref="2769220022"/>
+  <nd ref="2769220023"/>
+  <nd ref="2769220013"/>
+  <nd ref="2769220015"/>
+  <nd ref="2769220016"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="College House Jewelers"/>
+  <tag k="shop" v="jewelry"/>
+ </way>
+ <way id="271989540" visible="true" version="3" changeset="59663362" timestamp="2018-06-08T09:52:33Z" user="kartonage" uid="1497225">
+  <nd ref="2769220019"/>
+  <nd ref="2769220023"/>
+  <nd ref="2769220022"/>
+  <nd ref="2769220024"/>
+  <nd ref="2769220020"/>
+  <nd ref="2769220019"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="45-46"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="amenity" v="pub"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Porterhouse Central"/>
+  <tag k="smoking" v="outside"/>
+ </way>
+ <way id="271990052" visible="true" version="1" changeset="21510764" timestamp="2014-04-05T10:02:09Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2769074123"/>
+  <nd ref="2769224210"/>
+  <nd ref="2769224211"/>
+  <nd ref="2769074124"/>
+  <nd ref="2769074123"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Kells of Dublin"/>
+ </way>
+ <way id="271990053" visible="true" version="3" changeset="59663362" timestamp="2018-06-08T09:52:33Z" user="kartonage" uid="1497225">
+  <nd ref="2769224210"/>
+  <nd ref="2769224212"/>
+  <nd ref="2769224213"/>
+  <nd ref="2769074127"/>
+  <nd ref="2769224211"/>
+  <nd ref="2769224210"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Adorn"/>
+ </way>
+ <way id="271990054" visible="true" version="2" changeset="26162565" timestamp="2014-10-18T01:52:17Z" user="VictorIE" uid="2008037">
+  <nd ref="2769224212"/>
+  <nd ref="2769074121"/>
+  <nd ref="2769074122"/>
+  <nd ref="2769224213"/>
+  <nd ref="2769224212"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Pererson"/>
+ </way>
+ <way id="271990055" visible="true" version="3" changeset="63859130" timestamp="2018-10-25T08:29:43Z" user="wavewings" uid="7877095">
+  <nd ref="2769224210"/>
+  <nd ref="2769224212"/>
+  <nd ref="2769074121"/>
+  <nd ref="2769074122"/>
+  <nd ref="2769224213"/>
+  <nd ref="2769074127"/>
+  <nd ref="2769224211"/>
+  <nd ref="2769224210"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="48-49"/>
+  <tag k="addr:street" v="Nassau Street"/>
+  <tag k="area" v="yes"/>
+  <tag k="name" v="Design Yard"/>
+ </way>
+ <way id="273992969" visible="true" version="3" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037">
+  <nd ref="2657473863"/>
+  <nd ref="2657467723"/>
+  <nd ref="2787779427"/>
+  <nd ref="2657473864"/>
+  <nd ref="2657473863"/>
+  <tag k="addr:housenumber" v="1-3"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="retail"/>
+ </way>
+ <way id="273992983" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:23Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779446"/>
+  <nd ref="2787779450"/>
+  <nd ref="2787779452"/>
+  <nd ref="2787779448"/>
+  <nd ref="2787779446"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992985" visible="true" version="2" changeset="21792156" timestamp="2014-04-19T08:05:18Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779450"/>
+  <nd ref="2787779454"/>
+  <nd ref="2787779456"/>
+  <nd ref="2787779452"/>
+  <nd ref="2787779450"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992987" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:23Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779454"/>
+  <nd ref="2787779458"/>
+  <nd ref="2787779459"/>
+  <nd ref="2787779461"/>
+  <nd ref="2787779456"/>
+  <nd ref="2787779454"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992989" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:23Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779458"/>
+  <nd ref="2787779463"/>
+  <nd ref="2787779464"/>
+  <nd ref="2787779466"/>
+  <nd ref="2787779479"/>
+  <nd ref="2787779468"/>
+  <nd ref="2787779469"/>
+  <nd ref="2787779472"/>
+  <nd ref="2787779473"/>
+  <nd ref="2787779461"/>
+  <nd ref="2787779459"/>
+  <nd ref="2787779458"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992992" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:23Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779463"/>
+  <nd ref="2787779475"/>
+  <nd ref="2787779488"/>
+  <nd ref="2787779477"/>
+  <nd ref="2787779479"/>
+  <nd ref="2787779466"/>
+  <nd ref="2787779464"/>
+  <nd ref="2787779463"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992994" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:24Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779475"/>
+  <nd ref="2787779480"/>
+  <nd ref="2787779482"/>
+  <nd ref="2787779484"/>
+  <nd ref="2787779486"/>
+  <nd ref="2787779488"/>
+  <nd ref="2787779475"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992996" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:24Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779480"/>
+  <nd ref="2787779490"/>
+  <nd ref="2787779492"/>
+  <nd ref="2787779482"/>
+  <nd ref="2787779480"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273992998" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:24Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779490"/>
+  <nd ref="2787779494"/>
+  <nd ref="2787779495"/>
+  <nd ref="2787779497"/>
+  <nd ref="2787779499"/>
+  <nd ref="2787779492"/>
+  <nd ref="2787779490"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273993000" visible="true" version="2" changeset="44813580" timestamp="2016-12-31T20:21:26Z" user="cart0" uid="2941385">
+  <nd ref="2787779494"/>
+  <nd ref="2787779501"/>
+  <nd ref="2787779508"/>
+  <nd ref="2787779502"/>
+  <nd ref="2787779510"/>
+  <nd ref="2787779495"/>
+  <nd ref="2787779494"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Birkenstock"/>
+  <tag k="opening_hours" v="Mo-We 09:00-18:00; Th 10:00-19:00; Sa 10:00-18:00; Su 13:00-17:00"/>
+  <tag k="phone" v="+353-1-675-3766"/>
+  <tag k="shop" v="shoes"/>
+  <tag k="website" v="http://birkenstock.ie/"/>
+ </way>
+ <way id="273993003" visible="true" version="1" changeset="21663795" timestamp="2014-04-13T12:04:24Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779501"/>
+  <nd ref="2787779505"/>
+  <nd ref="2787779507"/>
+  <nd ref="2787779508"/>
+  <nd ref="2787779501"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="273993004" visible="true" version="3" changeset="21702215" timestamp="2014-04-15T05:11:45Z" user="Meenatuggart" uid="1114651">
+  <nd ref="2787779507"/>
+  <nd ref="2737344437"/>
+  <nd ref="2737344442"/>
+  <nd ref="2787779510"/>
+  <nd ref="2787779502"/>
+  <nd ref="2787779508"/>
+  <nd ref="2787779507"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="shop" v="jewelry"/>
+ </way>
+ <way id="274475463" visible="true" version="3" changeset="51155144" timestamp="2017-08-16T00:13:55Z" user="VictorIE" uid="2008037">
+  <nd ref="2577331231"/>
+  <nd ref="5037881803"/>
+  <nd ref="2737355999"/>
+  <nd ref="2737356000"/>
+  <nd ref="2791896382"/>
+  <nd ref="2791896383"/>
+  <nd ref="2791896384"/>
+  <nd ref="2791896385"/>
+  <nd ref="2839080743"/>
+  <nd ref="2791896386"/>
+  <nd ref="2791896387"/>
+  <nd ref="2839080757"/>
+  <nd ref="2791896388"/>
+  <nd ref="2577331231"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="275426245" visible="true" version="4" changeset="64218434" timestamp="2018-11-06T04:59:04Z" user="kartonage" uid="1497225">
+  <nd ref="2800548559"/>
+  <nd ref="2800548560"/>
+  <nd ref="2800548561"/>
+  <nd ref="2800548562"/>
+  <nd ref="2800548563"/>
+  <nd ref="2800548559"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+ </way>
+ <way id="275426246" visible="true" version="5" changeset="64218434" timestamp="2018-11-06T04:59:04Z" user="kartonage" uid="1497225">
+  <nd ref="2800548559"/>
+  <nd ref="2766375317"/>
+  <nd ref="2766375335"/>
+  <nd ref="2766375333"/>
+  <nd ref="2766375330"/>
+  <nd ref="2800548564"/>
+  <nd ref="2800548565"/>
+  <nd ref="2800548566"/>
+  <nd ref="2800548567"/>
+  <nd ref="2800548568"/>
+  <nd ref="2800548569"/>
+  <nd ref="2800548563"/>
+  <nd ref="2800548559"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="39-46"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building:part" v="commercial"/>
+ </way>
+ <way id="275426247" visible="true" version="4" changeset="59663362" timestamp="2018-06-08T09:52:35Z" user="kartonage" uid="1497225">
+  <nd ref="2577255193"/>
+  <nd ref="2800548570"/>
+  <nd ref="2800548571"/>
+  <nd ref="2800548572"/>
+  <nd ref="2800548573"/>
+  <nd ref="2766381509"/>
+  <nd ref="2766375338"/>
+  <nd ref="2800548564"/>
+  <nd ref="2800548565"/>
+  <nd ref="2800548566"/>
+  <nd ref="2800548567"/>
+  <nd ref="2837247843"/>
+  <nd ref="2577255193"/>
+  <tag k="building" v="commercial"/>
+ </way>
+ <way id="279499123" visible="true" version="3" changeset="59663362" timestamp="2018-06-08T09:52:37Z" user="kartonage" uid="1497225">
+  <nd ref="2577255191"/>
+  <nd ref="3281089745"/>
+  <nd ref="2800548562"/>
+  <nd ref="2800548561"/>
+  <nd ref="2800548560"/>
+  <nd ref="2800548559"/>
+  <nd ref="2766375317"/>
+  <nd ref="2766375335"/>
+  <nd ref="2766375333"/>
+  <nd ref="2766375330"/>
+  <nd ref="2800548564"/>
+  <nd ref="2800548565"/>
+  <nd ref="2800548566"/>
+  <nd ref="2800548567"/>
+  <nd ref="2837247843"/>
+  <nd ref="2577255193"/>
+  <nd ref="2577255191"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="38-46"/>
+  <tag k="addr:street" v="Wicklow Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="note" v="Includes 1-3 Clarendon Street: DCC lists as one protected structure"/>
+ </way>
+ <way id="279702284" visible="true" version="3" changeset="51155144" timestamp="2017-08-16T00:13:55Z" user="VictorIE" uid="2008037">
+  <nd ref="2839080765"/>
+  <nd ref="5037881803"/>
+  <tag k="access" v="customers"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="279702287" visible="true" version="3" changeset="59663362" timestamp="2018-06-08T09:52:37Z" user="kartonage" uid="1497225">
+  <nd ref="2784810036"/>
+  <nd ref="2839080746"/>
+  <nd ref="2839080750"/>
+  <nd ref="3281089747"/>
+  <nd ref="2791896383"/>
+  <nd ref="2791896384"/>
+  <nd ref="2791896385"/>
+  <nd ref="2839080743"/>
+  <nd ref="2839080756"/>
+  <nd ref="2791896387"/>
+  <nd ref="2839080757"/>
+  <nd ref="2791896388"/>
+  <nd ref="2839080766"/>
+  <nd ref="2839080758"/>
+  <nd ref="2839080760"/>
+  <nd ref="2839080762"/>
+  <nd ref="2784811229"/>
+  <nd ref="2839080751"/>
+  <nd ref="2784811228"/>
+  <nd ref="2784811227"/>
+  <nd ref="2784811226"/>
+  <nd ref="2784810034"/>
+  <nd ref="2839080747"/>
+  <nd ref="2784810035"/>
+  <nd ref="2784810036"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="building" v="yes"/>
+  <tag k="fee" v="yes"/>
+  <tag k="name" v="Brown Thomas Car Park"/>
+  <tag k="parking" v="multi-storey"/>
+ </way>
+ <way id="321366075" visible="true" version="5" changeset="51155144" timestamp="2017-08-16T00:13:55Z" user="VictorIE" uid="2008037">
+  <nd ref="3281089745"/>
+  <nd ref="3281089746"/>
+  <nd ref="3281089747"/>
+  <tag k="access" v="permissive"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="corridor"/>
+  <tag k="layer" v="2"/>
+  <tag k="level" v="2"/>
+ </way>
+ <way id="369564013" visible="true" version="6" changeset="55536792" timestamp="2018-01-18T00:57:47Z" user="VictorIE" uid="2008037">
+  <nd ref="1488943160"/>
+  <nd ref="4405330018"/>
+  <nd ref="132560521"/>
+  <nd ref="9101664"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="maxspeed" v="30"/>
+  <tag k="motorcar" v="no"/>
+  <tag k="name" v="Grafton Street"/>
+  <tag k="name:ga" v="Sráid Grafton"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="paving_stones"/>
+ </way>
+ <way id="437011156" visible="true" version="2" changeset="51155144" timestamp="2017-08-16T00:13:55Z" user="VictorIE" uid="2008037">
+  <nd ref="3281089747"/>
+  <nd ref="4348404523"/>
+  <tag k="access" v="permissive"/>
+  <tag k="highway" v="corridor"/>
+  <tag k="level" v="2"/>
+ </way>
+ <way id="515975630" visible="true" version="1" changeset="51155144" timestamp="2017-08-16T00:13:55Z" user="VictorIE" uid="2008037">
+  <nd ref="5037881803"/>
+  <nd ref="2839080757"/>
+  <nd ref="4348404523"/>
+  <nd ref="2839080747"/>
+  <tag k="access" v="customers"/>
+  <tag k="highway" v="service"/>
+  <tag k="indoor" v="yes"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="516807844" visible="true" version="2" changeset="51279909" timestamp="2017-08-20T15:45:23Z" user="VictorIE" uid="2008037">
+  <nd ref="2657704638"/>
+  <nd ref="5046488901"/>
+  <nd ref="5046488900"/>
+  <nd ref="2657697684"/>
+  <nd ref="2657697686"/>
+  <nd ref="5046488899"/>
+  <nd ref="2657704638"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="585042210" visible="true" version="6" changeset="68177975" timestamp="2019-03-15T14:59:48Z" user="mr_magpie" uid="1203384">
+  <nd ref="5591580788"/>
+  <nd ref="3452020120"/>
+  <nd ref="3452020119"/>
+  <nd ref="3452020118"/>
+  <nd ref="3452020117"/>
+  <nd ref="3452020116"/>
+  <nd ref="3452020115"/>
+  <nd ref="3452020114"/>
+  <nd ref="3452020113"/>
+  <nd ref="3452020112"/>
+  <nd ref="3452020111"/>
+  <nd ref="3452020110"/>
+  <nd ref="3452020109"/>
+  <nd ref="3452020108"/>
+  <nd ref="3452020107"/>
+  <nd ref="3452020124"/>
+  <nd ref="5345930962"/>
+  <nd ref="3452020123"/>
+  <nd ref="3452020105"/>
+  <nd ref="5345930983"/>
+  <nd ref="3452020104"/>
+  <nd ref="3452020103"/>
+  <nd ref="3452011338"/>
+  <nd ref="3452011348"/>
+  <nd ref="3452011349"/>
+  <nd ref="3452011347"/>
+  <nd ref="3452011350"/>
+  <nd ref="3452011337"/>
+  <nd ref="3452011351"/>
+  <nd ref="3452011345"/>
+  <nd ref="3452011344"/>
+  <nd ref="4405330019"/>
+  <nd ref="3452011343"/>
+  <nd ref="3452011341"/>
+  <nd ref="3452011342"/>
+  <nd ref="3452011335"/>
+  <nd ref="3452011340"/>
+  <nd ref="3452011339"/>
+  <nd ref="3206752748"/>
+  <nd ref="3451879907"/>
+  <nd ref="4405330020"/>
+  <nd ref="3452011334"/>
+  <nd ref="3451335166"/>
+  <nd ref="1497227449"/>
+  <nd ref="3452011332"/>
+  <nd ref="3452011333"/>
+  <nd ref="3443298657"/>
+  <nd ref="3452011331"/>
+  <nd ref="5591654768"/>
+  <nd ref="3452011330"/>
+  <nd ref="5593299060"/>
+  <nd ref="3451335164"/>
+  <nd ref="4405330021"/>
+  <nd ref="3452011329"/>
+  <nd ref="3452011303"/>
+  <nd ref="5101079536"/>
+  <nd ref="5593384414"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="gauge" v="1435"/>
+  <tag k="layer" v="2"/>
+  <tag k="maxspeed" v="15"/>
+  <tag k="name" v="Luas Green Line"/>
+  <tag k="name:ga" v="Luas Líne Uaine"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="operator" v="Luas - Transdev Dublin Light Rail Limited"/>
+  <tag k="passenger" v="suburban"/>
+  <tag k="passenger_lines" v="2"/>
+  <tag k="railway" v="tram"/>
+  <tag k="railway:traffic_mode" v="passenger"/>
+  <tag k="voltage" v="750"/>
+ </way>
+ <way id="667068211" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:30Z" user="VictorIE" uid="2008037">
+  <nd ref="2657444637"/>
+  <nd ref="2657444638"/>
+  <nd ref="2657453844"/>
+  <nd ref="6245890990"/>
+  <nd ref="2657473859"/>
+  <nd ref="2657473861"/>
+  <nd ref="2657473864"/>
+  <nd ref="2657473863"/>
+  <nd ref="2657444636"/>
+  <nd ref="2657453843"/>
+  <nd ref="2657444635"/>
+  <nd ref="4711673731"/>
+  <nd ref="2657444637"/>
+  <tag k="addr:housenumber" v="100-101"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="brand" v="AIB"/>
+  <tag k="brand:wikidata" v="Q1642179"/>
+  <tag k="brand:wikipedia" v="en:Allied Irish Banks"/>
+  <tag k="drive_through" v="no"/>
+  <tag k="fax" v="+353-1-6797275"/>
+  <tag k="name" v="AIB"/>
+  <tag k="opening_hours" v="Mo-We 08:00-19:00; Th 08:00-21:00; Fr 08:00-19:00; Sa-Su 10:00-18:00"/>
+  <tag k="phone" v="+353-1-6713011"/>
+  <tag k="toilets:wheelchair" v="yes"/>
+  <tag k="website" v="https://aib.ie/"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="667068213" visible="true" version="1" changeset="66757070" timestamp="2019-01-30T02:54:31Z" user="VictorIE" uid="2008037">
+  <nd ref="2657444635"/>
+  <nd ref="2657440925"/>
+  <nd ref="2657440927"/>
+  <nd ref="2657473864"/>
+  <nd ref="2657473863"/>
+  <nd ref="2657444636"/>
+  <nd ref="2657453843"/>
+  <nd ref="2657444635"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="96-99"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="building:levels" v="5"/>
+  <tag k="name" v="Weir &amp; Son"/>
+  <tag k="shop" v="jewelry"/>
+  <tag k="toilets:wheelchair" v="no"/>
+  <tag k="website" v="https://weirandsons.ie/"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <relation id="3374049" visible="true" version="5" changeset="59439849" timestamp="2018-05-31T18:23:38Z" user="StephenJudge" uid="102345">
+  <member type="way" ref="251731350" role="outer"/>
+  <member type="way" ref="251450821" role="inner"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="6-12"/>
+  <tag k="addr:street" v="Clarendon Street"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="building" v="yes"/>
+  <tag k="denomination" v="catholic"/>
+  <tag k="name" v="St Theresa's Carmelite Church and Priory"/>
+  <tag k="note" v="Dublin City Council, Record of Protected Structures (2010), no. 1899"/>
+  <tag k="religion" v="christian"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="3630034" visible="true" version="7" changeset="65245735" timestamp="2018-12-06T17:13:00Z" user="wavewings" uid="7877095">
+  <member type="way" ref="271970896" role="outer"/>
+  <tag k="addr:city" v="Dublin"/>
+  <tag k="addr:housenumber" v="15-19"/>
+  <tag k="addr:street" v="Grafton Street"/>
+  <tag k="brand" v="Marks &amp; Spencer"/>
+  <tag k="brand:wikidata" v="Q714491"/>
+  <tag k="brand:wikipedia" v="en:Marks &amp; Spencer"/>
+  <tag k="building" v="yes"/>
+  <tag k="FIXME" v="Buildings need to be split"/>
+  <tag k="name" v="Marks &amp; Spencer"/>
+  <tag k="shop" v="department_store"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+ <relation id="4184500" visible="true" version="3" changeset="55536792" timestamp="2018-01-18T00:57:49Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="369564013" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="4271344" visible="true" version="6" changeset="55668037" timestamp="2018-01-22T21:53:52Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="369564011" role="outer"/>
+  <member type="way" ref="5826896" role="outer"/>
+  <member type="way" ref="554991019" role="outer"/>
+  <member type="way" ref="532427444" role="outer"/>
+  <member type="way" ref="3791744" role="outer"/>
+  <member type="way" ref="341583777" role="outer"/>
+  <member type="way" ref="5976022" role="outer"/>
+  <member type="way" ref="5826349" role="outer"/>
+  <member type="way" ref="4919616" role="outer"/>
+  <member type="way" ref="4919463" role="outer"/>
+  <member type="way" ref="4475686" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="13988845" role="outer"/>
+  <member type="way" ref="4919502" role="outer"/>
+  <member type="way" ref="65512263" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="4472595" role="outer"/>
+  <member type="way" ref="10577342" role="outer"/>
+  <member type="way" ref="2110697" role="outer"/>
+  <member type="way" ref="255472871" role="outer"/>
+  <member type="way" ref="317003251" role="outer"/>
+  <member type="way" ref="14039609" role="outer"/>
+  <member type="way" ref="532427445" role="outer"/>
+  <tag k="admin_level" v="9"/>
+  <tag k="alt_name" v="Royal Exchange B Electoral Division"/>
+  <tag k="alt_name_1" v="Royal Exchange B DED"/>
+  <tag k="alt_name_2" v="Royal Exchange B Ward"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="Royal Exchange B ED"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="4273026" visible="true" version="8" changeset="61235778" timestamp="2018-07-31T16:54:39Z" user="brianh" uid="19612">
+  <member type="way" ref="3790874" role="outer"/>
+  <member type="way" ref="553868720" role="outer"/>
+  <member type="way" ref="3790875" role="outer"/>
+  <member type="way" ref="26545993" role="outer"/>
+  <member type="way" ref="3791031" role="outer"/>
+  <member type="way" ref="3791034" role="outer"/>
+  <member type="way" ref="30789748" role="outer"/>
+  <member type="way" ref="4074529" role="outer"/>
+  <member type="way" ref="4078064" role="outer"/>
+  <member type="way" ref="372223884" role="outer"/>
+  <member type="way" ref="8692149" role="outer"/>
+  <member type="way" ref="4475729" role="outer"/>
+  <member type="way" ref="612719558" role="outer"/>
+  <member type="way" ref="4847328" role="outer"/>
+  <member type="way" ref="2110728" role="outer"/>
+  <member type="way" ref="4472590" role="outer"/>
+  <member type="way" ref="385558488" role="outer"/>
+  <member type="way" ref="37721356" role="outer"/>
+  <member type="way" ref="255472871" role="outer"/>
+  <member type="way" ref="2110697" role="outer"/>
+  <member type="way" ref="10577342" role="outer"/>
+  <member type="way" ref="4472595" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="65512263" role="outer"/>
+  <member type="way" ref="4919502" role="outer"/>
+  <member type="way" ref="13988845" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <tag k="alt_name" v="Mansion House B Ward 1970"/>
+  <tag k="boundary" v="political"/>
+  <tag k="date" v="1970"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="Mansion House B 1970"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="S.I. 269 of 1970"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5491233" visible="true" version="20" changeset="68002029" timestamp="2019-03-10T21:32:16Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="369564011" role="outer"/>
+  <member type="way" ref="369564010" role="outer"/>
+  <member type="way" ref="369622778" role="outer"/>
+  <member type="way" ref="369564014" role="outer"/>
+  <member type="way" ref="384401182" role="outer"/>
+  <member type="way" ref="493514869" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <tag k="boundary" v="civil_parish"/>
+  <tag k="logainm:ref" v="57085"/>
+  <tag k="logainm:url" v="http://www.logainm.ie/57085.aspx"/>
+  <tag k="name" v="St. Andrews Civil Parish"/>
+  <tag k="name:en" v="St. Andrew's"/>
+  <tag k="name:ga" v="Paróiste San Aindrias"/>
+  <tag k="official_name:en" v="St. Andrew's"/>
+  <tag k="official_name:ga" v="Paróiste San Aindrias"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5491234" visible="true" version="5" changeset="55536792" timestamp="2018-01-18T00:58:16Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="4919615" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="3790874" role="outer"/>
+  <member type="way" ref="553868720" role="outer"/>
+  <member type="way" ref="3790875" role="outer"/>
+  <member type="way" ref="26545993" role="outer"/>
+  <member type="way" ref="4074531" role="outer"/>
+  <member type="way" ref="372838323" role="outer"/>
+  <member type="way" ref="4074533" role="outer"/>
+  <member type="way" ref="3791033" role="outer"/>
+  <member type="way" ref="532096352" role="outer"/>
+  <member type="way" ref="4074528" role="outer"/>
+  <member type="way" ref="125872847" role="outer"/>
+  <member type="way" ref="3792490" role="outer"/>
+  <member type="way" ref="2110698" role="outer"/>
+  <member type="way" ref="38336001" role="outer"/>
+  <member type="way" ref="59604115" role="outer"/>
+  <member type="way" ref="37956677" role="outer"/>
+  <member type="way" ref="4476051" role="outer"/>
+  <member type="way" ref="352376956" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="4919443" role="outer"/>
+  <member type="way" ref="38167515" role="outer"/>
+  <member type="way" ref="2294383" role="outer"/>
+  <tag k="boundary" v="civil_parish"/>
+  <tag k="logainm:ref" v="57086"/>
+  <tag k="logainm:url" v="https://www.logainm.ie/en/57086"/>
+  <tag k="name" v="St. Anne's Civil Parish"/>
+  <tag k="name:en" v="St. Anne's"/>
+  <tag k="name:ga" v="Paróiste San Anna"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5535670" visible="true" version="27" changeset="68002029" timestamp="2019-03-10T21:32:13Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="27806145" role="outer"/>
+  <member type="way" ref="27806087" role="outer"/>
+  <member type="way" ref="43538578" role="outer"/>
+  <member type="way" ref="372226842" role="outer"/>
+  <member type="way" ref="363392495" role="outer"/>
+  <member type="way" ref="372226832" role="outer"/>
+  <member type="way" ref="372226859" role="outer"/>
+  <member type="way" ref="317003241" role="outer"/>
+  <member type="way" ref="493046987" role="outer"/>
+  <member type="way" ref="493046988" role="outer"/>
+  <member type="way" ref="370381578" role="outer"/>
+  <member type="way" ref="78331137" role="outer"/>
+  <member type="way" ref="493046986" role="outer"/>
+  <member type="way" ref="376394512" role="outer"/>
+  <member type="way" ref="369564014" role="outer"/>
+  <member type="way" ref="384401182" role="outer"/>
+  <member type="way" ref="493514869" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="16247623" role="outer"/>
+  <member type="way" ref="37264313" role="outer"/>
+  <tag k="boundary" v="historic"/>
+  <tag k="date" v="1849;1888"/>
+  <tag k="name" v="South City Ward (1849)"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="12&amp;13 Viv. c.85. confirmed 51&amp;52 Vic."/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5535904" visible="true" version="15" changeset="66915491" timestamp="2019-02-04T21:16:11Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="416936759" role="outer"/>
+  <member type="way" ref="663919440" role="outer"/>
+  <member type="way" ref="663919437" role="outer"/>
+  <member type="way" ref="25217854" role="outer"/>
+  <member type="way" ref="264876950" role="outer"/>
+  <member type="way" ref="369652830" role="outer"/>
+  <member type="way" ref="369652827" role="outer"/>
+  <member type="way" ref="52375082" role="outer"/>
+  <member type="way" ref="369652831" role="outer"/>
+  <member type="way" ref="22962979" role="outer"/>
+  <member type="way" ref="14039949" role="outer"/>
+  <member type="way" ref="15464769" role="outer"/>
+  <member type="way" ref="24687584" role="outer"/>
+  <member type="way" ref="4919443" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="352376956" role="outer"/>
+  <member type="way" ref="4476051" role="outer"/>
+  <member type="way" ref="2294310" role="outer"/>
+  <member type="way" ref="375772038" role="outer"/>
+  <member type="way" ref="7849019" role="outer"/>
+  <member type="way" ref="523892327" role="outer"/>
+  <member type="way" ref="524737392" role="outer"/>
+  <member type="way" ref="2294311" role="outer"/>
+  <member type="way" ref="3790875" role="outer"/>
+  <member type="way" ref="553868720" role="outer"/>
+  <member type="way" ref="3790874" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="16247623" role="outer"/>
+  <member type="way" ref="4919464" role="outer"/>
+  <member type="way" ref="418991182" role="outer"/>
+  <tag k="boundary" v="historic"/>
+  <tag k="date" v="1849;1888"/>
+  <tag k="name" v="Royal Exchange Ward (1849)"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="12&amp;13 Viv. c.85. confirmed 51&amp;52 Vic."/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5595992" visible="true" version="12" changeset="66915491" timestamp="2019-02-04T21:16:11Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="24687584" role="outer"/>
+  <member type="way" ref="15464769" role="outer"/>
+  <member type="way" ref="15464767" role="outer"/>
+  <member type="way" ref="2294382" role="outer"/>
+  <member type="way" ref="5976022" role="outer"/>
+  <member type="way" ref="341583777" role="outer"/>
+  <member type="way" ref="332204267" role="outer"/>
+  <member type="way" ref="369977725" role="outer"/>
+  <member type="way" ref="4919469" role="outer"/>
+  <member type="way" ref="60010825" role="outer"/>
+  <member type="way" ref="369977726" role="outer"/>
+  <member type="way" ref="369652829" role="outer"/>
+  <member type="way" ref="360313823" role="outer"/>
+  <member type="way" ref="5200620" role="outer"/>
+  <member type="way" ref="143278854" role="outer"/>
+  <member type="way" ref="60010826" role="outer"/>
+  <member type="way" ref="264901993" role="outer"/>
+  <member type="way" ref="317003246" role="outer"/>
+  <member type="way" ref="125864859" role="outer"/>
+  <member type="way" ref="372226859" role="outer"/>
+  <member type="way" ref="317003241" role="outer"/>
+  <member type="way" ref="493046987" role="outer"/>
+  <member type="way" ref="493046988" role="outer"/>
+  <member type="way" ref="370381578" role="outer"/>
+  <member type="way" ref="375772036" role="outer"/>
+  <member type="way" ref="375772040" role="outer"/>
+  <member type="way" ref="31028274" role="outer"/>
+  <member type="way" ref="37865098" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="3790874" role="outer"/>
+  <member type="way" ref="553868720" role="outer"/>
+  <member type="way" ref="545320081" role="outer"/>
+  <member type="way" ref="521969635" role="outer"/>
+  <member type="way" ref="53750891" role="outer"/>
+  <member type="way" ref="375772038" role="outer"/>
+  <member type="way" ref="307805528" role="outer"/>
+  <member type="way" ref="352376956" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="4919443" role="outer"/>
+  <tag k="boundary" v="historic"/>
+  <tag k="date" v="pre1849"/>
+  <tag k="name" v="Castle Ward (pre1849)"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="text in Dublin City minute book"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5595995" visible="true" version="19" changeset="68002029" timestamp="2019-03-10T21:32:13Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="375772036" role="outer"/>
+  <member type="way" ref="78331137" role="outer"/>
+  <member type="way" ref="493046986" role="outer"/>
+  <member type="way" ref="376394512" role="outer"/>
+  <member type="way" ref="369564014" role="outer"/>
+  <member type="way" ref="384401182" role="outer"/>
+  <member type="way" ref="493514869" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="37865098" role="outer"/>
+  <member type="way" ref="31028274" role="outer"/>
+  <member type="way" ref="375772040" role="outer"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="date" v="pre1849"/>
+  <tag k="name" v="St. Andrew's Ward (pre1849)"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="text in Dublin City minute book"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5607296" visible="true" version="18" changeset="68002029" timestamp="2019-03-10T21:32:21Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="547144814" role="outer"/>
+  <member type="way" ref="317219093" role="outer"/>
+  <member type="way" ref="372284308" role="outer"/>
+  <member type="way" ref="317101088" role="outer"/>
+  <member type="way" ref="4825332" role="outer"/>
+  <member type="way" ref="4385390" role="outer"/>
+  <member type="way" ref="275506898" role="outer"/>
+  <member type="way" ref="282317508" role="outer"/>
+  <member type="way" ref="275506897" role="outer"/>
+  <member type="way" ref="4925957" role="outer"/>
+  <member type="way" ref="4825310" role="outer"/>
+  <member type="way" ref="30789748" role="outer"/>
+  <member type="way" ref="4074529" role="outer"/>
+  <member type="way" ref="4078064" role="outer"/>
+  <member type="way" ref="372223884" role="outer"/>
+  <member type="way" ref="8692149" role="outer"/>
+  <member type="way" ref="4475729" role="outer"/>
+  <member type="way" ref="612719558" role="outer"/>
+  <member type="way" ref="4847328" role="outer"/>
+  <member type="way" ref="2110728" role="outer"/>
+  <member type="way" ref="4472590" role="outer"/>
+  <member type="way" ref="385558488" role="outer"/>
+  <member type="way" ref="37721356" role="outer"/>
+  <member type="way" ref="255472871" role="outer"/>
+  <member type="way" ref="2110697" role="outer"/>
+  <member type="way" ref="10577342" role="outer"/>
+  <member type="way" ref="4472595" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="65512263" role="outer"/>
+  <member type="way" ref="4919502" role="outer"/>
+  <member type="way" ref="13988845" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="372284309" role="outer"/>
+  <member type="way" ref="369897001" role="outer"/>
+  <member type="way" ref="376394513" role="outer"/>
+  <tag k="boundary" v="historic"/>
+  <tag k="date" v="1946"/>
+  <tag k="name" v="Mansion House Ward (1946)"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="text in Dublin City Council minutes"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="5610578" visible="true" version="19" changeset="68002029" timestamp="2019-03-10T21:32:13Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="4472595" role="outer"/>
+  <member type="way" ref="10577342" role="outer"/>
+  <member type="way" ref="2110697" role="outer"/>
+  <member type="way" ref="255472871" role="outer"/>
+  <member type="way" ref="317003251" role="outer"/>
+  <member type="way" ref="14039609" role="outer"/>
+  <member type="way" ref="48454248" role="outer"/>
+  <member type="way" ref="14039718" role="outer"/>
+  <member type="way" ref="125886705" role="outer"/>
+  <member type="way" ref="125886704" role="outer"/>
+  <member type="way" ref="60010824" role="outer"/>
+  <member type="way" ref="60010825" role="outer"/>
+  <member type="way" ref="369977726" role="outer"/>
+  <member type="way" ref="369652829" role="outer"/>
+  <member type="way" ref="360313823" role="outer"/>
+  <member type="way" ref="5200620" role="outer"/>
+  <member type="way" ref="143278854" role="outer"/>
+  <member type="way" ref="60010826" role="outer"/>
+  <member type="way" ref="264901993" role="outer"/>
+  <member type="way" ref="317003246" role="outer"/>
+  <member type="way" ref="125864859" role="outer"/>
+  <member type="way" ref="372226859" role="outer"/>
+  <member type="way" ref="317003241" role="outer"/>
+  <member type="way" ref="493046987" role="outer"/>
+  <member type="way" ref="493046988" role="outer"/>
+  <member type="way" ref="370381578" role="outer"/>
+  <member type="way" ref="78331137" role="outer"/>
+  <member type="way" ref="493046986" role="outer"/>
+  <member type="way" ref="376394512" role="outer"/>
+  <member type="way" ref="369564014" role="outer"/>
+  <member type="way" ref="384401182" role="outer"/>
+  <member type="way" ref="493514869" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="13988845" role="outer"/>
+  <member type="way" ref="4919502" role="outer"/>
+  <member type="way" ref="65512263" role="outer"/>
+  <tag k="boundary" v="historic"/>
+  <tag k="date" v="1946"/>
+  <tag k="name" v="Royal Exchange Ward (1946)"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="text in Dublin City Council minutes,"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="6133107" visible="true" version="23" changeset="66915491" timestamp="2019-02-04T21:16:10Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="260607179" role="outer"/>
+  <member type="way" ref="317027061" role="outer"/>
+  <member type="way" ref="260607191" role="outer"/>
+  <member type="way" ref="260607208" role="outer"/>
+  <member type="way" ref="317027060" role="outer"/>
+  <member type="way" ref="572459719" role="outer"/>
+  <member type="way" ref="572459718" role="outer"/>
+  <member type="way" ref="76639108" role="outer"/>
+  <member type="way" ref="260607177" role="outer"/>
+  <member type="way" ref="260607180" role="outer"/>
+  <member type="way" ref="317027059" role="outer"/>
+  <member type="way" ref="317027053" role="outer"/>
+  <member type="way" ref="317027051" role="outer"/>
+  <member type="way" ref="13866327" role="outer"/>
+  <member type="way" ref="317027064" role="outer"/>
+  <member type="way" ref="13866265" role="outer"/>
+  <member type="way" ref="22962975" role="outer"/>
+  <member type="way" ref="125886705" role="outer"/>
+  <member type="way" ref="125886704" role="outer"/>
+  <member type="way" ref="60010824" role="outer"/>
+  <member type="way" ref="60010825" role="outer"/>
+  <member type="way" ref="22962977" role="outer"/>
+  <member type="way" ref="372223886" role="outer"/>
+  <member type="way" ref="369652831" role="outer"/>
+  <member type="way" ref="52375082" role="outer"/>
+  <member type="way" ref="369652827" role="outer"/>
+  <member type="way" ref="369652830" role="outer"/>
+  <member type="way" ref="264876950" role="outer"/>
+  <member type="way" ref="25217854" role="outer"/>
+  <member type="way" ref="663919437" role="outer"/>
+  <member type="way" ref="663919440" role="outer"/>
+  <member type="way" ref="416936759" role="outer"/>
+  <member type="way" ref="418991182" role="outer"/>
+  <member type="way" ref="4919464" role="outer"/>
+  <member type="way" ref="16247623" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="24973956" role="outer"/>
+  <member type="way" ref="4472591" role="outer"/>
+  <member type="way" ref="575070043" role="outer"/>
+  <member type="way" ref="74232837" role="outer"/>
+  <member type="way" ref="24973955" role="outer"/>
+  <member type="way" ref="529171742" role="outer"/>
+  <member type="way" ref="4253728" role="outer"/>
+  <member type="way" ref="362939724" role="outer"/>
+  <member type="way" ref="372838324" role="outer"/>
+  <member type="way" ref="4934680" role="outer"/>
+  <member type="way" ref="375758263" role="outer"/>
+  <member type="way" ref="4934682" role="outer"/>
+  <member type="way" ref="3791291" role="outer"/>
+  <member type="way" ref="372477029" role="outer"/>
+  <member type="way" ref="37721078" role="outer"/>
+  <member type="way" ref="156771908" role="outer"/>
+  <member type="way" ref="4934672" role="outer"/>
+  <member type="way" ref="4934673" role="outer"/>
+  <member type="way" ref="547144825" role="outer"/>
+  <member type="way" ref="409845700" role="outer"/>
+  <member type="way" ref="409845693" role="outer"/>
+  <member type="way" ref="4926000" role="outer"/>
+  <member type="way" ref="317312602" role="outer"/>
+  <member type="way" ref="10577136" role="outer"/>
+  <member type="way" ref="360342135" role="outer"/>
+  <member type="way" ref="129298405" role="outer"/>
+  <member type="way" ref="409845702" role="outer"/>
+  <member type="way" ref="368492684" role="outer"/>
+  <member type="way" ref="380928082" role="outer"/>
+  <member type="way" ref="317312601" role="outer"/>
+  <member type="way" ref="124755337" role="outer"/>
+  <member type="way" ref="124755313" role="outer"/>
+  <member type="way" ref="54820405" role="outer"/>
+  <member type="way" ref="124755319" role="outer"/>
+  <member type="way" ref="124755332" role="outer"/>
+  <member type="way" ref="554985276" role="outer"/>
+  <member type="way" ref="554985274" role="outer"/>
+  <member type="way" ref="369214164" role="outer"/>
+  <member type="way" ref="509710796" role="outer"/>
+  <member type="way" ref="369214161" role="outer"/>
+  <member type="way" ref="317312596" role="outer"/>
+  <member type="way" ref="378365523" role="outer"/>
+  <member type="way" ref="368504993" role="outer"/>
+  <member type="way" ref="216646029" role="outer"/>
+  <member type="way" ref="216646024" role="outer"/>
+  <member type="way" ref="216646031" role="outer"/>
+  <member type="way" ref="317312588" role="outer"/>
+  <member type="way" ref="216646028" role="outer"/>
+  <member type="way" ref="318578638" role="outer"/>
+  <member type="way" ref="74432966" role="outer"/>
+  <member type="way" ref="165394974" role="outer"/>
+  <member type="way" ref="216646030" role="outer"/>
+  <member type="way" ref="315565957" role="outer"/>
+  <member type="way" ref="165381887" role="outer"/>
+  <member type="way" ref="385558481" role="outer"/>
+  <member type="way" ref="316690012" role="outer"/>
+  <member type="way" ref="316690014" role="outer"/>
+  <member type="way" ref="316690024" role="outer"/>
+  <member type="way" ref="129000022" role="outer"/>
+  <member type="way" ref="385558489" role="outer"/>
+  <member type="way" ref="7988542" role="outer"/>
+  <member type="way" ref="49907732" role="outer"/>
+  <member type="way" ref="51995805" role="outer"/>
+  <member type="way" ref="165381873" role="outer"/>
+  <member type="way" ref="50725638" role="outer"/>
+  <member type="way" ref="158744039" role="outer"/>
+  <member type="way" ref="4898699" role="outer"/>
+  <member type="way" ref="4899944" role="outer"/>
+  <member type="way" ref="50727076" role="outer"/>
+  <member type="way" ref="54727554" role="outer"/>
+  <member type="way" ref="50727075" role="outer"/>
+  <member type="way" ref="166759479" role="outer"/>
+  <member type="way" ref="166759480" role="outer"/>
+  <member type="way" ref="636601092" role="outer"/>
+  <member type="way" ref="165458566" role="outer"/>
+  <member type="way" ref="166604117" role="outer"/>
+  <member type="way" ref="166604118" role="outer"/>
+  <member type="way" ref="124761448" role="outer"/>
+  <member type="way" ref="124761452" role="outer"/>
+  <member type="way" ref="378365514" role="outer"/>
+  <member type="way" ref="316406616" role="outer"/>
+  <member type="way" ref="71461563" role="outer"/>
+  <member type="way" ref="313966941" role="outer"/>
+  <member type="way" ref="329747155" role="outer"/>
+  <member type="way" ref="329747153" role="outer"/>
+  <member type="way" ref="23948177" role="outer"/>
+  <member type="way" ref="5726508" role="outer"/>
+  <member type="way" ref="368662868" role="outer"/>
+  <member type="way" ref="368662869" role="outer"/>
+  <member type="way" ref="317312611" role="outer"/>
+  <member type="way" ref="318578647" role="outer"/>
+  <member type="way" ref="44540615" role="outer"/>
+  <member type="way" ref="368607483" role="outer"/>
+  <member type="way" ref="368607484" role="outer"/>
+  <member type="way" ref="368646810" role="outer"/>
+  <member type="way" ref="368646801" role="outer"/>
+  <member type="way" ref="368646803" role="outer"/>
+  <member type="way" ref="636636979" role="outer"/>
+  <member type="way" ref="368646807" role="outer"/>
+  <member type="way" ref="156375816" role="outer"/>
+  <member type="way" ref="129298404" role="outer"/>
+  <member type="way" ref="2110756" role="outer"/>
+  <member type="way" ref="631925372" role="outer"/>
+  <member type="way" ref="2294449" role="outer"/>
+  <member type="way" ref="33854576" role="outer"/>
+  <member type="way" ref="4934590" role="outer"/>
+  <member type="way" ref="563920569" role="outer"/>
+  <member type="way" ref="76715475" role="outer"/>
+  <member type="way" ref="376816622" role="outer"/>
+  <member type="way" ref="260607178" role="outer"/>
+  <tag k="boundary" v="historic_political"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="Dublin South East Parliamentary c.1870"/>
+  <tag k="parliamentary_boundary" v="yes"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="6975500" visible="true" version="18" changeset="63330078" timestamp="2018-10-09T03:07:31Z" user="brianh" uid="19612">
+  <member type="node" ref="2368752999" role="stop"/>
+  <member type="node" ref="3451853453" role="stop"/>
+  <member type="node" ref="3451853433" role="stop"/>
+  <member type="node" ref="4683697860" role="stop"/>
+  <member type="node" ref="4683697861" role="stop"/>
+  <member type="node" ref="4683697862" role="stop"/>
+  <member type="node" ref="4683697863" role="stop"/>
+  <member type="node" ref="4683697864" role="stop"/>
+  <member type="node" ref="4683697865" role="stop"/>
+  <member type="node" ref="4683697866" role="stop"/>
+  <member type="node" ref="4683697867" role="stop"/>
+  <member type="node" ref="4683697869" role="stop"/>
+  <member type="node" ref="3451767974" role="stop"/>
+  <member type="node" ref="4683697870" role="stop"/>
+  <member type="node" ref="4683697871" role="stop"/>
+  <member type="node" ref="4683697872" role="stop"/>
+  <member type="node" ref="4683697874" role="stop"/>
+  <member type="node" ref="3451722881" role="stop"/>
+  <member type="node" ref="3451213775" role="stop"/>
+  <member type="node" ref="4683697875" role="stop"/>
+  <member type="node" ref="4683697873" role="stop"/>
+  <member type="node" ref="3452493714" role="stop"/>
+  <member type="node" ref="3452011330" role="stop"/>
+  <member type="node" ref="3459902187" role="stop"/>
+  <member type="node" ref="3459902189" role="stop"/>
+  <member type="node" ref="3452492565" role="stop"/>
+  <member type="node" ref="3452492564" role="stop"/>
+  <member type="node" ref="4392909450" role="stop"/>
+  <member type="node" ref="2363501445" role="stop"/>
+  <member type="node" ref="4669407702" role="stop"/>
+  <member type="node" ref="5300294494" role="stop"/>
+  <member type="way" ref="81946730" role="platform"/>
+  <member type="way" ref="81946733" role="platform"/>
+  <member type="way" ref="81946728" role="platform"/>
+  <member type="way" ref="257343853" role="platform"/>
+  <member type="way" ref="81957655" role="platform"/>
+  <member type="way" ref="81957650" role="platform"/>
+  <member type="way" ref="81957654" role="platform"/>
+  <member type="way" ref="81957648" role="platform"/>
+  <member type="way" ref="81957641" role="platform"/>
+  <member type="way" ref="228243914" role="platform"/>
+  <member type="way" ref="279443677" role="platform"/>
+  <member type="way" ref="279443295" role="platform"/>
+  <member type="way" ref="227935555" role="platform"/>
+  <member type="way" ref="65083058" role="platform"/>
+  <member type="way" ref="278404015" role="platform"/>
+  <member type="way" ref="278404016" role="platform"/>
+  <member type="way" ref="112688722" role="platform"/>
+  <member type="way" ref="278404018" role="platform"/>
+  <member type="way" ref="278157886" role="platform"/>
+  <member type="way" ref="105584732" role="platform"/>
+  <member type="way" ref="272696234" role="platform"/>
+  <member type="way" ref="272696081" role="platform"/>
+  <member type="node" ref="4683697868" role="stop"/>
+  <member type="way" ref="338118771" role=""/>
+  <member type="way" ref="427125943" role=""/>
+  <member type="way" ref="338118772" role=""/>
+  <member type="way" ref="338118770" role=""/>
+  <member type="way" ref="338118769" role=""/>
+  <member type="way" ref="399064005" role=""/>
+  <member type="way" ref="399064004" role=""/>
+  <member type="way" ref="338118768" role=""/>
+  <member type="way" ref="338118767" role=""/>
+  <member type="way" ref="338118766" role=""/>
+  <member type="way" ref="338118765" role=""/>
+  <member type="way" ref="338112637" role=""/>
+  <member type="way" ref="584116882" role=""/>
+  <member type="way" ref="410436408" role=""/>
+  <member type="way" ref="228243904" role=""/>
+  <member type="way" ref="338111927" role=""/>
+  <member type="way" ref="398251066" role=""/>
+  <member type="way" ref="338111926" role=""/>
+  <member type="way" ref="338111925" role=""/>
+  <member type="way" ref="338111924" role=""/>
+  <member type="way" ref="338111923" role=""/>
+  <member type="way" ref="398248253" role=""/>
+  <member type="way" ref="338110001" role=""/>
+  <member type="way" ref="398242185" role=""/>
+  <member type="way" ref="338110000" role=""/>
+  <member type="way" ref="338109999" role=""/>
+  <member type="way" ref="338108678" role=""/>
+  <member type="way" ref="468910921" role=""/>
+  <member type="way" ref="632039352" role=""/>
+  <member type="way" ref="338335875" role=""/>
+  <member type="way" ref="632039354" role=""/>
+  <member type="way" ref="338108677" role=""/>
+  <member type="way" ref="338108676" role=""/>
+  <member type="way" ref="338108672" role=""/>
+  <member type="way" ref="340553001" role=""/>
+  <member type="way" ref="340553006" role=""/>
+  <member type="way" ref="340553005" role=""/>
+  <member type="way" ref="340553008" role=""/>
+  <member type="way" ref="340553009" role=""/>
+  <member type="way" ref="338108671" role=""/>
+  <member type="way" ref="338075321" role=""/>
+  <member type="way" ref="338061801" role=""/>
+  <member type="way" ref="338040885" role=""/>
+  <member type="way" ref="585278826" role=""/>
+  <member type="way" ref="585042211" role=""/>
+  <member type="way" ref="585042210" role=""/>
+  <member type="way" ref="585255346" role=""/>
+  <member type="way" ref="585255347" role=""/>
+  <member type="way" ref="585246539" role=""/>
+  <member type="way" ref="560223961" role=""/>
+  <member type="way" ref="560223962" role=""/>
+  <member type="way" ref="548477025" role=""/>
+  <member type="way" ref="548483303" role=""/>
+  <member type="way" ref="549411865" role=""/>
+  <member type="way" ref="548654534" role=""/>
+  <member type="way" ref="472736914" role=""/>
+  <member type="way" ref="319273145" role=""/>
+  <member type="way" ref="370960885" role=""/>
+  <member type="way" ref="344362999" role=""/>
+  <member type="way" ref="367695254" role=""/>
+  <tag k="from" v="Brides Glen"/>
+  <tag k="interval" v="6"/>
+  <tag k="interval:peak" v="5"/>
+  <tag k="interval:sunday" v="120"/>
+  <tag k="name" v="Luas Green Line - Brides Glen - Broombridge"/>
+  <tag k="network" v="Luas"/>
+  <tag k="operator" v="Luas - Transdev Dublin Light Rail Limited"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="route" v="tram"/>
+  <tag k="to" v="Broombridge"/>
+  <tag k="type" v="route"/>
+  <tag k="wikidata" v="Q2086105"/>
+ </relation>
+ <relation id="6975523" visible="true" version="3" changeset="50484297" timestamp="2017-07-22T16:02:38Z" user="Teester" uid="259792">
+  <member type="relation" ref="6975500" role=""/>
+  <member type="relation" ref="6975501" role=""/>
+  <tag k="colour" v="#008531"/>
+  <tag k="name" v="Luas Green Line"/>
+  <tag k="network" v="Luas"/>
+  <tag k="operator" v="Luas - Transdev Dublin Light Rail Limited"/>
+  <tag k="route_master" v="tram"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="7418254" visible="true" version="10" changeset="68019545" timestamp="2019-03-11T11:53:41Z" user="shiftee" uid="5589928">
+  <member type="way" ref="129211799" role="outer"/>
+  <member type="way" ref="372226866" role="outer"/>
+  <member type="way" ref="372226870" role="outer"/>
+  <member type="way" ref="129211807" role="outer"/>
+  <member type="way" ref="510208228" role="outer"/>
+  <member type="way" ref="48483332" role="outer"/>
+  <member type="way" ref="345023952" role="outer"/>
+  <member type="way" ref="345023951" role="outer"/>
+  <member type="way" ref="38090688" role="outer"/>
+  <member type="way" ref="376466424" role="outer"/>
+  <member type="way" ref="6192247" role="outer"/>
+  <member type="way" ref="16309919" role="outer"/>
+  <member type="way" ref="369652830" role="outer"/>
+  <member type="way" ref="372226878" role="outer"/>
+  <member type="way" ref="4919471" role="outer"/>
+  <member type="way" ref="2294383" role="outer"/>
+  <member type="way" ref="4919615" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="493514869" role="outer"/>
+  <member type="way" ref="384401182" role="outer"/>
+  <member type="way" ref="369564014" role="outer"/>
+  <member type="way" ref="376394512" role="outer"/>
+  <member type="way" ref="493046986" role="outer"/>
+  <member type="way" ref="78331137" role="outer"/>
+  <member type="way" ref="370381578" role="outer"/>
+  <member type="way" ref="493046988" role="outer"/>
+  <member type="way" ref="493046987" role="outer"/>
+  <member type="way" ref="344788811" role="outer"/>
+  <member type="way" ref="317101099" role="outer"/>
+  <member type="way" ref="376282510" role="outer"/>
+  <member type="way" ref="493046989" role="outer"/>
+  <member type="way" ref="493046985" role="outer"/>
+  <member type="way" ref="493046991" role="outer"/>
+  <member type="way" ref="493046984" role="outer"/>
+  <member type="way" ref="494014744" role="outer"/>
+  <member type="way" ref="369577705" role="outer"/>
+  <member type="way" ref="317003260" role="outer"/>
+  <member type="way" ref="493046990" role="outer"/>
+  <member type="way" ref="370134252" role="outer"/>
+  <member type="way" ref="633288786" role="outer"/>
+  <member type="way" ref="369656439" role="outer"/>
+  <member type="way" ref="510208232" role="outer"/>
+  <member type="way" ref="510208231" role="outer"/>
+  <member type="way" ref="384312815" role="outer"/>
+  <tag k="alt_name" v="South City No.2 RD 1885"/>
+  <tag k="boundary" v="registrars_district"/>
+  <tag k="date" v="1885"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="South City No.2 Registrars District 1885"/>
+  <tag k="population:1881" v="31421"/>
+  <tag k="source" v="GRO pamphlet 1885 HMSO in NLI Ir 9141 B 35"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="7419054" visible="true" version="12" changeset="68002029" timestamp="2019-03-10T21:32:17Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="4919443" role="outer"/>
+  <member type="way" ref="510278662" role="outer"/>
+  <member type="way" ref="385558488" role="outer"/>
+  <member type="way" ref="4472590" role="outer"/>
+  <member type="way" ref="2110728" role="outer"/>
+  <member type="way" ref="38023640" role="outer"/>
+  <member type="way" ref="37930158" role="outer"/>
+  <member type="way" ref="290637300" role="outer"/>
+  <member type="way" ref="4934591" role="outer"/>
+  <member type="way" ref="563920568" role="outer"/>
+  <member type="way" ref="572459721" role="outer"/>
+  <member type="way" ref="572459720" role="outer"/>
+  <member type="way" ref="368646805" role="outer"/>
+  <member type="way" ref="612719566" role="outer"/>
+  <member type="way" ref="260607190" role="outer"/>
+  <member type="way" ref="260607198" role="outer"/>
+  <member type="way" ref="372223885" role="outer"/>
+  <member type="way" ref="260607203" role="outer"/>
+  <member type="way" ref="260607196" role="outer"/>
+  <member type="way" ref="375772039" role="outer"/>
+  <member type="way" ref="260607174" role="outer"/>
+  <member type="way" ref="260607184" role="outer"/>
+  <member type="way" ref="317312604" role="outer"/>
+  <member type="way" ref="260607205" role="outer"/>
+  <member type="way" ref="260607199" role="outer"/>
+  <member type="way" ref="317312594" role="outer"/>
+  <member type="way" ref="317312607" role="outer"/>
+  <member type="way" ref="409845695" role="outer"/>
+  <member type="way" ref="4926000" role="outer"/>
+  <member type="way" ref="10497823" role="outer"/>
+  <member type="way" ref="80390832" role="outer"/>
+  <member type="way" ref="80390834" role="outer"/>
+  <member type="way" ref="49057073" role="outer"/>
+  <member type="way" ref="51269108" role="outer"/>
+  <member type="way" ref="317312610" role="outer"/>
+  <member type="way" ref="119860728" role="outer"/>
+  <member type="way" ref="4820650" role="outer"/>
+  <member type="way" ref="376339235" role="outer"/>
+  <member type="way" ref="379046130" role="outer"/>
+  <member type="way" ref="124755293" role="outer"/>
+  <member type="way" ref="379046134" role="outer"/>
+  <member type="way" ref="76645204" role="outer"/>
+  <member type="way" ref="317219092" role="outer"/>
+  <member type="way" ref="317101100" role="outer"/>
+  <member type="way" ref="372284308" role="outer"/>
+  <member type="way" ref="317219093" role="outer"/>
+  <member type="way" ref="547144814" role="outer"/>
+  <member type="way" ref="376394513" role="outer"/>
+  <member type="way" ref="369897001" role="outer"/>
+  <member type="way" ref="372284309" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919615" role="outer"/>
+  <member type="way" ref="2294383" role="outer"/>
+  <member type="way" ref="38167515" role="outer"/>
+  <tag k="alt_name" v="South City No.4 RD 1885"/>
+  <tag k="boundary" v="registrars_district"/>
+  <tag k="date" v="1885"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="South City No.4 Registrars District 1885"/>
+  <tag k="population:1881" v="38271"/>
+  <tag k="source" v="GRO pamphlet 1885 HMSO in NLI Ir 9141 B 35"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="7656702" visible="true" version="1" changeset="52985684" timestamp="2017-10-16T15:44:55Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="369564013" role="from"/>
+  <member type="node" ref="9101664" role="via"/>
+  <member type="way" ref="4919472" role="to"/>
+  <tag k="restriction" v="no_right_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="7910672" visible="true" version="1" changeset="55536792" timestamp="2018-01-18T00:57:46Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="4475686" role="from"/>
+  <member type="node" ref="1488943160" role="via"/>
+  <member type="way" ref="3790874" role="to"/>
+  <tag k="restriction" v="no_straight_on"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="7910673" visible="true" version="1" changeset="55536792" timestamp="2018-01-18T00:57:46Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="553868720" role="from"/>
+  <member type="node" ref="3451879894" role="via"/>
+  <member type="way" ref="3790874" role="to"/>
+  <tag k="restriction" v="no_straight_on"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="8446577" visible="true" version="2" changeset="61161080" timestamp="2018-07-29T10:32:14Z" user="meadowgreen" uid="2922304">
+  <member type="way" ref="532427445" role="outer"/>
+  <member type="way" ref="5826349" role="outer"/>
+  <member type="way" ref="5976022" role="outer"/>
+  <member type="way" ref="341583777" role="outer"/>
+  <member type="way" ref="3791744" role="outer"/>
+  <member type="way" ref="532427444" role="outer"/>
+  <member type="way" ref="554991019" role="outer"/>
+  <member type="way" ref="5826896" role="outer"/>
+  <member type="way" ref="369564011" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="4919616" role="outer"/>
+  <member type="way" ref="4919463" role="outer"/>
+  <member type="way" ref="4475686" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="13988845" role="outer"/>
+  <member type="way" ref="4919502" role="outer"/>
+  <member type="way" ref="65512263" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="4472595" role="outer"/>
+  <member type="way" ref="10577342" role="outer"/>
+  <member type="way" ref="2110697" role="outer"/>
+  <member type="way" ref="255472871" role="outer"/>
+  <member type="way" ref="317003251" role="outer"/>
+  <member type="way" ref="14039609" role="outer"/>
+  <tag k="alt_name_1" v="Royal Exchange B Ward 1970"/>
+  <tag k="boundary" v="political"/>
+  <tag k="date" v="1970"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="Royal Exchange B 1970"/>
+  <tag k="political_division" v="city_ward"/>
+  <tag k="source" v="S.I. 269 of 1970"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="8491177" visible="true" version="4" changeset="68002029" timestamp="2019-03-10T21:32:17Z" user="Crazy Guy" uid="616300">
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="369564011" role="outer"/>
+  <member type="way" ref="369564010" role="outer"/>
+  <member type="way" ref="369622778" role="outer"/>
+  <member type="way" ref="369564014" role="outer"/>
+  <member type="way" ref="384401182" role="outer"/>
+  <member type="way" ref="493514869" role="outer"/>
+  <member type="way" ref="585342638" role="outer"/>
+  <member type="way" ref="23920340" role="outer"/>
+  <member type="way" ref="488735972" role="outer"/>
+  <member type="way" ref="488735976" role="outer"/>
+  <member type="way" ref="675882488" role="outer"/>
+  <member type="way" ref="488735970" role="outer"/>
+  <member type="way" ref="24953749" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <tag k="boundary" v="historic_parish"/>
+  <tag k="date" v="1900"/>
+  <tag k="denomination" v="anglican"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="St. Andrew's Parish 1900"/>
+  <tag k="name:en" v="St. Andrew's"/>
+  <tag k="name:ga" v="Paróiste San Aindrias"/>
+  <tag k="official_name:en" v="St. Andrew's"/>
+  <tag k="official_name:ga" v="Paróiste San Aindrias"/>
+  <tag k="source" v="map in RCB Library"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="8491178" visible="true" version="2" changeset="63318083" timestamp="2018-10-08T16:47:42Z" user="brianh" uid="19612">
+  <member type="way" ref="4919615" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="3790874" role="outer"/>
+  <member type="way" ref="553868720" role="outer"/>
+  <member type="way" ref="3790875" role="outer"/>
+  <member type="way" ref="26545993" role="outer"/>
+  <member type="way" ref="4074531" role="outer"/>
+  <member type="way" ref="372838323" role="outer"/>
+  <member type="way" ref="4074533" role="outer"/>
+  <member type="way" ref="3791033" role="outer"/>
+  <member type="way" ref="532096352" role="outer"/>
+  <member type="way" ref="4074528" role="outer"/>
+  <member type="way" ref="125872847" role="outer"/>
+  <member type="way" ref="3792490" role="outer"/>
+  <member type="way" ref="2110698" role="outer"/>
+  <member type="way" ref="38336001" role="outer"/>
+  <member type="way" ref="59604115" role="outer"/>
+  <member type="way" ref="37956677" role="outer"/>
+  <member type="way" ref="4476051" role="outer"/>
+  <member type="way" ref="352376956" role="outer"/>
+  <member type="way" ref="369564012" role="outer"/>
+  <member type="way" ref="4919443" role="outer"/>
+  <member type="way" ref="38167515" role="outer"/>
+  <member type="way" ref="2294383" role="outer"/>
+  <tag k="boundary" v="historic_parish"/>
+  <tag k="date" v="1900"/>
+  <tag k="denomination" v="anglican"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="St. Anne's Parish 1900"/>
+  <tag k="name:en" v="St. Anne's"/>
+  <tag k="name:ga" v="Paróiste San Anna"/>
+  <tag k="source" v="map in RCB Library"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="8629511" visible="true" version="3" changeset="66915491" timestamp="2019-02-04T21:16:11Z" user="VictorIE" uid="2008037">
+  <member type="way" ref="317027053" role="outer"/>
+  <member type="way" ref="317027051" role="outer"/>
+  <member type="way" ref="13866327" role="outer"/>
+  <member type="way" ref="317027064" role="outer"/>
+  <member type="way" ref="13866265" role="outer"/>
+  <member type="way" ref="22962975" role="outer"/>
+  <member type="way" ref="125886705" role="outer"/>
+  <member type="way" ref="125886704" role="outer"/>
+  <member type="way" ref="60010824" role="outer"/>
+  <member type="way" ref="60010825" role="outer"/>
+  <member type="way" ref="22962977" role="outer"/>
+  <member type="way" ref="372223886" role="outer"/>
+  <member type="way" ref="369652831" role="outer"/>
+  <member type="way" ref="52375082" role="outer"/>
+  <member type="way" ref="369652827" role="outer"/>
+  <member type="way" ref="369652830" role="outer"/>
+  <member type="way" ref="264876950" role="outer"/>
+  <member type="way" ref="25217854" role="outer"/>
+  <member type="way" ref="663919437" role="outer"/>
+  <member type="way" ref="663919440" role="outer"/>
+  <member type="way" ref="416936759" role="outer"/>
+  <member type="way" ref="418991182" role="outer"/>
+  <member type="way" ref="4919464" role="outer"/>
+  <member type="way" ref="16247623" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="24973956" role="outer"/>
+  <member type="way" ref="4472591" role="outer"/>
+  <member type="way" ref="575070043" role="outer"/>
+  <member type="way" ref="74232837" role="outer"/>
+  <member type="way" ref="24973955" role="outer"/>
+  <member type="way" ref="529171742" role="outer"/>
+  <member type="way" ref="4253728" role="outer"/>
+  <member type="way" ref="362939724" role="outer"/>
+  <member type="way" ref="372838324" role="outer"/>
+  <member type="way" ref="4934680" role="outer"/>
+  <member type="way" ref="375758263" role="outer"/>
+  <member type="way" ref="4934682" role="outer"/>
+  <member type="way" ref="3791291" role="outer"/>
+  <member type="way" ref="372477029" role="outer"/>
+  <member type="way" ref="37721078" role="outer"/>
+  <member type="way" ref="156771908" role="outer"/>
+  <member type="way" ref="4934672" role="outer"/>
+  <member type="way" ref="4934673" role="outer"/>
+  <member type="way" ref="547144825" role="outer"/>
+  <member type="way" ref="409845700" role="outer"/>
+  <member type="way" ref="369558636" role="outer"/>
+  <member type="way" ref="4934627" role="outer"/>
+  <member type="way" ref="51269108" role="outer"/>
+  <member type="way" ref="49057073" role="outer"/>
+  <member type="way" ref="80390834" role="outer"/>
+  <member type="way" ref="80390832" role="outer"/>
+  <member type="way" ref="10497823" role="outer"/>
+  <member type="way" ref="4926000" role="outer"/>
+  <member type="way" ref="409845695" role="outer"/>
+  <member type="way" ref="317312607" role="outer"/>
+  <member type="way" ref="317312594" role="outer"/>
+  <member type="way" ref="260607199" role="outer"/>
+  <member type="way" ref="260607205" role="outer"/>
+  <member type="way" ref="317312604" role="outer"/>
+  <member type="way" ref="260607184" role="outer"/>
+  <member type="way" ref="260607174" role="outer"/>
+  <member type="way" ref="375772039" role="outer"/>
+  <member type="way" ref="260607196" role="outer"/>
+  <member type="way" ref="260607203" role="outer"/>
+  <member type="way" ref="372223885" role="outer"/>
+  <member type="way" ref="260607198" role="outer"/>
+  <member type="way" ref="260607190" role="outer"/>
+  <member type="way" ref="612719566" role="outer"/>
+  <member type="way" ref="368646805" role="outer"/>
+  <member type="way" ref="572459720" role="outer"/>
+  <member type="way" ref="572459722" role="outer"/>
+  <member type="way" ref="76715475" role="outer"/>
+  <member type="way" ref="376816622" role="outer"/>
+  <member type="way" ref="260607178" role="outer"/>
+  <member type="way" ref="260607179" role="outer"/>
+  <member type="way" ref="317027061" role="outer"/>
+  <member type="way" ref="260607191" role="outer"/>
+  <member type="way" ref="260607208" role="outer"/>
+  <member type="way" ref="317027060" role="outer"/>
+  <member type="way" ref="563920581" role="outer"/>
+  <member type="way" ref="76639108" role="outer"/>
+  <member type="way" ref="260607177" role="outer"/>
+  <member type="way" ref="260607180" role="outer"/>
+  <member type="way" ref="317027059" role="outer"/>
+  <tag k="boundary" v="political"/>
+  <tag k="end_date" v="1922"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="St. Stephen's Green Parliamentary Constituency 1918-1922"/>
+  <tag k="political_division" v="historic_parl_const"/>
+  <tag k="start_date" v="1918"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+ <relation id="8631396" visible="true" version="5" changeset="68180217" timestamp="2019-03-15T15:55:01Z" user="mr_magpie" uid="1203384">
+  <member type="way" ref="41592105" role="outer"/>
+  <member type="way" ref="385558491" role="outer"/>
+  <member type="way" ref="317183870" role="outer"/>
+  <member type="way" ref="372256214" role="outer"/>
+  <member type="way" ref="372256223" role="outer"/>
+  <member type="way" ref="258341367" role="outer"/>
+  <member type="way" ref="259371096" role="outer"/>
+  <member type="way" ref="367850399" role="outer"/>
+  <member type="way" ref="258341364" role="outer"/>
+  <member type="way" ref="55668415" role="outer"/>
+  <member type="way" ref="259371101" role="outer"/>
+  <member type="way" ref="55668421" role="outer"/>
+  <member type="way" ref="55668413" role="outer"/>
+  <member type="way" ref="55668402" role="outer"/>
+  <member type="way" ref="76633333" role="outer"/>
+  <member type="way" ref="547766098" role="outer"/>
+  <member type="way" ref="317127422" role="outer"/>
+  <member type="way" ref="76736544" role="outer"/>
+  <member type="way" ref="371391163" role="outer"/>
+  <member type="way" ref="20484464" role="outer"/>
+  <member type="way" ref="20484463" role="outer"/>
+  <member type="way" ref="3936652" role="outer"/>
+  <member type="way" ref="3936648" role="outer"/>
+  <member type="way" ref="372245390" role="outer"/>
+  <member type="way" ref="3936660" role="outer"/>
+  <member type="way" ref="112410779" role="outer"/>
+  <member type="way" ref="52881850" role="outer"/>
+  <member type="way" ref="547144817" role="outer"/>
+  <member type="way" ref="548793704" role="outer"/>
+  <member type="way" ref="356748753" role="outer"/>
+  <member type="way" ref="3957139" role="outer"/>
+  <member type="way" ref="3788405" role="outer"/>
+  <member type="way" ref="49961189" role="outer"/>
+  <member type="way" ref="49961184" role="outer"/>
+  <member type="way" ref="677070804" role="outer"/>
+  <member type="way" ref="369897004" role="outer"/>
+  <member type="way" ref="3787954" role="outer"/>
+  <member type="way" ref="4414300" role="outer"/>
+  <member type="way" ref="632640318" role="outer"/>
+  <member type="way" ref="369897003" role="outer"/>
+  <member type="way" ref="23920383" role="outer"/>
+  <member type="way" ref="4074523" role="outer"/>
+  <member type="way" ref="514848250" role="outer"/>
+  <member type="way" ref="375737373" role="outer"/>
+  <member type="way" ref="24960743" role="outer"/>
+  <member type="way" ref="547144818" role="outer"/>
+  <member type="way" ref="74232837" role="outer"/>
+  <member type="way" ref="575070043" role="outer"/>
+  <member type="way" ref="4472591" role="outer"/>
+  <member type="way" ref="24973956" role="outer"/>
+  <member type="way" ref="4475677" role="outer"/>
+  <member type="way" ref="68747762" role="outer"/>
+  <member type="way" ref="68748138" role="outer"/>
+  <member type="way" ref="74233405" role="outer"/>
+  <member type="way" ref="4475679" role="outer"/>
+  <member type="way" ref="553868717" role="outer"/>
+  <member type="way" ref="369564013" role="outer"/>
+  <member type="way" ref="4919472" role="outer"/>
+  <member type="way" ref="4919617" role="outer"/>
+  <member type="way" ref="4919459" role="outer"/>
+  <member type="way" ref="317003249" role="outer"/>
+  <member type="way" ref="668344588" role="outer"/>
+  <member type="way" ref="43538577" role="outer"/>
+  <member type="way" ref="4396059" role="outer"/>
+  <member type="way" ref="16247623" role="outer"/>
+  <member type="way" ref="37264313" role="outer"/>
+  <member type="way" ref="27806145" role="outer"/>
+  <member type="way" ref="27806087" role="outer"/>
+  <member type="way" ref="43538578" role="outer"/>
+  <member type="way" ref="372226842" role="outer"/>
+  <member type="way" ref="363392495" role="outer"/>
+  <member type="way" ref="372226832" role="outer"/>
+  <member type="way" ref="372226859" role="outer"/>
+  <member type="way" ref="317003241" role="outer"/>
+  <member type="way" ref="344788811" role="outer"/>
+  <member type="way" ref="317101099" role="outer"/>
+  <member type="way" ref="376282510" role="outer"/>
+  <member type="way" ref="493046989" role="outer"/>
+  <member type="way" ref="493046985" role="outer"/>
+  <member type="way" ref="493046991" role="outer"/>
+  <member type="way" ref="317127389" role="outer"/>
+  <member type="way" ref="4908185" role="outer"/>
+  <member type="way" ref="3789252" role="outer"/>
+  <member type="way" ref="401912432" role="outer"/>
+  <member type="way" ref="372256216" role="outer"/>
+  <member type="way" ref="360313820" role="outer"/>
+  <member type="way" ref="585819385" role="outer"/>
+  <member type="way" ref="52324405" role="outer"/>
+  <member type="way" ref="370381577" role="outer"/>
+  <member type="way" ref="677089615" role="outer"/>
+  <member type="way" ref="4396147" role="outer"/>
+  <member type="way" ref="317183878" role="outer"/>
+  <member type="way" ref="4395758" role="outer"/>
+  <member type="way" ref="376394520" role="outer"/>
+  <tag k="boundary" v="political"/>
+  <tag k="end_date" v="1922"/>
+  <tag k="historic" v="yes"/>
+  <tag k="name" v="College Green Parliamentary Constituency 1918-1922"/>
+  <tag k="political_division" v="historic_parl_const"/>
+  <tag k="start_date" v="1918"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>
