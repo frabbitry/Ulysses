@@ -111,7 +111,7 @@ commented adversely on the desertion of Stephen by all his pubhunting
 _<reference to='professional'>confrères</reference>_ but one, a most glaring piece of ratting on the part of his
 brother medicos under all the circs.</p>
 
-<said persName='Stephen Dedalus'>And that one was <reference to='Christianity'>Judas</reference>, Stephen said, who up to then had said nothing
+<said who='Stephen Dedalus'>And that one was <reference to='Christianity'>Judas</reference>, Stephen said, who up to then had said nothing
 whatsoever of any kind.</said>
 
 <p>Discussing these and kindred topics they made a beeline across the back
@@ -127,12 +127,12 @@ effort before he remembered that he recognised in the sentry a
 _quondam_ friend of his father’s, Gumley. To avoid a meeting he drew
 nearer to the pillars of the railway bridge.</p>
 
-<said persName='Leopold Bloom'>Someone saluted you, Mr Bloom said.</said>
+<said who='Leopold Bloom'>Someone saluted you, Mr Bloom said.</said>
 
 <p>A figure of middle height on the prowl evidently under the arches
 saluted again, calling:</p>
 
-<said persName='Stephen Dedalus'>Night!</said>
+<said who='Stephen Dedalus'>Night!</said>
 
 <p>Stephen of course started rather dizzily and stopped to return the
 compliment. Mr Bloom actuated by motives of inherent delicacy inasmuch
@@ -177,18 +177,18 @@ were connected through the mother in some way, both occurrences
 happening at the same time if the whole thing wasn’t a complete
 fabrication from start to finish. Anyhow he was all in.</p>
 
-<said persName='Garrett Deasy'>I wouldn’t ask you only, pursued he, on my solemn oath and God knows
+<said who='Garrett Deasy'>I wouldn’t ask you only, pursued he, on my solemn oath and God knows
 I’m on the rocks.</said>
 
-<said persName='Stephen Dedalus'>There’ll be a job tomorrow or next day, Stephen told him, in a boys’
+<said who='Stephen Dedalus'>There’ll be a job tomorrow or next day, Stephen told him, in a boys’
 school at Dalkey for a gentleman usher. Mr Garrett Deasy. Try it. You
 may mention my name.</said>
 
-<said persName='Corley'>Ah, God, Corley replied, sure I couldn’t teach in a school, man. I was
+<said who='Corley'>Ah, God, Corley replied, sure I couldn’t teach in a school, man. I was
 never one of your bright ones, he added with a half laugh. I got stuck
 twice in the junior at the christian brothers.</said>
 
-<said persName='Stephen Dedalus'>I have no place to sleep myself, Stephen informed him.</said>
+<said who='Stephen Dedalus'>I have no place to sleep myself, Stephen informed him.</said>
 
 <p>Corley at the first go-off was inclined to suspect it was something to
 do with Stephen being fired out of his digs for bringing in a bloody
@@ -223,12 +223,12 @@ remembered. Who now exactly gave them he wondered or where was or did
 he buy. However in another pocket he came across what he surmised in
 the dark were pennies, erroneously however, as it turned out.</p>
 
-<said persName='Corley'>Those are halfcrowns, man, Corley corrected him.</said>
+<said who='Corley'>Those are halfcrowns, man, Corley corrected him.</said>
 
 <p>And so in point of fact they turned out to be. Stephen anyhow lent him
 one of them.</p>
 
-<said persName='Corly'>Thanks, Corley answered, you’re a gentleman. I’ll pay you back one
+<said who='Corly'>Thanks, Corley answered, you’re a gentleman. I’ll pay you back one
 time. Who’s that with you? I saw him a few times in the Bleeding Horse
 in Camden street with Boylan, the billsticker. You might put in a good
 word for us to get me taken on there. I’d carry a sandwichboard only
@@ -270,7 +270,7 @@ practised eye, was not without perceiving that he had succumbed to the
 blandiloquence of the other parasite. Alluding to the encounter he
 said, laughingly, Stephen, that is:</p>
 
-<said persName='Stephen Dedalus'>He is down on his luck. He asked me to ask you to ask somebody named
+<said who='Stephen Dedalus'>He is down on his luck. He asked me to ask you to ask somebody named
 Boylan, a billsticker, to give him a job as a sandwichman.</said>
 
 <p>At this intelligence, in which he seemingly evinced little interest, Mr
@@ -279,14 +279,14 @@ direction of a bucketdredger, rejoicing in the farfamed name of <reference to='s
 moored alongside Customhouse quay and quite possibly out of repair,
 whereupon he observed evasively:</p>
 
-<said persName='Leopold Bloom'>Everybody gets their own ration of luck, they say. Now you mention it
+<said who='Leopold Bloom'>Everybody gets their own ration of luck, they say. Now you mention it
 his face was familiar to me. But, leaving that for the moment, how much
 did you part with, he queried, if I am not too inquisitive?</said>
 
-<said persName='Stephen Dedalus'>Half a crown, Stephen responded. I daresay he needs it to sleep
+<said who='Stephen Dedalus'>Half a crown, Stephen responded. I daresay he needs it to sleep
 somewhere.</said>
 
-<said persName='Leopold Bloom'>Needs! Mr Bloom ejaculated, professing not the least surprise at the
+<said who='Leopold Bloom'>Needs! Mr Bloom ejaculated, professing not the least surprise at the
 intelligence, I can quite credit the assertion and I guarantee he
 invariably does. Everyone according to his needs or everyone according
 to his deeds. But, talking about things in general, where, added he
@@ -296,17 +296,17 @@ occurred at Westland Row station. Simply fag out there for nothing. I
 don’t mean to presume to dictate to you in the slightest degree but why
 did you leave your father’s house?</said>
 
-<said persName='Stephen Dedalus'>To seek misfortune, was Stephen’s answer.</said>
+<said who='Stephen Dedalus'>To seek misfortune, was Stephen’s answer.</said>
 
-<said persName='Leopold Bloom'>I met your respected father on a recent occasion, Mr Bloom
+<said who='Leopold Bloom'>I met your respected father on a recent occasion, Mr Bloom
 diplomatically returned, today in fact, or to be strictly accurate, on
 yesterday. Where does he live at present? I gathered in the course of
 conversation that he had moved.</said>
 
-<said persName='Stephen Dedalus'>I believe he is in Dublin somewhere, Stephen answered unconcernedly.
+<said who='Stephen Dedalus'>I believe he is in Dublin somewhere, Stephen answered unconcernedly.
 Why?</said>
 
-<said persName='Leopold Bloom'>A gifted man, Mr Bloom said of Mr Dedalus senior, in more respects
+<said who='Leopold Bloom'>A gifted man, Mr Bloom said of Mr Dedalus senior, in more respects
 than one and a born _<reference to='storyteller'>raconteur</reference>_ if ever there was one. He takes great
 pride, quite legitimate, out of you. You could go back perhaps, he
 hasarded, still thinking of the very unpleasant scene at Westland Row
@@ -329,7 +329,7 @@ accordance with the third precept of the church to fast and abstain on
 the days commanded, it being quarter tense or if not, ember days or
 something like that.</p>
 
-<said persName='Leopold Bloom'>No, Mr Bloom repeated again, I wouldn’t personally repose much trust
+<said who='Leopold Bloom'>No, Mr Bloom repeated again, I wouldn’t personally repose much trust
 in that boon companion of yours who contributes the humorous element,
 Dr Mulligan, as a guide, philosopher and friend if I were in your
 shoes. He knows which side his bread is buttered on though in all
@@ -351,7 +351,7 @@ frankly he was utterly at a loss to fathom what earthly reason could be
 at the back of it except he put it down to sheer cussedness or
 jealousy, pure and simple.</p>
 
-<said persName='Leopold Bloom'>Except it simply amounts to one thing and he is what they call picking
+<said who='Leopold Bloom'>Except it simply amounts to one thing and he is what they call picking
 your brains, he ventured to throw out.</said>
 
 <p>The guarded glance of half solicitude half curiosity augmented by
@@ -396,7 +396,7 @@ genus _homo_ already there engaged in eating and drinking diversified
 by conversation for whom they seemingly formed an object of marked
 curiosity.</p>
 
-<said persName='Leopold Bloom'>Now touching a cup of coffee, Mr Bloom ventured to plausibly suggest
+<said who='Leopold Bloom'>Now touching a cup of coffee, Mr Bloom ventured to plausibly suggest
 to break the ice, it occurs to me you ought to sample something in the
 shape of solid food, say, a roll of some description.</said>
 
@@ -412,16 +412,16 @@ though, to be sure, rather in a quandary over _voglio_, remarked to his
 _protégé_ in an audible tone of voice _à propos_ of the battle royal in
 the street which was still raging fast and furious:</p>
 
-<said persName='Leopold Bloom'>A beautiful language. I mean for singing purposes. Why do you not
+<said who='Leopold Bloom'>A beautiful language. I mean for singing purposes. Why do you not
 write your poetry in that language? _<reference to='Italian'>Bella Poetria</reference>_! It is so melodious
 and full. _<reference to='Italian'>Belladonna. Voglio</reference>._</said>
 
 <p>Stephen, who was trying his dead best to yawn if he could, suffering
 from lassitude generally, replied:</p>
 
-<said persName='Stephen Dedalus'>To fill the ear of a cow elephant. They were haggling over money.</said>
+<said who='Stephen Dedalus'>To fill the ear of a cow elephant. They were haggling over money.</said>
 
-<said persName='Stephen Dedalus'>Is that so? Mr Bloom asked. Of course, he subjoined pensively, at the
+<said who='Stephen Dedalus'>Is that so? Mr Bloom asked. Of course, he subjoined pensively, at the
 inward reflection of there being more languages to start with than were
 absolutely necessary, it may be only the southern glamour that
 surrounds it.</said>
@@ -435,65 +435,65 @@ which reason he encouraged Stephen to proceed with his eyes while he
 did the honours by surreptitiously pushing the cup of what was
 temporarily supposed to be called coffee gradually nearer him.</p>
 
-<said persName=''>Sounds are impostures, Stephen said after a pause of some little time,
+<said who=''>Sounds are impostures, Stephen said after a pause of some little time,
 like names. <reference to='Roman Emperor'>Cicero</reference>, <reference to='English'>Podmore</reference>, <reference to='French'>Napoleon</reference>, Mr Goodbody. Jesus, Mr Doyle.
 Shakespeares were as common as Murphies. What’s in a name?</said>
 E
-<said persName='Leopold Bloom'>Yes, to be sure, Mr Bloom unaffectedly concurred. Of course. Our name
+<said who='Leopold Bloom'>Yes, to be sure, Mr Bloom unaffectedly concurred. Of course. Our name
 was changed too, he added, pushing the socalled roll across.</said>
 
 <p>The redbearded sailor who had his weather eye on the newcomers boarded
 Stephen, whom he had singled out for attention in particular, squarely
 by asking:</p>
 
-<said persName='Leopold Bloom'>And what might your name be?</said>
+<said who='Leopold Bloom'>And what might your name be?</said>
 
 <p>Just in the nick of time Mr Bloom touched his companion’s boot but
 Stephen, apparently disregarding the warm pressure from an unexpected
 quarter, answered:</p>
 
-<said persName='Leopold Bloom'>Dedalus.</said>
+<said who='Leopold Bloom'>Dedalus.</said>
 
 <p>The sailor stared at him heavily from a pair of drowsy baggy eyes,
 rather bunged up from excessive use of boose, preferably good old
 Hollands and water.</p>
 
-<said persName='Sailor'>You know Simon Dedalus? he asked at length.</said>
+<said who='Sailor'>You know Simon Dedalus? he asked at length.</said>
 
-<said persName='Stephen Dedalus'>I’ve heard of him, Stephen said.</said>
+<said who='Stephen Dedalus'>I’ve heard of him, Stephen said.</said>
 
 <p>Mr Bloom was all at sea for a moment, seeing the others evidently
 eavesdropping too.</p>
 
-<said persName='Leopold Bloom'>He’s Irish, the seaman bold affirmed, staring still in much the same
+<said who='Leopold Bloom'>He’s Irish, the seaman bold affirmed, staring still in much the same
 way and nodding. All Irish.</said>
 
-<said persName='Stephen Dedalus'>All too Irish, Stephen rejoined.</said>
+<said who='Stephen Dedalus'>All too Irish, Stephen rejoined.</said>
 
 <p>As for Mr Bloom he could neither make head or tail of the whole
 business and he was just asking himself what possible connection when
 the sailor of his own accord turned to the other occupants of the
 shelter with the remark:</p>
 
-<said persName='Leopold Bloom'>I seen him shoot two eggs off two bottles at fifty yards over his
+<said who='Leopold Bloom'>I seen him shoot two eggs off two bottles at fifty yards over his
 shoulder. The lefthand dead shot.</said>
 
 <p>Though he was slightly hampered by an occasional stammer and his
 gestures being also clumsy as it was still he did his best to explain.</p>
 
-<said persName='Stephen Dedalus'>Bottles out there, say. Fifty yards measured. Eggs on the bottles.
+<said who='Stephen Dedalus'>Bottles out there, say. Fifty yards measured. Eggs on the bottles.
 Cocks his gun over his shoulder. Aims.</said>
 
 <p>He turned his body half round, shut up his right eye completely. Then
 he screwed his features up someway sideways and glared out into the
 night with an unprepossessing cast of countenance.</p>
 
-<said persName='Stephen Dedalus'>Pom! he then shouted once.</said>
+<said who='Stephen Dedalus'>Pom! he then shouted once.</said>
 
 <p>The entire audience waited, anticipating an additional detonation,
 there being still a further egg.</p>
 
-<said persName='Leopold Bloom'>Pom! he shouted twice.</said>
+<said who='Leopold Bloom'>Pom! he shouted twice.</said>
 
 <p>Egg two evidently demolished, he nodded and winked, adding
 bloodthirstily:</p>
@@ -506,23 +506,23 @@ bloodthirstily:</p>
 asking him whether it was for a marksmanship competition like the
 Bisley.</p>
 
-<said persName='Sailor'>Beg pardon, the sailor said.</said>
+<said who='Sailor'>Beg pardon, the sailor said.</said>
 
-<said persName='Leopold Bloom'>Long ago? Mr Bloom pursued without flinching a hairsbreadth.</said>
+<said who='Leopold Bloom'>Long ago? Mr Bloom pursued without flinching a hairsbreadth.</said>
 
-<said persName='Sailor'>Why, the sailor replied, relaxing to a certain extent under the magic
+<said who='Sailor'>Why, the sailor replied, relaxing to a certain extent under the magic
 influence of diamond cut diamond, it might be a matter of ten years. He
 toured the wide world with <reference to='Circus'>Hengler’s Royal Circus</reference>. I seen him do that
 in Stockholm.</said>
 
-<said persName='Leopold Bloom'>Curious coincidence, Mr Bloom confided to Stephen unobtrusively.</said>
+<said who='Leopold Bloom'>Curious coincidence, Mr Bloom confided to Stephen unobtrusively.</said>
 
-<said persName='Murphy'>Murphy’s my name, the sailor continued. D. B. Murphy of Carrigaloe.
+<said who='Murphy'>Murphy’s my name, the sailor continued. D. B. Murphy of Carrigaloe.
 Know where that is?</said>
 
-<said persName='Stephen Dedalus'>Queenstown harbour, Stephen replied.</said>
+<said who='Stephen Dedalus'>Queenstown harbour, Stephen replied.</said>
 
-<said persName='Murphy'>That’s right, the sailor said. Fort Camden and Fort Carlisle. That’s
+<said who='Murphy'>That’s right, the sailor said. Fort Camden and Fort Carlisle. That’s
 where I hails from. I belongs there. That’s where I hails from. My
 little woman’s down there. She’s waiting for me, I know. _For England,
 home and beauty_. She’s my own true wife I haven’t seen for seven years
@@ -551,28 +551,28 @@ remain with much love your brokenhearted husband W. B. Murphy.</p>
 <p>The sailor, who scarcely seemed to be a Dublin resident, turned to one
 of the jarvies with the request:</p>
 
-<said persName='Murphy'>You don’t happen to have such a thing as a spare chaw about you?</said>
+<said who='Murphy'>You don’t happen to have such a thing as a spare chaw about you?</said>
 
 <p>The jarvey addressed as it happened had not but the keeper took a die
 of plug from his good jacket hanging on a nail and the desired object
 was passed from hand to hand.</p>
 
-<said persName='Murphy'>Thank you, the sailor said.</said>
+<said who='Murphy'>Thank you, the sailor said.</said>
 
 <p>He deposited the quid in his gob and, chewing and with some slow
 stammers, proceeded:</p>
 
-<said persName='Leopold Bloom'>We come up this morning eleven o’clock. The threemaster <reference to='Island'>_Rosevean_</reference>
+<said who='Leopold Bloom'>We come up this morning eleven o’clock. The threemaster <reference to='Island'>_Rosevean_</reference>
 from Bridgwater with bricks. I shipped to get over. Paid off this
 afternoon. There’s my discharge. See? D. B. Murphy. A. B. S.</said>
 
 <p>In confirmation of which statement he extricated from an inside pocket
 and handed to his neighbour a not very cleanlooking folded document.</p>
 
-<said persName='Stephen Dedalus'>You must have seen a fair share of the world, the keeper remarked,
+<said who='Stephen Dedalus'>You must have seen a fair share of the world, the keeper remarked,
 leaning on the counter.</said>
 
-<said persName='Murphy'>Why, the sailor answered upon reflection upon it, I’ve circumnavigated
+<said who='Murphy'>Why, the sailor answered upon reflection upon it, I’ve circumnavigated
 a bit since I first joined on. I was in the Red Sea. I was in China and
 North America and South America. We was chased by pirates one voyage. I
 seen icebergs plenty, growlers. I was in Stockholm and the Black Sea,
@@ -580,16 +580,16 @@ the <reference to='Islands'>Dardanelles</reference> under Captain Dalton, the be
 scuttled a ship. I seen Russia. _<reference to='Latin'>Gospodi pomilyou</reference>_. That’s how the
 Russians prays.</said>
 
-<said persName='Leopold Bloom'>You seen queer sights, don’t be talking, put in a jarvey.</said>
+<said who='Leopold Bloom'>You seen queer sights, don’t be talking, put in a jarvey.</said>
 
-<said persName='Murphy'>Why, the sailor said, shifting his partially chewed plug. I seen queer
+<said who='Murphy'>Why, the sailor said, shifting his partially chewed plug. I seen queer
 things too, ups and downs. I seen a crocodile bite the fluke of an
 anchor same as I chew that quid.</said>
 
 <p>He took out of his mouth the pulpy quid and, lodging it between his
 teeth, bit ferociously:</p>
 
-<said persName='Murphy'><reference to='Dinosaur'>Khaan</reference>! Like that. And I seen maneaters in Peru that eats corpses and
+<said who='Murphy'><reference to='Dinosaur'>Khaan</reference>! Like that. And I seen maneaters in Peru that eats corpses and
 the livers of horses. Look here. Here they are. A friend of mine sent
 me.</said>
 
@@ -602,7 +602,7 @@ women in striped loincloths, squatted, blinking, suckling, frowning,
 sleeping amid a swarm of infants (there must have been quite a score of
 them) outside some primitive shanties of osier.</p>
 
-<said persName='Murphy'>Chews coca all day, the communicative tarpaulin added. Stomachs like
+<said who='Murphy'>Chews coca all day, the communicative tarpaulin added. Stomachs like
 breadgraters. Cuts off their diddies when they can’t bear no more
 children.</said>
 
@@ -612,11 +612,11 @@ raw.</p>
 <p>His postcard proved a centre of attraction for <reference to='group'>Messrs the greenhorns</reference>
 for several minutes if not more.</p>
 
-<said persName='Murphy'>Know how to keep them off? he inquired generally.</said>
+<said who='Murphy'>Know how to keep them off? he inquired generally.</said>
 
 <p>Nobody volunteering a statement he winked, saying:</p>
 
-<said persName='Murphy'>Glass. That boggles ’em. Glass.</said>
+<said who='Murphy'>Glass. That boggles ’em. Glass.</said>
 
 <p>Mr Bloom, without evincing surprise, unostentatiously turned over the
 card to peruse the partially obliterated address and postmark. It ran
@@ -707,7 +707,7 @@ curiosity, pure and simple, was whether it was the traffic that created
 the route or viceversa or the two sides in fact. He turned back the
 other side of the card, picture, and passed it along to Stephen.</p>
 
-<said persName='Murphy'>I seen a Chinese one time, related the doughty narrator, that had
+<said who='Murphy'>I seen a Chinese one time, related the doughty narrator, that had
 little pills like putty and he put them in the water and they opened
 and every pill was something different. One was a ship, another was a
 house, another was a flower. Cooks rats in your soup, he appetisingly
@@ -716,27 +716,27 @@ added, the chinks does.</said>
 <p>Possibly perceiving an expression of dubiosity on their faces the
 globetrotter went on, adhering to his adventures.</p>
 
-<said persName='Murphy'>And I seen a man killed in Trieste by an Italian chap. Knife in his
+<said who='Murphy'>And I seen a man killed in Trieste by an Italian chap. Knife in his
 back. Knife like that.</said>
 
 <p>Whilst speaking he produced a dangerouslooking claspknife quite in
 keeping with his character and held it in the striking position.</p>
 
-<said persName='Stephen Dedalus'>In a knockingshop it was count of a tryon between two smugglers.
+<said who='Stephen Dedalus'>In a knockingshop it was count of a tryon between two smugglers.
 Fellow hid behind a door, come up behind him. Like that. _<reference to='saying'>Prepare to
 meet your God</reference>_, says he. Chuk! It went into his back up to the butt.</said>
 
 <p>His heavy glance drowsily roaming about kind of defied their further
 questions even should they by any chance want to.</p>
 
-<said persName='Muprhy'>That’s a good bit of steel, repeated he, examining his formidable
+<said who='Muprhy'>That’s a good bit of steel, repeated he, examining his formidable
 _stiletto_.</said>
 
 <p>After which harrowing _dénouement_ sufficient to appal the stoutest he
 snapped the blade to and stowed the weapon in question away as before
 in his chamber of horrors, otherwise pocket.</p>
 
-<said persName='Stephen Dedalus'>They’re great for the cold steel, somebody who was evidently quite in
+<said who='Stephen Dedalus'>They’re great for the cold steel, somebody who was evidently quite in
 the dark said for the benefit of them all. That was why they thought
 the park murders of the invincibles was done by foreigners on account
 of them using knives.</said>
@@ -761,27 +761,27 @@ land troubles, when it took the civilised world by storm, figuratively
 speaking, early in the eighties, eightyone to be correct, when he was
 just turned fifteen.</p>
 
-<said persName='Murphy'>Ay, boss, the sailor broke in. Give us back them papers.</said>
+<said who='Murphy'>Ay, boss, the sailor broke in. Give us back them papers.</said>
 
 <p>The request being complied with he clawed them up with a scrape.</p>
 
-<said persName='Leopold Bloom'>Have you seen the <reference to='Landmark'>rock of Gibraltar</reference>? Mr Bloom inquired.</said>
+<said who='Leopold Bloom'>Have you seen the <reference to='Landmark'>rock of Gibraltar</reference>? Mr Bloom inquired.</said>
 
 <p>The sailor grimaced, chewing, in a way that might be read as yes, ay or
 no.</p>
 
-<said persName='Leopold Bloom'>Ah, you’ve touched there too, Mr Bloom said, <reference to='Roman God'>Europa</reference> point, thinking he
+<said who='Leopold Bloom'>Ah, you’ve touched there too, Mr Bloom said, <reference to='Roman God'>Europa</reference> point, thinking he
 had, in the hope that the rover might possibly by some reminiscences
 but he failed to do so, simply letting spirt a jet of spew into the
 sawdust, and shook his head with a sort of lazy scorn.</said>
 
-<said persName='Mr B'>What year would that be about? Mr B interrogated. Can you recall the
+<said who='Mr B'>What year would that be about? Mr B interrogated. Can you recall the
 boats?</said>
 
 <p>Our _<reference to='styled'>soi-disant</reference>_ sailor munched heavily awhile hungrily before
 answering:</p>
 
-<said persName='Murphy'>I’m tired of all them rocks in the sea, he said, and boats and ships.
+<said who='Murphy'>I’m tired of all them rocks in the sea, he said, and boats and ships.
 Salt junk all the time.</said>
 
 <p>Tired seemingly, he ceased. His questioner perceiving that he was not
@@ -816,7 +816,7 @@ wintertime not forgetting the Irish lights, Kish and others, liable to
 capsize at any moment, rounding which he once with his daughter had
 experienced some remarkably choppy, not to say stormy, weather.</p>
 
-<said persName='Murphy'>There was a fellow sailed with me in the _Rover_, the old seadog,
+<said who='Murphy'>There was a fellow sailed with me in the _Rover_, the old seadog,
 himself a rover, proceeded, went ashore and took up a soft job as
 gentleman’s valet at six quid a month. Them are his trousers I’ve on me
 and he gave me an oilskin and that jackknife. I’m game for that job,
@@ -824,12 +824,12 @@ shaving and brushup. I hate roaming about. There’s my son now, Danny,
 run off to sea and his mother got him took in a draper’s in Cork where
 he could be drawing easy money.</said>
 
-<said persName='Leopold Bloom'>What age is he? queried one hearer who, by the way, seen from the
+<said who='Leopold Bloom'>What age is he? queried one hearer who, by the way, seen from the
 side, bore a distant resemblance to Henry Campbell, the townclerk, away
 from the carking cares of office, unwashed of course and in a seedy
 getup and a strong suspicion of nosepaint about the nasal appendage.</said>
 
-<said persName='Murphy'>Why, the sailor answered with a slow puzzled utterance, my son, Danny?
+<said who='Murphy'>Why, the sailor answered with a slow puzzled utterance, my son, Danny?
 He’d be about eighteen now, way I figure it.</said>
 
 <p>The Skibbereen father hereupon tore open his grey or unclean anyhow
@@ -837,7 +837,7 @@ shirt with his two hands and scratched away at his chest on which was
 to be seen an image tattooed in blue Chinese ink intended to represent
 an anchor.</p>
 
-<said persName='Murphy'>There was lice in that bunk in Bridgwater, he remarked, sure as nuts.
+<said who='Murphy'>There was lice in that bunk in Bridgwater, he remarked, sure as nuts.
 I must get a wash tomorrow or next day. It’s them black lads I objects
 to. I hate those buggers. Suck your blood dry, they does.</said>
 
@@ -846,16 +846,16 @@ his shirt more open so that on top of the timehonoured symbol of the
 mariner’s hope and rest they had a full view of the figure 16 and a
 young man’s sideface looking frowningly rather.</p>
 
-<said persName='Exhbitor'>Tattoo, the exhibitor explained. That was done when we were lying
+<said who='Exhbitor'>Tattoo, the exhibitor explained. That was done when we were lying
 becalmed off Odessa in the Black Sea under Captain Dalton. Fellow, the
 name of Antonio, done that. There he is himself, a Greek.</said>
 
-<said persName='Murphy'>Did it hurt much doing it? one asked the sailor.</said>
+<said who='Murphy'>Did it hurt much doing it? one asked the sailor.</said>
 
 <p>That worthy, however, was busily engaged in collecting round the.
 Someway in his. Squeezing or.</p>
 
-<said persName='Exhibitor'>See here, he said, showing Antonio. There he is cursing the mate. And
+<said who='Exhibitor'>See here, he said, showing Antonio. There he is cursing the mate. And
 there he is now, he added, the same fellow, pulling the skin with his
 fingers, some special knack evidently, and he laughing at a yarn.</said>
 
@@ -864,19 +864,19 @@ actually look like forced smiling and the curious effect excited the
 unreserved admiration of everybody including Skin-the-Goat, who this
 time stretched over.</p>
 
-<said persName='Murphy'>Ay, ay, sighed the sailor, looking down on his manly chest. He’s gone
+<said who='Murphy'>Ay, ay, sighed the sailor, looking down on his manly chest. He’s gone
 too. Ate by sharks after. Ay, ay.</said>
 
 <p>He let go of the skin so that the profile resumed the normal expression
 of before.</p>
 
-<said persName='Longshoreman'>Neat bit of work, one longshoreman said.</said>
+<said who='Longshoreman'>Neat bit of work, one longshoreman said.</said>
 
-<said persName='Loafer'>And what’s the number for? loafer number two queried.</said>
+<said who='Loafer'>And what’s the number for? loafer number two queried.</said>
 
-<said persName='Loafer'>Eaten alive? a third asked the sailor.</said>
+<said who='Loafer'>Eaten alive? a third asked the sailor.</said>
 
-<said persName='Murphy'>Ay, ay, sighed again the latter personage, more cheerily this time
+<said who='Murphy'>Ay, ay, sighed again the latter personage, more cheerily this time
 with some sort of a half smile for a brief duration only in the
 direction of the questioner about the number. Ate. A Greek he was.</said>
 
@@ -912,9 +912,9 @@ not exactly all there, viewing with evident amusement the group of
 gazers round skipper Murphy’s nautical chest and then there was no more
 of her.</p>
 
-<said persName='Keeper'>The gunboat, the keeper said.</said>
+<said who='Keeper'>The gunboat, the keeper said.</said>
 
-<said persName='Leopold Bloom'>It beats me, Mr Bloom confided to Stephen, medically I am speaking,
+<said who='Leopold Bloom'>It beats me, Mr Bloom confided to Stephen, medically I am speaking,
 how a wretched creature like that from the Lock hospital reeking with
 disease can be barefaced enough to solicit or how any man in his sober
 senses, if he values his health in the least. Unfortunate creature! Of
@@ -924,7 +924,7 @@ Still no matter what the cause is from...</said>
 <p>Stephen had not noticed her and shrugged his shoulders, merely
 remarking:</p>
 
-<said persName='Stephen Dedalus'>In this country people sell much more than she ever had and do a
+<said who='Stephen Dedalus'>In this country people sell much more than she ever had and do a
 roaring trade. Fear not them that sell the body but have not power to
 buy the soul. She is a bad merchant. She buys dear and sells cheap.</said>
 
@@ -938,7 +938,7 @@ stalwart advocate of from the very first start. Whoever embarked on a
 policy of the sort, he said, and ventilated the matter thoroughly would
 confer a lasting boon on everybody concerned.</p>
 
-<said persName='Leopold Bloom'>You as a good catholic, he observed, talking of body and soul, believe
+<said who='Leopold Bloom'>You as a good catholic, he observed, talking of body and soul, believe
 in the soul. Or do you mean the intelligence, the brainpower as such,
 as distinct from any outside object, the table, let us say, that cup. I
 believe in that myself because it has been explained by competent men
@@ -948,7 +948,7 @@ such inventions as X rays, for instance. Do you?</said>
 <p>Thus cornered, Stephen had to make a superhuman effort of memory to try
 and concentrate and remember before he could say:</p>
 
-<said persName='Stephen Dedalus'>They tell me on the best authority it is a simple substance and
+<said who='Stephen Dedalus'>They tell me on the best authority it is a simple substance and
 therefore incorruptible. It would be immortal, I understand, but for
 the possibility of its annihilation by its First Cause Who, from all I
 can hear, is quite capable of adding that to the number of His other
@@ -960,7 +960,7 @@ mystical finesse involved was a bit out of his sublunary depth still he
 felt bound to enter a demurrer on the head of simple, promptly
 rejoining:</p>
 
-<said persName='Leopold Bloom'>Simple? I shouldn’t think that is the proper word. Of course, I grant
+<said who='Leopold Bloom'>Simple? I shouldn’t think that is the proper word. Of course, I grant
 you, to concede a point, you do knock across a simple soul once in a
 blue moon. But what I am anxious to arrive at is it is one thing for
 instance to invent those rays Röntgen did or the telescope like Edison,
@@ -969,7 +969,7 @@ and the same applies to the laws, for example, of a farreaching natural
 phenomenon such as electricity but it’s a horse of quite another colour
 to say you believe in the existence of a supernatural God.</said>
 
-<said persName='Stephen Dedalus'>O that, Stephen expostulated, has been proved conclusively by several
+<said who='Stephen Dedalus'>O that, Stephen expostulated, has been proved conclusively by several
 of the bestknown passages in Holy Writ, apart from circumstantial
 evidence.</said>
 
@@ -977,7 +977,7 @@ evidence.</said>
 were both in schooling and everything else with the marked difference
 in their respective ages, clashed.</p>
 
-<said persName='Leopold Bloom'>Has been? the more experienced of the two objected, sticking to his
+<said who='Leopold Bloom'>Has been? the more experienced of the two objected, sticking to his
 original point with a smile of unbelief. I’m not so sure about that.
 That’s a matter for everyman’s opinion and, without dragging in the
 sectarian side of the business, I beg to differ with you _in toto_
@@ -990,7 +990,7 @@ coffee, by the way? Let me stir it. And take a piece of that bun. It’s
 like one of our skipper’s bricks disguised. Still no-one can give what
 he hasn’t got. Try a bit.</said>
 
-<said persName='Stephen Dedalus'>Couldn’t, Stephen contrived to get out, his mental organs for the
+<said who='Stephen Dedalus'>Couldn’t, Stephen contrived to get out, his mental organs for the
 moment refusing to dictate further.</said>
 
 <p>Faultfinding being a proverbially bad hat Mr Bloom thought well to stir
@@ -1012,20 +1012,20 @@ inspection, of all eatables seemed to him more than ever necessary
 which possibly accounted for the vogue of Dr Tibble’s Vi-Cocoa on
 account of the medical analysis involved.</p>
 
-<said persName='Leopold Bloom'>Have a shot at it now, he ventured to say of the coffee after being
+<said who='Leopold Bloom'>Have a shot at it now, he ventured to say of the coffee after being
 stirred.</said>
 
 <p>Thus prevailed on to at any rate taste it Stephen lifted the heavy mug
 from the brown puddle it clopped out of when taken up by the handle and
 took a sip of the offending beverage.</p>
 
-<said persName='Stephen Dedalus'>Still it’s solid food, his good genius urged, I’m a stickler for solid
+<said who='Stephen Dedalus'>Still it’s solid food, his good genius urged, I’m a stickler for solid
 food, his one and only reason being not gormandising in the least but
 regular meals as the _sine qua non_ for any kind of proper work, mental
 or manual. You ought to eat more solid food. You would feel a different
 man.</said>
 
-<said persName='Stephen Dedalus'>Liquids I can eat, Stephen said. But O, oblige me by taking away that
+<said who='Stephen Dedalus'>Liquids I can eat, Stephen said. But O, oblige me by taking away that
 knife. I can’t look at the point of it. It reminds me of Roman history.</said>
 
 <p>Mr Bloom promptly did as suggested and removed the incriminated
@@ -1033,7 +1033,7 @@ article, a blunt hornhandled ordinary knife with nothing particularly
 Roman or antique about it to the lay eye, observing that the point was
 the least conspicuous point about it.</p>
 
-<said persName='Leopold Bloom'>Our mutual friend’s stories are like himself, Mr Bloom _<reference to='reference'>apropos</reference>_ of
+<said who='Leopold Bloom'>Our mutual friend’s stories are like himself, Mr Bloom _<reference to='reference'>apropos</reference>_ of
 knives remarked to his _<reference to='Greek'>confidante sotto voce</reference>_. Do you think they are
 genuine? He could spin those yarns for hours on end all night long and
 lie like old boots. Look at him.</said>
@@ -1065,7 +1065,7 @@ _Hesperus_ and etcetera. And when all was said and done the lies a
 fellow told about himself couldn’t probably hold a proverbial candle to
 the wholesale whoppers other fellows coined about him.</p>
 
-<said persName='Leopold Bloom'>Mind you, I’m not saying that it’s all a pure invention, he resumed.
+<said who='Leopold Bloom'>Mind you, I’m not saying that it’s all a pure invention, he resumed.
 Analogous scenes are occasionally, if not often, met with. Giants,
 though that is rather a far cry, you see once in a way, <reference to='Royalty'>Marcella the
 midget queen</reference>. In those waxworks in Henry street I myself saw some
@@ -1093,7 +1093,7 @@ necessary animal of the feline persuasion of others at night so as to
 have a good old succulent tuckin with garlic _de rigueur_ off him or
 her next day on the quiet and, he added, on the cheap.</p>
 
-<said persName='Leopold Bloom'>Spaniards, for instance, he continued, passionate temperaments like
+<said who='Leopold Bloom'>Spaniards, for instance, he continued, passionate temperaments like
 that, impetuous as Old Nick, are given to taking the law into their own
 hands and give you your quietus doublequick with those poignards they
 carry in the abdomen. It comes from the great heat, climate generally.
@@ -1104,17 +1104,17 @@ dark, regular brunette, black. I for one certainly believe climate
 accounts for character. That’s why I asked you if you wrote your poetry
 in Italian.</said>
 
-<said persName='Stephen Dedalus'>The temperaments at the door, Stephen interposed with, were very
+<said who='Stephen Dedalus'>The temperaments at the door, Stephen interposed with, were very
 passionate about ten shillings. _<reference to='saying'>Roberto ruba roba sua</reference>_.</said>
 
-<said persName='Leopold Bloom'>Quite so, Mr Bloom dittoed.</said>
+<said who='Leopold Bloom'>Quite so, Mr Bloom dittoed.</said>
 
-<said persName='Stephen Dedalus'>Then, Stephen said staring and rambling on to himself or some unknown
+<said who='Stephen Dedalus'>Then, Stephen said staring and rambling on to himself or some unknown
 listener somewhere, we have the impetuosity of Dante and the isosceles
 triangle miss Portinari he fell in love with and Leonardo and <reference to='person'>san
 Tommaso Mastino</reference>.</said>
 
-<said persName='Leopold Bloom'>It’s in the blood, Mr Bloom acceded at once. All are washed in the
+<said who='Leopold Bloom'>It’s in the blood, Mr Bloom acceded at once. All are washed in the
 blood of the sun. Coincidence I just happened to be in the Kildare
 street museum today, shortly prior to our meeting if I can so call it,
 and I was just looking at those antique statues there. The splendid
@@ -1151,7 +1151,7 @@ appears, in her hold.</p>
 <p>At this stage an incident happened. It having become necessary for him
 to unfurl a reef the sailor vacated his seat.</p>
 
-<said persName='Stephen Dedalus'>Let me cross your bows mate, he said to his neighbour who was just
+<said who='Stephen Dedalus'>Let me cross your bows mate, he said to his neighbour who was just
 gently dropping off into a peaceful doze.</said>
 
 <p>He made tracks heavily, slowly with a dumpy sort of a gait to the door,
@@ -1207,7 +1207,7 @@ Worthington or some name like that, eh? Ask the then captain, he
 advised them, how much palmoil the British government gave him for that
 day’s work, Captain John Lever of the Lever Line.</p>
 
-<said persName='John Lever'>Am I right, skipper? he queried of the sailor, now returning after his
+<said who='John Lever'>Am I right, skipper? he queried of the sailor, now returning after his
 private potation and the rest of his exertions.</said>
 
 <p>That worthy picking up the scent of the fagend of the song or words
@@ -1257,20 +1257,20 @@ Ireland, Parnell said, could not spare a single one of her sons.</p>
 <p>Silence all round marked the termination of his _finale_. The
 impervious navigator heard these lurid tidings, undismayed.</p>
 
-<said persName='Murphy'>Take a bit of doing, boss, retaliated that rough diamond palpably a
+<said who='Murphy'>Take a bit of doing, boss, retaliated that rough diamond palpably a
 bit peeved in response to the foregoing truism.</said>
 
 <p>To which cold douche referring to downfall and so on the keeper
 concurred but nevertheless held to his main view.</p>
 
-<said persName='Keeper'>Who’s the best troops in the army? the grizzled old veteran irately
+<said who='Keeper'>Who’s the best troops in the army? the grizzled old veteran irately
 interrogated. And the best jumpers and racers? And the best admirals
 and generals we’ve got? Tell me that.</said>
 
-<said persName='Leopold Bloom'>The Irish, for choice, retorted the cabby like Campbell, facial
+<said who='Leopold Bloom'>The Irish, for choice, retorted the cabby like Campbell, facial
 blemishes apart.</said>
 
-<said persName=''>That’s right, the old tarpaulin corroborated. The Irish catholic
+<said who=''>That’s right, the old tarpaulin corroborated. The Irish catholic
 peasant. He’s the backbone of our empire. You know Jem Mullins?</said>
 
 <p>While allowing him his individual opinions as everyman the keeper added
@@ -1338,7 +1338,7 @@ and so on. Then as for the other he had heard not so long before the
 same identical lingo as he told Stephen how he simply but effectually
 silenced the offender.</p>
 
-<said persName='Leopold Bloom'>He took umbrage at something or other, that muchinjured but on the
+<said who='Leopold Bloom'>He took umbrage at something or other, that muchinjured but on the
 whole eventempered person declared, I let slip. He called me a jew and
 in a heated fashion offensively. So I without deviating from plain
 facts in the least told him his God, I mean Christ, was a jew too and
@@ -1350,11 +1350,11 @@ everyone saw. Am I not right?</said>
 at the soft impeachment with a glance also of entreaty for he seemed to
 glean in a kind of a way that it wasn’t all exactly.</p>
 
-<said persName='Stephen Dedalus'><reference to='Latin'>_Ex quibus_</reference>, Stephen mumbled in a noncommittal accent, their two or
+<said who='Stephen Dedalus'><reference to='Latin'>_Ex quibus_</reference>, Stephen mumbled in a noncommittal accent, their two or
 four eyes conversing, _Christus_ or Bloom his name is or after all any
 other, _secundum carnem_.</said>
 
-<said persName='Mr B'>Of course, Mr B. proceeded to stipulate, you must look at both sides
+<said who='Mr B'>Of course, Mr B. proceeded to stipulate, you must look at both sides
 of the question. It is hard to lay down any hard and fast rules as to
 right and wrong but room for improvement all round there certainly is
 though every country, they say, our own distressful included, has the
@@ -1366,14 +1366,14 @@ due instalments plan. It’s a patent absurdity on the face of it to hate
 people because they live round the corner and speak another vernacular,
 in the next house so to speak.</said>
 
-<said persName='Stephen Dedalus'>Memorable bloody bridge battle and seven minutes’ war, Stephen
+<said who='Stephen Dedalus'>Memorable bloody bridge battle and seven minutes’ war, Stephen
 assented, between Skinner’s alley and Ormond market.</said>
 
 <p>Yes, Mr Bloom thoroughly agreed, entirely endorsing the remark, that
 was overwhelmingly right. And the whole world was full of that sort of
 thing.</p>
 
-<said persName='Leopold BLoom'>You just took the words out of my mouth, he said. A hocuspocus of
+<said who='Leopold BLoom'>You just took the words out of my mouth, he said. A hocuspocus of
 conflicting evidence that candidly you couldn’t remotely...</said>
 
 <p>All those wretched quarrels, in his humble opinion, stirring up bad
@@ -1382,10 +1382,10 @@ erroneously supposed to be about a punctilio of honour and a flag, were
 very largely a question of the money question which was at the back of
 everything, greed and jealousy, people never knowing when to stop.</p>
 
-<said persName='Stephen Dedalus'>They accuse, remarked he audibly. He turned away from the others, who
+<said who='Stephen Dedalus'>They accuse, remarked he audibly. He turned away from the others, who
 probably… and spoke nearer to, so as the others… in case they…</said>
 
-<said persName='Leopold Bloom'>Jews, he softly imparted in an aside in Stephen’s ear, are accused of
+<said who='Leopold Bloom'>Jews, he softly imparted in an aside in Stephen’s ear, are accused of
 ruining. Not a vestige of truth in it, I can safely say. History, would
 you be surprised to learn, proves up to the hilt Spain decayed when the
 inquisition hounded the jews out and England prospered when Cromwell,
@@ -1417,13 +1417,13 @@ of different sorts of the same sand where they had a home somewhere
 beneath or seemed to. Then he looked up and saw the eyes that said or
 didn’t say the words the voice he heard said, if you work.</p>
 
-<said persName='Stephen Dedalus'>Count me out, he managed to remark, meaning work.</said>
+<said who='Stephen Dedalus'>Count me out, he managed to remark, meaning work.</said>
 
 <p>The eyes were surprised at this observation because as he, the person
 who owned them pro tem. observed or rather his voice speaking did, all
 must work, have to, together.</p>
 
-<said persName='Leopold Bloom'>I mean, of course, the other hastened to affirm, work in the widest
+<said who='Leopold Bloom'>I mean, of course, the other hastened to affirm, work in the widest
 possible sense. Also literary labour not merely for the kudos of the
 thing. Writing for the newspapers which is the readiest channel
 nowadays. That’s work too. Important work. After all, from the little I
@@ -1433,23 +1433,23 @@ as much right to live by your pen in pursuit of your philosophy as the
 peasant has. What? You both belong to Ireland, the brain and the brawn.
 Each is equally important.</said>
 
-<said persName='Stephen Dedalus'>You suspect, Stephen retorted with a sort of a half laugh, that I may
+<said who='Stephen Dedalus'>You suspect, Stephen retorted with a sort of a half laugh, that I may
 be important because I belong to the _<reference to='Saint'>faubourg Saint Patrice</reference>_ called
 Ireland for short.</said>
 
-<said persName='Leopold Bloom'>I would go a step farther, Mr Bloom insinuated.</said>
+<said who='Leopold Bloom'>I would go a step farther, Mr Bloom insinuated.</said>
 
-<said persName='Stephen Dedalus'>But I suspect, Stephen interrupted, that Ireland must be important
+<said who='Stephen Dedalus'>But I suspect, Stephen interrupted, that Ireland must be important
 because it belongs to me.</said>
 
-<said persName='Leopold Bloom'>What belongs, queried Mr Bloom bending, fancying he was perhaps under
+<said who='Leopold Bloom'>What belongs, queried Mr Bloom bending, fancying he was perhaps under
 some misapprehension. Excuse me. Unfortunately, I didn’t catch the
 latter portion. What was it you...?</said>
 
 <p>Stephen, patently crosstempered, repeated and shoved aside his mug of
 coffee or whatever you like to call it none too politely, adding:</p>
 
-<said persName='Stephen Dedalus'>We can’t change the country. Let us change the subject.</said>
+<said who='Stephen Dedalus'>We can’t change the country. Let us change the subject.</said>
 
 <p>At this pertinent suggestion Mr Bloom, to change the subject, looked
 down but in a quandary, as he couldn’t tell exactly what construction
@@ -1537,7 +1537,7 @@ of the late Mr Patrick Dignam.</p>
 reflected, was anything but a gay sendoff. Or a change of address
 anyway.</p>
 
-<said persName='Leopold bloom'>_This morning_ (Hynes put it in of course) _the remains of the late Mr
+<said who='Leopold bloom'>_This morning_ (Hynes put it in of course) _the remains of the late Mr
 Patrick Dignam were removed from his residence, no 9 Newbridge Avenue,
 Sandymount, for interment in Glasnevin. The deceased gentleman was a
 most popular and genial personality in city life and his demise after a
@@ -1560,10 +1560,10 @@ to his companion B. A. engaged in stifling another yawn, half
 nervousness, not forgetting the usual crop of nonsensical howlers of
 misprints.</p>
 
-<said persName='Stephen Dedalus'>Is that first epistle to the Hebrews, he asked as soon as his bottom
+<said who='Stephen Dedalus'>Is that first epistle to the Hebrews, he asked as soon as his bottom
 jaw would let him, in? Text: open thy mouth and put thy foot in it.</said>
 
-<said persName='Leopold Bloom'>It is. Really, Mr Bloom said (though first he fancied he alluded to
+<said who='Leopold Bloom'>It is. Really, Mr Bloom said (though first he fancied he alluded to
 the archbishop till he added about foot and mouth with which there
 could be no possible connection) overjoyed to set his mind at rest and
 a bit flabbergasted at Myles Crawford’s after all managing to. There.</said>
@@ -1590,9 +1590,9 @@ though as the event turned out the poor fool hadn’t much reason to
 congratulate himself on his pick, the forlorn hope. Guesswork it
 reduced itself to eventually.</p>
 
-<said persName='Leopold Bloom'>There was every indication they would arrive at that, he, Bloom, said.</said>
+<said who='Leopold Bloom'>There was every indication they would arrive at that, he, Bloom, said.</said>
 
-<said persName='Stephen Dedalus'>Who? the other, whose hand by the way was hurt, said.</said>
+<said who='Stephen Dedalus'>Who? the other, whose hand by the way was hurt, said.</said>
 
 <p>One morning you would open the paper, the cabman affirmed, and read:
 _<reference to='Novel'>Return of Parnell</reference>_. He bet them what they liked. A Dublin fusilier was
@@ -1655,15 +1655,15 @@ the not over effusive, in fact like the distinguished personage under
 discussion beside him, would have been to sound the lie of the land
 first.</p>
 
-<said persName='Leopold Bloom'>That bitch, that English whore, did for him, the shebeen proprietor
+<said who='Leopold Bloom'>That bitch, that English whore, did for him, the shebeen proprietor
 commented. She put the first nail in his coffin.</said>
 
-<said persName='Stephen Dedalus'>Fine lump of a woman all the same, the _soi-disant_ townclerk Henry
+<said who='Stephen Dedalus'>Fine lump of a woman all the same, the _soi-disant_ townclerk Henry
 Campbell remarked, and plenty of her. She loosened many a man’s thighs.
 I seen her picture in a barber’s. The husband was a captain or an
 officer.</said>
 
-<said persName='Leopold Bloom'>Ay, <reference to='saying'>Skin-the-Goat</reference> amusingly added, he was and a cottonball one.</said>
+<said who='Leopold Bloom'>Ay, <reference to='saying'>Skin-the-Goat</reference> amusingly added, he was and a cottonball one.</said>
 
 <p>This gratuitous contribution of a humorous character occasioned a fair
 amount of laughter among his _entourage_. As regards Bloom he, without
@@ -1723,16 +1723,16 @@ very thing he was saying as she also was Spanish or half so, types that
 wouldn’t do things by halves, passionate abandon of the south, casting
 every shred of decency to the winds.</p>
 
-<said persName='Leopold Bloom'>Just bears out what I was saying, he, with glowing bosom said to
+<said who='Leopold Bloom'>Just bears out what I was saying, he, with glowing bosom said to
 Stephen, about blood and the sun. And, if I don’t greatly mistake she
 was Spanish too.</said>
 
-<said persName='Stephen Dedalus'>The king of Spain’s daughter, Stephen answered, adding something or
+<said who='Stephen Dedalus'>The king of Spain’s daughter, Stephen answered, adding something or
 other rather muddled about farewell and adieu to you Spanish onions and
 the first land called the Deadman and from Ramhead to Scilly was so and
 so many.</said>
 
-<said persName='Leopold Bloom'>Was she? Bloom ejaculated, surprised though not astonished by any
+<said who='Leopold Bloom'>Was she? Bloom ejaculated, surprised though not astonished by any
 means, I never heard that rumour before. Possible, especially there, it
 was as she lived there. So, Spain.</said>
 
@@ -1741,7 +1741,7 @@ by the by of that Capel street library book out of date, he took out
 his pocketbook and, turning over the various contents it contained
 rapidly finally he.</p>
 
-<said persName='Stephen Dedalus'>Do you consider, by the by, he said, thoughtfully selecting a faded
+<said who='Stephen Dedalus'>Do you consider, by the by, he said, thoughtfully selecting a faded
 photo which he laid on the table, that a Spanish type?</said>
 
 <p>Stephen, obviously addressed, looked down on the photo showing a large
@@ -1756,7 +1756,7 @@ to smile about something to be admired, Lafayette of Westmoreland
 street, Dublin’s premier photographic artist, being responsible for the
 esthetic execution.</p>
 
-<said persName='Leopold Bloom'>Mrs Bloom, my wife the _prima donna_ Madam Marion Tweedy, Bloom
+<said who='Leopold Bloom'>Mrs Bloom, my wife the _prima donna_ Madam Marion Tweedy, Bloom
 indicated. Taken a few years since. In or about ninety six. Very like
 her then.</said>
 
@@ -1905,15 +1905,15 @@ substantial he certainly ought to eat even were it only an eggflip made
 on unadulterated maternal nutriment or, failing that, the homely Humpty
 Dumpty boiled.</p>
 
-<said persName='Leopold Bloom'>At what o’clock did you dine? he questioned of the slim form and tired
+<said who='Leopold Bloom'>At what o’clock did you dine? he questioned of the slim form and tired
 though unwrinkled face.</said>
 
-<said persName='Stephen Dedalus'>Some time yesterday, Stephen said.</said>
+<said who='Stephen Dedalus'>Some time yesterday, Stephen said.</said>
 
-<said persName='Leopold Bloom'>Yesterday! exclaimed Bloom till he remembered it was already tomorrow
+<said who='Leopold Bloom'>Yesterday! exclaimed Bloom till he remembered it was already tomorrow
 Friday. Ah, you mean it’s after twelve!</said>
 
-<said persName='Stephen Dedalus'>The day before yesterday, Stephen said, improving on himself.</said>
+<said who='Stephen Dedalus'>The day before yesterday, Stephen said, improving on himself.</said>
 
 <p>Literally astounded at this piece of intelligence Bloom reflected.
 Though they didn’t see eye to eye in everything a certain analogy there
@@ -1986,7 +1986,7 @@ too of tender Achilles. Your god was a jew. Because mostly they
 appeared to imagine he came from Carrick-on-Shannon or somewhereabouts
 in the county Sligo.</p>
 
-<said persName='Stephen Dedalus'>I propose, our hero eventually suggested after mature reflection while
+<said who='Stephen Dedalus'>I propose, our hero eventually suggested after mature reflection while
 prudently pocketing her photo, as it’s rather stuffy here you just come
 home with me and talk things over. My diggings are quite close in the
 vicinity. You can’t drink that stuff. Do you like cocoa? Wait. I’ll
@@ -1996,7 +1996,7 @@ just pay this lot.</said>
 sailing, he beckoned, while prudently pocketing the photo, to the
 keeper of the shanty who didn’t seem to.</p>
 
-<said persName='Leopold Bloom'>Yes, that’s the best, he assured Stephen to whom for the matter of
+<said who='Leopold Bloom'>Yes, that’s the best, he assured Stephen to whom for the matter of
 that Brazen Head or him or anywhere else was all more or less.</said>
 
 <p>All kinds of Utopian plans were flashing through his (B’s) busy brain,
@@ -2020,18 +2020,18 @@ MacDonnell had left Euston for the chief secretary’s lodge or words to
 that effect. To which absorbing piece of intelligence echo answered
 why.</p>
 
-<said persName='Earl Cadogan'>Give us a squint at that literature, grandfather, the ancient mariner
+<said who='Earl Cadogan'>Give us a squint at that literature, grandfather, the ancient mariner
 put in, manifesting some natural impatience.</said>
 
-<said persName='Elderly'>And welcome, answered the elderly party thus addressed.</said>
+<said who='Elderly'>And welcome, answered the elderly party thus addressed.</said>
 
 <p>The sailor lugged out from a case he had a pair of greenish goggles
 which he very slowly hooked over his nose and both ears.</p>
 
-<said persName='Townclerk'>Are you bad in the eyes? the sympathetic personage like the townclerk
+<said who='Townclerk'>Are you bad in the eyes? the sympathetic personage like the townclerk
 queried.</said>
 
-<said persName='Seafarer'>Why, answered the seafarer with the tartan beard, who seemingly was a
+<said who='Seafarer'>Why, answered the seafarer with the tartan beard, who seemingly was a
 bit of a literary cove in his own small way, staring out of seagreen
 portholes as you might well describe them as, I uses goggles reading.
 Sand in the Red Sea done that. One time I could read a book in the
@@ -2060,7 +2060,7 @@ spotted on the printed pricelist for all who ran to read opposite him
 in unmistakable figures, coffee 2d, confectionery do, and honestly well
 worth twice the money once in a way, as Wetherup used to remark.</p>
 
-<said persName='Leopold Bloom'>Come, he counselled to close the _séance_.</said>
+<said who='Leopold Bloom'>Come, he counselled to close the _séance_.</said>
 
 <p>Seeing that the ruse worked and the coast was clear they left the
 shelter or shanty together and the _élite_ society of oilskin and
@@ -2068,13 +2068,13 @@ company whom nothing short of an earthquake would move out of their
 _<reference to='Italian'>dolce far niente</reference>_. Stephen, who confessed to still feeling poorly and
 fagged out, paused at the, for a moment, the door.</p>
 
-<said persName='Stephen Dedalus'>One thing I never understood, he said to be original on the spur of
+<said who='Stephen Dedalus'>One thing I never understood, he said to be original on the spur of
 the moment. Why they put tables upside down at night, I mean chairs
 upside down, on the tables in cafés. To which impromptu the
 neverfailing Bloom replied without a moment’s hesitation, saying
 straight off:</said>
 
-<said persName='Leopold Bloom'>To sweep the floor in the morning.</said>
+<said who='Leopold Bloom'>To sweep the floor in the morning.</said>
 
 <p>So saying he skipped around, nimbly considering, frankly at the same
 time apologetic to get on his companion’s right, a habit of his, by the
@@ -2082,14 +2082,14 @@ bye, his right side being, in classical idiom, his tender Achilles. The
 night air was certainly now a treat to breathe though Stephen was a bit
 weak on his pins.</p>
 
-<said persName='Leopold Bloom'>It will (the air) do you good, Bloom said, meaning also the walk, in a
+<said who='Leopold Bloom'>It will (the air) do you good, Bloom said, meaning also the walk, in a
 moment. The only thing is to walk then you’ll feel a different man.
 Come. It’s not far. Lean on me.</said>
 
 <p>Accordingly he passed his left arm in Stephen’s right and led him on
 accordingly.</p>
 
-<said persName='Stephen Dedalus'>Yes, Stephen said uncertainly because he thought he felt a strange
+<said who='Stephen Dedalus'>Yes, Stephen said uncertainly because he thought he felt a strange
 kind of flesh of a different man approach him, sinewless and wobbly and
 all that.</said>
 
@@ -2155,7 +2155,7 @@ names, as a striking coincidence.</p>
 Bloom, who was keeping a sharp lookout as usual, plucked the other’s
 sleeve gently, jocosely remarking:</p>
 
-<said persName='Leopold Bloom'>Our lives are in peril tonight. Beware of the steamroller.</said>
+<said who='Leopold Bloom'>Our lives are in peril tonight. Beware of the steamroller.</said>
 
 <p>They thereupon stopped. Bloom looked at the head of a horse not worth
 anything like sixtyfive guineas, suddenly in evidence in the dark quite
@@ -2179,7 +2179,7 @@ occupied his mind somewhat distracted from Stephen’s words while the
 ship of the street was manœuvring and Stephen went on about the highly
 interesting old.</p>
 
-<said persName='Leopold Bloom'>What’s this I was saying? Ah, yes! My wife, he intimated, plunging _<reference to='Italain'>in
+<said who='Leopold Bloom'>What’s this I was saying? Ah, yes! My wife, he intimated, plunging _<reference to='Italain'>in
 medias res</reference>_, would have the greatest of pleasure in making your
 acquaintance as she is passionately attached to music of any kind.</said>
 
