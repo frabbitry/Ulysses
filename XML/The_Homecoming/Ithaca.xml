@@ -2,6 +2,8 @@
 
 
 <?xml-model href="../../RNC/ulyssesSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../../../Spring%20Semester_DH/DeVoreSCH2.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <ulysses>
     <section sectionName="The Homecoming"/>
     <chapter chapterName="Ithaca"/>
@@ -9,7 +11,7 @@
 <p>[ 17 ]</p>
 
 
-<p>What parallel courses did <person who="LeopoldBloom">Bloom</person> and <person who="StephenDedalus">Stephen</person> follow returning?
+<p>What parallel courses did <person who="Leopold Bloom">Bloom</person> and <person who="Stephen Dedalus">Stephen</person> follow returning?
 
 </p>
 <p>Starting united both at normal walking pace from Beresford place they
@@ -32,10 +34,10 @@ glowlamps on the growth of adjoining paraheliotropic trees, exposed
 corporation emergency dustbuckets, the Roman catholic church,
 ecclesiastical celibacy, the Irish nation, <allusion to="Christianity">jesuit</allusion> education, careers,
 the study of medicine, the past day, the maleficent influence of the
-presabbath, <person who="StephenDedalus">Stephen</person>’s collapse.
+presabbath, <person who="Stephen Dedalus">Stephen</person>’s collapse.
 
 </p>
-<p>Did <person who="LeopoldBloom">Bloom</person> discover common factors of similarity between their
+<p>Did <person who="Leopold Bloom">Bloom</person> discover common factors of similarity between their
 respective like and unlike reactions to experience?
 
 </p>
@@ -52,19 +54,19 @@ magnetism.
 <p>Were their views on some points divergent?
 
 </p>
-<p><person who="StephenDedalus">Stephen</person> dissented openly from <person who="LeopoldBloom">Bloom</person>’s views on the importance of
-dietary and civic selfhelp while <person who="LeopoldBloom">Bloom</person> dissented tacitly from <person who="StephenDedalus">Stephen</person>’s
+<p><person who="Stephen Dedalus">Stephen</person> dissented openly from <person who="Leopold Bloom">Bloom</person>’s views on the importance of
+dietary and civic selfhelp while <person who="Leopold Bloom">Bloom</person> dissented tacitly from <person who="Stephen Dedalus">Stephen</person>’s
 views on the eternal affirmation of the spirit of man in literature.
-<person who="LeopoldBloom">Bloom</person> assented covertly to <person who="StephenDedalus">Stephen</person>’s rectification of the anachronism
+<person who="Leopold Bloom">Bloom</person> assented covertly to <person who="Stephen Dedalus">Stephen</person>’s rectification of the anachronism
 involved in assigning the date of the conversion of the Irish nation to
-christianity from druidism by <reference to="SaintPatrick">Patrick</reference> son of <reference to="PatrickFather">Calpornus</reference>, son of <reference to="Potitus">Potitus</reference>,
-son of <allusion to="GreekMythology">Odyssus</allusion>, sent by pope <person who="Pope Celestine I">Celestine I</person> in the year 432 in the reign
+christianity from druidism by <reference to="Saint Patrick">Patrick</reference> son of <reference to="Patrick Father">Calpornus</reference>, son of <reference to="Potitus">Potitus</reference>,
+son of <allusion to="Greek Mythology">Odyssus</allusion>, sent by pope <person who="Pope Celestine I">Celestine I</person> in the year 432 in the reign
 of Leary to the year 260 or thereabouts in the reign of <allusion who="King of Ireland">Cormac MacArt</allusion>
 († 266 A.D.), suffocated by imperfect deglutition of aliment at Sletty
-and interred at Rossnaree. The collapse which <person who="LeopoldBloom">Bloom</person> ascribed to gastric
+and interred at Rossnaree. The collapse which <person who="Leopold Bloom">Bloom</person> ascribed to gastric
 inanition and certain chemical compounds of varying degrees of
 adulteration and alcoholic strength, accelerated by mental exertion and
-the velocity of rapid circular motion in a relaxing atmosphere, <person who="StephenDedalus">Stephen</person>
+the velocity of rapid circular motion in a relaxing atmosphere, <person who="Stephen Dedalus">Stephen</person>
 attributed to the reapparition of a matutinal cloud (perceived by both
 from two different points of observation Sandycove and Dublin) at first
 no bigger than a woman’s hand.
@@ -77,20 +79,20 @@ no bigger than a woman’s hand.
 paraheliotropic trees.
 
 </p>
-<p>Had <person who="LeopoldBloom">Bloom</person> discussed similar subjects during nocturnal perambulations in
+<p>Had <person who="Leopold Bloom">Bloom</person> discussed similar subjects during nocturnal perambulations in
 the past?
 
 </p>
-<p>In 1884 with <person who="OwenGoldberg">Owen Goldberg</person> and <person who="CecilTurnbull">Cecil Turnbull</person> at night on public
+<p>In 1884 with <person who="Owen Goldberg">Owen Goldberg</person> and <person who="Cecil Turnbull">Cecil Turnbull</person> at night on public
 thoroughfares between Longwood avenue and Leonard’s corner and
 Leonard’s corner and Synge street and Synge street and Bloomfield
-avenue. In 1885 with <person who="PercyApjohn">Percy Apjohn</person> in the evenings, reclined against the
+avenue. In 1885 with <person who="Percy Apjohn">Percy Apjohn</person> in the evenings, reclined against the
 wall between Gibraltar villa and Bloomfield house in Crumlin, barony of
 Uppercross. In 1886 occasionally with casual acquaintances and
 prospective purchasers on doorsteps, in front parlours, in third class
 railway carriages of suburban lines. In 1888 frequently with major
-<person who="BrianTweedy">Brian Tweedy</person> and his daughter Miss <person who="MarionTweedy">Marion Tweedy</person>, together and
-separately on the lounge in <person who="MatthewDillon">Matthew Dillon</person>’s house in Roundtown. Once
+<person who="Brian Tweedy">Brian Tweedy</person> and his daughter Miss <person who="Marion Tweedy">Marion Tweedy</person>, together and
+separately on the lounge in <person who="Matthew Dillon">Matthew Dillon</person>’s house in Roundtown. Once
 in 1892 and once in 1893 with Julius (Juda) Mastiansky, on both
 occasions in the parlour of his (Bloom’s) house in Lombard street,
 west.
@@ -114,7 +116,7 @@ existence with existence he was with any as any with any: from
 existence to nonexistence gone he would be by all as none perceived.
 
 </p>
-<p>What act did <person who="LeopoldBloom">Bloom</person> make on their arrival at their destination?
+<p>What act did <person who="Leopold Bloom">Bloom</person> make on their arrival at their destination?
 
 </p>
 <p>At the housesteps of the 4th of the equidifferent uneven numbers,
@@ -143,7 +145,7 @@ himself twice not to forget.
 <p>To enter or not to enter. To knock or not to knock.
 
 </p>
-<p><person who="LeopoldBloom">Bloom</person>’s decision?
+<p><person who="Leopold Bloom">Bloom</person>’s decision?
 
 </p>
 <p>A stratagem. Resting his feet on the dwarf wall, he climbed over the
@@ -160,7 +162,7 @@ preparation for the impact of the fall.
 </p>
 <p>By his body’s known weight of eleven stone and four pounds in
 avoirdupois measure, as certified by the graduated machine for
-periodical selfweighing in the premises of <person who="FrancisFroedman">Francis Froedman</person>,
+periodical selfweighing in the premises of <person who="Francis Froedman">Francis Froedman</person>,
 pharmaceutical chemist of 19 Frederick street, north, on the last feast
 of the <allusion to="Christianity">Ascension</allusion>, to wit, the twelfth day of May of the bissextile year
 one thousand nine hundred and four of the christian era (jewish era
@@ -182,7 +184,7 @@ which, by regulating, he reduced to quiescent candescence and lit
 finally a portable candle.
 
 </p>
-<p>What discrete succession of images did <person who="StephenDedalus">Stephen</person> meanwhile perceive?
+<p>What discrete succession of images did <person who="Stephen Dedalus">Stephen</person> meanwhile perceive?
 
 </p>
 <p>Reclined against the area railings he perceived through the transparent
@@ -201,17 +203,17 @@ space of the doorway the man reappeared without his hat, with his
 candle.
 
 </p>
-<p>Did <person who="StephenDedalus">Stephen</person> obey his sign?
+<p>Did <person who="Stephen Dedalus">Stephen</person> obey his sign?
 
 </p>
 <p>Yes, entering softly, he helped to close and chain the door and
 followed softly along the hallway the man’s back and listed feet and
 lighted candle past a lighted crevice of doorway on the left and
 carefully down a turning staircase of more than five steps into the
-kitchen of <person who="LeopoldBloom">Bloom</person>’s house.
+kitchen of <person who="Leopold Bloom">Bloom</person>’s house.
 
 </p>
-<p>What did <person who="LeopoldBloom">Bloom</person> do?
+<p>What did <person who="Leopold Bloom">Bloom</person> do?
 
 </p>
 <p>He extinguished the candle by a sharp expiration of breath upon its
@@ -231,21 +233,21 @@ of the air.
 
 </p>
 <p>Of others elsewhere in other times who, kneeling on one knee or on two,
-had kindled fires for him, of <person who="MichaelDedalus"> Brother Michael</person> in the infirmary of the
-college of the <reference to="JesuitOrder">Society of Jesus</reference> at Clongowes Wood, Sallins, in the
-county of Kildare: of his father, <person who="SimonDedalus">Simon Dedalus</person>, in an unfurnished room
+had kindled fires for him, of <person who="Michael Dedalus"> Brother Michael</person> in the infirmary of the
+college of the <reference to="Jesuit Order">Society of Jesus</reference> at Clongowes Wood, Sallins, in the
+county of Kildare: of his father, <person who="Simon Dedalus">Simon Dedalus</person>, in an unfurnished room
 of his first residence in Dublin, number thirteen Fitzgibbon street: of
-his godmother Miss <person who="KateMorkan">Kate Morkan</person> in the house of her dying sister Miss
-<person who="JuliaMorkan">Julia Morkan</person> at 15 Usher’s Island: of his aunt Sara, wife of <person who="RichardGoulding">Richie
+his godmother Miss <person who="Kate Morkan">Kate Morkan</person> in the house of her dying sister Miss
+<person who="Julia Morkan">Julia Morkan</person> at 15 Usher’s Island: of his aunt Sara, wife of <person who="Richard Goulding">Richie
 (Richard) Goulding</person>, in the kitchen of their lodgings at 62 Clanbrassil
-street: of his mother <person who="MaryDedalus">Mary</person>, wife of <person who="SimonDedalus">Simon Dedalus</person>, in the kitchen of
+street: of his mother <person who="Mary Dedalus">Mary</person>, wife of <person who="Simon Dedalus">Simon Dedalus</person>, in the kitchen of
 number twelve North Richmond street on the morning of the feast of
-<reference to="SaintFrancis">Saint Francis Xavier</reference> 1898: of the dean of studies, Father Butt, in the
+<reference to="Saint Francis">Saint Francis Xavier</reference> 1898: of the dean of studies, Father Butt, in the
 physics’ theatre of university College, 16 Stephen’s Green, north: of
 his sister Dilly (Delia) in his father’s house in Cabra.
 
 </p>
-<p>What did <person who="StephenDedalus">Stephen</person> see on raising his gaze to the height of a yard from
+<p>What did <person who="Stephen Dedalus">Stephen</person> see on raising his gaze to the height of a yard from
 the fire towards the opposite wall?
 
 </p>
@@ -258,14 +260,14 @@ position clamped by three erect wooden pegs two at their outer
 extremities and the third at their point of junction.
 
 </p>
-<p>What did <person who="LeopoldBloom">Bloom</person> see on the range?
+<p>What did <person who="Leopold Bloom">Bloom</person> see on the range?
 
 </p>
 <p>On the right (smaller) hob a blue enamelled saucepan: on the left
 (larger) hob a black iron kettle.
 
 </p>
-<p>What did <person who="LeopoldBloom">Bloom</person> do at the range?
+<p>What did <person who="Leopold Bloom">Bloom</person> do at the range?
 
 </p>
 <p>He removed the saucepan to the left hob, rose and carried the iron
@@ -286,7 +288,7 @@ tanks, by a gradient of 250 feet to the city boundary at Eustace
 bridge, upper Leeson street, though from prolonged summer drouth and
 daily supply of 12 1/2 million gallons the water had fallen below the
 sill of the overflow weir for which reason the borough surveyor and
-waterworks engineer, <person who="SpencerHarty">Mr Spencer Harty</person>, C. E., on the instructions of
+waterworks engineer, <person who="Spencer Harty">Mr Spencer Harty</person>, C. E., on the instructions of
 the waterworks committee had prohibited the use of municipal water for
 purposes other than those of consumption (envisaging the possibility of
 recourse being had to the impotable water of the Grand and Royal canals
@@ -299,7 +301,7 @@ detriment of another section of the public, selfsupporting taxpayers,
 solvent, sound.
 
 </p>
-<p>What in water did <person who="LeopoldBloom">Bloom</person>, waterlover, drawer of water, watercarrier,
+<p>What in water did <person who="Leopold Bloom">Bloom</person>, waterlover, drawer of water, watercarrier,
 returning to the range, admire?
 
 </p>
@@ -367,7 +369,7 @@ cold neverchanging everchanging water and dry them, face and hands, in
 a long redbordered holland cloth passed over a wooden revolving roller.
 
 </p>
-<p>What reason did <person who="StephenDedalus">Stephen</person> give for declining <person who="LeopoldBloom">Bloom</person>’s offer?
+<p>What reason did <person who="Stephen Dedalus">Stephen</person> give for declining <person who="Leopold Bloom">Bloom</person>’s offer?
 
 </p>
 <p>That he was hydrophobe, hating partial contact by immersion or total by
@@ -377,7 +379,7 @@ substances of glass and crystal, distrusting aquacities of thought and
 language.
 
 </p>
-<p>What impeded <person who="LeopoldBloom">Bloom</person> from giving <person who="StephenDedalus">Stephen</person> counsels of hygiene and
+<p>What impeded <person who="Leopold Bloom">Bloom</person> from giving <person who="Stephen Dedalus">Stephen</person> counsels of hygiene and
 prophylactic to which should be added suggestions concerning a
 preliminary wetting of the head and contraction of the muscles with
 rapid splashing of the face and neck and thoracic and epigastric region
@@ -471,7 +473,7 @@ surgery.
 
 </p>
 <p>What lay under exposure on the lower, middle and upper shelves of the
-kitchen dresser, opened by <person who="LeopoldBloom">Bloom</person>?
+kitchen dresser, opened by <person who="Leopold Bloom">Bloom</person>?
 
 </p>
 <p>On the lower shelf five vertical breakfast plates, six horizontal
@@ -492,7 +494,7 @@ bisected with augmented surface and more redolent, a jar of Irish Model
 Dairy’s cream, a jug of brown crockery containing a naggin and a
 quarter of soured adulterated milk, converted by heat into water,
 acidulous serum and semisolidified curds, which added to the quantity
-subtracted for <person who="Bloom">Mr Bloom</person>’s and <person who="Fleming">Mrs Fleming</person>’s breakfasts, made one
+subtracted for <person who=" Leopold Bloom">Mr Bloom</person>’s and <person who="Fleming">Mrs Fleming</person>’s breakfasts, made one
 imperial pint, the total quantity originally delivered, two cloves, a
 halfpenny and a small dish containing a slice of fresh ribsteak. On the
 upper shelf a battery of jamjars (empty) of various sizes and
@@ -527,7 +529,7 @@ Elijah, restorer of the church in Zion: in Lincoln place outside the
 premises of F. W. Sweny and Co (Limited), dispensing chemists, when,
 when Frederick M. (Bantam) Lyons had rapidly and successively
 requested, perused and restituted the copy of the current issue of the
-_Freeman’s Journal_ and _National Press_ which he had been about to
+<reference to="journal">_Freeman’s Journal_</reference> and <reference to="newspaper">_National Press_</reference> which he had been about to
 throw away (subsequently thrown away), he had proceeded towards the
 oriental edifice of the Turkish and Warm Baths, 11 Leinster street,
 with the light of inspiration shining in his countenance and bearing in
@@ -558,7 +560,7 @@ was satisfied.
 others. Light to the gentiles.
 
 </p>
-<p>How did <person who="LeopoldBloom">Bloom</person> prepare a collation for a gentile?
+<p>How did <person who="Leopold Bloom">Bloom</person> prepare a collation for a gentile?
 
 </p>
 <p>He poured into two teacups two level spoonfuls, four in all, of Epps’s
@@ -603,7 +605,7 @@ condition.
 <p>Who drank more quickly?
 
 </p>
-<p>Bloom, having the advantage of ten seconds at the initiation and
+<p><person who="Leopold Bloom">Bloom</person>, having the advantage of ten seconds at the initiation and
 taking, from the concave surface of a spoon along the handle of which a
 steady flow of heat was conducted, three sips to his opponent’s one,
 six to two, nine to three.
@@ -630,7 +632,7 @@ the answers not bearing in all points.
 <p>What lines concluded his first piece of original verse written by him,
 potential poet, at the age of 11 in 1877 on the occasion of the
 offering of three prizes of 10/-, 5/- and 2/6 respectively for
-competition by the _Shamrock_, a weekly newspaper?
+competition by the <reference to="newspaper">_Shamrock_</reference>, a weekly newspaper?
 
 </p>
 <p>     An ambition to squint
@@ -650,7 +652,7 @@ competition by the _Shamrock_, a weekly newspaper?
 <p>What anagrams had he made on his name in youth?
 
 </p>
-<p>Leopold Bloom
+<p><person who="Leopold Bloom">Leopold Bloom</person>
 Ellpodbomool
 Molldopeloob
 Bollopedoom
@@ -658,7 +660,7 @@ Old Ollebo, M. P.
 
 </p>
 <p>What acrostic upon the abbreviation of his first name had he (kinetic
-    poet) sent to Miss <person who="MarionTweedy">Marion (Molly) Tweedy</person> on the 14 February 1888?
+    poet) sent to Miss <person who="Marion Tweedy">Marion (Molly) Tweedy</person> on the 14 February 1888?
 
 </p>
 <p>     Poets oft have sung in rhyme
@@ -671,33 +673,33 @@ Old Ollebo, M. P.
 <p>What had prevented him from completing a topical song (music by R. G.
 Johnston) on the events of the past, or fixtures for the actual, years,
 entitled _If Brian Boru could but come back and see old Dublin now_,
-commissioned by <person who="MichaelGunn">Michael Gunn</person>, lessee of the Gaiety Theatre, 46, 47, 48,
+commissioned by <person who="Michael Gunn">Michael Gunn</person>, lessee of the Gaiety Theatre, 46, 47, 48,
 49 South King street, and to be introduced into the sixth scene, the
 valley of diamonds, of the second edition (30 January 1893) of the
-grand annual Christmas pantomime _Sinbad the Sailor_ (produced by R.
-Shelton 26 December 1892, written by Greenleaf Whittier, scenery by
-George A. Jackson and Cecil Hicks, costumes by Mrs and Miss Whelan
-under the personal supervision of Mrs Michael Gunn, ballets by <person who="JessieNoir">Jessie
-Noir</person>, harlequinade by Thomas Otto) and sung by Nelly Bouverist,
+grand annual Christmas pantomime <reference to="Sinbad book">_Sinbad the Sailor_</reference> (produced by R.
+Shelton 26 December 1892, written by <reference to="Greenleaf Whittier">Greenleaf Whittier</reference>, scenery by
+<person who="George Jackson">George A. Jackson</person> and <person who="Cecil Hicks">Cecil Hicks</person>, costumes by Mrs and Miss Whelan
+under the personal supervision of Mrs Michael Gunn, ballets by <person who="Jessie Noir">Jessie
+Noir</person>, harlequinade by <person who="Thomas Otto">Thomas Otto</person>) and sung by <person who="Nelly Bouverist">Nelly Bouverist</person>,
 principal girl?
 
 </p>
 <p>Firstly, oscillation between events of imperial and of local interest,
-the anticipated diamond jubilee of <reference to="QueenVictoria">Queen Victoria</reference> (born 1820, acceded
+the anticipated diamond jubilee of <reference to="Queen Victoria">Queen Victoria</reference> (born 1820, acceded
 1837) and the posticipated opening of the new municipal fish market:
 secondly, apprehension of opposition from extreme circles on the
 questions of the respective visits of Their Royal Highnesses the duke
 and duchess of York (real) and of His Majesty King Brian Boru
 (imaginary): thirdly, a conflict between professional etiquette and
 professional emulation concerning the recent erections of the Grand
-Lyric Hall on Burgh Quay and the Theatre Royal in Hawkins street:
-fourthly, distraction resultant from compassion for Nelly Bouverist’s
+Lyric Hall on Burgh Quay and the <reference to="theatre">Theatre Royal</reference> in Hawkins street:
+fourthly, distraction resultant from compassion for <person who="Nelly Bouverist">Nelly Bouverist</person>’s
 non-intellectual, non-political, non-topical expression of countenance
-and concupiscence caused by Nelly Bouverist’s revelations of white
+and concupiscence caused by <person who="Nelly Bouverist">Nelly Bouverist</person>’s revelations of white
 articles of non-intellectual, non-political, non-topical underclothing
-while she (Nelly Bouverist) was in the articles: fifthly, the
+while she (<person who="Nelly Bouverist">Nelly Bouverist</person>) was in the articles: fifthly, the
 difficulties of the selection of appropriate music and humorous
-allusions from _Everybody’s Book of Jokes_ (1000 pages and a laugh in
+allusions from <reference to="book">_Everybody’s Book of Jokes_</reference> (1000 pages and a laugh in
 every one): sixthly, the rhymes, homophonous and cacophonous,
 associated with the names of the new lord mayor, Daniel Tallon, the new
 high sheriff, Thomas Pile and the new solicitorgeneral, Dunbar Plunket
@@ -707,20 +709,20 @@ Barton.
 <p>What relation existed between their ages?
 
 </p>
-<p>16 years before in 1888 when <person who="LeopoldBloom">Bloom</person> was of <person who="StephenDedalus">Stephen</person>’s present age Stephen
-was 6. 16 years after in 1920 when <person who="StephenDedalus">Stephen</person> would be of <person who="Bloom">Bloom</person>’s present
-age <person who="Bloom">Bloom</person> would be 54. In 1936 when <person who="Bloom">Bloom</person> would be 70 and <person who="Stephen D">Stephen</person> 54
+<p>16 years before in 1888 when <person who="Leopold Bloom">Bloom</person> was of <person who="Stephen Dedalus">Stephen</person>’s present age Stephen
+was 6. 16 years after in 1920 when <person who="Stephen Dedalus">Stephen</person> would be of <person who="Leopold Bloom">Bloom</person>’s present
+age <person who="Leopold Bloom">Bloom</person> would be 54. In 1936 when <person who="Leopold Bloom">Bloom</person> would be 70 and <person who="Stephen Dedalus">Stephen</person> 54
 their ages initially in the ratio of 16 to 0 would be as 17 1/2 to 13
 1/2, the proportion increasing and the disparity diminishing according
 as arbitrary future years were added, for if the proportion existing in
 1883 had continued immutable, conceiving that to be possible, till then
-1904 when <person who="Stephen">Stephen</person> was 22 <person who="Bloom">Bloom</person> would be 374 and in 1920 when <person who="Stephen">Stephen</person>
-would be 38, as <person who="Bloom">Bloom</person> then was, Bloom would be 646 while in 1952 when
-<person who="Stephen">Stephen</person> would have attained the maximum postdiluvian age of 70 <person who="Bloom">Bloom</person>,
+1904 when <person who="Stephen Dedalus">Stephen</person> was 22 <person who="Leopold Bloom">Bloom</person> would be 374 and in 1920 when <person who="Stephen Dedalus">Stephen</person>
+would be 38, as <person who=" Leopold Bloom">Bloom</person> then was, <person who="Leopold Bloom">Bloom</person> would be 646 while in 1952 when
+<person who="Stephen Dedalus">Stephen</person> would have attained the maximum postdiluvian age of 70 <person who=" Leopold Bloom">Bloom</person>,
 being 1190 years alive having been born in the year 714, would have
 surpassed by 221 years the maximum antediluvian age, that of
-Methusalah, 969 years, while, if <person who="Stephen">Stephen</person> would continue to live until
-he would attain that age in the year 3072 A.D., <person who="Bloom">Bloom</person> would have been
+<allusion who="grandfather of Noah">Methusalah</allusion>, 969 years, while, if <person who="Stephen Dedalus">Stephen</person> would continue to live until
+he would attain that age in the year 3072 A.D., <person who="Leopold Bloom">Bloom</person> would have been
 obliged to have been alive 83,300 years, having been obliged to have
 been born in the year 81,396 B.C.
 
@@ -737,14 +739,14 @@ extermination of the human species, inevitable but impredictable.
 
 </p>
 <p>Two. The first in the lilacgarden of <person who="Matthew Dillon">Matthew Dillon</person>’s house, Medina
-Villa, Kimmage road, Roundtown, in 1887, in the company of <person who="Stephen">Stephen</person>’s
-mother, <person who="Stephen">Stephen</person> being then of the age of 5 and reluctant to give his
+Villa, Kimmage road, Roundtown, in 1887, in the company of <person who="Stephen Dedalus">Stephen</person>’s
+mother, <person who="Stephen Dedalus">Stephen</person> being then of the age of 5 and reluctant to give his
 hand in salutation. The second in the coffeeroom of Breslin’s hotel on
-a rainy Sunday in the January of 1892, in the company of <person who="Stephen">Stephen</person>’s
-father and <person who="Stephen">Stephen</person>’s granduncle, <person who="Stephen">Stephen</person> being then 5 years older.
+a rainy Sunday in the January of 1892, in the company of <person who="Stephen Dedalus">Stephen</person>’s
+father and <person who="Stephen Dedalus">Stephen</person>’s granduncle, <person who="Stephen Dedalus">Stephen</person> being then 5 years older.
 
 </p>
-<p>Did <person who="Bloom">Bloom</person> accept the invitation to dinner given then by the son and
+<p>Did <person who="Leopold Bloom">Bloom</person> accept the invitation to dinner given then by the son and
 afterwards seconded by the father?
 
 </p>
@@ -761,7 +763,7 @@ house of Stephen’s parents from 1 September 1888 to 29 December 1891
 and had also resided during the years 1892, 1893 and 1894 in the City
 Arms Hotel owned by <person who="Elizabeth O'Dowd">Elizabeth O’Dowd</person> of 54 Prussia street where, during
 parts of the years 1893 and 1894, she had been a constant informant of
-<person who="Bloom">Bloom</person> who resided also in the same hotel, being at that time a clerk in
+<person who=" Leopold Bloom">Bloom</person> who resided also in the same hotel, being at that time a clerk in
 the employment of Joseph Cuffe of 5 Smithfield for the superintendence
 of sales in the adjacent Dublin Cattle market on the North Circular
 road.
@@ -808,8 +810,8 @@ more desirable?
 
 </p>
 <p>The indoor exercises, formerly intermittently practised, subsequently
-abandoned, prescribed in Eugen Sandow’s _Physical Strength and How to
-Obtain It_ which, designed particularly for commercial men engaged in
+abandoned, prescribed in Eugen Sandow’s <reference to="book">_Physical Strength and How to
+Obtain It_</reference> which, designed particularly for commercial men engaged in
 sedentary occupations, were to be made with mental concentration in
 front of a mirror so as to bring into play the various families of
 muscles and produce successively a pleasant rigidity, a more pleasant
@@ -832,9 +834,9 @@ developed abdominal muscles.
 <p>Neither.
 
 </p>
-<p>What, reduced to their simplest reciprocal form, were <person who="Bloom">Bloom</person>’s thoughts
-about <person who="Stephen">Stephen</person>’s thoughts about <person who="Bloom">Bloom</person> and about <person who="Stephen">Stephen</person>’s thoughts about
-<person who="Bloom">Bloom</person>’s thoughts about <person who="Stephen">Stephen</person>?
+<p>What, reduced to their simplest reciprocal form, were <person who="Leopold Bloom">Bloom</person>’s thoughts
+about <person who="Stephen Dedalus">Stephen</person>’s thoughts about <person who="Leopold Bloom">Bloom</person> and about <person who="Stephen Deadlus">Stephen</person>’s thoughts about
+<person who="Leopold Bloom">Bloom</person>’s thoughts about <person who="Stephen Dedalus">Stephen</person>?
 
 </p>
 <p>He thought that he thought that he was a jew whereas he knew that he
@@ -845,15 +847,15 @@ knew that he knew that he was not.
 parentages?
 
 </p>
-<p><person who="Bloom">Bloom</person>, only born male transubstantial heir of Rudolf Virag
-(subsequently Rudolph Bloom) of Szombathely, Vienna, Budapest, Milan,
+<p><person who=" Leopold Bloom">Bloom</person>, only born male transubstantial heir of <person who="Rudolf Virag">Rudolf Virag</person>
+(subsequently <person who="Rudolf Virag">Rudolph Bloom</person>) of Szombathely, Vienna, Budapest, Milan,
 London and Dublin and of Ellen Higgins, second daughter of Julius
 Higgins (born Karoly) and Fanny Higgins (born Hegarty). Stephen, eldest
 surviving male consubstantial heir of Simon Dedalus of Cork and Dublin
 and of Mary, daughter of Richard and Christina Goulding (born Grier).
 
 </p>
-<p>Had <person who="Leopold_Bloom">Bloom</person> and <person who="Stephen_Dedalus">Stephen</person> been baptised, and where and by whom, cleric or
+<p>Had <person who="Leopold Bloom">Bloom</person> and <person who="Stephen Dedalus">Stephen</person> been baptised, and where and by whom, cleric or
 layman?
 
 </p>
@@ -1621,20 +1623,20 @@ particoloured clown in quest of paternity had penetrated from the ring
 to a place in the auditorium where <person who="Leopold Bloom">Bloom</person>, solitary, was seated and had
 publicly declared to an exhilarated audience that he (Bloom) was his
 (the clown’s) papa. The imprevidibility of the future: once in the
-summer of 1898 he (<person who="Bloom">Bloom</person>) had marked a florin (2/-) with three notches
+summer of 1898 he (<person who="Leopold Bloom">Bloom</person>) had marked a florin (2/-) with three notches
 on the milled edge and tendered it in payment of an account due to and
 received by J. and T. Davy, family grocers, 1 Charlemont Mall, Grand
 Canal, for circulation on the waters of civic finance, for possible,
 circuitous or direct, return.
 
 </p>
-<p>Was the clown <person who="Bloom">Bloom</person>’s son?
+<p>Was the clown <person who="Leopold Bloom">Bloom</person>’s son?
 
 </p>
 <p>No.
 
 </p>
-<p>Had <person who="Bloom">Bloom</person>’s coin returned?
+<p>Had <person who=" Leopold Bloom">Bloom</person>’s coin returned?
 
 </p>
 <p>Never.
