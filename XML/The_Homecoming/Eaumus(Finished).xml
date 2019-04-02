@@ -4,8 +4,8 @@
 <ulysses>
 <section sectionName='The Homecoming'/>
 <chapter chapterName='Euamus'/>
-[ 16 ]
 
+<location name = "Loopline Bridge" lat = "53.34762" lon = "-6.25679">
 <p>Preparatory to anything else Mr Bloom brushed off the greater bulk of
 the shavings and handed Stephen the hat and ashplant and bucked him up
 generally in orthodox Samaritan fashion which he very badly needed. His
@@ -43,7 +43,7 @@ twice.</p>
 there was nothing for it but put a good face on the matter and foot it
 which they accordingly did. So, bevelling around by Mullett’s and the
 Signal House which they shortly reached, they proceeded perforce in the
-direction of <location name='Aimens Street' lat='53.35121 N' lon='-6.250185 W'>Amiens street</location> railway terminus, Mr Bloom being handicapped
+direction of Amiens street railway terminus, Mr Bloom being handicapped
 by the circumstance that one of the back buttons of his trousers had,
 to vary the timehonoured adage, gone the way of all buttons though,
 entering thoroughly into the spirit of the thing, he heroically made
@@ -91,7 +91,7 @@ to say, or Mahony which simply spelt ruin for a chap when it got
 bruited about. The reason he mentioned the fact was that a lot of those
 policemen, whom he cordially disliked, were admittedly unscrupulous in
 the service of the Crown and, as Mr Bloom put it, recalling a case or
-two in the A division in <location name="Clanbrassil Street" lat='53°19′56″N' lon=' 6°16′31″W'>Clanbrassil street</location>, prepared to swear a hole
+two in the A division in Clanbrassil street, prepared to swear a hole
 through a ten gallon pot. Never on the spot when wanted but in quiet
 parts of the city, Pembroke road for example, the guardians of the law
 were well in evidence, the obvious reason being they were paid to
@@ -194,7 +194,7 @@ twice in the junior at the christian brothers.</said>
 
 <p>Corley at the first go-off was inclined to suspect it was something to
 do with Stephen being fired out of his digs for bringing in a bloody
-tart off the street. There was a dosshouse in <location name='Marlborough Street' lat="53° 20' 34.80 N" lon="-6° 15' 16.80 W">Marlborough street</location>, Mrs
+tart off the street. There was a dosshouse in Marlborough street, Mrs
 Maloney’s, but it was only a tanner touch and full of undesirables but
 M’Conachie told him you got a decent enough do in the Brazen Head over
 in Winetavern street (which was distantly suggestive to the person
@@ -935,7 +935,7 @@ prude, said it was nothing short of a crying scandal that ought to be
 put a stop to _instanter_ to say that women of that stamp (quite apart
 from any oldmaidish squeamishness on the subject), a necessary evil,
 were not licensed and medically inspected by the proper authorities, a
-thing, he could truthfully state, he, as a _<reference t0='Roman'>paterfamilias</reference>_, was a
+thing, he could truthfully state, he, as a _<reference to='Roman'>paterfamilias</reference>_, was a
 stalwart advocate of from the very first start. Whoever embarked on a
 policy of the sort, he said, and ventilated the matter thoroughly would
 confer a lasting boon on everybody concerned.</p>
@@ -1081,7 +1081,7 @@ gods. There’s an example again of simple souls.</said>
 <p>However reverting to friend Sinbad and his horrifying adventures (who
 reminded him a bit of Ludwig, _alias_ Ledwidge, when he occupied the
 boards of the Gaiety when Michael Gunn was identified with the
-management in the _<reference o='Myth'>Flying Dutchman</reference>_, a stupendous success, and his host
+management in the _<reference to='Myth'>Flying Dutchman</reference>_, a stupendous success, and his host
 of admirers came in large numbers, everyone simply flocking to hear him
 though ships of any sort, phantom or the reverse, on the stage usually
 fell a bit flat as also did trains) there was nothing intrinsically
@@ -2293,6 +2293,6 @@ kind while the man in the sweeper car or you might as well call it in
 the sleeper car who in any case couldn’t possibly hear because they
 were too far simply sat in his seat near the end of lower Gardiner
 street _and looked after their lowbacked car_.</p>
-
+</location>
 </ulysses>
 
