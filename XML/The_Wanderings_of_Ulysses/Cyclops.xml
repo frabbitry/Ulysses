@@ -2,24 +2,24 @@
 <?xml-model href="../../Schematron/ulyssesSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="../../RNC/ulyssesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <ulysses>
-<section sectionName='Wanderings'/>
+<section sectionName='The Wanderings of Ulysses'/>
 <chapter chapterName='Cyclops'/>
     
-]
+<location name = "Arbour Hill" lat = "53.34842" lon = "-6.29208">
 
 <p>Martin Cunningham, first, poked his silkhatted head into the creaking
 carriage and, entering deftly, seated himself. Mr Power stepped in
 after him, curving his height with care.</p>
 
-<said persName='Stephen Dedalus'>Come on, Simon.</said>
+<said who = 'Stephen Dedalus'>Come on, Simon.</said>
 
-<said persName='Leopold Bloom'>After you, Mr Bloom said.</said>
+<said who = 'Leopold Bloom'>After you, Mr Bloom said.</said>
 
 <p>Mr Dedalus covered himself quickly and got in, saying:
 </p>
-<said persName ='Dedalus'>Yes, yes.</said>
+<said who = 'Dedalus'>Yes, yes.</said>
 
-<said persName ='Martin Cunningham'>Are we all here now? Martin Cunningham asked. Come along, Bloom.</said>
+<said who = 'Martin Cunningham'>Are we all here now? Martin Cunningham asked. Come along, Bloom.</said>
 
 <p>Mr Bloom entered and sat in the vacant place. He pulled the door to
 after him and slammed it twice till it shut tight. He passed an arm
@@ -50,13 +50,13 @@ passing along the tramtracks. Tritonville road . Quicker. The wheels
 rattled rolling over the cobbled causeway and the crazy glasses shook
 rattling in the doorframes.</p>
 
-<said persName='Power'>What way is he taking us? Mr Power asked through both windows.</said>
+<said who = 'Power'>What way is he taking us? Mr Power asked through both windows.</said>
 
-<said persName='Martin Cunningham'>Irishtown, Martin Cunningham said. Ringsend. Brunswick street.</said>
+<said who = 'Martin Cunningham'>Irishtown, Martin Cunningham said. Ringsend. Brunswick street.</said>
 
 <p>Mr Dedalus nodded, looking out.</p>
 
-<said persName='Stephen Dedalus'>That’s a fine old custom, he said. I am glad to see it has not died
+<said who = 'Stephen Dedalus'>That’s a fine old custom, he said. I am glad to see it has not died
 out.</said>
 
 <p>All watched awhile through their windows caps and hats lifted by
@@ -64,39 +64,39 @@ passers. Respect. The carriage swerved from the tramtrack to the
 smoother road past  Watery lane. Mr Bloom at gaze saw a lithe young man,
 clad in mourning, a wide hat.</p>
 
-<said persName='Leopold Bloom'>There’s a friend of yours gone by, Dedalus, he said.</said>
+<said who = 'Leopold Bloom'>There’s a friend of yours gone by, Dedalus, he said.</said>
 
-<said oersName='Dedalus'>Who is that?</said>
+<said who = 'Dedalus'>Who is that?</said>
 
-<said persName='Leopold Bloom'>Your son and heir.</said>
+<said who = 'Leopold Bloom'>Your son and heir.</said>
 
-<said persName='Stephen Dedalus'>Where is he? Mr Dedalus said, stretching over across.</said>
+<said who = 'Stephen Dedalus'>Where is he? Mr Dedalus said, stretching over across.</said>
 
 <p>The carriage, passing the open drains and mounds of rippedup roadway
 before the tenement houses, lurched round the corner and, swerving back
 to the tramtrack, rolled on noisily with chattering wheels. Mr Dedalus
 fell back, saying:</p>
 
-<said persName='Stephen Dedalus'>Was that Mulligan cad with him? His _fidus Achates_!</said>
+<said who = 'Stephen Dedalus'>Was that Mulligan cad with him? His _fidus Achates_!</said>
 
-<said persName='Leopold Bloom'>No, Mr Bloom said. He was alone.</said>
+<said who = 'Leopold Bloom'>No, Mr Bloom said. He was alone.</said>
 
-<said persName='Stephen Dedalus'>—Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding
+<said who = 'Stephen Dedalus'>—Down with his aunt Sally, I suppose, Mr Dedalus said, the Goulding
 faction, the drunken little costdrawer and Crissie, papa’s little lump
-of dung, the wise child that knows her own father.</said>
-
-Mr Bloom smiled joylessly on<location name='Ringsend Road' lat='53.3419° N' lon='6.2267° W'> Ringsend road</location>. Wallace Bros: the
+of dung, the wise child that knows her own father.</said></location>
+    <location name='Ringsend Road' lat='53.34045' lon='-6.23779'> 
+Mr Bloom smiled joylessly on Ringsend road. Wallace Bros: the
 bottleworks: Dodder bridge.
-
+    
 Richie Goulding and the legal bag. Goulding, Collis and Ward he calls
 the firm. His jokes are getting a bit damp. Great card he was. Waltzing
-in <location name='Stamer Street' lat="53.1424° N" lon="7.6921° W">Stamer street with Ignatius Gallaher on a Sunday morning, the
+in Stamer street with Ignatius Gallaher on a Sunday morning, the
 landlady’s two hats pinned on his head. Out on the rampage all night.
 Beginning to tell on him now: that backache of his, I fear. Wife
 ironing his back. Thinks he’ll cure it with pills. All breadcrumbs they
 are. About six hundred per cent profit.
 
-<said persName='Stephen Dedalus'>He’s in with a lowdown crowd, Mr Dedalus snarled. That Mulligan is a
+<said who = 'Stephen Dedalus'>He’s in with a lowdown crowd, Mr Dedalus snarled. That Mulligan is a
 contaminated bloody doubledyed ruffian by all accounts. His name stinks
 all over Dublin. But with the help of God and His blessed mother I’ll
 make it my business to write a letter one of those days to his mother
@@ -105,7 +105,7 @@ gate. I’ll tickle his catastrophe, believe you me.</said>
 
 <p>He cried above the clatter of the wheels:
 </p>
-<said persName='Leopold Bloom'>—I won’t have her bastard of a nephew ruin my son. A counterjumper’s
+<said who = 'Leopold Bloom'>—I won’t have her bastard of a nephew ruin my son. A counterjumper’s
 son. Selling tapes in my cousin, Peter Paul M’Swiney’s. Not likely.</said>
 
 <p>He ceased. Mr Bloom glanced from his angry moustache to Mr Power’s mild
@@ -123,9 +123,9 @@ a touch, Poldy. God, I’m dying for it. How life begins.</p>
 I could have helped him on in life. I could. Make him independent.
 Learn German too.</p>
 
-<said persName='Power'>Are we late? Mr Power asked.</said>
+<said who = 'Power'>Are we late? Mr Power asked.</said>
 
-<said persName='Martin Cunningham'>Ten minutes, Martin Cunningham said, looking at his watch.</said>
+<said who = 'Martin Cunningham'>Ten minutes, Martin Cunningham said, looking at his watch.</said>
 
 <p>Molly. Milly. Same thing watered down. Her tomboy oaths. O jumping
 Jupiter! Ye gods and little fishes! Still, she’s a dear girl. Soon be a
@@ -134,56 +134,56 @@ Life, life.</p>
 <p>
 The carriage heeled over and back, their four trunks swaying.</p>
 
-<said persName='Power'>Corny might have given us a more commodious yoke, Mr Power said.</said>
+<said who = 'Power'>Corny might have given us a more commodious yoke, Mr Power said.</said>
 
-<said persName='Stephen Dedalus'>He might, Mr Dedalus said, if he hadn’t that squint troubling him. Do
+<said who = 'Stephen Dedalus'>He might, Mr Dedalus said, if he hadn’t that squint troubling him. Do
 you follow me?</said>
 
 <p>He closed his left eye. Martin Cunningham began to brush away
 crustcrumbs from under his thighs.</p>
 
-<said persName='Martin Cunningham'>What is this, he said, in the name of God? Crumbs?</said>
+<said who = 'Martin Cunningham'>What is this, he said, in the name of God? Crumbs?</said>
 
-<said persName='Power'>Someone seems to have been making a picnic party here lately, Mr Power
+<said who = 'Power'>Someone seems to have been making a picnic party here lately, Mr Power
 said.</said>
 
 <p>All raised their thighs and eyed with disfavour the mildewed buttonless
 leather of the seats. Mr Dedalus, twisting his nose, frowned downward
 and said:</p>
 
-<said persName='Stephen Dedalus'>Unless I’m greatly mistaken. What do you think, Martin?</said>
+<said who = 'Stephen Dedalus'>Unless I’m greatly mistaken. What do you think, Martin?</said>
 
-<said persName='Martin Cunningham'>It struck me too, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>It struck me too, Martin Cunningham said.</said>
 
 <p>Mr Bloom set his thigh down. Glad I took that bath. Feel my feet quite
 clean. But I wish Mrs Fleming had darned these socks better.</p>
 
 Mr Dedalus sighed resignedly.
 
-<said persName='Stephen Dedalus'>After all, he said, it’s the most natural thing in the world.</said>
+<said who = 'Stephen Dedalus'>After all, he said, it’s the most natural thing in the world.</said>
 
-<said persName='Martin Cunningham'>Did Tom Kernan turn up? Martin Cunningham asked, twirling the peak of
+<said who = 'Martin Cunningham'>Did Tom Kernan turn up? Martin Cunningham asked, twirling the peak of
 his beard gently.</said>
 
-<said persName='Leopold Bloom'>Yes, Mr Bloom answered. He’s behind with Ned Lambert and Hynes.</said>
+<said who = 'Leopold Bloom'>Yes, Mr Bloom answered. He’s behind with Ned Lambert and Hynes.</said>
 
-<said persName='Power'>And Corny Kelleher himself? Mr Power asked.</said>
+<said who = 'Power'>And Corny Kelleher himself? Mr Power asked.</said>
 
-<said persName='Martin Cunningham'>At the cemetery, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>At the cemetery, Martin Cunningham said.</said>
 
-<said persName='Leopold Bloom'>I met M’Coy this morning, Mr Bloom said. He said he’d try to come.</said>
+<said who = 'Leopold Bloom'>I met M’Coy this morning, Mr Bloom said. He said he’d try to come.</said>
 
 <p>The carriage halted short.
 </p>
-<said persName='Power'>What’s wrong?</said>
+<said who = 'Power'>What’s wrong?</said>
 
-<said persName='Leopold Bloom'>We’re stopped.</said>
+<said who = 'Leopold Bloom'>We’re stopped.</said>
 
-<said persName='Power'>Where are we?</said>
+<said who = 'Power'>Where are we?</said>
 
 <p>Mr Bloom put his head out of the window.
 </p>
-<said persName='Leopold Bloom'>The grand canal, he said.</said>
+<said who = 'Leopold Bloom'>The grand canal, he said.</said>
 
 <p>Gasworks. <reference to='disease'>Whooping cough </reference>they say it cures. Good job Milly never got
 it. Poor children! Doubles them up black and blue in convulsions. Shame
@@ -198,46 +198,46 @@ dogs usually are.</p>
 spray dots over the grey flags. Apart. Curious. Like through a
 colander. I thought it would. My boots were creaking I remember now.</p>
 
-<said persName='Power'>The weather is changing, he said quietly.</said>
+<said who = 'Power'>The weather is changing, he said quietly.</said>
 
-<said persName='Martin Cunningham'>A pity it did not keep up fine, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>A pity it did not keep up fine, Martin Cunningham said.</said>
 
-<said persName='Power'>Wanted for the country, Mr Power said. There’s the sun again coming
+<said who = 'Power'>Wanted for the country, Mr Power said. There’s the sun again coming
 out.</said>
 
 <p>Mr Dedalus, peering through his glasses towards the veiled sun, hurled
 a mute curse at the sky.</p>
 
-<said persName='Stephen Dedalus'>It’s as uncertain as a child’s bottom, he said.</said>
+<said who = 'Stephen Dedalus'>It’s as uncertain as a child’s bottom, he said.</said>
 
-<said perName='Martin Cunningham'>We’re off again.</said>
+<said who = 'Martin Cunningham'>We’re off again.</said>
 
 <p>The carriage turned again its stiff wheels and their trunks swayed
 gently. Martin Cunningham twirled more quickly the peak of his beard.</p>
 
-<said persName='Martin Cunningham'>Tom Kernan was immense last night, he said. And Paddy Leonard taking
+<said who = 'Martin Cunningham'>Tom Kernan was immense last night, he said. And Paddy Leonard taking
 him off to his face.</said>
 
-<said persName='Power'>O, draw him out, Martin, Mr Power said eagerly. Wait till you hear
+<said who = 'Power'>O, draw him out, Martin, Mr Power said eagerly. Wait till you hear
 him, Simon, on Ben Dollard’s singing of _The Croppy Boy_.</said>
 
-<said persName='Martin Cunningham'>Immense, Martin Cunningham said pompously. _His singing of that simple
+<said who = 'Martin Cunningham'>Immense, Martin Cunningham said pompously. _His singing of that simple
 ballad, Martin, is the most trenchant rendering I ever heard in the
 whole course of my experience._</said>
 
-<said persName='Power'>Trenchant, Mr Power said laughing. He’s dead nuts on that. And the
+<said who = 'Power'>Trenchant, Mr Power said laughing. He’s dead nuts on that. And the
 retrospective arrangement.</said>
 
-<said persName='Martin Cunningham'>Did you read Dan Dawson’s speech? Martin Cunningham asked.</said>
+<said who = 'Martin Cunningham'>Did you read Dan Dawson’s speech? Martin Cunningham asked.</said>
 
-<said persName='Stephen Dedalus'>I did not then, Mr Dedalus said. Where is it?</said>
+<said who = 'Stephen Dedalus'>I did not then, Mr Dedalus said. Where is it?</said>
 
-<said persName='Leopold Bloom'>In the paper this morning.</said>
+<said who = 'Leopold Bloom'>In the paper this morning.</said>
 
 <p>Mr Bloom took the paper from his inside pocket. That book I must change
 for her.</p>
 
-<said persName='Stephen Dedalus'>No, no, Mr Dedalus said quickly. Later on please.</said>
+<said who = 'Stephen Dedalus'>No, no, Mr Dedalus said quickly. Later on please.</said>
 
 <p>Mr Bloom’s glance travelled down the edge of the paper, scanning the
 deaths: Callan, Coleman, Dignam, Fawcett, Lowry, Naumann, Peake, what
@@ -283,14 +283,14 @@ to stand a drink or two. As broad as it’s long.</p>
 
 Plasto’s. <reference to='Irish Surgeon'>Sir Philip Crampton’s</reference> memorial fountain bust. Who was he?
 
-<said persName='Martin Cunningham'>How do you do? Martin Cunningham said, raising his palm to his brow in
+<said who = 'Martin Cunningham'>How do you do? Martin Cunningham said, raising his palm to his brow in
 salute.</said>
 
-<said persName='Power'>He doesn’t see us, Mr Power said. Yes, he does. How do you do?</said>
+<said who = 'Power'>He doesn’t see us, Mr Power said. Yes, he does. How do you do?</said>
 
-<said persName='Stephen Dedalus'>Who? Mr Dedalus asked.</said>
+<said who = 'Stephen Dedalus'>Who? Mr Dedalus asked.</said>
 
-<said persName='Power'>Blazes Boylan, Mr Power said. There he is airing his quiff.</said>
+<said who = 'Power'>Blazes Boylan, Mr Power said. There he is airing his quiff.</said>
 
 <p>Just that moment I was thinking.</p>
 
@@ -313,26 +313,26 @@ glance over their faces.</p>
 
 <p>Mr Power asked:</p>
 
-<said persName='Power'>How is the concert tour getting on, Bloom?</said>
+<said who = 'Power'>How is the concert tour getting on, Bloom?</said>
 
-<said persName='Leopold Bloom'>O, very well, Mr Bloom said. I hear great accounts of it. It’s a good
+<said who = 'Leopold Bloom'>O, very well, Mr Bloom said. I hear great accounts of it. It’s a good
 idea, you see...</said>
 
-<said persName='Power'>Are you going yourself?</said>
+<said who = 'Power'>Are you going yourself?</said>
 
-<said persName='Leopold Bloom'>Well no, Mr Bloom said. In point of fact I have to go down to the
+<said who = 'Leopold Bloom'>Well no, Mr Bloom said. In point of fact I have to go down to the
 county Clare on some private business. You see the idea is to tour the
 chief towns. What you lose on one you can make up on the other.</said>
 
-<said persName='Martin Cunningham'>Quite so, Martin Cunningham said. Mary Anderson is up there now.</said>
+<said who = 'Martin Cunningham'>Quite so, Martin Cunningham said. Mary Anderson is up there now.</said>
 
 <p>Have you good artists?</p>
 
-<said persName='Leopold Bloom'>Louis Werner is touring her, Mr Bloom said. O yes, we’ll have all
+<said who = 'Leopold Bloom'>Louis Werner is touring her, Mr Bloom said. O yes, we’ll have all
 topnobbers. J. C. Doyle and John MacCormack I hope and. The best, in
 fact.</said>
 
-<said persName='Power'>And _Madame_, Mr Power said smiling. Last but not least.</said>
+<said who = 'Power'>And _Madame_, Mr Power said smiling. Last but not least.</said>
 
 <p>Mr Bloom unclasped his hands in a gesture of soft politeness and
 clasped them. Smith O’Brien. Someone has laid a bunch of flowers there.
@@ -343,9 +343,9 @@ knees.</p>
 Oot: a dullgarbed old man from the curbstone tendered his wares, his
 mouth opening: oot.</p>
 
-<said persName='Oldman'>Four bootlaces for a penny.</said>
+<said who = 'Oldman'>Four bootlaces for a penny.</said>
 
-    Wonder why he was struck off the rolls. Had his office in </location><location name='Hume Street' lat='53° 20 9.60 N' lon=' -6° 15 10.80 W"'> Hume street.
+    Wonder why he was struck off the rolls. Had his office in </location><location name='Hume Street' lat='53.33732' lon='-6.25793'> Hume street.
 Same house as Molly’s namesake, Tweedy, crown solicitor for Waterford.
 Has that silk hat ever since. Relics of old decency. Mourning too.
 Terrible comedown, poor wretch! Kicked about like snuff at a wake.
@@ -370,100 +370,100 @@ Moira, was it?</p>
 
 <p>Martin Cunningham nudged Mr Power.</p>
 
-<said persName='Martin Cunningham'>Of the <reference to='family'>tribe of Reuben,</reference> he said.</said>
+<said who = 'Martin Cunningham'>Of the <reference to='family'>tribe of Reuben,</reference> he said.</said>
 
 <p>A tall blackbearded figure, bent on a stick, stumping round the corner
 of Elvery’s Elephant house, showed them a curved hand open on his
 spine.</p>
 
-<said persName='Power'>In all his pristine beauty, Mr Power said.</said>
+<said who = 'Power'>In all his pristine beauty, Mr Power said.</said>
 
 <p>Mr Dedalus looked after the stumping figure and said mildly:</p>
 
-<said persName='Stephen Dedalus'>The <reference to='Christianity'>devil </reference>break the hasp of your back!</said>
+<said who = 'Stephen Dedalus'>The <reference to='Christianity'>devil </reference>break the hasp of your back!</said>
 
 <p>Mr Power, collapsing in laughter, shaded his face from the window as
 the carriage passed Gray’s statue.</p>
 
-<said persName='Martin Cunningham'>We have all been there, Martin Cunningham said broadly.</said>
+<said who = 'Martin Cunningham'>We have all been there, Martin Cunningham said broadly.</said>
 
 His eyes met Mr Bloom’s eyes. He caressed his beard, adding:<p>
 </p>
-<said persName='Leopold Bloom'>Well, nearly all of us.</said>
+<said who = 'Leopold Bloom'>Well, nearly all of us.</said>
 
 <p>Mr Bloom began to speak with sudden eagerness to his companions’ faces.</p>
 
-<said persName='Leopold Bloom'>That’s an awfully good one that’s going the rounds about Reuben J and
+<said who = 'Leopold Bloom'>That’s an awfully good one that’s going the rounds about Reuben J and
 the son.</said>
 
-<said persName='Power'>About the boatman? Mr Power asked.</said>
+<said who = 'Power'>About the boatman? Mr Power asked.</said>
 
-<said persName='Leopold Bloom'>Yes. Isn’t it awfully good?</said>
+<said who = 'Leopold Bloom'>Yes. Isn’t it awfully good?</said>
 
-<said persName='Stephen Dedalus'>What is that? Mr Dedalus asked. I didn’t hear it.</said>
+<said who = 'Stephen Dedalus'>What is that? Mr Dedalus asked. I didn’t hear it.</said>
 
-<said persName='Leopold Bloom'>There was a girl in the case, Mr Bloom began, and he determined to
+<said who = 'Leopold Bloom'>There was a girl in the case, Mr Bloom began, and he determined to
 send him to the <reference to='location'>Isle of Man</reference> out of harm’s way but when they were
 both.....</said>
 
-<said persName='Stephen Dedalus'>What? Mr Dedalus asked. That confirmed bloody hobbledehoy is it?</said>
+<said who = 'Stephen Dedalus'>What? Mr Dedalus asked. That confirmed bloody hobbledehoy is it?</said>
 
-<said persName='Leopold Bloom'>Yes, Mr Bloom said. They were both on the way to the boat and he tried
+<said who = 'Leopold Bloom'>Yes, Mr Bloom said. They were both on the way to the boat and he tried
 to drown.....</said>
 
-<said persName='Stephen Dedalus'>Drown Barabbas! Mr Dedalus cried. I wish to Christ he did!</said>
+<said who = 'Stephen Dedalus'>Drown Barabbas! Mr Dedalus cried. I wish to Christ he did!</said>
 
 <p>Mr Power sent a long laugh down his shaded nostrils.</p>
 
-<said persName='Leopold Bloom'>No, Mr Bloom said, the son himself.....</said>
+<said who = 'Leopold Bloom'>No, Mr Bloom said, the son himself.....</said>
 <p>
 Martin Cunningham thwarted his speech rudely:</p>
 
-<said persName='Martin Cunningham'>Reuben J and the son were piking it down the quay next the river on
+<said who = 'Martin Cunningham'>Reuben J and the son were piking it down the quay next the river on
 their way to the Isle of Man boat and the young chiseller suddenly got
 loose and over the wall with him into the Liffey.</said>
 
-<said persName='Stephen Dedalus'>For God’s sake! Mr Dedalus exclaimed in fright. Is he dead?</said>
+<said who = 'Stephen Dedalus'>For God’s sake! Mr Dedalus exclaimed in fright. Is he dead?</said>
 
-<said persName='Martin Cunningham'>Dead! Martin Cunningham cried. Not he! A boatman got a pole and fished
+<said who = 'Martin Cunningham'>Dead! Martin Cunningham cried. Not he! A boatman got a pole and fished
 him out by the slack of the breeches and he was landed up to the father
 on the quay more dead than alive. Half the town was there.</said>
 
-<said persName='Leopold Bloom'>Yes, Mr Bloom said. But the funny part is.....</said>
+<said who = 'Leopold Bloom'>Yes, Mr Bloom said. But the funny part is.....</said>
 
-<said persName='Martin Cunningham'>And Reuben J, Martin Cunningham said, gave the boatman a florin for
+<said who = 'Martin Cunningham'>And Reuben J, Martin Cunningham said, gave the boatman a florin for
 saving his son’s life.</said>
 
 <p>A stifled sigh came from under Mr Power’s hand.</p>
 
-<said persName='Martin Cunningham'>O, he did, Martin Cunningham affirmed. Like a hero. A silver florin.</said>
+<said who = 'Martin Cunningham'>O, he did, Martin Cunningham affirmed. Like a hero. A silver florin.</said>
 
-<said persName='Leopold Bloom'>Isn’t it awfully good? Mr Bloom said eagerly.</said>
+<said who = 'Leopold Bloom'>Isn’t it awfully good? Mr Bloom said eagerly.</said>
 
-<said persName='Stephen Dedalus'>One and eightpence too much, Mr Dedalus said drily.</said>
+<said who = 'Stephen Dedalus'>One and eightpence too much, Mr Dedalus said drily.</said>
 
 <p>Mr Power’s choked laugh burst quietly in the carriage.</p>
 
 </location><location name="Nelson's Pillar" lat="50.3497222" lon="-6.26027778">Nelson’s pillar.
 
-<said persName='Stephen Dedalus'>Eight plums a penny! Eight for a penny!</said>
+<said who = 'Stephen Dedalus'>Eight plums a penny! Eight for a penny!</said>
 
-<said persName='Leopold Bloom'>We had better look a little serious, Martin Cunningham said.</said>
+<said who = 'Leopold Bloom'>We had better look a little serious, Martin Cunningham said.</said>
 
 <p>Mr Dedalus sighed.</p>
 
-<said persName='Stephen Dedalus'>Ah then indeed, he said, poor little Paddy wouldn’t grudge us a laugh.
+<said who = 'Stephen Dedalus'>Ah then indeed, he said, poor little Paddy wouldn’t grudge us a laugh.
 Many a good one he told himself.</said>
 
-<said persName='Power'>The Lord forgive me! Mr Power said, wiping his wet eyes with his
+<said who = 'Power'>The Lord forgive me! Mr Power said, wiping his wet eyes with his
 fingers. Poor Paddy! I little thought a week ago when I saw him last
 and he was in his usual health that I’d be driving after him like this.
 He’s gone from us.</said>
 
-<said persName='Stephen Dedalus'>As decent a little man as ever wore a hat, Mr Dedalus said. He went
+<said who = 'Stephen Dedalus'>As decent a little man as ever wore a hat, Mr Dedalus said. He went
 very suddenly.</said>
 
-<said persName='Martin Cunningham'>Breakdown, Martin Cunningham said. Heart.</said>
+<said who = 'Martin Cunningham'>Breakdown, Martin Cunningham said. Heart.</said>
 
 <p>He tapped his chest sadly.</p>
 
@@ -473,13 +473,13 @@ colouring it.
 </p>
 <p>Mr Power gazed at the passing houses with rueful apprehension.</p>
 
-<said persName='Power'>He had a sudden death, poor fellow, he said.</said>
+<said who = 'Power'>He had a sudden death, poor fellow, he said.</said>
 
-<said persName='Leopold Bloom'>The best death, Mr Bloom said.</said>
+<said who = 'Leopold Bloom'>The best death, Mr Bloom said.</said>
 
 <p>Their wide open eyes looked at him.</p>
 
-<said persName='Power'>No suffering, he said. A moment and all is over. Like dying in sleep.</said>
+<said who = 'Power'>No suffering, he said. A moment and all is over. Like dying in sleep.</said>
 
 <p>No-one spoke.</p>
 
@@ -494,7 +494,7 @@ galloping. A tiny coffin flashed by. In a hurry to bury. A mourning
 coach. Unmarried. Black for the married. Piebald for bachelors. Dun for
 a nun.</p>
 
-<said persName='Martin Cunningham'>Sad, Martin Cunningham said. A child.</said>
+<said who = 'Martin Cunningham'>Sad, Martin Cunningham said. A child.</said>
 
 <p>A dwarf’s face, mauve and wrinkled like little Rudy’s was. Dwarf’s
 body, weak as putty, in a whitelined deal box. Burial friendly society
@@ -502,26 +502,26 @@ pays. Penny a week for a sod of turf. Our. Little. Beggar. Baby. Meant
 nothing. Mistake of nature. If it’s healthy it’s from the mother. If
 not from the man. Better luck next time.</p>
 
-<said persName='Stephen Dedalus'>Poor little thing, Mr Dedalus said. It’s well out of it.</said>
+<said who = 'Stephen Dedalus'>Poor little thing, Mr Dedalus said. It’s well out of it.</said>
 
-    The carriage climbed more slowly the hill of </location><location name='Rutland Square' lat="53° 20' 34.80 N" lon="-6° 15' 22.20 W">Rutland square. Rattle his
+    The carriage climbed more slowly the hill of </location><location name='Rutland Grove' lat="53.32361" lon="-6.29002">Rutland square. Rattle his
 bones. Over the stones. Only a pauper. Nobody owns.
 
-<said persName='Martin Cunningham'>In the midst of life, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>In the midst of life, Martin Cunningham said.</said>
 
-<said persName='Power'>But the worst of all, Mr Power said, is the man who takes his own
+<said who = 'Power'>But the worst of all, Mr Power said, is the man who takes his own
 life.</said>
 
 <p>Martin Cunningham drew out his watch briskly, coughed and put it back.</p>
 
-<said persName='Power'>The greatest disgrace to have in the family, Mr Power added.</said>
+<said who = 'Power'>The greatest disgrace to have in the family, Mr Power added.</said>
 
-<said persName='Martin Cunningham'>Temporary insanity, of course, Martin Cunningham said decisively. We
+<said who = 'Martin Cunningham'>Temporary insanity, of course, Martin Cunningham said decisively. We
 must take a charitable view of it.</said>
 
-<said persName='Stephen Dedalus'>They say a man who does it is a coward, Mr Dedalus said.</said>
+<said who = 'Stephen Dedalus'>They say a man who does it is a coward, Mr Dedalus said.</said>
 
-<said persName='Martin Cunningham'>It is not for us to judge, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>It is not for us to judge, Martin Cunningham said.</said>
 
 <p>Mr Bloom, about to speak, closed his lips again. Martin Cunningham’s
 large eyes. Looking away now. Sympathetic human man he is. Intelligent.
@@ -553,22 +553,22 @@ Leopold.</p>
 
 <p>No more pain. Wake no more. Nobody owns.</p>
 
-    The carriage rattled swiftly along</location> <location name='Blessington Street' lat='53' lon='-6° W'>Blessington street. Over the stones.
+    The carriage rattled swiftly along</location> <location name='Blessington Street' lat='53.35544' lon='-6.26765'>Blessington street. Over the stones.
 
-<said persName='Martin Cunningham'>We are going the pace, I think, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>We are going the pace, I think, Martin Cunningham said.</said>
 
-<said persName='Power'>God grant he doesn’t upset us on the road, Mr Power said.</said>
+<said who = 'Power'>God grant he doesn’t upset us on the road, Mr Power said.</said>
 
-<said persName='Martin Cunningham'>I hope not, Martin Cunningham said. That will be a great race tomorrow
+<said who = 'Martin Cunningham'>I hope not, Martin Cunningham said. That will be a great race tomorrow
 in Germany. <reference to='Raceway'>The Gordon Bennett</reference>.</said>
 
-<said persName='Stephen Dedalus'>Yes, by <reference to='Roman God'>Jove</reference>, Mr Dedalus said. That will be worth seeing, faith.</said>
+<said who = 'Stephen Dedalus'>Yes, by <reference to='Roman God'>Jove</reference>, Mr Dedalus said. That will be worth seeing, faith.</said>
 
-    As they turned into</location> <location name='Berkely Street' lat='53.358156°N' lon='6.26854°W'>Berkeley street a streetorgan near the Basin sent
+    As they turned into</location> <location name='Berkely Street' lat='53.35652' lon='-6.27037'>Berkeley street a streetorgan near the Basin sent
 over and after them a rollicking rattling song of the halls. Has
 anybody here seen Kelly? Kay ee double ell wy. Dead March from _Saul._
 He’s as bad as old Antonio. He left me on my ownio. Pirouette! The
-_<reference to='Mission'>Mater Misericordiae</reference>_.</location> <location name='Eccles street' lat='' lon=''>Eccles street. My house down there. Big place.
+_<reference to='Mission'>Mater Misericordiae</reference>_.</location> <location name='Eccles street' lat='53.35704' lon='-6.27106'>Eccles street. My house down there. Big place.
 Ward for incurables there. Very encouraging. Our Lady’s Hospice for the
 dying. Deadhouse handy underneath. Where old Mrs Riordan died. They
 look terrible the women. Her feeding cup and rubbing her mouth with the
@@ -578,16 +578,16 @@ lying-in hospital they told me. From one extreme to the other.
 
 <p>The carriage galloped round a corner: stopped.</p>
 
-<said persName='Martin Cunningham'>What’s wrong now?</said>
+<said who = 'Martin Cunningham'>What’s wrong now?</said>
 
 <p>A divided drove of branded cattle passed the windows, lowing, slouching
 by on padded hoofs, whisking their tails slowly on their clotted bony
 croups. Outside them and through them ran raddled sheep bleating their
 fear.</p>
 
-<said persName='Power'>Emigrants, Mr Power said.</said>
+<said who = 'Power'>Emigrants, Mr Power said.</said>
 
-<said persName='Martin Cunningham'>Huuuh! the drover’s voice cried, his switch sounding on their flanks.
+<said who = 'Martin Cunningham'>Huuuh! the drover’s voice cried, his switch sounding on their flanks.
 Huuuh! out of that!</said>
 
 <p>Thursday, of course. Tomorrow is killing day. Springers. Cuffe sold
@@ -600,37 +600,37 @@ the train at <reference to='Town'>Clonsilla.</reference></p>
 
 <p>The carriage moved on through the drove.</p>
 
-<said persName='Leopold Bloom'>I can’t make out why the corporation doesn’t run a tramline from the
+<said who = 'Leopold Bloom'>I can’t make out why the corporation doesn’t run a tramline from the
 parkgate to the quays, Mr Bloom said. All those animals could be taken
 in trucks down to the boats.</said>
 
-<said persName='Martin Cunningham'>Instead of blocking up the thoroughfare, Martin Cunningham said. Quite
+<said who = 'Martin Cunningham'>Instead of blocking up the thoroughfare, Martin Cunningham said. Quite
 right. They ought to.</said>
 
-<said persName='Martin Cunningham'>Yes, Mr Bloom said, and another thing I often thought, is to have
+<said who = 'Martin Cunningham'>Yes, Mr Bloom said, and another thing I often thought, is to have
 municipal funeral trams like they have in <reference to='city'>Milan</reference>, you know. Run the line
 out to the cemetery gates and have special trams, hearse and carriage
 and all. Don’t you see what I mean?</said>
 
-<said persName='Stephen Dedalus'>O, that be damned for a story, Mr Dedalus said. Pullman car and saloon
+<said who = 'Stephen Dedalus'>O, that be damned for a story, Mr Dedalus said. Pullman car and saloon
 diningroom.</said>
 
-<said persName='Power'>A poor lookout for Corny, Mr Power added.</said>
+<said who = 'Power'>A poor lookout for Corny, Mr Power added.</said>
 
-<said persName='Leopold Bloom'>Why? Mr Bloom asked, turning to Mr Dedalus. Wouldn’t it be more decent
+<said who = 'Leopold Bloom'>Why? Mr Bloom asked, turning to Mr Dedalus. Wouldn’t it be more decent
 than galloping two abreast?</said>
 
-<said persName='Stephen Dedalus'>Well, there’s something in that, Mr Dedalus granted.</said>
+<said who = 'Stephen Dedalus'>Well, there’s something in that, Mr Dedalus granted.</said>
 
-<said persName='Martin Cunningham'>And, Martin Cunningham said, we wouldn’t have scenes like that when
+<said who = 'Martin Cunningham'>And, Martin Cunningham said, we wouldn’t have scenes like that when
 the hearse capsized round Dunphy’s and upset the coffin on to the road.</said>
 
-<said persName='Power'>That was terrible, Mr Power’s shocked face said, and the corpse fell
+<said who = 'Power'>That was terrible, Mr Power’s shocked face said, and the corpse fell
 about the road. Terrible!</said>
 
-<said persName='Stephen Dedalus'>First round Dunphy’s, Mr Dedalus said, nodding. <reference to='racing'>Gordon Bennett cup</reference>.</said>
+<said who = 'Stephen Dedalus'>First round Dunphy’s, Mr Dedalus said, nodding. <reference to='racing'>Gordon Bennett cup</reference>.</said>
 
-<said persName='Martin Cunningham'>Praises be to God! Martin Cunningham said piously.</said>
+<said who = 'Martin Cunningham'>Praises be to God! Martin Cunningham said piously.</said>
 
 <p>Bom! Upset. A coffin bumped out on to the road. Burst open. Paddy
 Dignam shot out and rolling over stiff in the dust in a brown habit too
@@ -639,7 +639,7 @@ now. Quite right to close it. Looks horrid open. Then the insides
 decompose quickly. Much better to close up all the orifices. Yes, also.
 With wax. The sphincter loose. Seal up all.</p>
 
-<said persName='Power'>Dunphy’s, Mr Power announced as the carriage turned right.</said>
+<said who = 'Power'>Dunphy’s, Mr Power announced as the carriage turned right.</said>
 
 <p>Dunphy’s corner. Mourning coaches drawn up, drowning their grief. A
 pause by the wayside. Tiptop position for a pub. Expect we’ll pull up
@@ -651,7 +651,7 @@ the knocking about? He would and he wouldn’t, I suppose. Depends on
 where. The circulation stops. Still some might ooze out of an artery.
 It would be better to bury them in red: a dark red.</p>
 
-    In silence they drove along </location><location name='Phibsborough Road' lat="53.1424° N" lon="7.6921° W">Phibsborough road. An empty hearse trotted
+    In silence they drove along </location><location name='Phibsborough Road' lat="53.35345" lon="-6.28187">Phibsborough road. An empty hearse trotted
 by, coming from the cemetery: looks relieved.
 
 <p>Crossguns bridge: the royal canal.</p>
@@ -674,15 +674,15 @@ brown straw hat, saluting Paddy Dignam.</p>
 
 <p>They drove on past Brian Boroimhe house. Near it now.</p>
 
-<said persName='Power'>I wonder how is our friend Fogarty getting on, Mr Power said.</said>
+<said who = 'Power'>I wonder how is our friend Fogarty getting on, Mr Power said.</said>
 
-<said persName='Stephen Dedalus'>Better ask Tom Kernan, Mr Dedalus said.</said>
+<said who = 'Stephen Dedalus'>Better ask Tom Kernan, Mr Dedalus said.</said>
 
-<said persName='Martin Cunningham'>How is that? Martin Cunningham said. Left him weeping, I suppose?</said>
+<said who = 'Martin Cunningham'>How is that? Martin Cunningham said. Left him weeping, I suppose?</said>
 
-<said persName='Stephen Dedalus'>Though lost to sight, Mr Dedalus said, to memory dear.</said>
+<said who = 'Stephen Dedalus'>Though lost to sight, Mr Dedalus said, to memory dear.</said>
     </location>
-    The carriage steered left for <location name="Finglas Road" lat=" 53°23′25″N" lon="6°17′59″W﻿ ">Finglas road.
+    <location name="Finglas Road" lat="53.36916" lon="-6.28012">    The carriage steered left for Finglas road.
 
 <p>The stonecutter’s yard on the right. Last lap. Crowded on the spit of
 land silent shapes appeared, white, sorrowful, holding out calm hands,
@@ -700,14 +700,14 @@ yawning boot. After life’s journey.</p>
 
 <p>Mr Power pointed.</p>
 
-<said persName='Power'>That is where <allusion to='murder victim'>Childs</allusion> was murdered, he said. The last house.</said>
+<said who = 'Power'>That is where <allusion to='murder victim'>Childs</allusion> was murdered, he said. The last house.</said>
 
-<said persName='Stephen Dedalus'>So it is, Mr Dedalus said. A gruesome case. Seymour Bushe got him off.
+<said who = 'Stephen Dedalus'>So it is, Mr Dedalus said. A gruesome case. Seymour Bushe got him off.
 Murdered his brother. Or so they said.</said>
 
-<said persName='Power'>The crown had no evidence, Mr Power said.</said>
+<said who = 'Power'>The crown had no evidence, Mr Power said.</said>
 
-<said persName='Martin Cunningham'>Only circumstantial, Martin Cunningham added. That’s the maxim of the
+<said who = 'Martin Cunningham'>Only circumstantial, Martin Cunningham added. That’s the maxim of the
 law. Better for ninetynine guilty to escape than for one innocent
 person to be wrongfully condemned.</said>
 
@@ -776,33 +776,33 @@ brother-in-law.</p>
 
 <p>Martin Cunningham whispered:</p>
 
-<said persName='Leopold Bloom'>I was in mortal agony with you talking of suicide before Bloom.</said>
+<said who = 'Leopold Bloom'>I was in mortal agony with you talking of suicide before Bloom.</said>
 
-<said ersName='Power'>What? Mr Power whispered. How so?</said>
+<said who = 'Power'>What? Mr Power whispered. How so?</said>
 
-<said persName='Martin Cunningham'>His father poisoned himself, Martin Cunningham whispered. Had the
+<said who = 'Martin Cunningham'>His father poisoned himself, Martin Cunningham whispered. Had the
 Queen’s hotel in Ennis. You heard him say he was going to Clare.
 Anniversary.</said>
 
-<said persName='Power'>O God! Mr Power whispered. First I heard of it. Poisoned himself?</said>
+<said who = 'Power'>O God! Mr Power whispered. First I heard of it. Poisoned himself?</said>
 <p>
 He glanced behind him to where a face with dark thinking eyes followed
 towards the cardinal’s mausoleum. Speaking.</p>
 
-<said persName='Leopold Bloom'>Was he insured? Mr Bloom asked.</said>
+<said who = 'Leopold Bloom'>Was he insured? Mr Bloom asked.</said>
 
-<said persName ='Kernan'>I believe so, Mr Kernan answered. But the policy was heavily
+<said who = 'Kernan'>I believe so, Mr Kernan answered. But the policy was heavily
 mortgaged. Martin is trying to get the youngster into Artane.</said>
 
-<said persName='Leopold Bloom'>How many children did he leave?</said>
+<said who = 'Leopold Bloom'>How many children did he leave?</said>
 
-<said persName='Ned Lambert'>Five. Ned Lambert says he’ll try to get one of the girls into Todd’s.</said>
+<said who = 'Ned Lambert'>Five. Ned Lambert says he’ll try to get one of the girls into Todd’s.</said>
 
-<said persName='Leopold Bloom'>A sad case, Mr Bloom said gently. Five young children.</said>
+<said who = 'Leopold Bloom'>A sad case, Mr Bloom said gently. Five young children.</said>
 
-<said persName='Kernan'>A great blow to the poor wife, Mr Kernan added.</said>
+<said who = 'Kernan'>A great blow to the poor wife, Mr Kernan added.</said>
 
-<said persName='Leopold Bloom'>Indeed yes, Mr Bloom agreed.</said>
+<said who = 'Leopold Bloom'>Indeed yes, Mr Bloom agreed.</said>
 
 <p>Has the laugh at him now.</p>
 
@@ -819,35 +819,35 @@ substance. Something new to hope for not like the past she wanted back,
 waiting. It never comes. One must go first: alone, under the ground:
 and lie no more in her warm bed.</p>
 
-<said persName='Ned Lambert'>How are you, Simon? Ned Lambert said softly, clasping hands. Haven’t
+<said who = 'Ned Lambert'>How are you, Simon? Ned Lambert said softly, clasping hands. Haven’t
 seen you for a month of Sundays.</said>
 
-<said persName='Leopold Bloom'>Never better. How are all in Cork’s own town?</said>
+<said who = 'Leopold Bloom'>Never better. How are all in Cork’s own town?</said>
 
-<said persName='Ned Lambert'>I was down there for the Cork park races on Easter Monday, Ned Lambert
+<said who = 'Ned Lambert'>I was down there for the Cork park races on Easter Monday, Ned Lambert
 said. Same old six and eightpence. Stopped with Dick Tivy.</said>
 
-<said persName='Leopold Bloom'>And how is Dick, the solid man?</said>
+<said who = 'Leopold Bloom'>And how is Dick, the solid man?</said>
 
-<said persName='Ned Lambert'>Nothing between himself and heaven, Ned Lambert answered.</said>
+<said who = 'Ned Lambert'>Nothing between himself and heaven, Ned Lambert answered.</said>
 
-<said persName ='Dedalus'>By the holy Paul! Mr Dedalus said in subdued wonder. Dick Tivy bald?</said>
+<said who = 'Dedalus'>By the holy Paul! Mr Dedalus said in subdued wonder. Dick Tivy bald?</said>
 
-<said persName='Ned Lambert'>Martin is going to get up a whip for the youngsters, Ned Lambert said,
+<said who = 'Ned Lambert'>Martin is going to get up a whip for the youngsters, Ned Lambert said,
 pointing ahead. A few bob a skull. Just to keep them going till the
 insurance is cleared up.</said>
 
-<said persName='Stephen Dedalus'>Yes, yes, Mr Dedalus said dubiously. Is that the eldest boy in front?</said>
+<said who = 'Stephen Dedalus'>Yes, yes, Mr Dedalus said dubiously. Is that the eldest boy in front?</said>
 
-<said persName='Ned Lambert'>Yes, Ned Lambert said, with the wife’s brother. John Henry Menton is
+<said who = 'Ned Lambert'>Yes, Ned Lambert said, with the wife’s brother. John Henry Menton is
 behind. He put down his name for a quid.</said>
 
-<said persName='Stephen Dedalus'>I’ll engage he did, Mr Dedalus said. I often told poor Paddy he ought
+<said who = 'Stephen Dedalus'>I’ll engage he did, Mr Dedalus said. I often told poor Paddy he ought
 to mind that job. John Henry is not the worst in the world.</said>
 
-<said persName='Ned Lambert'>How did he lose it? Ned Lambert asked. Liquor, what?</said>
+<said who = 'Ned Lambert'>How did he lose it? Ned Lambert asked. Liquor, what?</said>
 
-<said persName='Stephen Dedalus'>Many a good man’s fault, Mr Dedalus said with a sigh.</said>
+<said who = 'Stephen Dedalus'>Many a good man’s fault, Mr Dedalus said with a sigh.</said>
 
 <p>They halted about the door of the mortuary chapel. Mr Bloom stood
 behind the boy with the wreath looking down at his sleekcombed hair and
@@ -934,38 +934,38 @@ boots followed the trundled barrow along a lane of sepulchres.
 
 <p>The ree the ra the ree the ra the roo. Lord, I mustn’t lilt here.</p>
 
-<said persName='Stephen Dedalus'>The O’Connell circle, Mr Dedalus said about him.</said>
+<said who = 'Stephen Dedalus'>The O’Connell circle, Mr Dedalus said about him.</said>
 
 <p>Mr Power’s soft eyes went up to the apex of the lofty cone.
 </p>
-<said persName='Power'>He’s at rest, he said, in the middle of his people, old Dan O’. But
+<said who = 'Power'>He’s at rest, he said, in the middle of his people, old Dan O’. But
 his heart is buried in Rome. How many broken hearts are buried here,
 Simon!</said>
 
-<said persName='Stephen Dedalus'>Her grave is over there, Jack, Mr Dedalus said. I’ll soon be stretched
+<said who = 'Stephen Dedalus'>Her grave is over there, Jack, Mr Dedalus said. I’ll soon be stretched
 beside her. Let Him take me whenever He likes.</said>
 
 <p>Breaking down, he began to weep to himself quietly, stumbling a little
 in his walk. Mr Power took his arm.</p>
 
-<said persName='Power'>She’s better where she is, he said kindly.</said>
+<said who = 'Power'>She’s better where she is, he said kindly.</said>
 
-<said persName='Stephen Dedalus'>I suppose so, Mr Dedalus said with a weak gasp. I suppose she is in
+<said who = 'Stephen Dedalus'>I suppose so, Mr Dedalus said with a weak gasp. I suppose she is in
 heaven if there is a heaven.</said>
 
 <p>Corny Kelleher stepped aside from his rank and allowed the mourners to
 plod by.</p>
 
-<said persName='Kernan'>Sad occasions, Mr Kernan began politely.</said>
+<said who = 'Kernan'>Sad occasions, Mr Kernan began politely.</said>
 
 <p>Mr Bloom closed his eyes and sadly twice bowed his head.
 </p>
-<said persName='Kernan'>The others are putting on their hats, Mr Kernan said. I suppose we can
+<said who = 'Kernan'>The others are putting on their hats, Mr Kernan said. I suppose we can
 do so too. We are the last. This cemetery is a treacherous place.</said>
 
 <p>They covered their heads.</p>
 
-<said persName='Kernan'>The reverend gentleman read the service too quickly, don’t you think?
+<said who = 'Kernan'>The reverend gentleman read the service too quickly, don’t you think?
 Mr Kernan said with reproof.</said>
 
 <p>Mr Bloom nodded gravely looking in the quick bloodshot eyes. Secret
@@ -974,17 +974,17 @@ are the last. In the same boat. Hope he’ll say something else.</p>
 
 <p>Mr Kernan added:</p>
 
-<said persName='Kernan'>The service of the Irish church used in Mount Jerome is simpler, more
+<said who = 'Kernan'>The service of the Irish church used in Mount Jerome is simpler, more
 impressive I must say.</said>
 
 <p>Mr Bloom gave prudent assent. The language of course was another thing.</p>
 
 <p>Mr Kernan said with solemnity:</p>
 
-<said persName='Kernan'>_<reference to='religion'>I am the resurrection and the life</reference>_. That touches a man’s inmost
+<said who = 'Kernan'>_<reference to='religion'>I am the resurrection and the life</reference>_. That touches a man’s inmost
 heart.</said>
 
-<said persName='Leopold Bloom'>It does, Mr Bloom said.</said>
+<said who = 'Leopold Bloom'>It does, Mr Bloom said.</said>
 
 <p>Your heart perhaps but what price the fellow in the six feet by two
 with his toes to the daisies? No touching that. Seat of the affections.
@@ -1001,70 +1001,70 @@ measure.
 </p>
 <p>Corny Kelleher fell into step at their side.</p>
 
-<said persName='Corny Kelleher'>Everything went off A1, he said. What?</said>
+<said who = 'Corny Kelleher'>Everything went off A1, he said. What?</said>
 
 <p>He looked on them from his drawling eye. Policeman’s shoulders. With
 your tooraloom tooraloom.
 </p>
-<said persName='Kernan'>As it should be, Mr Kernan said.</said>
+<said who = 'Kernan'>As it should be, Mr Kernan said.</said>
 
-<said persName='Corny Kelleher'>What? Eh? Corny Kelleher said.</said>
+<said who = 'Corny Kelleher'>What? Eh? Corny Kelleher said.</said>
 
 <p>Mr Kernan assured him.</p>
 
-<said persName='John Henry Menton'>Who is that chap behind with Tom Kernan? John Henry Menton asked. I
+<said who = 'John Henry Menton'>Who is that chap behind with Tom Kernan? John Henry Menton asked. I
 know his face.</said>
 
 <p>Ned Lambert glanced back.</p>
 
-<said persName='Ned Lambert'>Bloom, he said, Madame Marion Tweedy that was, is, I mean, the
+<said who = 'Ned Lambert'>Bloom, he said, Madame Marion Tweedy that was, is, I mean, the
 soprano. She’s his wife.</said>
 
-<said persName ='John Henry Menton'>O, to be sure, John Henry Menton said. I haven’t seen her for some
+<said who = 'John Henry Menton'>O, to be sure, John Henry Menton said. I haven’t seen her for some
 time. She was a finelooking woman. I danced with her, wait, fifteen
 seventeen golden years ago, at Mat Dillon’s in Roundtown. And a good
 armful she was.</said>
 
 <p>He looked behind through the others.</p>
 
-<said persName='Ned Lambert'>What is he? he asked. What does he do? Wasn’t he in the stationery
+<said who = 'Ned Lambert'>What is he? he asked. What does he do? Wasn’t he in the stationery
 line? I fell foul of him one evening, I remember, at bowls.</said>
 
 <p>Ned Lambert smiled.</p>
 
-<said persName='Ned Lambert'>Yes, he was, he said, in Wisdom Hely’s. A traveller for blottingpaper.</said>
+<said who = 'Ned Lambert'>Yes, he was, he said, in Wisdom Hely’s. A traveller for blottingpaper.</said>
 
-<said persName='John Henry Menton'>In God’s name, John Henry Menton said, what did she marry a <reference to='racial slur'>coon</reference> like
+<said who = 'John Henry Menton'>In God’s name, John Henry Menton said, what did she marry a <reference to='racial slur'>coon</reference> like
 that for? She had plenty of game in her then.</said>
 
-<said persName='Ned Lambert'>Has still, Ned Lambert said. He does some canvassing for ads.</said>
+<said who = 'Ned Lambert'>Has still, Ned Lambert said. He does some canvassing for ads.</said>
 
 <p>John Henry Menton’s large eyes stared ahead.</p>
 
 <p>The barrow turned into a side lane. A portly man, ambushed among the</p>
 grasses, raised his hat in homage. The gravediggers touched their caps.
 
-<said persName='Power'>John O’Connell, Mr Power said pleased. He never forgets a friend.</said>
+<said who = 'Power'>John O’Connell, Mr Power said pleased. He never forgets a friend.</said>
 <p>
 Mr O’Connell shook all their hands in silence. Mr Dedalus said:</p>
 
-<said persName='Stephen Dedalus'>I am come to pay you another visit.</said>
+<said who = 'Stephen Dedalus'>I am come to pay you another visit.</said>
 
-<said persName ="O'Connell">My dear Simon, the caretaker answered in a low voice. I don’t want
+<said who = 'Connell'>My dear Simon, the caretaker answered in a low voice. I don’t want
 your custom at all.</said>
 
 <p>Saluting Ned Lambert and John Henry Menton he walked on at Martin
 Cunningham’s side puzzling two long keys at his back.</p>
 
-<said persName='Ned Lambert'>Did you hear that one, he asked them, about Mulcahy from the Coombe?</said>
+<said who = 'Ned Lambert'>Did you hear that one, he asked them, about Mulcahy from the Coombe?</said>
 
-<said persName='Martin Cunningham'>I did not, Martin Cunningham said.</said>
+<said who = 'Martin Cunningham'>I did not, Martin Cunningham said.</said>
 
 <p>They bent their silk hats in concert and Hynes inclined his ear. The
 caretaker hung his thumbs in the loops of his gold watchchain and spoke
 in a discreet tone to their vacant smiles.</p>
 
-<said persName='Hynes'>They tell the story, he said, that two drunks came out here one foggy
+<said who = 'Hynes'>They tell the story, he said, that two drunks came out here one foggy
 evening to look for the grave of a friend of theirs. They asked for
 Mulcahy from the Coombe and were told where he was buried. After
 traipsing about in the fog they found the grave sure enough. One of the
@@ -1074,18 +1074,18 @@ blinking up at a statue of Our Saviour the widow had got put up.</said>
 <p>The caretaker blinked up at one of the sepulchres they passed. He
 resumed:</p>
 
-<said persName='Hynes'>And, after blinking up at the sacred figure, _Not a bloody bit like
+<said who = 'Hynes'>And, after blinking up at the sacred figure, _Not a bloody bit like
 the man_, says he. _That’s not Mulcahy_, says he, _whoever done it_.</said>
 
 <p>Rewarded by smiles he fell back and spoke with Corny Kelleher,
 accepting the dockets given him, turning them over and scanning them as
 he walked.</p>
 
-<said persName='Martin Cunningham'>That’s all done with a purpose, Martin Cunningham explained to Hynes.</said>
+<said who = 'Martin Cunningham'>That’s all done with a purpose, Martin Cunningham explained to Hynes.</said>
 
-<said persName='Hynes'>I know, Hynes said. I know that.</said>
+<said who = 'Hynes'>I know, Hynes said. I know that.</said>
 
-<said persName='Martin Cunningham'>To cheer a fellow up, Martin Cunningham said. It’s pure
+<said who = 'Martin Cunningham'>To cheer a fellow up, Martin Cunningham said. It’s pure
 goodheartedness: damn the thing else.</said>
 
 <p>Mr Bloom admired the caretaker’s prosperous bulk. All want to be on
@@ -1154,9 +1154,9 @@ nil nisi prius_. Go out of mourning first. Hard to imagine his funeral.
 Seems a sort of a joke. Read your own obituary notice they say you live
 longer. Gives you second wind. New lease of life.
 </p>
-<said persName='caretaker'>How many have you for tomorrow? the caretaker asked.</said>
+<said who = 'caretaker'>How many have you for tomorrow? the caretaker asked.</said>
 
-<said persName='Corny Kelleher'>Two, Corny Kelleher said. Half ten and eleven.</said>
+<said who = 'Corny Kelleher'>Two, Corny Kelleher said. Half ten and eleven.</said>
 
 <p>The caretaker put the papers in his pocket. The barrow had ceased to
 trundle. The mourners split and moved to each side of the hole,
@@ -1258,13 +1258,13 @@ he traversed the dismal fields.</p>
 <p>Hynes jotting down something in his notebook. Ah, the names. But he
 knows them all. No: coming to me.</p>
 
-<said persName='Hynes'>I am just taking the names, Hynes said below his breath. What is your
+<said who = 'Hynes'>I am just taking the names, Hynes said below his breath. What is your
 christian name? I’m not sure.</said>
 
-<said persName='Leopold Bloom'>L, Mr Bloom said. Leopold. And you might put down M’Coy’s name too. He
+<said who = 'Leopold Bloom'>L, Mr Bloom said. Leopold. And you might put down M’Coy’s name too. He
 asked me to.</said>
 
-<said persName='Hynes'>Charley, Hynes said writing. I know. He was on the _Freeman_ once.</said>
+<said who = 'Hynes'>Charley, Hynes said writing. I know. He was on the _Freeman_ once.</said>
 
 <p>So he was before he got the job in the morgue under Louis Byrne. Good
 idea a postmortem for doctors. Find out what they imagine they know. He
@@ -1273,19 +1273,19 @@ Charley, you’re my darling. That was why he asked me to. O well, does
 no harm. I saw to that, M’Coy. Thanks, old chap: much obliged. Leave
 him under an obligation: costs nothing</p>.
 
-<said persName='Hynes'>And tell us, Hynes said, do you know that fellow in the, fellow was
+<said who = 'Hynes'>And tell us, Hynes said, do you know that fellow in the, fellow was
 over there in the...</said>
 
 <p>He looked around.</p>
 
-<said persName='Leopold Bloom'>Macintosh. Yes, I saw him, Mr Bloom said. Where is he now?</said>
+<said who = 'Leopold Bloom'>Macintosh. Yes, I saw him, Mr Bloom said. Where is he now?</said>
 
-<said persName='Hynes'>M’Intosh, Hynes said scribbling. I don’t know who he is. Is that his
+<said who = 'Hynes'>M’Intosh, Hynes said scribbling. I don’t know who he is. Is that his
 name?</said>
 
 <p>He moved away, looking about him.</p>
 
-<said persName='Leopold Bloom'>No, Mr Bloom began, turning and stopping. I say, Hynes!</said>
+<said who = 'Leopold Bloom'>No, Mr Bloom began, turning and stopping. I say, Hynes!</said>
 
 <p></p>Didn’t hear. What? Where has he disappeared to? Not a sign. Well of all
 the. Has anybody here seen? Kay ee double ell. Become invisible. Good
@@ -1293,7 +1293,7 @@ Lord, what became of him?
 
 <p>A seventh gravedigger came beside Mr Bloom to take up an idle spade.</p>
 
-<said persName='Hynes'>O, excuse me!</said>
+<said who = 'Hynes'>O, excuse me!</said>
 
 <p>He stepped aside nimbly.</p>
 
@@ -1313,19 +1313,19 @@ yourselves just.</p>
 <p>The mourners moved away slowly without aim, by devious paths, staying
 at whiles to read a name on a tomb.
 </p>
-<said persName='Hynes'>Let us go round by the chief’s grave, Hynes said. We have time.</said>
+<said who = 'Hynes'>Let us go round by the chief’s grave, Hynes said. We have time.</said>
 
-<said persName='Power'>Let us, Mr Power said.</said>
+<said who = 'Power'>Let us, Mr Power said.</said>
 
 <p>They turned to the right, following their slow thoughts. With awe Mr
 Power’s blank voice spoke:</p>
 
-<said persName='Power'>Some say he is not in that grave at all. That the coffin was filled
+<said who = 'Power'>Some say he is not in that grave at all. That the coffin was filled
 with stones. That one day he will come again.</said>
 
 <p>Hynes shook his head.</p>
 
-<said persName='Hynes'>Parnell will never come again, he said. He’s there, all that was
+<said who = 'Hynes'>Parnell will never come again, he said. He’s there, all that was
 mortal of him. Peace to his ashes.</said>
 
 <p>Mr Bloom walked unheeded along his grove by saddened angels, crosses,
@@ -1435,25 +1435,25 @@ by.</p>
 
 Got a dinge in the side of his hat. Carriage probably.
 
-<said persName='Leopold Bloom'>Excuse me, sir, Mr Bloom said beside them.</said>
+<said who = 'Leopold Bloom'>Excuse me, sir, Mr Bloom said beside them.</said>
 
 <p>They stopped.</p>
 
-<said persName='Leopold Bloom'> Your hat is a little crushed, Mr Bloom said pointing.</said>
+<said who = 'Leopold Bloom'> Your hat is a little crushed, Mr Bloom said pointing.</said>
 <p>
 John Henry Menton stared at him for an instant without moving.</p>
 
-<said persName='Martin Cunningham'>There, Martin Cunningham helped, pointing also.</said>
+<said who = 'Martin Cunningham'>There, Martin Cunningham helped, pointing also.</said>
 
 <p>John Henry Menton took off his hat, bulged out the dinge and smoothed
 the nap with care on his coatsleeve. He clapped the hat on his head
 again.</p>
 
-<said persName='Martin Cunnigham'>It’s all right now, Martin Cunningham said.</said>
+<said who = 'Martin Cunnigham'>It’s all right now, Martin Cunningham said.</said>
 
 <p>John Henry Menton jerked his head down in acknowledgment.</p>
 
-<said persName='John Henry Menton'>Thank you, he said shortly.</said>
+<said who = 'John Henry Menton'>Thank you, he said shortly.</said>
 
 <p>They walked on towards the gates. Mr Bloom, chapfallen, drew behind a
 few paces so as not to overhear. Martin laying down the law. Martin
