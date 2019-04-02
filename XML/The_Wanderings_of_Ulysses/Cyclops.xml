@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schematron/ulyssesSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../RNC/ulyssesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <ulysses>
 <section sectionName='Wanderings'/>
 <chapter chapterName='Cyclops'/>
-[ 6 ]
+    
+]
 
 <p>Martin Cunningham, first, poked his silkhatted head into the creaking
 carriage and, entering deftly, seated himself. Mr Power stepped in
@@ -441,7 +444,7 @@ saving his son’s life.</said>
 
 <p>Mr Power’s choked laugh burst quietly in the carriage.</p>
 
-</location><location name="Nelson's Pillar" lat="53°20′59.29″N" lon="6°15′36.96″W">Nelson’s pillar.
+</location><location name="Nelson's Pillar" lat="50.3497222" lon="-6.26027778">Nelson’s pillar.
 
 <said persName='Stephen Dedalus'>Eight plums a penny! Eight for a penny!</said>
 
@@ -550,7 +553,7 @@ Leopold.</p>
 
 <p>No more pain. Wake no more. Nobody owns.</p>
 
-    The carriage rattled swiftly along</location> <location name='Blessington Street' lat='53.3572° N' lon='6.2707° W'>Blessington street. Over the stones.
+    The carriage rattled swiftly along</location> <location name='Blessington Street' lat='53' lon='-6° W'>Blessington street. Over the stones.
 
 <said persName='Martin Cunningham'>We are going the pace, I think, Martin Cunningham said.</said>
 

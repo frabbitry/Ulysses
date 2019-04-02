@@ -1,5 +1,6 @@
 ﻿
-<?xml-model href="ulyssesSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../RNC/ulyssesSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../Schematron/ulyssesSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <ulysses>
      <section sectionName="The Wanderings of Ulysses"/>
      <chapter chapterName="The Wandering Rocks"/>
