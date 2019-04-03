@@ -20,10 +20,37 @@ ul{
     font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
 }
 .center{
-    width:200px;
-    margin:0 auto;
-    text-align:left;
+display: flex;
+flex: 50%;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
 }
 body{
     background-color:#4BA486;
+}
+* {box-sizing: border-box;}
+
+.img-zoom-container {
+  position: relative;
+}
+
+.img-zoom-lens {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  /*set the size of the lens:*/
+  width: 70px;
+  height: 70px;
+}
+
+.img-zoom-result {
+  border: 1px solid #d4d4d4;
+  /*set the size of the result div:*/
+  width: 400px;
+  height: 200px;
 }
