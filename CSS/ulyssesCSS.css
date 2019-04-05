@@ -70,7 +70,7 @@ body{
     flex-direction: column;
 }
 .section {width: 98%; order: 3; font-size: 26px; text-align: left;}
-.container#front:hover{background-color:#66ff66;}
-.container#middle:hover{background-color:#ff6600;}
-.container#last:hover{background-color:#33ccff;}
+.container#front:hover{background-color:dimgray;}
+.container#middle:hover{background-color:gray;}
+.container#last:hover{background-color:darkgrey;}
 
