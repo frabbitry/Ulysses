@@ -4,6 +4,9 @@ h1 {
     font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
     color:#FEFFEC;
 }
+a {
+    color:#FEFFEC;
+}
 
 p {
     text-align:center;
@@ -54,3 +57,4 @@ body{
   width: 400px;
   height: 200px;
 }
+
