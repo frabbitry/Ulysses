@@ -5,7 +5,7 @@ h1 {
     color:#FEFFEC;
 }
 a {
-    color:dimgray;
+    color:black;
 }
 
 p {
@@ -57,4 +57,20 @@ body{
   width: 400px;
   height: 200px;
 }
+
+.body-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    order: 2;
+    background-color: #4BA486;
+    border: 5px;
+    border-radius: 15px;
+    flex-direction: column;
+}
+.section {width: 98%; order: 3; font-size: 26px; text-align: left;}
+.container#front:hover{background-color:#66ff66;}
+.container#middle:hover{background-color:#ff6600;}
+.container#last:hover{background-color:#33ccff;}
 
