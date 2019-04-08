@@ -57,4 +57,7 @@ body{
   width: 400px;
   height: 200px;
 }
-
+span.allusion{color:yellow}
+span.reference{color:grey}
+span.person{color:fuchsia}
+span.said{color:aqua}
