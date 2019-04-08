@@ -5,16 +5,105 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
+        <script>  function magnify(imgID, zoom) {
+  var img, glass, w, h, bw;
+  img = document.getElementById(imgID);
+
+  /* Create magnifier glass: */
+  glass = document.createElement("DIV");
+  glass.setAttribute("class", "img-magnifier-glass");
+
+  /* Insert magnifier glass: */
+  img.parentElement.insertBefore(glass, img);
+
+  /* Set background properties for the magnifier glass: */
+  glass.style.backgroundImage = "url('" + img.src + "')";
+  glass.style.backgroundRepeat = "no-repeat";
+  glass.style.backgroundSize = (img.width * zoom) + "px " + (img.height * zoom) + "px";
+  bw = 3;
+  w = glass.offsetWidth / 2;
+  h = glass.offsetHeight / 2;
+
+  /* Execute a function when someone moves the magnifier glass over the image: */
+  glass.addEventListener("mousemove", moveMagnifier);
+  img.addEventListener("mousemove", moveMagnifier);
+
+  /*and also for touch screens:*/
+  glass.addEventListener("touchmove", moveMagnifier);
+  img.addEventListener("touchmove", moveMagnifier);
+  function moveMagnifier(e) {
+    var pos, x, y;
+    /* Prevent any other actions that may occur when moving over the image */
+    e.preventDefault();
+    /* Get the cursor's x and y positions: */
+    pos = getCursorPos(e);
+    x = pos.x;
+    y = pos.y;
+    /* Prevent the magnifier glass from being positioned outside the image: */
+    if (x > img.width - (w / zoom)) {x = img.width - (w / zoom);}
+    if (x < w / zoom) {x = w / zoom;}
+    if (y > img.height - (h / zoom)) {y = img.height - (h / zoom);}
+    if (y < h / zoom) {y = h / zoom;}
+    /* Set the position of the magnifier glass: */
+    glass.style.left = (x - w) + "px";
+    glass.style.top = (y - h) + "px";
+    /* Display what the magnifier glass "sees": */
+    glass.style.backgroundPosition = "-" + ((x * zoom) - w + bw) + "px -" + ((y * zoom) - h + bw) + "px";
+  }
+
+  function getCursorPos(e) {
+    var a, x = 0, y = 0;
+    e = e || window.event;
+    /* Get the x and y positions of the image: */
+    a = img.getBoundingClientRect();
+    /* Calculate the cursor's x and y coordinates, relative to the image: */
+    x = e.pageX - a.left;
+    y = e.pageY - a.top;
+    /* Consider any page scrolling: */
+    x = x - window.pageXOffset;
+    y = y - window.pageYOffset;
+    return {x : x, y : y};
+  }
+}</script>
     </head>
     <body>
+        <h1>The Ulysses Project</h1>
         <!--#include virtual="menu.html" -->
-        <p>The Telemachiad is the first section of Ulysses.</p>
-        <p>The locations featured in the Telemachiad are</p>
-        <ol>
-            <li><a href = "DalkeyDublinBay.html">Dalkey, Dublin Bay, Ireland</a> </li>
-            <li><a href = "SandymountStrand.html">Sandymount Strand, Ireland</a></li>
-            <li><a href = "Sandycove.html">Sandycove, Ireland</a></li>
-        </ol>
-        <!--#include virtual="locationMenu.html" -->
+        <div class="sidenav">
+            <a href="locationFiller.html">Dalkey, Dublin Bay</a>
+            <a href="locationFiller.html">Sandycove</a>
+            <a href = "locationFiller.html">Sandymount Strand</a>
+        </div>
+        <!-- Page content -->
+        <div class="main">
+            <h1>The Telemachiad</h1>
+            <h2>About the Section</h2>
+            <p>"The Telemachiad," the first section of <i>Ulysses</i>, includes three
+                chapters, which use three settings, as listed on the side of the page. The three
+                chapters of "The Telemachiad" are </p>
+            <ul>
+                <li><a href = "Telemachus.html">Telemachus</a></li>
+                <li><a href = "Nestor.html">Nestor</a></li>
+                <li><a href = "Proteus.html">Proteus</a></li>
+            </ul>
+            <p>Considering the homeric parallel, the Telemachiad focuses on Stephen Dedalus and Leopold Bloom, and these first three chapters serve as introductions to the larger narrative arcs of <i>Ulysses</i>. On a simpler level, in "The Telemachiad," the day June 16, 1904, when the book is set, begins.</p>
+            <h2>Most Common Allusions</h2>
+            <p>In "The Telemachiad," the most common allusions are allusions to Stephen Dedalus (in the sense that Stephen Dedalus, a character in <i>Ulysses</i>, is referenced from one of Joyce's other works, in which he is also a character, the semi-autobiographical <i>Portrait of the Artist as a Young Man</i>), the Bible, and Christianity.</p>
+            <p>Stephen Dedalus was referenced 10 times, the Bible was referenced 9 times, and Christianity was referenced 9 times.</p>
+            <p>There were 208 total allusions coded in "The Telemachiad."</p>
+            <h2>Map</h2>
+            <p>Include a geographical map of the section</p>
+            <h2>Network Graph</h2>
+            <p>The following network graph ties allusions to locations in "The Telemachiad."</p>
+<div class = "center"><a href = "TheTelemachiad.svg"><div class="img-magnifier-container">
+                <img id="telemachiadzoom" src="Telemachiad.svg" width="600" height="400" alt="Telemachiad"/>
+            </div></a></div>
+            <p>If you zoom in on the picture using the magnifier, you can see that there are clusters of allusions centered around the three settings included in "The Telemachiad," Sandycove, Sandymount Strand, and Dalkey, Dublin Bay. These locations are unique because, unlike most of the locations included in <i>Ulysses</i>, these are outside of the city of Dublin. It is also interesting to note that there aren't very many shared allusions between the three locations. Sandycove is connected to Sandymount Strand because they both include allusions to Christianity, and Dalkey, Dublin Bay is connected to Sandymount Strand for the same reason, but Sandymount Strand and Sandycove do not share any other allusions. The clusters, as you can see on the graph, are somewhat isolated. The circles designating allusions are sized by closeness centrality, which means that the allusions "closest" to the locations are the largest. Closeness is determined by how strongly correlated the allusion is with the location. Moreover, the circles designating allusions are colored according to degree, which means that the allusions that are referenced the most often and in the most locations are lighter-colored than the allusions that are referenced fewer and in fewer places. As you can see, some of the most commonly referenced allusions, such as Christianity or the Bible, are some of the lightest colored circles.</p>
+        </div>
+        <script>
+/* Execute the magnify function: */
+magnify("telemachiadzoom", 7);
+/* Specify the id of the image, and the strength of the magnifier glass: */
+</script> 
     </body>
 </html>
