@@ -5,6 +5,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
+        <script src = "imageZoom.js"></script>
     </head>
     <body>
         <h1>The Ulysses Project</h1>
@@ -92,19 +93,27 @@
                 </ul>
             <p>In these four chapters, we encoded 95 locations, which are included on the left.</p>
                 <p>
-                    Considering the homeric parallel, we can remember that the sections of <i>The Oddysey</i> that most closely correlate with the chapters in "Wanderings" are the ones where Odysseus is adventuring and trying to get back home. 
+                    Considering the homeric parallel, we can remember that the sections of <i>The Oddysey</i> that most closely correlate with the chapters in "Wanderings" are the ones where Odysseus is trying to get home, while running into, for example, the Cyclops or the Oxen of the Sun. Therefore, we can see in "Wanderings" that Bloom and other characters are walking around the city of Dublin, trying to get back home. For this reason, the number of settings in chapters taken from "Wanderings" is much greater than the number of setting taken from either "The Telemachiad" or "The Homecoming."  
                 </p>
                 <h2>Most Common Allusions</h2>
-            <p>Include information about the most common allusions</p>
+            <p>The most common allusions in "The Wanderings of Ulysses" were references to Catholicism, to Christianity, and to Jesuits. There were 37 references to Catholicism, 17 references to Christianity, and 5 references to Jesuits.</p>
+            <p>There were 378 total allusions coded in "Wanderings."</p>
             <h2>Map</h2>
             <p>Include a geographical map of the section</p>
             <h2>Statistics for the Section</h2>
             <p>Include some statistics about the section</p>
             <h2>Network Graph</h2>
-            <p>Tie the stats together with a network graph</p>
+            <p>The following network graphs links allusions to locations in "The Wanderings of Ulysses".</p>
+            <div class = "center"><a href = "Wanderings.svg"><div class="img-magnifier-container">
+                <img id="wanderingszoom" src="Wanderings.svg" width="600" height="400" alt="Wanderings"/>
+            </div></a></div>
             
         </div>
-
+        <script>
+/* Execute the magnify function: */
+magnify("wanderingszoom", 7);
+/* Specify the id of the image, and the strength of the magnifier glass: */
+</script>
 
     </body>
 </html>
