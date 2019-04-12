@@ -88,6 +88,8 @@ body{
   background-color: #111; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+    font-size: 25px;
+  color: #FEFFEC;
 }
 
 /* The navigation menu links */
