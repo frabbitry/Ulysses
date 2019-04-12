@@ -105,14 +105,14 @@
             <img src = "WanderingsHeatmap.png" alt = "Wanderings Heat Map"/>
             <h2>Network Graph</h2>
             <p>The following network graphs links allusions to locations in "The Wanderings of Ulysses".</p>
-            <div class = "center"><a href = "Wanderings.svg"><div class="img-magnifier-container">
+            <div id = "center"><a href = "Wanderings.svg"><div class="img-magnifier-container">
                 <img id="wanderingszoom" src="Wanderings.svg" width="600" height="400" alt="Wanderings"/>
             </div></a></div>
             <p>From the network graph, we can see that there are many locations featured in "Wanderings," 95 separate ones to be exact. This means that the network graph is more complex, especially when compared with a simpler-looking network graph, such as the one featured on the "Homecoming" page. However, I believe that even though it isn't pretty the network graph from "Wanderings" still provides interesting and useful information about the section. Using the magnifier to zoom, we can see that, of all of the locations, the most references are made in 7 Eccles Street and 46 Westland Row, because those are the largest locations surrounded by the largest circles of allusions. However, we can also note that there are two subnetworks within the larger networks: one subnetwork in which 46 Westland Row is prominent and another in which 7 Eccles Street is prominent. The circles designating allusions are sized by closeness centrality, which means that the allusions "closest" to the locations are the largest. Closeness is determined by how strongly correlated the allusion is with the location. Moreover, the circles designating allusions are colored according to degree, which means that the allusions that are referenced the most often and in the most locations are lighter-colored than the allusions that are referenced fewer and in fewer places. As you can see, some of the most commonly referenced allusions, such as Catholicism, are some of the lightest colored circles. </p>
         </div>
         <script>
 /* Execute the magnify function: */
-magnify("wanderingszoom", 7);
+magnify("wanderingszoom", 10);
 /* Specify the id of the image, and the strength of the magnifier glass: */
 </script>
 
