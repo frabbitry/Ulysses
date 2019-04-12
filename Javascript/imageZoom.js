@@ -68,7 +68,7 @@ function imageZoom(imgID, resultID) {
   glass.style.backgroundImage = "url('" + img.src + "')";
   glass.style.backgroundRepeat = "no-repeat";
   glass.style.backgroundSize = (img.width * zoom) + "px " + (img.height * zoom) + "px";
-  bw = 3;
+  bw = 4;
   w = glass.offsetWidth / 2;
   h = glass.offsetHeight / 2;
 
