@@ -4,6 +4,7 @@
         <title>The Ulysses Project</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
+        <script src = "imageZoom.js"></script>
     </head>
     <body>
         <h1>The Ulysses Project</h1>
@@ -22,11 +23,18 @@
                 <i>Ulysses</i></p>
             <h2>Network Graph</h2>
             <p>Include a network graph of the location</p>
-            <img src="7EcclesStreet.svg" width="750" height="500" />
+            <div id = "center"><a href = "7EcclesStreet.svg"><div class="img-magnifier-container">
+                <img id="eccleszoom" src="7EcclesStreet.svg" width="600" height="400" alt="7 Eccles Street"/>
+            </div></a></div>
             <h2>Most Common References</h2>
             <p>Include the most common references or some intersting statistics</p>
             <h2>Meaning(?)</h2>
             <p>Why is this information important? Tie it all together.</p>
         </div>
+        <script>
+/* Execute the magnify function: */
+magnify("eccleszoom", 10);
+/* Specify the id of the image, and the strength of the magnifier glass: */
+</script>
     </body>
 </html>
