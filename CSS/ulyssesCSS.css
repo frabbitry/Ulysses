@@ -25,6 +25,9 @@ ul{
 .center{
 display: flex;
 flex: 50%;
+    justify-content: center;
+    align-items: center;
+    display:block;
 }
 .row {
   display: flex;
@@ -85,6 +88,8 @@ body{
   background-color: #111; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+    font-size: 25px;
+  color: #FEFFEC;
 }
 
 /* The navigation menu links */
