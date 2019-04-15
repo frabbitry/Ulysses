@@ -32,7 +32,7 @@
                     </ul>
                     </li>
                 
-        \
+
                 </xsl:for-each>
                 </ul>
             <div class="main">
@@ -72,9 +72,11 @@
         </span>
     </xsl:template>
 <xsl:template match="location">
-    <span class="location" id="{replace(@name,$apos, '')}{preceding::location[@name=current()/@name]=>count() +1}">
+    
+    <div class="location" id="{replace(@name,$apos, '')}{preceding::location[@name=current()/@name]=>count() +1}">
+        
         <xsl:apply-templates/>    
-        </span>
+        </div>
     </xsl:template>
     
 </xsl:stylesheet>
