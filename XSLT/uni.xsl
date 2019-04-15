@@ -11,10 +11,13 @@
     <xsl:template match="/">
         <html>
             <head>
+                <meta charset="UTF-8" />
+                <meta name="author" content="My Name" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <link rel="stylesheet" type="text/css" href="ulyssesCSS.css"/>
+                <link rel="stylesheet" type="text/css" href="text.css"/>
                 <title>The Wanderings of Ulysses</title></head>
             <body>
-                
-               
                 <div class="sidenav"/>
                 <ul>
                 <xsl:for-each select="//location/@name => distinct-values()">
@@ -31,10 +34,9 @@
                         </xsl:for-each>
                     </ul>
                     </li>
-                
-
                 </xsl:for-each>
                 </ul>
+           
             <div class="main">
                     <h1><xsl:apply-templates select="//title"></xsl:apply-templates></h1>
                 <xsl:apply-templates select="//ulysses"/>
