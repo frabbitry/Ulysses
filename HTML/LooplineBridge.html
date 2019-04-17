@@ -5,22 +5,28 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
+        <script src="imageZoom.js"></script>
     </head>
-        <body>
-            <h1>The Ulysses Project</h1>
-            <!--#include virtual="menu.html" -->
-            <div class="sidenav">
-                <!--#include virtual="locationsInUlysses.html" -->    
-            </div>
-            <div class = "main">
-                <h1>Loopline Bridge</h1>
-                <h2>Map</h2>
-                <p>Include a map of the location</p>
-                <h2>About this Location</h2>
-                <p>The Loopline Bridge is a railway bridge in Dublin, Ireland that spans the Liffey. It was referenced in the "Homecoming" section of <i>Ulysses</i></p>
-                <h2>Network Graph</h2>
-                <img src = "LooplineBridge.png"/>
-                <h2>Most Common References</h2>
-            </div>
-        </body>
+    <body>
+        <h1>The Ulysses Project</h1>
+        <!--#include virtual="menu.html" -->
+        <div class="sidenav">
+            <!--#include virtual="locationsInUlysses.html" -->
+        </div>
+        <div class="main">
+            <h1>Loopline Bridge</h1>
+            <h2>Map</h2>
+            <p>Include a map of the location</p>
+            <h2>About this Location</h2>
+            <p>The Loopline Bridge is a railway bridge in Dublin, Ireland that spans the Liffey. It
+                was referenced in the "Homecoming" section of <i>Ulysses</i></p>
+            <h2>Network Graph</h2>
+            <a href="LooplineBridge.svg"><div class="img-magnifier-container">
+                    <img id="looplinezoom" src="LooplineBridge.svg" width="600" height="400"
+                        alt="Loopline Bridge" />
+                </div>
+            </a>
+            <h2>Most Common References</h2>
+        </div>
+    </body>
 </html>
