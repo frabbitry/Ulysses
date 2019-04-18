@@ -130,3 +130,6 @@ body{
   width: 300px;
   height: 300px;
 }
+.done{
+    color:red;
+}
