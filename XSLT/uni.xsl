@@ -14,10 +14,12 @@
                 <meta charset="UTF-8" />
                 <meta name="author" content="My Name" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <title><xsl:apply-templates select="//chapter/@chapterName"/></title>
                 <link rel="stylesheet" type="text/css" href="ulyssesCSS.css"/>
-                <link rel="stylesheet" type="text/css" href="text.css"/>
-                <title>The Wanderings of Ulysses</title></head>
+                <link rel="stylesheet" type="text/css" href="text.css"/> <script type="text/javascript" src="ulysses_button.js">/**/</script>
+               </head>
             <body>
+                <xsl:comment>#include virtual="menu.html" </xsl:comment>
                 <div class="sidenav"/>
                 <ul>
                 <xsl:for-each select="//location/@name => distinct-values()">
@@ -38,8 +40,24 @@
                 </ul>
            
             <div class="main">
-                    <h1><xsl:apply-templates select="//title"></xsl:apply-templates></h1>
+                    <h1><xsl:apply-templates select="//section/@sectionName"/></h1>
+                <h2><xsl:apply-templates select="//chapter/@chapterName"/></h2>
+                <fieldset>
+                    <legend>Click to Highlight:</legend>
+                    <input type="checkbox" id="Perstoggle"/>
+                    <span>People</span>
+                    <input type="checkbox" id="Alltoggle"/>
+                    <span>Allusions</span>
+                    <input type="checkbox" id="Reftoggle"/>
+                    <span>Reference</span>
+                    <input type="checkbox" id="Saidtoggle"/>
+                    <span>Said</span>
+                    
+                </fieldset>
                 <xsl:apply-templates select="//ulysses"/>
+                
+                
+             
                 </div>
                
                
