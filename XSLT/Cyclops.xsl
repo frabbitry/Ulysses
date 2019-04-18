@@ -8,11 +8,12 @@
     <xsl:template match='/'>
         <html> 
             <head>
-                <title><xsl:apply-templates select='chapterName'></xsl:apply-templates></title>
+                <title><chapter><xsl:apply-templates select='chapterName'></xsl:apply-templates></chapter></title>
             </head>
             <table>
                <tr> <th> Characters</th></tr>
                 <xsl:apply-templates select='descendant::ulysses//said'></xsl:apply-templates>
+            
             </table>
             <body>
                 <xsl:apply-templates></xsl:apply-templates>
@@ -20,11 +21,9 @@
         </html>
     </xsl:template>
     <xsl:template match='descendant::ulysses//said'>
-        <table>
-            <tr>
-               <td> <xsl:apply-templates select='attribute::who'></xsl:apply-templates></td>
-            </tr>
-        </table>
+        <tr>
+            <td><xsl:apply-templates select='attribute::who'></xsl:apply-templates></td>
+        </tr>
     </xsl:template>
     <xsl:template match='section'>
         <section sectionName='{@sectionName}'><xsl:apply-templates></xsl:apply-templates></section>
@@ -33,7 +32,7 @@
         <chapter chapterName='{@chapterName}'><xsl:apply-templates></xsl:apply-templates></chapter>
     </xsl:template>
     <xsl:template match='said'>
-        <said class='{@who}'><xsl:apply-templates></xsl:apply-templates></said>
+        <said who='{@who}'><xsl:apply-templates></xsl:apply-templates></said>
     </xsl:template>
     <xsl:template match='p'>
         <p><xsl:apply-templates></xsl:apply-templates></p>
