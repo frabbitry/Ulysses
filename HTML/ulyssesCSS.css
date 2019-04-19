@@ -1,7 +1,6 @@
 h1 {
     text-align:center;
     line-height:1.5;
-    font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
     color:#FEFFEC;
 }
 a {
@@ -12,7 +11,6 @@ p {
     text-align:center;
     font-size:100%;
     line-height:1.5;
-    font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
 }
 
 ul{
@@ -20,7 +18,6 @@ ul{
     display:block;
     font-size:100%;
     line-height:1.5;
-    font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
 }
 .center{
 display: flex;
@@ -38,7 +35,7 @@ flex: 50%;
   padding: 5px;
 }
 body{
-    background-color:#4BA486;
+    background-color:#4BA486; font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
 }
 * {box-sizing: border-box;}
 
@@ -78,22 +75,26 @@ body{
 .container#middle:hover{background-color:gray;}
 .container#last:hover{background-color:darkgrey;}
  /* The sidebar menu */
-.sidenav {
-  height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 160px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+div.sidenav {
+  /*height: 100%;*/ /* Full-height: remove this if you want "auto" height */
+  width: 200px; /* Set the width of the sidebar */
+
+position:fixed; /* Fixed Sidebar (stay in place on scroll) */
+  max-height:100%;
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
   background-color: #111; /* Black */
-  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow:scroll;
+/*  overflow-x: hidden; /\* Disable horizontal scroll *\/
+  overflow-y: scroll;*/
   padding-top: 20px;
     font-size: 25px;
   color: #FEFFEC;
 }
 
 /* The navigation menu links */
-.sidenav a {
+div.sidenav > a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
@@ -102,13 +103,40 @@ body{
 }
 
 /* When you mouse over the navigation links, change their color */
-.sidenav a:hover {
+div.sidenav > a:hover {
   color: #f1f1f1;
+}
+/* 2019-04-18 ebb: The side navigation when output as unordered list in reading views:  */
+div.sidenav > ul, li > ul {
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+li > span.sidenav {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px; 
+  color: #818181;
+
+}
+
+li > ul > li {line-height: 1.12em; font-size: 10px;  
+}
+li > ul > li > a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  color: #818181; 
+}
+/* When you mouse over the navigation links, change their color */
+div.sidenav > ul > li > ul > li > a:hover {
+  color: /*#f1f1f1*/#e24f4f; font-size: 10px;
 }
 
 /* Style page content */
 .main {
-  margin-left: 160px; /* Same as the width of the sidebar */
+  margin-left: 200px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
 

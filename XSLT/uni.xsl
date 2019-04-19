@@ -11,8 +11,6 @@
     <xsl:template match="/">
         <html>
             <head>
-                <meta charset="UTF-8" />
-                <meta name="author" content="My Name" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <title><xsl:apply-templates select="//chapter/@chapterName"/></title>
                 <link rel="stylesheet" type="text/css" href="ulyssesCSS.css"/>
@@ -20,7 +18,7 @@
                </head>
             <body>
                 <xsl:comment>#include virtual="menu.html" </xsl:comment>
-                <div class="sidenav"/>
+                <div class="sidenav">
                 <ul>
                 <xsl:for-each select="//location/@name => distinct-values()">
                  <xsl:sort select="current()"/>
@@ -38,7 +36,7 @@
                     </li>
                 </xsl:for-each>
                 </ul>
-           
+                </div>
             <div class="main">
                     <h1><xsl:apply-templates select="//section/@sectionName"/></h1>
                 <h2><xsl:apply-templates select="//chapter/@chapterName"/></h2>
