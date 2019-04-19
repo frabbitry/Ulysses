@@ -5,7 +5,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
-        <script src = "imageZoom.js"></script>
+        <script src="imageZoom.js"></script>
     </head>
     <body>
         <h1>The Ulysses Project</h1>
@@ -22,32 +22,66 @@
             <p>"The Homecoming," the third and final section of <i>Ulysses</i>, includes three
                 chapters, which use two settings, as listed on the side of the page. The three
                 chapters of "The Homecoming" are </p>
-                <ul>
-                    <li><a href = "Eamus.html">Eumaeus</a></li>
-                    <li><a href = "Ithaca.html">Ithaca</a></li>
-                    <li><a href = "penelope.html">Penelope</a></li>
-                </ul>
-            <p>
-                As a parallel to <i>The Odyssey</i>, "The Homecoming" is about Bloom's journey home and his reclaimation of that home.
-            </p>
-<p>The two locations featured in this section are the Loopline Bridge and Eccles Street, specifically 7 Eccles Street. The Cabman's Shelter, a pub underneath the Loopline Bridge, is the setting for Eumaeus, and 7 Eccles Street is the setting for both Penelope and Ithaca.</p>
+            <ul>
+                <li><a href="Eamus.html">Eumaeus</a></li>
+                <li><a href="Ithaca.html">Ithaca</a></li>
+                <li><a href="penelope.html">Penelope</a></li>
+            </ul>
+            <p> As a parallel to <i>The Odyssey</i>, "The Homecoming" is about Bloom's journey home
+                and his reclaimation of that home. </p>
+            <p>The two locations featured in this section are the Loopline Bridge and Eccles Street,
+                specifically 7 Eccles Street. The Cabman's Shelter, a pub underneath the Loopline
+                Bridge, is the setting for Eumaeus, and 7 Eccles Street is the setting for both
+                Penelope and Ithaca.</p>
             <h2>Most Common Allusions</h2>
-            <p>The three most common allusions in this section were references to Gibraltar, Stephen Dedalus (in the sense that Stephen Dedalus, a character in <i>Ulysses</i>, is referenced from one of Joyce's other works, in which he is also a character, the semi-autobiographical <i>Portrait of the Artist as a Young Man</i>), and Christianity.</p>
-            <p>Gibraltar was referenced 40 times, Stephen Dedalus was referenced 38 times, and Christianity was referenced 20 times.</p>
+            <p>The three most common allusions in this section were references to Gibraltar, Stephen
+                Dedalus (in the sense that Stephen Dedalus, a character in <i>Ulysses</i>, is
+                referenced from one of Joyce's other works, in which he is also a character, the
+                semi-autobiographical <i>Portrait of the Artist as a Young Man</i>), and
+                Christianity.</p>
+            <p>Gibraltar was referenced 40 times, Stephen Dedalus was referenced 38 times, and
+                Christianity was referenced 20 times.</p>
             <p>There were 622 total allusions coded in "The Homecoming."</p>
             <h2>Map</h2>
             <p>The following map is a map of the locations of the "Homecoming" section.</p>
-            <img src = "Homecoming.png" alt = "Homecoming Map"/>
-            <p>You can see that the two locations from the section, Eccles Street and the Loopline Bridge, are featured on the map as purple dots.</p>
-            <p>The following heatmap displays the concentration of allusions, weighted by the most common allusions.</p>
-            <img src = "HomecomingHeatmap.png" alt = "Homecoming Heat Map"/>
-            <p>As the heatmap shows, the bulk of the allusions are present at the Eccles street location because it is a brighter color than the rest of the map. The other location, the Loopline Bridge, is only faintly lightened in comparison.</p>
+            <img src="Homecoming.png" alt="Homecoming Map" usemap="#homecoming_map" />
+
+            <map name="homecoming_map">
+                    <area alt="Eccles Street" title="Eccles Street" coords="472,83,492,103" href = "7EcclesStreet.html"
+                        shape="rect" />
+                    <area alt="Loopline Bridge" title="Loopline Bridge" href = "LooplineBridge.html"
+                        coords="580,310,601,330" shape="rect" />
+            </map>
+            <p>You can see that the two locations from the section, Eccles Street and the Loopline
+                Bridge, are featured on the map as purple dots.</p>
+            <p>The following heatmap displays the concentration of allusions, weighted by the most
+                common allusions.</p>
+            <img src="HomecomingHeatmap.png" alt="Homecoming Heat Map" />
+            <p>As the heatmap shows, the bulk of the allusions are present at the Eccles street
+                location because it is a brighter color than the rest of the map. The other
+                location, the Loopline Bridge, is only faintly lightened in comparison.</p>
             <h2>Network Graph</h2>
-            <p>The following network graph relates allusions to locations pulled exclusively from "The Homecoming."</p>
-<a href = "Homecoming.svg">            <div class="img-magnifier-container">
-                <img id="homecomingzoom" src="Homecoming.svg" width="600" height="400" alt="Homecoming"/>
-            </div></a>
-            <p>If you zoom in on the picture using the magnifier, you can see that each of the two locations sit at the center or near the center of a circle or semicircle. 7 Eccles Street, because it was featured in two of the three locations, has the full circle surrounding it because more allusions were made in that setting. Loopline Bridge sits in the middle of the semicircle, with a smattering of much smaller allusion circles surrounding it. The circles designating allusions are sized by closeness centrality, which means that the allusions "closest" to the locations are the largest. Closeness is determined by how strongly correlated the allusion is with the location. Moreover, the circles designating allusions are colored according to degree, which means that the allusions that are referenced the most often and in the most locations are lighter-colored than the allusions that are referenced fewer and in fewer places. As you can see, some of the most commonly referenced allusions, such as Christianity or Stephen Dedalus, are some of the lightest-colored circles.</p>
+            <p>The following network graph relates allusions to locations pulled exclusively from
+                "The Homecoming."</p>
+            <a href="Homecoming.svg">
+                <div class="img-magnifier-container">
+                    <img id="homecomingzoom" src="Homecoming.svg" width="600" height="400"
+                        alt="Homecoming" />
+                </div></a>
+            <p>If you zoom in on the picture using the magnifier, you can see that each of the two
+                locations sit at the center or near the center of a circle or semicircle. 7 Eccles
+                Street, because it was featured in two of the three locations, has the full circle
+                surrounding it because more allusions were made in that setting. Loopline Bridge
+                sits in the middle of the semicircle, with a smattering of much smaller allusion
+                circles surrounding it. The circles designating allusions are sized by closeness
+                centrality, which means that the allusions "closest" to the locations are the
+                largest. Closeness is determined by how strongly correlated the allusion is with the
+                location. Moreover, the circles designating allusions are colored according to
+                degree, which means that the allusions that are referenced the most often and in the
+                most locations are lighter-colored than the allusions that are referenced fewer and
+                in fewer places. As you can see, some of the most commonly referenced allusions,
+                such as Christianity or Stephen Dedalus, are some of the lightest-colored
+                circles.</p>
 
 
         </div>
@@ -55,6 +89,6 @@
 /* Execute the magnify function: */
 magnify("homecomingzoom", 7);
 /* Specify the id of the image, and the strength of the magnifier glass: */
-</script> 
+</script>
     </body>
 </html>
