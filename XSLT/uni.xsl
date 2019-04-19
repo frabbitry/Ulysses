@@ -40,7 +40,8 @@
             <div class="main">
                     <h1><xsl:apply-templates select="//section/@sectionName"/></h1>
                 <h2><xsl:apply-templates select="//chapter/@chapterName"/></h2>
-                <fieldset>
+               <xsl:if test="descendant::person | descendant::said | descendant::reference | descendant::allusion"> 
+                   <fieldset>
                     <legend>Click to Highlight:</legend>
                     <input type="checkbox" id="Perstoggle"/>
                     <span>People</span>
@@ -51,7 +52,7 @@
                     <input type="checkbox" id="Saidtoggle"/>
                     <span>Said</span>
                     
-                </fieldset>
+                </fieldset></xsl:if>
                 <xsl:apply-templates select="//ulysses"/>
                 
                 

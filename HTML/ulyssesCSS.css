@@ -97,7 +97,7 @@ position:fixed; /* Fixed Sidebar (stay in place on scroll) */
 div.sidenav > a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
   color: #818181;
   display: block;
 }
@@ -158,8 +158,11 @@ div.sidenav > ul > li > ul > li > a:hover {
   width: 300px;
   height: 300px;
 }
-.done{
-    color:red;
+div.done > a {
+    color:#e24f4f; 
+    padding: 6px 8px 6px 16px;
+    text-decoration:none;
+    display: block;
 }
  /* Tooltip container */
 .tooltip {
