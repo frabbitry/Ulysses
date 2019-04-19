@@ -5,30 +5,25 @@ span.said.on{color:blue}
 
 /* Drop Down Formatting */
 
-/* HTML for the glossed text: <span class = "dropdown"> */
-/* HTML for the gloss content: <span class = "dropdown_content"> */
-
-
-
-span.dropdown {
-    position: relative;
-    display: inline-block;
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
 }
 
-span.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: grey;
-    min-width: 160px;
-    /*  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
-    padding: 12px 16px;
-    z-index: 1;
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
 }
 
-span.dropdown:hover span.dropdown-content {
-    display: block;
-}
-
-span.gloss {
-    color: green;
-}
+.tooltip:hover .tooltiptext {
+  visibility: visible;}

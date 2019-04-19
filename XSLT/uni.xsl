@@ -81,14 +81,37 @@
         </span>
     </xsl:template>
     <xsl:template match="reference">
+        <div class="tooltip">
         <span class="reference">
+            <span class="dropdown">
+               
             <xsl:apply-templates/>
+                
+            </span>
         </span>
+        <span class="tooltiptext">
+            <xsl:apply-templates select="@to"/>
+        </span>
+        </div>
     </xsl:template>
     <xsl:template match="allusion">
+        <div class="tooltip">
         <span class="allusion">
+            <span class="dropdown">
             <xsl:apply-templates/>
+            </span>
         </span>
+            <span class="tooltiptext">
+                <xsl:choose>
+                    <xsl:when test="@who">
+                        <xsl:apply-templates select="@who"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:apply-templates select="@to"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </span>
+        </div>
     </xsl:template>
 <xsl:template match="location">
     
