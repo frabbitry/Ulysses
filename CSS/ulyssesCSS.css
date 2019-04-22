@@ -89,8 +89,8 @@ position:fixed; /* Fixed Sidebar (stay in place on scroll) */
   left: 0;
   background-color: #111; /* Black */
   overflow:scroll;
-/*  overflow-x: hidden; /\* Disable horizontal scroll *\/
-  overflow-y: scroll;*/
+  overflow-x: hidden; /*Disable horizontal scroll */
+  overflow-y: scroll;
   padding-top: 20px;
     font-size: 25px;
   color: #FEFFEC;
