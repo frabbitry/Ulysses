@@ -78,37 +78,69 @@ body{
 .container#middle:hover{background-color:gray;}
 .container#last:hover{background-color:darkgrey;}
  /* The sidebar menu */
-.sidenav {
+div.sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 160px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  width: 200px; /* Set the width of the sidebar */
+
+position:fixed; /* Fixed Sidebar (stay in place on scroll) */
+  max-height:100%;
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
   background-color: #111; /* Black */
-  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow:scroll;
+  overflow-x: hidden; /*Disable horizontal scroll */
+  overflow-y: scroll;
   padding-top: 20px;
     font-size: 25px;
   color: #FEFFEC;
 }
 
 /* The navigation menu links */
-.sidenav a {
+div.sidenav > a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 20px;
   color: #818181;
   display: block;
 }
 
 /* When you mouse over the navigation links, change their color */
-.sidenav a:hover {
+div.sidenav > a:hover {
   color: #f1f1f1;
 }
+/* 2019-04-18 ebb: The side navigation when output as unordered list in reading views:  */
+div.sidenav > ul, li > ul {
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+li > span.sidenav {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px; 
+  color: #818181;
+
+}
+
+li > ul > li {line-height: 1.12em; font-size: 10px;  
+}
+li > ul > li > a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  color: #818181; 
+}
+/* When you mouse over the navigation links, change their color */
+div.sidenav > ul > li > ul > li > a:hover {
+  color: /*#f1f1f1*/#e24f4f; font-size: 10px;
+}
+
 
 /* Style page content */
 .main {
-  margin-left: 160px; /* Same as the width of the sidebar */
+  margin-left: 200px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
 
@@ -133,3 +165,49 @@ body{
 .done{
     color:red;
 }
+ /* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+} 
