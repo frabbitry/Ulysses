@@ -1,7 +1,9 @@
 # Ulysses Project Review
 
 Site publication: <http://ulysses.newtfire.org>
+
 GitHub: <https://github.com/frabbitry/Ulysses>
+
 Developers: 
 * Fiona Carter: @frabbitry 
 * Kiara De Vore: @KSD32
