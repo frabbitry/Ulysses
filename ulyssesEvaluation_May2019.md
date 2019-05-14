@@ -1,4 +1,4 @@
-## Ulysses Project Review
+# Ulysses Project Review
 
 Site publication: <http://ulysses.newtfire.org>
 GitHub: <https://github.com/frabbitry/Ulysses>
@@ -33,7 +33,7 @@ There are several theories about why this is, but the one we liked comes from th
 **correction 2:** We would strongly recommend changing the link to something other than Amazon (see below).
 
 
-## Links to related resources
+### Links to related resources
 
 We recommend to link out to Semicolonial Joyce at its [Cambridge University Press publisher description](https://www.cambridge.org/ge/academic/subjects/literature/english-literature-1900-1945/semicolonial-joyce?format=PB&isbn=9780521666282) where readers will see more information about the book and are more independent of commercial distributors. (Readers who want to find the book will find their own way, perhaps in a library.) This is fairly standard practice for DH projects.
 
