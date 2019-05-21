@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang = "en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
         <title>The Ulysses Project</title>
         <meta charset="UTF-8" />
@@ -7,26 +7,118 @@
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
     </head>
     <body>
-        <h1>The Ulysses Project</h1>
-        <!--#include virtual="menu.html" -->
-        <p>With the Ulysses Project, we are attempting to examine how James Joyce recreated the city of Dublin in <i>Ulysses</i>. As the 
-            <a href = "https://archive.nytimes.com/www.nytimes.com/fodors/top/features/travel/destinations/europe/ireland/dublin/fdrs_feat_60_5.html">New York Times chronicles</a>, “Joyce knew and remembered Dublin in such detail that he bragged (and that’s the word) 
-            that if the city were destroyed, it could be rebuilt in its entirety from his written works.” <i>Ulysses</i>, through the story of
-            Leopold Bloom’s walk through the city on June 16, 1904, uses sparse detail but frequently mentioned location names to paint the city. As such, it is hard to picture the city that is described as a "character" of Joyce's novels. However, allusions, as a method of characterization, are present throughout the novel's various settings. As such, we have examined the allusions present is various settings to help us gain insight into the city that James Joyce hated so much. </p>
-        <p>	As such, we have attempted to pinpoint the settings included in <i>Ulysses</i> and the references included within them to see how 
-            they were related. We used XML to tag several chapters of Ulysses, including <a href = "Telemachus.html">“Telemachus,”</a> <a href = "Nestor.html">"Nestor,”</a> <a href = "Proteus.html">“Proteus,”</a> <a href = "Calypso.html">“Calypso,”</a> 
-            <a href = "Cyclops.html">“Cyclops,”</a> <a href = "WanderingRoc.html">“Wandering Rocks,”</a> <a href = "Lotus_Eaters.html">“Lotus Eaters,”</a> <a href = "Eaumus.html">“Eumaeus,”</a> <a href = "Ithaca.html">“Ithaca,”</a> and <a href = "Penelope.html">“Penelope.”</a> We then used QGIS to map the settings 
-            included within those sections and create heatmaps based on allusions used most frequently, and we also used Cytoscape to 
-            create network graphs showing, perhaps more explicitly, the relationships between specific locations and allusions. </p>
-        <p>	While we believe that these graphical representations of Joyce’s Dublin are interesting, they are incomplete. Because of 
-            time limitations, we weren’t able to encode and work with the whole novel, only the sections listed above. Moreover, many 
-            of the specific locations that existed in 1904 are no longer present, and so our location data is sometimes inaccurate 
-            because we had to make educated guesses about where those places are now. It is also very possible that we incorrectly 
-            coded or neglected to code certain references or allusions. Nevertheless, we believe that our project provides an 
-            interesting glimpse into the way that Joyce recreated Dublin through allusions in Ulysses. We hope that you enjoy the 
-            project website and find our results interesting. </p>
-        <p>This project is being done through the Digital Humanities: Coding and Visualization class at the University of Pittsburgh at Greensburg.</p>
-        <p>The project team members are Fiona, Kiara, and Brad.</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+        <div class="bgimg-1">
+            <div class="caption">
+                <span class="border">The Ulysses Project</span>
+            </div>
+        </div>
+        <div
+            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+            <p>With the Ulysses Project, we are attempting to examine how James Joyce recreated the
+                city of Dublin in <i>Ulysses</i>. As the <a
+                    href="https://archive.nytimes.com/www.nytimes.com/fodors/top/features/travel/destinations/europe/ireland/dublin/fdrs_feat_60_5.html"
+                    >New York Times chronicles, “Joyce knew and remembered Dublin in such detail
+                    that he bragged (and that’s the word) that if the city were destroyed, it could
+                    be rebuilt in its entirety from his written works.”</a>
+                <i>Ulysses</i>, through the story of Leopold Bloom’s walk through the city on June
+                16, 1904, uses sparse detail but frequently mentioned location names to paint the
+                city. As such, it is hard to picture the city that is described as a "character" of
+                Joyce's novels. However, allusions, as a method of characterization, are present
+                throughout the novel's various settings. We have examined the allusions present is
+                various settings to help us gain insight into the city that James Joyce hated so
+                much. </p>
+        </div>
+        <div class="bgimg-3">
+            <a href="chapters.html">
+                <div class="caption">
+                    <span class="border">Chapters</span>
+                </div></a>
+        </div>
+        <div
+            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+            <p>We used XML to tag several chapters of Ulysses, including <a href="Telemachus.html"
+                    >“Telemachus,”</a>
+                <a href="Nestor.html">"Nestor,”</a>
+                <a href="Proteus.html">“Proteus,”</a>
+                <a href="Calypso.html">“Calypso,”</a>
+                <a href="Cyclops.html">“Cyclops,”</a>
+                <a href="WanderingRoc.html">“Wandering Rocks,”</a>
+                <a href="Lotus_Eaters.html">“Lotus Eaters,”</a>
+                <a href="Eaumus.html">“Eumaeus,”</a>
+                <a href="Ithaca.html">“Ithaca,”</a> and <a href="Penelope.html">“Penelope.”</a></p>
+        </div>
+        <div class="bgimg-4">
+            <a href="locationMenu.html">
+                <div class="caption">
+                    <span class="border">Graphics</span>
+                </div></a>
+        </div>
+        <div
+            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+            <p>We then used QGIS to map the settings included within those sections and create
+                heatmaps based on allusions used most frequently, and we also used Cytoscape to
+                create network graphs showing, perhaps more explicitly, the relationships between
+                specific locations and allusions.</p>
+        </div>
+        <div class="bgimg-2">
+            <a href="Methodology.html">
+                <div class="caption">
+                    <span class="border">Methodology</span>
+                </div></a>
+        </div>
+        <div
+            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+            <p>While we believe that these graphical representations of Joyce’s Dublin are
+                interesting, they are incomplete. Because of time limitations, we weren’t able to
+                encode and work with the whole novel, only the sections listed above. Moreover, many
+                of the specific locations that existed in 1904 are no longer present, and so our
+                location data is sometimes inaccurate because we had to make educated guesses about
+                where those places are now. It is also very possible that we incorrectly coded or
+                neglected to code certain references or allusions. Nevertheless, we believe that our
+                project provides an interesting glimpse into the way that Joyce recreated Dublin
+                through allusions in Ulysses. We hope that you enjoy the project website and find
+                our results interesting.</p>
+        </div>
+        <div class="bgimg-5">
+            <a href="https://github.com/frabbitry/Ulysses">
+                <div class="caption">
+                    <span class="border">Project GitHub</span>
+                </div></a>
+        </div>
+        <div
+            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+            <h1>Project Team Github Accounts</h1>
+            <div class="body-container" id="horizontal">
+                <a href="https://github.com/frabbitry" style="text-decoration:none;">
+                    <div class="container" id="front">
+                        <div class="section">
+                            <p>Fiona Carter</p>
+                        </div>
+                    </div></a>
+                <a href="https://github.com/KSD32" style="text-decoration:none;">
+                    <div class="container" id="middle">
+                        <div class="section">
+                            <p>Kiara De Vore</p>
+                        </div>
+                    </div></a>
+                <a href="https://github.com/BMT45" style="text-decoration:none;">
+                    <div class="container" id="last">
+                        <div class="section">
+                            <p>Brad Thomas</p>
+                        </div>
+                    </div></a>
+            </div>
+        </div>
+        <div
+            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+            <p>This project is being done through the Digital Humanities: Coding and Visualization class
+                at the University of Pittsburgh at Greensburg.</p>
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+                alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work
+            is licensed under a <a rel="license"
+                href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+        </div>
     </body>
 </html>
