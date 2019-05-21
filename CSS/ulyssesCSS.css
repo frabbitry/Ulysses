@@ -260,7 +260,7 @@ body {
     min-height: 100%;
 }
 .bgimg-5{
-    background-image: url("Github.png");
+    background-image: url("Github.PNG");
     min-height: 100%;
 }
 
@@ -283,7 +283,4 @@ body {
 #horizontal{
     flex-direction:row;
 }
-.bgimg-6{
-    background-image: url("Newtfire.png");
-    min-height: 100%;
-}
+
