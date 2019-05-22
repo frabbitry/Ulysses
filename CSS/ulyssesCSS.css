@@ -283,4 +283,7 @@ body {
 #horizontal{
     flex-direction:row;
 }
-
+.bgimg-6{
+    background-image: url("MonroeUlysses.PNG");
+    min-height:100%;
+}
