@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang = "en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
         <title>The Ulysses Project</title>
         <meta charset="UTF-8" />
@@ -8,22 +8,72 @@
     </head>
     <body>
         <h1>The Ulysses Project</h1>
-        <!--#include virtual="menu.html" -->
+        <div class="topnav">
+            <!--#include virtual="menu.html" --></div>
         <h1>Methodology</h1>
-    <h2>Research Question</h2>
-        <p>If you've ever encountered <i>Ulysses</i> before, you'll know that it's kind of a monster of a book. It's long. It's hard to read. There's a lot going on with it. It would be impossible to analyze everything that there is to analyze about this book during the course of a semester, so we decided to focus on one aspect of <i>Ulysses</i>: how Joyce recreates the city of Dublin through his novel. Not only that, but how he, despite his hatred for the city, reclaimed it in a postcolonial sense. The city of Dublin is often referred to as a "character" of Joyce's novels, but in <i>Ulysses</i>, while many location names are provided, little actual, physical description of the city is given. There are several theories about why this is, but the one we liked comes from this book called <a href = "https://www.amazon.com/Semicolonial-Joyce-Derek-Attridge/dp/0521666287">Semicolonial Joyce</a>, which says that Joyce uses many location names with little description make those who aren't familiar with 1904 Dublin feel more like outsiders while making those who are familiar with 1904 Dublin insiders. Allusions can be used as a method of characterization. What, then, do the allusions used in a specific Dublin location say about that location? What do they say about the city? How are they part of Joyce's characterization and reclaimation of the city of Dublin?</p>
-    <h2>Research Process</h2>
-        <p>To try and answer this question, we set out to mark up several sections of Joyce's <i>Ulysses</i> using XML. We downloaded the book of <i>Ulysses</i> from <a href = "https://www.gutenberg.org/">Project Gutenberg</a> and divided it into its respective sections and subsections. Then, using several annotations, most notably <a href = "https://www.amazon.com/Notes-Joyce-annotation-Joyces-Ulysses/dp/0525473149">Gifford and Seidman's <i>Notes for Joyce: an Annotation of James Joyce's Ulysses</i></a>, we tagged every reference in the sections we chose to work with (reference the Chapters section of this website to see which chapters those were). We designated allusions as literary allusions, or references to a writer's work or body of work. We designated persons as references to specific people, most usually historical or political figures. Finally, we designated references to catch what the other terms did not encapsulate, such as scientific discoveries or other non-literary allusions. While we marked references, persons, and allusions, we also marked the setting of the text with XML. This is merely the physical location where the characters are physically existing, not mentally existing or existing through a character's thoughts. We decided to mark locations that way to simplify the text, though it might be interesting to look at all locations - both physcial and referenced - with further work of this project. Locations and allusions were the most significant aspects of this project, and that's why we concentrated primarily on those while marking up the document. However, we also tagged dialogue and speakers because we thought it might be interesting to analyze the specific allusions associated with each character's dialogue; however, the time constraints of this project did not allow us to continue with this route of analyzation. As it stands, this project is mostly about how allusions are tied to locations. </p>
-    <h2>Analyzing Results</h2>   
-        <p>To analyze the results we gained from the research process, we used QGIS and Cytoscape to create maps and network graphs, and those can be viewed in the "Graphics" section of this website. We used XQuery to generate CSV and TSV files containing location-to-allusion information. In QGIS, we then used that information to plot physical locations on a map (when we tagged locations, we included the latitude and longitude coordinates - or an educated guess of what those coordinates might be - of each location. Through this exercise we could see where the allusions were concentrated. With Cytoscape, we created network graphs to display more clearly which specific allusions were tied to which locations, such as Christianity to the Coombe, for example.</p>
+        <h2>Research Question</h2>
+        <p>If you've ever encountered <i>Ulysses</i> before, you'll know that it's kind of a monster
+            of a book. It's long. It's hard to read. There's a lot going on with it. It would be
+            impossible to analyze everything that there is to analyze about this book during the
+            course of a semester, so we decided to focus on one aspect of <i>Ulysses</i>: how Joyce
+            recreates the city of Dublin through his novel. Not only that, but how he, despite his
+            hatred for the city, reclaimed it in a postcolonial sense. The city of Dublin is often
+            referred to as a "character" of Joyce's novels, but in <i>Ulysses</i>, while many
+            location names are provided, little actual, physical description of the city is given.
+            There are several theories about why this is, but the one we liked comes from this book
+            called <a href="https://www.amazon.com/Semicolonial-Joyce-Derek-Attridge/dp/0521666287"
+                >Semicolonial Joyce</a>, which says that Joyce uses many location names with little
+            description make those who aren't familiar with 1904 Dublin feel more like outsiders
+            while making those who are familiar with 1904 Dublin insiders. Allusions can be used as
+            a method of characterization. What, then, do the allusions used in a specific Dublin
+            location say about that location? What do they say about the city? How are they part of
+            Joyce's characterization and reclaimation of the city of Dublin?</p>
+        <h2>Research Process</h2>
+        <p>To try and answer this question, we set out to mark up several sections of Joyce's
+                <i>Ulysses</i> using XML. We downloaded the book of <i>Ulysses</i> from <a
+                href="https://www.gutenberg.org/">Project Gutenberg</a> and divided it into its
+            respective sections and subsections. Then, using several annotations, most notably <a
+                href="https://www.amazon.com/Notes-Joyce-annotation-Joyces-Ulysses/dp/0525473149"
+                >Gifford and Seidman's <i>Notes for Joyce: an Annotation of James Joyce's
+                    Ulysses</i></a>, we tagged every reference in the sections we chose to work with
+            (reference the Chapters section of this website to see which chapters those were). We
+            designated allusions as literary allusions, or references to a writer's work or body of
+            work. We designated persons as references to specific people, most usually historical or
+            political figures. Finally, we designated references to catch what the other terms did
+            not encapsulate, such as scientific discoveries or other non-literary allusions. While
+            we marked references, persons, and allusions, we also marked the setting of the text
+            with XML. This is merely the physical location where the characters are physically
+            existing, not mentally existing or existing through a character's thoughts. We decided
+            to mark locations that way to simplify the text, though it might be interesting to look
+            at all locations - both physcial and referenced - with further work of this project.
+            Locations and allusions were the most significant aspects of this project, and that's
+            why we concentrated primarily on those while marking up the document. However, we also
+            tagged dialogue and speakers because we thought it might be interesting to analyze the
+            specific allusions associated with each character's dialogue; however, the time
+            constraints of this project did not allow us to continue with this route of analyzation.
+            As it stands, this project is mostly about how allusions are tied to locations. </p>
+        <h2>Analyzing Results</h2>
+        <p>To analyze the results we gained from the research process, we used QGIS and Cytoscape to
+            create maps and network graphs, and those can be viewed in the "Graphics" section of
+            this website. We used XQuery to generate CSV and TSV files containing
+            location-to-allusion information. In QGIS, we then used that information to plot
+            physical locations on a map (when we tagged locations, we included the latitude and
+            longitude coordinates - or an educated guess of what those coordinates might be - of
+            each location. Through this exercise we could see where the allusions were concentrated.
+            With Cytoscape, we created network graphs to display more clearly which specific
+            allusions were tied to which locations, such as Christianity to the Coombe, for
+            example.</p>
         <h2>Limitations of the Project</h2>
-        <p>While some of these limitations were mentioned on the home page, they are worth reiterating.</p>
+        <p>While some of these limitations were mentioned on the home page, they are worth
+            reiterating.</p>
         <ol>
             <li>We analyzed only part of the book.</li>
             <li>Some allusions/references/persons may be incorrectly coded or not coded at all.</li>
-            <li>Some locations may be incorrectly referenced or their latitude/longitude coordinates may be off.</li>
+            <li>Some locations may be incorrectly referenced or their latitude/longitude coordinates
+                may be off.</li>
         </ol>
-       <p> Despite the limitations, we still think that our project provides an interesting insight into the way that Joyce recreated the city of Dublin.</p>
+        <p> Despite the limitations, we still think that our project provides an interesting insight
+            into the way that Joyce recreated the city of Dublin.</p>
         <p>If you so choose to examine our work,</p>
         <p>we'd recommend</p>
         <p>before you come to the end</p>

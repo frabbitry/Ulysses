@@ -6,40 +6,82 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
         <style>
-            .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5, .bgimg-6 {
-  position: relative;
-  opacity: 0.65;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
-}
-.bgimg-1 {
-  background-image: url("Ulysses-Title-Page-350x430.jpg");
-  min-height: 100%;
-}
-.bgimg-2 {
-    background-image: url("James_Joyce_by_Alex_Ehrenzweig,_1915_cropped.jpg");
-    min-height: 100%;
-}
-.bgimg-3 {
-    background-image: url("Marilyn Monroe Reads Joyce’s Ulysses at the Playground, 1955.jpg");
-    min-height: 100%;
-}
-.bgimg-4 {
-    background-image: url("Sandycove.png");
-    min-height: 100%;
-}
-.bgimg-5{
-    background-image: url("Github.PNG");
-    min-height: 100%;
-}
-.bgimg-6{
-    background-image: url("JoyceUlysses2.jpg");
-    min-height: 100%;
-}
-        </style>
+            .bgimg-1,
+            .bgimg-2,
+            .bgimg-3,
+            .bgimg-4,
+            .bgimg-5,
+            .bgimg-6 {
+                position: relative;
+                opacity: 0.65;
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            
+            }
+            .bgimg-1 {
+                background-image: url("Ulysses-Title-Page-350x430.jpg");
+                min-height: 100%;
+            }
+            .bgimg-2 {
+                background-image: url("James_Joyce_by_Alex_Ehrenzweig,_1915_cropped.jpg");
+                min-height: 100%;
+            }
+            .bgimg-3 {
+                background-image: url("Marilyn Monroe Reads Joyce’s Ulysses at the Playground, 1955.jpg");
+                min-height: 100%;
+            }
+            .bgimg-4 {
+                background-image: url("Sandycove.png");
+                min-height: 100%;
+            }
+            .bgimg-5 {
+                background-image: url("Github.PNG");
+                min-height: 100%;
+            }
+            .bgimg-6 {
+                background-image: url("JoyceUlysses2.jpg");
+                min-height: 100%;
+            }
+            .column {
+                float: left;
+                width: 33.33%;
+                padding: 10px;
+                height: 300px; /* Should be removed. Only for demonstration */
+            }
+            .column:hover {
+                background-color: gray;
+            }
+            
+            /* Clear floats after the columns */
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+            * {
+                box-sizing: border-box;
+            }
+            
+            
+            /* Style the header */
+            .header {
+                padding: 30px;
+                text-align: center;
+            }
+            /* Style the footer */
+            .footer {
+                padding: 10px;
+                text-align: center;
+            }
+            
+            /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+            @media (max-width : 600px) {
+                .column {
+                    width: 100%;
+                }
+            }</style>
     </head>
     <body>
         <div class="bgimg-1">
@@ -47,8 +89,7 @@
                 <span class="border">The Ulysses Project</span>
             </div>
         </div>
-        <div
-            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: right;">
+        <div style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: right;">
             <p>With the Ulysses Project, we are attempting to examine how James Joyce recreated the
                 city of Dublin in <i>Ulysses</i> using allusions.</p>
         </div>
@@ -132,33 +173,36 @@
         </div>
         <div
             style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
-            <h1>Project Team Github Accounts</h1>
-            <div class="body-container" id="horizontal">
-                <a href="https://github.com/frabbitry" style="text-decoration:none;">
-                    <div class="container" id="front">
-                        <div class="section">
-                            <p>Fiona Carter</p>
-                        </div>
-                    </div></a>
-                <a href="https://github.com/KSD32" style="text-decoration:none;">
-                    <div class="container" id="middle">
-                        <div class="section">
-                            <p>Kiara De Vore</p>
-                        </div>
-                    </div></a>
-                <a href="https://github.com/BMT45" style="text-decoration:none;">
-                    <div class="container" id="last">
-                        <div class="section">
-                            <p>Brad Thomas</p>
-                        </div>
-                    </div></a>
+            <div class="header">
+                <h1>Project Team</h1>
             </div>
+            <div class="row">
+                <a href="https://github.com/frabbitry" style="text-decoration:none;">
+                    <div class="column" style = "width:100%;">
+                        <p><strong>Fiona Carter</strong> is a junior double majoring in Mathematics and Information
+                            Technology and minoring in English Literature at the University of Pittsburgh at
+                            Greensburg. She likes hiking, reading, and music.</p>
+                    </div>
+                </a>
+                <a href="https://github.com/KSD32" style="text-decoration:none;">
+                    <div class="column" style = "width:100%;">
+                        <p><strong>Kiara De Vore</strong> is a sophomore majoring is history and minoring in Spanish,
+                            while working on a Digitial Humanities Certificate at University of Pittsburgh at
+                            Greensburg. She is also a member of the Pitt-Greensburg women's soccer team.</p>
+                    </div>
+                </a>
+                <a href="https://github.com/BMT45" style="text-decoration:none;">
+                    <div class="column" style = "width:100%;">
+                        <p><strong>Brad Thomas</strong> is a junior who majors in history and minors in Creative and Professional Writing at Pitt at Greensburg.</p>
+                    </div>
+                </a>
+            </div>
+
         </div>
-        <div
-            style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: justify;">
+        <div class="footer">
             <p>This is a Digital Humanities project done for the Digital Humanities: Coding and Data
                 Visualization class at the University of Pittsburgh at Greensburg.</p>
-            <p>Image sources:</p>
+            <h2>Image sources:</h2>
             <ul>
                 <li>https://en.wikipedia.org/wiki/James_Joyce</li>
                 <li>https://en.wikipedia.org/wiki/Ulysses_(novel)</li>

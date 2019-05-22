@@ -4,30 +4,63 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" type="text/css" href="ulyssesCSS.css" />
+        <style>
+            .bgimg-1,
+            .bgimg-2,
+            .bgimg-3,
+            .bgimg-4 {
+                position: relative;
+                opacity: 0.65;
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            
+            }
+            .bgimg-1 {
+                background-image: url("TelemachiadHeatmap.png");
+                min-height: 100%;
+            }
+            .bgimg-2 {
+                background-image: url("WanderingsHeatmap.png");
+                min-height: 100%;
+            }
+            .bgimg-3 {
+                background-image: url("HomecomingHeatmap.png");
+                min-height: 100%;
+            }
+            .bgimg-4{
+            background-image: url("UlyssesHeatmap.png");
+            min-height:100%;
+        </style>
     </head>
     <body>
-        <h1>The Ulysses Project</h1>
-        <!--#include virtual="menu.html" -->
-        <div class="body-container">
-            <h1>Graphs of Ulysses by Section</h1>
+        <div class="bgimg-4">
+            <div class="caption">
+                <span class="border">Graphs of Ulysses by Section</span>
+            </div>
+        </div>
+        <div class="bgimg-1">
             <a href="TheTelemachiad.html">
-                <div class="container" id="front">
-                    <div class="section">
-                        <p>The Telemachiad</p>
-                    </div>
+                <div class="caption">
+                    <span class="border">The Telemachiad</span>
                 </div></a>
+        </div>
+        <div class="bgimg-2">
             <a href="TheWanderingsOfUlysses.html">
-                <div class="container" id="middle">
-                    <div class="section">
-                        <p>The Wanderings of Ulysses</p>
-                    </div>
+                <div class="caption">
+                    <span class="border">The Wanderings of Ulysses</span>
                 </div></a>
+        </div>
+        <div class="bgimg-3">
             <a href="TheHomecoming.html">
-                <div class="container" id="last">
-                    <div class="section">
-                        <p>The Homecoming</p>
-                    </div>
+                <div class="caption">
+                    <span class="border">The Homecoming</span>
                 </div></a>
+        </div>
+        <div style="background-color:#4BA486;text-align:center;padding:50px 80px;text-align: right;">
+            <div class="topnav">
+                <!--#include virtual="menu.html" --></div>
         </div>
     </body>
 </html>
