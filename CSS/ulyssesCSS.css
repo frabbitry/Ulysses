@@ -234,35 +234,7 @@ body {
   }
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4, .bgimg-5 {
-  position: relative;
-  opacity: 0.65;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 
-}
-.bgimg-1 {
-  background-image: url("Ulysses-Title-Page-350x430.jpg");
-  min-height: 100%;
-}
-.bgimg-2 {
-    background-image: url("James_Joyce_by_Alex_Ehrenzweig,_1915_cropped.jpg");
-    min-height: 100%;
-}
-.bgimg-3 {
-    background-image: url("Marilyn Monroe Reads Joyce’s Ulysses at the Playground, 1955.jpg");
-    min-height: 100%;
-}
-.bgimg-4 {
-    background-image: url("Sandycove.png");
-    min-height: 100%;
-}
-.bgimg-5{
-    background-image: url("Github.PNG");
-    min-height: 100%;
-}
 
 .caption {
   position: absolute;
@@ -283,7 +255,4 @@ body {
 #horizontal{
     flex-direction:row;
 }
-.bgimg-6{
-    background-image: url("JoyceUlysses2.jpg");
-    min-height:100%;
-}
+
